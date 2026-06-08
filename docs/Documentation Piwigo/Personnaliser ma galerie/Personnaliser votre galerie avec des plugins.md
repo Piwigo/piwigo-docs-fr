@@ -128,7 +128,7 @@ Nous les avons repris intégralement ci-dessous.
     ```
     
     **Insérer un album ou une photo
-    [photo id=xx]**
+    \[photo id=xx\]**
     
     Cette balise permet d'insérer une photo de n'importe quelle taille.**Options:**
     • `id` le numéro de la photo
@@ -143,7 +143,7 @@ Nous les avons repris intégralement ci-dessous.
     [photo id=46 album=22 size=M html=true link=true]
     ```
     
-    **[random album=xx]**
+    **\[random album=xx\]**
     Il y a les mêmes options, sauf que la photo ou les photos sont prises aléatoirement dans toute la galerie ou dans `album`.
     Pour afficher plusieurs images utiliser l'option:
     • `nb_images` (optional) le nombre d'images à afficher
@@ -156,12 +156,12 @@ Nous les avons repris intégralement ci-dessous.
     [random album=123 size=M html=yes link=yes nb_images=8]
     ```
     
-    **[cat=xx]**
+    **\[cat=xx\]**
     
     Cette balise permet d'insérer un album dans la description, avec `xx` le numéro de l'album.
     
     **Insérez un carrousel
-    [slider album=xx]**
+    \[slider album=xx\]**
     Permet d'insérer un diaporama.**Options:** (vous devez renseigner `album` OU `list`)
     • `album` (facultatif) album source
     • `nb_images` (facultatif) nombre maximal de photos dans le diaporama
@@ -206,20 +206,20 @@ Nous les avons repris intégralement ci-dessous.
     
     **Rediriger un élément**
     
-    **[redirect http://piwigo.org]**
+    **\[redirect http://piwigo.org\]**
     Insérez cette balise dans la description d'un album afin de le rediriger vers l'URL de votre choix.
     
-    **[redirect img=xx]**
+    **\[redirect img=xx\]**
     Redirige vers une photo de votre galerie où `xx` est l'identifiant de celle-ci; vous pouvez également préciser l'identifiant de l'album après le numéro de la photo : `xx.ccc`.
     
-    **[redirect cat=xx]**
+    **\[redirect cat=xx\]**
     Redirige vers un album de votre galerie où `xx` est l'identifiant de celui-ci.
     
-    **[redirect search=xx]**
+    **\[redirect search=xx\]**
     Redirige vers une page de recherche de votre galerie où `xx` est l'identifiant de la page de recherche.
     
     **Lien de connexion & block authentifié
-    [login-link]**
+    \[login-link\]**
     Ce tag permet d'ajouter n'importe où un lien de connexion avec redirection automatique vers la page courante.**Options:**
     • `html` (facultatif) si `false`, la balise ne retourne que l'URL du lien, sans HTML
     • `text` (facultatif) texte du lien, peut contenir des tags `[lang]`
@@ -230,7 +230,7 @@ Nous les avons repris intégralement ci-dessous.
     [login-link html=true text="log in[lang=fr]connectez-vous[/lang]"]
     ```
     
-    **[logged]**
+    **\[logged\]**
     Affiche un block de texte selon si l'utilisateur est connecté ou pas.
     
     ```html

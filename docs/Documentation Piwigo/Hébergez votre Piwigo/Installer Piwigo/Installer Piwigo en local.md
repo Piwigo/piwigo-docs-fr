@@ -67,6 +67,6 @@ Avec linux il faut compiler php avec l'option `—enable-EXIF`
 
 Voici quelques liens pour vous aider en cas de problème.
 
-- [[Forum] Piwigo et easyphp](https://fr.piwigo.org/forum/viewtopic.php?pid=182719)
-- [[Forum] Réinstaller ma galerie en local sous Windows EasyPHP](https://fr.piwigo.org/forum/viewtopic.php?id=30486)
-- [[Vidéo] Installer Piwigo en local sur Unbutu (EN)](https://www.youtube.com/watch?v=EGC6BBlQ_FQ)
+- [\[Forum\] Piwigo et easyphp](https://fr.piwigo.org/forum/viewtopic.php?pid=182719)
+- [\[Forum\] Réinstaller ma galerie en local sous Windows EasyPHP](https://fr.piwigo.org/forum/viewtopic.php?id=30486)
+- [\[Vidéo\] Installer Piwigo en local sur Unbutu (EN)](https://www.youtube.com/watch?v=EGC6BBlQ_FQ)

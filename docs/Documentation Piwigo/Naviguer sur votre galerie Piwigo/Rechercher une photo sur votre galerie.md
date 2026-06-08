@@ -7,7 +7,7 @@ On fait le tour dans cet article !
 <aside>
 🆕 La recherche a été complètement refondue depuis la version 14 de Piwigo. Si vous souhaitez accédez à l’ancienne documentation de la recherche, lisez cet article :
 
-[[Archive] Ancienne version de la recherche Piwigo](Rechercher%20une%20photo%20sur%20votre%20galerie/%5BArchive%5D%20Ancienne%20version%20de%20la%20recherche%20Piwigo%20decdfdc0cf68475bbb76bac0ba54e891.md)
+[\[Archive\] Ancienne version de la recherche Piwigo](Rechercher%20une%20photo%20sur%20votre%20galerie/%5BArchive%5D%20Ancienne%20version%20de%20la%20recherche%20Piwigo%20decdfdc0cf68475bbb76bac0ba54e891.md)
 
 </aside>
 

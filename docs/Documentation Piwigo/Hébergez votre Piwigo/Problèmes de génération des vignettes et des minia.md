@@ -45,7 +45,7 @@ Voici les messages d'erreur que vous pouvez trouver :
 
 Pas de message d'erreur ?
 
-1. Avec le plugin Localfiles Editor, ajoutez cette ligne “$conf['enable_i_log'] = true;” à la configuration locale. Ensuite essayez de générer des images via le Gestionnaire par Lot. Une fois ceci fait, allez chercher par Ftp le fichier _data/tmp/i.log et ouvrez le afin de vérifier la présence éventuelle d'erreurs.
+1. Avec le plugin Localfiles Editor, ajoutez cette ligne `$conf['enable_i_log']` = true;” à la configuration locale. Ensuite essayez de générer des images via le Gestionnaire par Lot. Une fois ceci fait, allez chercher par Ftp le fichier _data/tmp/i.log et ouvrez le afin de vérifier la présence éventuelle d'erreurs.
 2. Vous pouvez aussi lire les instructions ci-dessus pour “500 Internal error page” et utiliser **Imagemagick**.
 
 ### Installer Imagemagick

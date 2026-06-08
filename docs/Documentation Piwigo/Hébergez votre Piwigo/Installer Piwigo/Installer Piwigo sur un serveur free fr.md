@@ -24,5 +24,5 @@ Ainsi, l’installation de Piwigo sur un hébergement “free.fr” est une proc
 Toutefois, si vraiment vous insistez pour héberger Piwigo chez Free, voici quelques ressources qui pourraient vous aider.
 
 - [Tuto d’installation de Piwigo sur hébergement free.fr](https://fr.piwigo.org/doc/doku.php?id=utiliser:apprendre:install:installation:free.fr)
-- [[Forum] installation version 14.1.0 chez free](https://fr.piwigo.org/forum/viewtopic.php?id=30365) (janvier 2024)
+- [\[Forum\] installation version 14.1.0 chez free](https://fr.piwigo.org/forum/viewtopic.php?id=30365) (janvier 2024)
 - [Existe t-il un hebergeur gratuit autre que Free ?](https://fr.piwigo.org/forum/viewtopic.php?id=30429) (mars 2024)

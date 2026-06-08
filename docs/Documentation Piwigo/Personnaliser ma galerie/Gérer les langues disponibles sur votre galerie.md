@@ -79,7 +79,7 @@ Il est possible de spécifier la langue par défaut en utilisant la balise defau
 
 La description (ou le nom) par défaut sera utilisée si la description dans la langue de l'utilisateur n'est pas définie.
 
-Si [lang=default] n'existe pas, tout ce qui est situé en dehors des balises de langues sera considéré comme description par défaut.
+Si \[lang=default\] n'existe pas, tout ce qui est situé en dehors des balises de langues sera considéré comme description par défaut.
 
 ```html
 [lang=default]Default description[/lang]
@@ -93,7 +93,7 @@ Default description
 
 La balise all permet de définir un texte qui sera toujours affiché, quelle que soit la langue de l’utilisateur.
 
-Tout ce qui est situé entre les balises [lang=all] et [/lang] sera inclus, quelle que soit la langue de l'utilisateur.
+Tout ce qui est situé entre les balises \[lang=all\] et \[/lang\] sera inclus, quelle que soit la langue de l'utilisateur.
 
 Ceci est particulièrement pratique pour inclure du code HTML ou Javascript dans une description.
 

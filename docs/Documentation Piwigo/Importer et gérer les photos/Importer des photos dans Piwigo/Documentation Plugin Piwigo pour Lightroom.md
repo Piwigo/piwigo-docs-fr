@@ -56,7 +56,7 @@ C'est utile lors de la sauvegarde de Lightroom. Pensez-y !
 1. Fermez Lightroom
 2. Téléchargez le fichier zip sur votre ordinateur.
 3. Décompressez le contenu dans le dossier de votre choix (voir le paragraphe plus haut).
-4. Dans Lightroom, rendez-vous dans [ Fichier » Gestionnaire de modules externes ] *(raccourcis CTRL + ALT + MAJ + ,)*
+4. Dans Lightroom, rendez-vous dans \[ Fichier » Gestionnaire de modules externes \] *(raccourcis CTRL + ALT + MAJ + ,)*
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-f3440844.png)
 
