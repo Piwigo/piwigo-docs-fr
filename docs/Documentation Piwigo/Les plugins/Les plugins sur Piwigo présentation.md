@@ -162,5 +162,5 @@ Retrouvez dans les articles ci-dessous quelques sélections de plugins pour rép
 - [Personnaliser la gestion des commentaires avec des plugins](../Les commentaires et notes/Personnaliser la gestion des commentaires avec des.md)
 - [Les plugins pour les administrateurs](../Administrer Piwigo/Plugins pour les administrateurs.md)
 - [Créer des collections avec le plugin User Collections](../Naviguer sur votre galerie Piwigo/Créer des collections (plugin User Collections).md)
-- [Créer des albums intelligents avec le plugin SmartAlbums](../Organiser les albums/SmartAlbums )albums intelligents).md)
+- [Créer des albums intelligents avec le plugin SmartAlbums](../Organiser les albums/SmartAlbums (albums intelligents).md)
 - [Gérer les contributeurs avec le plugin Community](../Les utilisateurs/Gérer les contributeurs (plugin Community).md)
