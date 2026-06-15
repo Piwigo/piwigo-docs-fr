@@ -1,3 +1,8 @@
+---
+title: Sommaire
+---
+
+
 # Les utilisateurs
 
 Pour tout comprendre sur la gestion des utilisateurs et leurs autorisations dans Piwigo, lisez cette série d’articles.

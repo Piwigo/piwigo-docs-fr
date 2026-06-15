@@ -1,3 +1,8 @@
+---
+title: Sommaire
+---
+
+
 # Administrer Piwigo
 
 Si vous êtes gestionnaire de votre Piwigo, vous avez besoin d’accéder à des fonctionnalités avancées. On vous les présente dans ces articles.

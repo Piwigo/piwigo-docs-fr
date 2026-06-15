@@ -1,3 +1,8 @@
+---
+title: Sommaire
+---
+
+
 # Personnaliser ma galerie
 
 Il existe de nombreuses options pour personnaliser votre galerie Piwigo ! 

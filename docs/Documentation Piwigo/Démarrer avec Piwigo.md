@@ -1,3 +1,8 @@
+---
+title: Sommaire
+---
+
+
 # Démarrer avec Piwigo
 
 Vous découvrez Piwigo et souhaitez comprendre très rapidement de quoi il s’agit, comment ça marche et si c’est fait pour vous ? Lisez cet article :

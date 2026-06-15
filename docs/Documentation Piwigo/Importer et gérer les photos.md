@@ -1,3 +1,8 @@
+---
+title: Sommaire
+---
+
+
 # Importer et gérer les photos
 
 Pour tout comprendre sur l’import et la gestion des photos dans l’administration de Piwigo, c’est ici !

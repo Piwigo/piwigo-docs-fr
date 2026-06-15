@@ -1,3 +1,8 @@
+---
+title: Sommaire
+---
+
+
 # Les applications mobiles
 
 Piwigo propose deux applications mobiles pour iOS et Android.

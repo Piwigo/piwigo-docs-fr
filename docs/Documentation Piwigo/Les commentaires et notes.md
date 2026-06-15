@@ -1,3 +1,8 @@
+---
+title: Sommaire
+---
+
+
 # Les commentaires et notes
 
 Découvrez dans les articles de cette section comment fonctionnent les commentaires et les notes sur les photos dans Piwigo.

@@ -1,3 +1,8 @@
+---
+title: Sommaire
+---
+
+
 # Hébergez votre Piwigo
 
 Pour rappel, vous pouvez utiliser Piwigo de deux façons :

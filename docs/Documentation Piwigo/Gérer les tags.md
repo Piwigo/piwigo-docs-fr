@@ -1,3 +1,8 @@
+---
+title: Sommaire
+---
+
+
 # Gérer les tags
 
 Découvrez ici le fonctionnement des tags dans Piwigo, comment les utiliser et les gérer dans l’administration.

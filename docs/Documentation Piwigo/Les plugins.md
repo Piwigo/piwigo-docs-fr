@@ -1,3 +1,8 @@
+---
+title: Sommaire
+---
+
+
 # Les plugins
 
 À quoi servent les plugins sur Piwigo ? Comment les choisir et les installer sur votre galerie ? Lisez cet article pour le savoir.
