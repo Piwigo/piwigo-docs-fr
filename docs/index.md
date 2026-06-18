@@ -15,43 +15,43 @@ Ici, vous pouvez trouver des réponses à la plupart des questions que vous vous
 
 Nous avons récapitulé sur une page les questions les plus fréquentes à propos de l’utilisation de Piwigo.
 
-[FAQ - Les questions les plus fréquentes sur Piwigo](Documentation Piwigo/FAQ - Les questions les plus fréquentes sur Piwigo.md)
+[FAQ - Les questions les plus fréquentes sur Piwigo](/faq-questions-frequentes-piwigo)
 
 Lisez l’article ci-dessous pour savoir comment naviguer dans ce site et trouver les réponses à vos questions !
 
-[Comment naviguer dans cette documentation ?](Documentation Piwigo/Comment naviguer dans cette documentation.md)
+[Comment naviguer dans cette documentation ?](/comment-naviguer-dans-cette-documentation)
 
 ## Naviguer dans la documentation
 
-[**Démarrer avec Piwigo**](Documentation Piwigo/Démarrer avec Piwigo.md)
+[**Démarrer avec Piwigo**](/demarrer-avec-piwigo)
 
-[Importer et gérer les photos](Documentation Piwigo/Importer et gérer les photos.md)
+[Importer et gérer les photos](/importer-et-gerer-les-photos)
 
-[Naviguer sur votre galerie Piwigo](Documentation Piwigo/Naviguer sur votre galerie Piwigo.md)
+[Naviguer sur votre galerie Piwigo](/naviguer-sur-votre-galerie-piwigo)
 
-[Organiser les albums](Documentation Piwigo/Organiser les albums.md)
+[Organiser les albums](/organiser-les-albums)
 
-[Gérer les tags](Documentation Piwigo/Gérer les tags.md)
+[Gérer les tags](/gerer-les-tags)
 
-[Les commentaires et notes](Documentation Piwigo/Les commentaires et notes.md)
+[Les commentaires et notes](/les-commentaires-et-notes)
 
-[Les utilisateurs](Documentation Piwigo/Les utilisateurs.md)
+[Les utilisateurs](/les-utilisateurs)
 
-[Les thèmes](Documentation Piwigo/Les thèmes.md)
+[Les thèmes](/les-themes)
 
-[Personnaliser ma galerie](Documentation Piwigo/Personnaliser ma galerie.md)
+[Personnaliser ma galerie](/personnaliser-ma-galerie)
 
-[Administrer Piwigo](Documentation Piwigo/Administrer Piwigo.md)
+[Administrer Piwigo](/administrer-piwigo)
 
-[Les plugins](Documentation Piwigo/Les plugins.md)
+[Les plugins](/les-plugins)
 
-[Les applications mobiles](Documentation Piwigo/Les applications mobiles.md)
+[Les applications mobiles](/les-applications-mobiles)
 
-[Hébergez votre Piwigo](Documentation Piwigo/Hébergez votre Piwigo.md)
+[Hébergez votre Piwigo](/hebergez-votre-piwigo)
 
 L’historique des modifications apportées à cette doc est listé sur la page ci-dessous :
 
-[Historique des modifications](Documentation Piwigo/Historique des modifications.md)
+[Historique des modifications](/historique-modifications)
 
 Si vous cherchez la documentation Piwigo pour les développeurs, rendez vous sur la [page GitHub de Piwigo](https://github.com/Piwigo/Piwigo/wiki).
 

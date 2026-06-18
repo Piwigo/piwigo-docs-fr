@@ -45,7 +45,8 @@ Copyright &copy; 2026 Piwigo
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-  {"Démarrer avec Piwigo" = [
+    {"Accueil"= "index.md"},
+    {"Démarrer avec Piwigo" = [
 		"demarrer-avec-piwigo.md",
 		"demarrer-avec-piwigo/introduction-tout-comprendre-sur-piwigo-en-2-minutes.md",
 		"demarrer-avec-piwigo/demarrer-avec-piwigo-en-15-minutes.md"
@@ -140,7 +141,7 @@ nav = [
 		"hebergez-votre-piwigo/problemes-generation-vignettes-miniatures.md",
 		"hebergez-votre-piwigo/deplacez-piwigo-vers-un-autre-serveur.md"
 	]},
-	{"Une remarque sur cette doc ?" = "https://framaforms.org/vos-retours-sur-la-documentation-piwigo-1689089222"}
+	{"Une remarque sur cette doc ?" = "https://fr.piwigo.org/forum/viewforum.php?id=14"}
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
