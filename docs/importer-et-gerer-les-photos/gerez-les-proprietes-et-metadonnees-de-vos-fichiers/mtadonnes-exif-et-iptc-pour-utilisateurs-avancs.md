@@ -1,11 +1,8 @@
 # Métadonnées EXIF et IPTC pour utilisateurs avancés
 
-<aside>
-💡
+!!! info
+    Lisez d’abord le chapitre suivant pour tout comprendre aux métadonnées EXIF et IPTC : [**Gérer les métadonnées dans Piwigo**](/importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers)
 
-Lisez d’abord le chapitre suivant pour tout comprendre aux métadonnées EXIF et IPTC : [**Gérer les métadonnées dans Piwigo**](/importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers)
-
-</aside>
 
 Vous souhaitez personnaliser l’affichage des métadonnées EXIF et IPTC dans Piwigo ?
 

@@ -104,10 +104,9 @@ Par défaut, les tags sont tous au même niveau, contrairement aux albums: ils n
 
 Toutefois, il est possible de créer une arborescence de tags à un niveau grâce au plugin **Tag Groups**.
 
-<aside>
-⚠️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
+!!! Warning "Attention"
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
 
-</aside>
 
 ?
 

@@ -20,19 +20,17 @@ Les personnes concernées recevront un email contenant un lien vers l’album, a
 
 ![fr-notif-album.email.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-63560b26.png)
 
-<aside>
-ℹ️ Attention : avant d’envoyer une notification, pensez à vérifier que les utilisateurs ont bien accès à cet album dans l’onglet Permissions.
+!!! info
+    Attention : avant d’envoyer une notification, pensez à vérifier que les utilisateurs ont bien accès à cet album dans l’onglet Permissions.
 
-</aside>
 
 ## Notifications globales
 
 Vous pouvez également mettre en place des emails pour informer les utilisateurs de toutes les nouveautés sur la galerie depuis leur dernière connexion.
 
-<aside>
-ℹ️ Attention : seuls les utilisateurs ayant le statut “Webmestre” peuvent accéder à cette fonctionnalité.
+!!! info
+    Attention : seuls les utilisateurs ayant le statut “Webmestre” peuvent accéder à cette fonctionnalité.
 
-</aside>
 
 Pour cela, rendez-vous dans Utilisateurs > Notification.
 
@@ -84,10 +82,9 @@ Une fois ce plugin activé, tous les emails de notifications envoyés par Piwigo
 
 En conséquence, les emails de notification seront correctement distribués.
 
-<aside>
-ℹ️ Depuis février 2024, Protect Notif est activé par défaut sur tous les nouveaux comptes créés sur piwigo.com.
+!!! info
+    Depuis février 2024, Protect Notif est activé par défaut sur tous les nouveaux comptes créés sur piwigo.com.
 
-</aside>
 
 Sommaire de l’article
 

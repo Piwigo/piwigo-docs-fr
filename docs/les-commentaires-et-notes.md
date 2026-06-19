@@ -11,4 +11,4 @@ Découvrez dans les articles de cette section comment fonctionnent les commentai
 
 [Personnaliser la gestion des commentaires avec des plugins](/les-commentaires-et-notes/gerer-les-notes-votes)
 
-[Gérer les notes (votes)](Les commentaires et notes/Gérer les notes (votes).md)
+[Gérer les notes (votes)](/les-commentaires-et-notes/gerer-les-notes-votes)

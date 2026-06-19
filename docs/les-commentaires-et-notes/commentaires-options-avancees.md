@@ -66,10 +66,9 @@ Vous pouvez choisir de trier les commentaires par photo ou par date, et utiliser
 
 ![fr-commentaires-galerie2.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-238257e9.png)
 
-<aside>
-💡 Remarque : Depuis cette page, les administrateurs ont la possibilité de valider, éditer et supprimer les commentaires.
+!!! info
+    Remarque : Depuis cette page, les administrateurs ont la possibilité de valider, éditer et supprimer les commentaires.
 
-</aside>
 
 ## Gérer, modifier, supprimer les commentaires
 
@@ -111,10 +110,9 @@ Lorsqu’un administrateur visualise les commentaires d’une photo sur la galer
 
 ![fr-editer-supprimer-commentaires.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-90547659.png)
 
-<aside>
-ℹ️ Si vous avez coché les options qui autorisent les utilisateurs à supprimer / modifier leurs propres commentaires, ils auront accès également à ces actions sur leurs commentaires (sauf les visiteurs anonymes, non enregistrés).
+!!! info
+    Si vous avez coché les options qui autorisent les utilisateurs à supprimer / modifier leurs propres commentaires, ils auront accès également à ces actions sur leurs commentaires (sauf les visiteurs anonymes, non enregistrés).
 
-</aside>
 
 Ces actions sont bien entendu disponibles également depuis la page des commentaires sur la galerie.
 

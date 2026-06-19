@@ -8,10 +8,8 @@ Ces paramètres sont stockés dans un fichier de configuration : `config_default
 
 Ce fichier ne doit **JAMAIS** être modifié : en revanche, vous pouvez le *surcharger en utilisant le plugin* **LocalFiles Editor**.
 
-<aside>
-💡 On vous déconseille très fortement de modifier les fichiers de Piwigo directement via FTP. Utiliser le plugin **LocalFiles Editor** a de nombreux avantages comme vous allez le voir.
-
-</aside>
+!!! info
+    On vous déconseille très fortement de modifier les fichiers de Piwigo directement via FTP. Utiliser le plugin **LocalFiles Editor** a de nombreux avantages comme vous allez le voir.
 
 ## Activer le plugin LocalFiles Editor
 
@@ -52,19 +50,17 @@ Reprenons l’exemple précédent : imaginons que vous souhaitez activer la gest
 
 Vous n’avez qu’à copier la section correspondant au paramètre `'enable_formats'` et à la coller dans l’onglet Configuration Locale de LocalFiles Editor. Vous pouvez maintenant remplacer la valeur `false` par `true` comme dans l'exemple ci-dessous.
 
-<aside>
-⚠️ Attention ! Le fichier doit toujours commencer par `<?php` et finir par `?>`
+!!! Warning "Attention"
+    Attention ! Le fichier doit toujours commencer par `<?php` et finir par `?>`
 
-</aside>
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-eda5b202.png)
 
 Enregistrez le fichier : le paramètre est mis à jour et la gestion des formats multiples est activée.
 
-<aside>
-💡 On vous conseille de copier également l’explication en commentaires au dessus de la ligne contenant le paramètre de configuration. Ainsi, vous vous souviendrez plus facilement du rôle de chaque paramètre.
+!!! info
+On vous conseille de copier également l’explication en commentaires au dessus de la ligne contenant le paramètre de configuration. Ainsi, vous vous souviendrez plus facilement du rôle de chaque paramètre.
 
-</aside>
 
 ## Traduction en français du fichier "config_default.inc.php"
 

@@ -122,10 +122,8 @@ Vous pourrez ainsi visualiser tous les téléchargements d’une même photo sur
 
 Pour visualiser l’historique détaillé de toutes les actions des utilisateurs dans l’administration de Piwigo, vous avez juste à vous rendre dans l’onglet Activité de la page Utilisateurs.
 
-<aside>
-ℹ️ Si vous êtes client d’une offre piwigo.com, cette fonctionnalité n’est accessible qu’à partir de l’offre Équipe.
-
-</aside>
+!!! info
+    Si vous êtes client d’une offre piwigo.com, cette fonctionnalité n’est accessible qu’à partir de l’offre Équipe.
 
 Cette page affiche toutes les activités réalisées par des utilisateurs dans votre Piwigo :
 
@@ -178,10 +176,8 @@ Une fois ce plugin activé, il vous permet de connecter Piwigo à votre outil st
 
 Vous pouvez choisir l’emplacement du code (header ou footer); vous pouvez également choisir d’exclure les administrateurs ou les utilisateurs non connectés des statistiques.
 
-<aside>
-⚠️ Pour être conforme à la règlementation, nous vous conseillons de suivre les recommandations de la CNIL en matière de suivi des données et de collecte du consentement des utilisateurs. [Voir les recommandations de la CNIL](https://www.cnil.fr/fr/cookies-et-autres-traceurs/regles/cookies-solutions-pour-les-outils-de-mesure-daudience)
-
-</aside>
+!!! Warning "Attention"
+    Pour être conforme à la règlementation, nous vous conseillons de suivre les recommandations de la CNIL en matière de suivi des données et de collecte du consentement des utilisateurs. [Voir les recommandations de la CNIL](https://www.cnil.fr/fr/cookies-et-autres-traceurs/regles/cookies-solutions-pour-les-outils-de-mesure-daudience)
 
 ## **No Stats for Robots :** Exclure les robots des statistiques
 

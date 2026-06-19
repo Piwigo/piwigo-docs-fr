@@ -12,10 +12,9 @@ Si vous utilisez le thème Bootstrap Darkroom, le bouton de connexion ouvre une 
 
 ![fr-piwigo-connexion-boostrap.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-ea1e7b96.png)
 
-<aside>
-⚠️ Il est possible, selon le thème et la personnalisation de votre galerie, que l’écran de connexion soit différent de ce qui est affiché dans les images précédentes.
+!!! Warning "Attention"
+    Il est possible, selon le thème et la personnalisation de votre galerie, que l’écran de connexion soit différent de ce qui est affiché dans les images précédentes.
 
-</aside>
 
 L'URL de votre page de connexion Piwigo est `mygallery.com`/identification.php, `mygallery.com` représentant l'URL racine de votre galerie. 
 
@@ -96,10 +95,9 @@ Pour savoir comment créer un utilisateur dans l’administration, [lisez cet ar
 
 Si l’option  “Permettre l'enregistrement des utilisateurs” a été activée, alors n’importe quel visiteur de la galerie pourra créer son compte.
 
-<aside>
-ℹ️ Pour en savoir plus sur la possibilité pour les utilisateurs de créer leur propre compte sur Piwigo, [lisez cet article](/les-utilisateurs/creer-et-gerer-les-utilisateurs).
+!!! info
+    Pour en savoir plus sur la possibilité pour les utilisateurs de créer leur propre compte sur Piwigo, [lisez cet article](/les-utilisateurs/creer-et-gerer-les-utilisateurs).
 
-</aside>
 
 Pour créer un nouveau compte sur une galerie Piwigo, vous devez cliquer sur Connexion.
 
@@ -107,15 +105,13 @@ Un bouton “S’enregistrer” permet de créer un nouveau compte.
 
 Pour créer un nouveau compte, il faut donner un identifiant, un email et un mot de passe.
 
-<aside>
-ℹ️ Si vous souhaitez ajouter des champs personnalisés au formulaire de création de compte, vous devez activer le plugin User Custom Fields. [En savoir plus](/les-utilisateurs/creer-et-gerer-les-utilisateurs)
+!!! info
+    Si vous souhaitez ajouter des champs personnalisés au formulaire de création de compte, vous devez activer le plugin User Custom Fields. [En savoir plus](/les-utilisateurs/creer-et-gerer-les-utilisateurs)
 
-</aside>
 
-<aside>
-ℹ️ Si vous souhaitez éviter la création de faux utilisateurs par des robots, vous pouvez contrôler la création de compte grâce à la saisie d’un Captcha. Pour cela, il faut activer le plugin **Crypto Captcha**. [En savoir plus](/les-utilisateurs/creer-et-gerer-les-utilisateurs)
+!!! info
+    Si vous souhaitez éviter la création de faux utilisateurs par des robots, vous pouvez contrôler la création de compte grâce à la saisie d’un Captcha. Pour cela, il faut activer le plugin **Crypto Captcha**. [En savoir plus](/les-utilisateurs/creer-et-gerer-les-utilisateurs)
 
-</aside>
 
 Les comptes utilisateurs créés par via la galerie en autonomie ne sont pas administrateurs mais seulement Visiteurs. Pour en savoir plus sur les statuts utilisateurs, [lisez cet article](/les-utilisateurs/les-statuts-utilisateurs).
 
@@ -142,19 +138,17 @@ C’est possible de deux façons : avec le plugin **LDAP Login** et avec le plug
 
 Ce plugin permet de connecter Piwigo à un annuaire LDAP.
 
-<aside>
-⚠️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’aux clients d’une offre VIP.
+!!! Warning "Attention"
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’aux clients d’une offre VIP.
 
-</aside>
 
 ### Microsoft 365 connect : connecter Piwigo à un Azure Active Directory
 
 Ce plugin permet de connecter Piwigo à un Active Directory Azure.
 
-<aside>
-⚠️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’aux clients d’une offre VIP.
+!!! Warning "Attention"
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’aux clients d’une offre VIP.
 
-</aside>
 
 Les utilisateurs peuvent ainsi utiliser leur compte Microsoft 365 pour se connecter à Piwigo.
 
@@ -165,10 +159,9 @@ Les utilisateurs peuvent ainsi utiliser leur compte Microsoft 365 pour se connec
 
 Le plugin **Password Policy** permet de mettre en place des règles de sécurité sur les mots de passe : score de complexité, politique de renouvellement, gestion des tentatives de connexion échouées…
 
-<aside>
-⚠️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’aux clients d’une offre VIP.
+!!! Warning "Attention"
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’aux clients d’une offre VIP.
 
-</aside>
 
 Une fois le plugin Password Policy activé sur votre Piwigo, rendez vous dans sa configuration.
 
@@ -185,10 +178,8 @@ Un score inférieur à 100 est considéré comme faible. Un score compris entre 
 
 - Tester un mot de passe et obtenir son score.
     
-    <aside>
-    ℹ️ Par exemple, le mot de passe `piwigo12` obtient un score faible (48) alors que le mot de passe `Xhj89^h5M%` obtient un score moyen (286).
-    
-    </aside>
+!!! info
+    Par exemple, le mot de passe `piwigo12` obtient un score faible (48) alors que le mot de passe `Xhj89^h5M%` obtient un score moyen (286).
     
 - Définir si la règle de renforcement des mots de passe est activée pour les administrateurs ou non
 - Activer la règle de renouvellement des mots de passe (dans ce cas, l’administrateur pourra obliger des utilisateurs à renouveler leur mot de passe).

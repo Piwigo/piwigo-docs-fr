@@ -14,12 +14,9 @@ Le premier onglet liste les utilisateurs créés sur votre Piwigo et permet d’
 - Modifier plusieurs utilisateurs en masse
 - Modifier l’utilisateur invité (anonyme)
 
-<aside>
-💡
+!!! info
+    Depuis la version 15 de Piwigo, vous pouvez trier la liste des utilisateurs par nom ou par date de création en cliquant sur l’intitulé de la colonne. 
 
-Depuis la version 15 de Piwigo, vous pouvez trier la liste des utilisateurs par nom ou par date de création en cliquant sur l’intitulé de la colonne. 
-
-</aside>
 
 ## Comment créer un nouvel utilisateur dans l’administration?
 
@@ -76,12 +73,8 @@ Cliquez sur l’icône en forme de crayon pour le modifier ; le nom d’utilisat
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-b9a92ea4.png)
 
-<aside>
-⚠️
-
-Attention : Le nom d’utilisateur est également un identifiant qui permet aux utilisateurs de se connecter à Piwigo.  Ne le modifiez pas sans prévenir les utilisateurs.
-
-</aside>
+!!! Warning "Attention"
+    Le nom d’utilisateur est également un identifiant qui permet aux utilisateurs de se connecter à Piwigo.  Ne le modifiez pas sans prévenir les utilisateurs.
 
 **Mot de passe**
 
@@ -114,10 +107,9 @@ Pour modifier les albums auquel l’utilisateur a accès, il suffit de les dépl
 
 ![fr-permissions-utilisateurs-2.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-9d65449e.png)
 
-<aside>
-ℹ️ Si l’utilisateur est membre d’un groupe, les permissions individuelles supplantent celle du groupe. [En savoir plus sur les groupes d’utilisateurs](/les-utilisateurs/les-groupes-dutilisateurs)
+!!! info
+    Si l’utilisateur est membre d’un groupe, les permissions individuelles supplantent celle du groupe. [En savoir plus sur les groupes d’utilisateurs](/les-utilisateurs/les-groupes-dutilisateurs)
 
-</aside>
 
 ### Supprimer un utilisateur
 
@@ -195,10 +187,9 @@ Depuis l’écran de modification d’un utilisateur dans l’administration, l�
 
 Chaque utilisateur peut également les modifier lui-même lorsqu’il est connecté à la galerie, en cliquant sur le menu “Personnaliser”.
 
-<aside>
-ℹ️ La modification des préférences par les utilisateurs via la galerie peut être désactivée dans les Options de Piwigo (en décochant l’option “Permettre la personnalisation de l'affichage”). Dans ce cas, le menu “Personnaliser” ne sert qu’à modifier son adresse mail et / ou son mot de passe.
+!!! info
+    La modification des préférences par les utilisateurs via la galerie peut être désactivée dans les Options de Piwigo (en décochant l’option “Permettre la personnalisation de l'affichage”). Dans ce cas, le menu “Personnaliser” ne sert qu’à modifier son adresse mail et / ou son mot de passe.
 
-</aside>
 
 Vous pouvez enfin modifier en masse les préférences d’une liste d’utilisateurs en utilisant le mode Sélection (voir chapitre [Modifier des utilisateurs en masse](/les-utilisateurs/creer-et-gerer-les-utilisateurs)).
 
@@ -242,10 +233,9 @@ Si vous cochez cette option, le menu affichera l’arborescence complète.
 
 Cette option permet d’afficher le nombre de commentaires de chaque photo sous la miniature dans les pages de listes sur la galerie web.
 
-<aside>
-ℹ️  Cette option est compatible avec certains thèmes (Elegant, Boostrap Darkroom) mais pas avec le thème Modus.
+!!! info
+     Cette option est compatible avec certains thèmes (Elegant, Boostrap Darkroom) mais pas avec le thème Modus.
 
-</aside>
 
 ![fr-commentaires-galerie.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-11e06380.png)
 
@@ -253,10 +243,9 @@ Cette option permet d’afficher le nombre de commentaires de chaque photo sous 
 
 Cette option permet d’afficher le nombre de visites de chaque photo sous la miniature dans les pages de listes sur la galerie web.
 
-<aside>
-ℹ️ Cette option est compatible avec certains thèmes (Elegant, Boostrap Darkroom) mais pas avec le thème Modus.
+!!! info
+    Cette option est compatible avec certains thèmes (Elegant, Boostrap Darkroom) mais pas avec le thème Modus.
 
-</aside>
 
 ![fr-nombre-visites-galerie.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-6a52c837.png)
 
@@ -280,10 +269,9 @@ Pour visualiser l’historique détaillé de toutes les actions d’un utilisate
 
 [En savoir plus sur l’historique des activités](/administrer-piwigo/consultez-les-statistiques-de-votre-piwigo)
 
-<aside>
-ℹ️ Si vous êtes client d’une offre piwigo.com, cette fonctionnalité n’est accessible qu’à partir de l’offre Équipe.
+!!! info
+    Si vous êtes client d’une offre piwigo.com, cette fonctionnalité n’est accessible qu’à partir de l’offre Équipe.
 
-</aside>
 
 ![fr-activités.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-22d1787b.png)
 
@@ -379,19 +367,17 @@ Ce plugin permet de créer des utilisateurs en masse à partir d’une liste d�
 
 Vous pouvez ensuite modifier ces utilisateurs en masse grâce au mode sélection (voir chapitre : [Modifier des utilisateurs en masse](/les-utilisateurs/creer-et-gerer-les-utilisateurs))**.**
 
-<aside>
-ℹ️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
+!!! info
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
 
-</aside>
 
 ## Add User Note : Ajouter un commentaire à un utilisateur
 
 Pour ajouter une note ou un commentaire à un utilisateur, vous pouvez activer le plugin **Add User Note**.
 
-<aside>
-ℹ️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
+!!! info
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
-</aside>
 
 Ce plugin ajoute un onglet “Remarque” dans la fenêtre d’édition d’un utilisateur.
 
@@ -407,10 +393,9 @@ En passant la souris sur cette icône, vous pourrez lire la note.
 
 Il est possible de créer des champs personnalisés associés aux utilisateurs.
 
-<aside>
-💡 Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
+!!! info
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
-</aside>
 
 Pour cela, vous devez activer le plugin User Custom Fields. 
 

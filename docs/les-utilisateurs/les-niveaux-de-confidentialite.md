@@ -10,10 +10,9 @@ Ainsi, lorsqu’un utilisateur est connecté à votre galerie, il visualise uniq
 
 Mais dans certains cas, vous pouvez avoir besoin de gérer un niveau de droits plus fins, fichier par fichier, au-delà des albums. C’est à cela que servent les “niveaux de confidentialité”.
 
-<aside>
-⚠️ Attention ! Il s’agit d’une fonctionnalité avancée de Piwigo, que l’on vous déconseille d’utiliser si vous êtes débutant.
+!!! Warning "Attention"
+    Attention ! Il s’agit d’une fonctionnalité avancée de Piwigo, que l’on vous déconseille d’utiliser si vous êtes débutant.
 
-</aside>
 
 ## Les niveaux de confidentialité : comment ça marche ?
 
@@ -47,10 +46,9 @@ Et les utilisateurs avec le statut “Aucun” n’auront accès qu’aux fichie
 
 C’est une gestion de droits “en cascade”, un peu complexe à appréhender et relativement “figée”, c’est pourquoi on a tendance à la déconseiller aux utilisateurs débutants.
 
-<aside>
-ℹ️ Si les libellés Admin, Famille, Amis et Contacts ne vous conviennent pas, sachez qu’il est possible de les personnaliser en contactant le support si vous avez un compte sur piwigo.com. En revanche, il n’est pas possible d’ajouter un niveau de confidentialité supplémentaire.
+!!! info
+    Si les libellés Admin, Famille, Amis et Contacts ne vous conviennent pas, sachez qu’il est possible de les personnaliser en contactant le support si vous avez un compte sur piwigo.com. En revanche, il n’est pas possible d’ajouter un niveau de confidentialité supplémentaire.
 
-</aside>
 
 Sommaire de l’article
 

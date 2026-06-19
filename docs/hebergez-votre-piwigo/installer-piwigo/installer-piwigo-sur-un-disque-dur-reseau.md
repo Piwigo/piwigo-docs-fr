@@ -1,11 +1,7 @@
 # Installer Piwigo sur un disque dur réseau
 
-<aside>
-⚠️
-
-Cette doc a été proposé sur le forum communautaire en 2010. Si elle n’est plus à jour, merci de nous en faire part.
-
-</aside>
+!!! Warning "Attention"
+    Cette doc a été proposé sur le forum communautaire en 2010. Si elle n’est plus à jour, merci de nous en faire part.
 
 Ci-dessous une recette pour expliquer comment utiliser un disque dur en réseau avec Piwigo.
 

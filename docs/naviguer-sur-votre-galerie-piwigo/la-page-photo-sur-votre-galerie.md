@@ -6,10 +6,9 @@ Cette page permet de visualiser une photo, ses informations et d’effectuer un 
 
 Dans cet article nous verrons comment la page Photo est structurée, quelles fonctionnalités sont disponibles, quelles sont les options de personnalisation possible, en standard ou avec des plugins.
 
-<aside>
-⚠️ Remarque : la plupart des captures d’écran présentées dans cet article montrent une galerie utilisant le thème Modus. Suivant le thème de votre galerie, la présentation des informations et les icônes utilisées ne sont pas forcément les mêmes.
+!!! Warning "Attention"
+    Remarque : la plupart des captures d’écran présentées dans cet article montrent une galerie utilisant le thème Modus. Suivant le thème de votre galerie, la présentation des informations et les icônes utilisées ne sont pas forcément les mêmes.
 
-</aside>
 
 ## Structure de la page Photo
 
@@ -169,10 +168,9 @@ En face du format que vous souhaitez modifier, cliquez sur "édition". Vous pouv
 
 Si vous cochez "Retailler", votre fichier sera automatiquement "découpé" par Piwigo pour correspondre aux tailles choisies.
 
-<aside>
-⚠️ Attention : en faisant ce choix, vous risquez de perdre une partie de votre fichier.
+!!! Warning "Attention"
+    Attention : en faisant ce choix, vous risquez de perdre une partie de votre fichier.
 
-</aside>
 
 Une fois que vous avez terminé la personnalisation des tailles de fichier, n'oubliez pas de cliquer sur "Enregistrer les paramètres" pour sauvegarder votre configuration.
 
@@ -287,10 +285,9 @@ Pour un affichage optimal, voici les options que nous vous conseillons d’utili
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-4197d8ca.png)
 
-<aside>
-ℹ️ Si vous utilisez le thème Bootstrap Darkroom, vous n’avez pas besoin d’utiliser ce plugin, puisque le thème intègre déjà des boutons de partage sur les réseaux sociaux.
+!!! info
+    Si vous utilisez le thème Bootstrap Darkroom, vous n’avez pas besoin d’utiliser ce plugin, puisque le thème intègre déjà des boutons de partage sur les réseaux sociaux.
 
-</aside>
 
 ### Back2Front : Gérer des images recto-verso
 
@@ -320,10 +317,9 @@ Si vous souhaitez empêcher les visiteurs d’effectuer un clic droit sur une ph
 
 Une fois ce plugin activé, le clic droit sera inopérant sur la page Photo, mais également sur d’autres pages, sauf pour les administrateurs.
 
-<aside>
-⚠️ Attention : ce plugin ne garantit pas une sécurité totale de vos images. Seul le fait de mettre vos albums en mode privé protège vos photos.
+!!! Warning "Attention"
+    Attention : ce plugin ne garantit pas une sécurité totale de vos images. Seul le fait de mettre vos albums en mode privé protège vos photos.
 
-</aside>
 
 ### Hide title : Masquer le nom de la photo dans le fil d’Ariane
 
@@ -361,10 +357,9 @@ La page de configuration du plugin permet de paramétrer certaines options, comm
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-1c49eb35.png)
 
-<aside>
-ℹ️ Attention ! L’activation du plugin ne génère pas les palettes sur chaque image de votre photothèque. La palette d’une photo est générée lorsqu’elle est affichée pour la première fois après l’activation du plugin. Au début, la recherche par couleur donnera donc peu de résultats puisque les palettes de vos photos n’auront pas encore été générées.
+!!! info
+    Attention ! L’activation du plugin ne génère pas les palettes sur chaque image de votre photothèque. La palette d’une photo est générée lorsqu’elle est affichée pour la première fois après l’activation du plugin. Au début, la recherche par couleur donnera donc peu de résultats puisque les palettes de vos photos n’auront pas encore été générées.
 
-</aside>
 
 Sommaire de l’article
 

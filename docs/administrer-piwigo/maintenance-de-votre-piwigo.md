@@ -20,14 +20,10 @@ L’action la plus utilisée dans le cadre d’une utilisation “normale” de 
 
 Les autres actions servent principalement à supprimer des données inutilisées ou à rafraîchir les informations affichées sur Piwigo.
 
-<aside>
-💡 **Pourquoi ces actions peuvent-elles être nécessaires ?**
+!!! info "**Pourquoi ces actions peuvent-elles être nécessaires ?**"
+    Pour optimiser le temps de génération des pages, Piwigo utilise des informations en cache. Par exemple, au lieu de compter le nombre de photos contenus dans chaque album à chaque rechargement de page, cette information est stockée dans la base de données. En théorie, cette information est toujours correcte, mais parfois une erreur peut survenir et l'information en cache devient fausse. Dans ce cas, supprimer et regénérer le cache peut être utile.
 
-Pour optimiser le temps de génération des pages, Piwigo utilise des informations en cache. Par exemple, au lieu de compter le nombre de photos contenus dans chaque album à chaque rechargement de page, cette information est stockée dans la base de données. En théorie, cette information est toujours correcte, mais parfois une erreur peut survenir et l'information en cache devient fausse. Dans ce cas, supprimer et regénérer le cache peut être utile.
-
-De plus, certaines informations deviennent inutiles avec le temps. Les supprimer de la base de données libère de l'espace disque.
-
-</aside>
+    De plus, certaines informations deviennent inutiles avec le temps. Les supprimer de la base de données libère de l'espace disque.
 
 ### Actions sur la galerie
 
@@ -81,19 +77,15 @@ Cette action permet de supprimer tous les tags qui ne sont associés à aucune p
 
 Cette action supprime tout l’historique des visites. L'écran de recherche dans l’historique (accessible depuis le menu Outils > Historique > Recherche) ne montrera plus aucune donnée. 
 
-<aside>
-⚠️ Attention : toutes les données seront perdues, sans aucun possibilité de récupération. En revanche, les courbes disponibles depuis l’onglet Statistiques seront toujours affichées, sauf si vous supprimez aussi le récapitulatif de l’historique (paragraphe suivant).
-
-</aside>
+!!! Warning "Attention"
+    Toutes les données seront perdues, sans aucun possibilité de récupération. En revanche, les courbes disponibles depuis l’onglet Statistiques seront toujours affichées, sauf si vous supprimez aussi le récapitulatif de l’historique (paragraphe suivant).
 
 - **Purger le récapitulatif de l'historique :**
 
 Cette action supprime les courbes statistiques accessibles depuis le menu Outils > Historique > Statistiques. 
 
-<aside>
-⚠️ Si vous ne supprimez pas aussi le détail de l’historique (paragraphe précédent), les courbes seront recalculées à partir des informations présentes dans l’historique détaillé.
-
-</aside>
+!!! Warning "Attention"
+    Si vous ne supprimez pas aussi le détail de l’historique (paragraphe précédent), les courbes seront recalculées à partir des informations présentes dans l’historique détaillé.
 
 - **Purger les sessions**
 
@@ -174,7 +166,7 @@ Si vous souhaitez remettre à zéro les vues et les notes des photos, vous pouve
 - Hits : ce sont les vues des photos. Elles sont affichées sur la galerie si vous avez activé cette option. C’est ce qui est utilisé pour trier les photos par nombre de vues.
 - Rates : ce sont les notes des photos. Elles sont affichées si vous avez activé l’option “Permettre les notations” dans la page Configurations > Options.
 
-[En savoir plus sur les notes](../Les commentaires et notes/Gérer les notes (votes).md)
+[En savoir plus sur les notes](/les-commentaires-et-notes/gerer-les-notes-votes)
 
 Une fois le plugin Delete Hit/Rate activé, deux nouvelles actions de purge sont disponibles dans l’écran de Maintenance :
 

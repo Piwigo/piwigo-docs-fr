@@ -104,10 +104,9 @@ Vous pouvez rechercher un plugin par mot-clé ou filtrer les plugins (par date, 
 
 Dans cette liste, on retrouve certains plugins qui ne sont pas disponibles sur piwigo.com. Ce sont des plugins créés par la communauté, que l’équipe qui développe Piwigo n’a pas nécessairement testés ou validés : nous ne garantissons donc pas leur bon fonctionnement, ni leur compatibilité ! 
 
-<aside>
-ℹ️ Les plugins que nous présentons dans la présente documentation sont les plugins disponibles sur piwigo.com, que notre équipe a testés et validés. Mais cela ne veut pas dire que les autres plugins disponibles ne sont pas intéressants, bien sûr.
+!!! info
+    Les plugins que nous présentons dans la présente documentation sont les plugins disponibles sur piwigo.com, que notre équipe a testés et validés. Mais cela ne veut pas dire que les autres plugins disponibles ne sont pas intéressants, bien sûr.
 
-</aside>
 
 Pour installer un nouveau plugin, cliquez sur Ajouter.
 
@@ -161,6 +160,6 @@ Retrouvez dans les articles ci-dessous quelques sélections de plugins pour rép
 - [Personnaliser la gestion des tags avec des plugins](/naviguer-sur-votre-galerie-piwigo/les-tags-sur-votre-galerie)
 - [Personnaliser la gestion des commentaires avec des plugins](/les-commentaires-et-notes/gerer-les-notes-votes)
 - [Les plugins pour les administrateurs](/administrer-piwigo/plugins-pour-les-administrateurs)
-- [Créer des collections avec le plugin User Collections](../Naviguer sur votre galerie Piwigo/Créer des collections (plugin User Collections).md)
-- [Créer des albums intelligents avec le plugin SmartAlbums](../Organiser les albums/SmartAlbums (albums intelligents).md)
-- [Gérer les contributeurs avec le plugin Community](../Les utilisateurs/Gérer les contributeurs (plugin Community).md)
+- [Créer des collections avec le plugin User Collections](/docs/naviguer-sur-votre-galerie-piwigo/creer-des-collections-plugin-user-collections)
+- [Créer des albums intelligents avec le plugin SmartAlbums](..//organiser-les-albums/smartalbums-albums-intelligents)
+- [Gérer les contributeurs avec le plugin Community](/les-utilisateurs/gerer-les-contributeurs-plugin-community)

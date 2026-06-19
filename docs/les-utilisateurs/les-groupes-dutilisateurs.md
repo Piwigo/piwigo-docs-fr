@@ -111,4 +111,4 @@ Sommaire de l’article
 
 Suivant →
 
-[Gérer les contributeurs (plugin Community)](Gérer les contributeurs (plugin Community).md)
+[Gérer les contributeurs (plugin Community)](/les-utilisateurs/gerer-les-contributeurs-plugin-community)

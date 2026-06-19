@@ -42,7 +42,7 @@ C’est ici que vous pouvez également modifier l’ordre d’affichage des phot
 
 ![fr-config-permissions.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-4f39b61c.png)
 
-C’est ici que vous pouvez choisir si vous activez ou non les notes sur votre galerie (option “Permettre les notations”). [En savoir plus sur les notes](../Les commentaires et notes/Gérer les notes (votes).md)
+C’est ici que vous pouvez choisir si vous activez ou non les notes sur votre galerie (option “Permettre les notations”). [En savoir plus sur les notes](/les-commentaires-et-notes/gerer-les-notes-votes)
 
 C’est également ici que vous allez choisir si vous acceptez ou non que les utilisateurs puissent créer un compte en autonomie (option “Permettre l’enregistrement des utilisateurs”). [En savoir plus sur les utilisateurs](/les-utilisateurs/creer-et-gerer-les-utilisateurs)
 

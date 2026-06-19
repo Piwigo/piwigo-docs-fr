@@ -72,10 +72,9 @@ Avec le thème par défaut Modus, ce formulaire est accessible en cliquant sur E
 
 Avec le thème Boostrap Darkroom, ce formulaire est accessible en cliquant sur Découvrir > Recherche.
 
-<aside>
-ℹ️ Selon le paramétrage de votre galerie, il peut être accessible via un autre moyen.
+!!! info
+    Selon le paramétrage de votre galerie, il peut être accessible via un autre moyen.
 
-</aside>
 
 ![fr-piwigo-recherche-avancee.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-0c5c4d16.png)
 
@@ -86,10 +85,9 @@ Avec ce formulaire, vous pouvez saisir un mot dans la première barre de recherc
 - filtrer par date de création ou date d’ajout
 - …
 
-<aside>
-ℹ️ Attention : les opérateurs de recherche avancés ne fonctionnent pas sur ce formulaire.
+!!! info
+    Attention : les opérateurs de recherche avancés ne fonctionnent pas sur ce formulaire.
 
-</aside>
 
 ## Effectuer une recherche à l’aide des tags
 

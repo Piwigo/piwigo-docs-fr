@@ -1,11 +1,7 @@
 # Introduction : tout comprendre sur Piwigo en 2 minutes
 
-<aside>
-💡 À lire aussi :
-
-[Démarrer avec Piwigo en 15 minutes](/demarrer-avec-piwigo/demarrer-avec-piwigo-en-15-minutes)
-
-</aside>
+!!! info
+    À lire aussi : [Démarrer avec Piwigo en 15 minutes](/demarrer-avec-piwigo/demarrer-avec-piwigo-en-15-minutes)
 
 ## Qu'est-ce que Piwigo ?
 

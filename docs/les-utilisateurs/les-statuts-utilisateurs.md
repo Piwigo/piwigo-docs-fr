@@ -21,16 +21,15 @@ En revanche, il n’a pas accès au paramétrage du thème de la galerie, ni à 
 
 Dans la plupart des organisations, les administrateurs sont les gestionnaires de la photothèque : documentaliste, responsable communication, iconographe…
 
-<aside>
-ℹ️ Un administrateur a accès à tous les albums et toutes les photos dans l’administation. En revanche, une fois connecté sur la galerie web, les permissions s’appliquent : il ne voit que les albums publics ou les albums privé auxquels il a accès.
+!!! info
+    Un administrateur a accès à tous les albums et toutes les photos dans l’administation. En revanche, une fois connecté sur la galerie web, les permissions s’appliquent : il ne voit que les albums publics ou les albums privé auxquels il a accès.
 
-</aside>
 
 ## 2- **Visiteur**
 
 Un visiteur peut se connecter à votre galerie Piwigo, mais pas à l’administration. Par défaut, quand vous créez un utilisateur, ou quand un utilisateur s’enregistre lui-même, il a le statut de visiteur.
 
-Un visiteur peut visualiser et télécharger les fichiers de votre photothèque auxquels il a droit, mais il ne peut pas ajouter de photo à Piwigo (sauf avec le plugin [Community](Gérer les contributeurs (plugin Community).md)).
+Un visiteur peut visualiser et télécharger les fichiers de votre photothèque auxquels il a droit, mais il ne peut pas ajouter de photo à Piwigo (sauf avec le plugin [Community](/les-utilisateurs/gerer-les-contributeurs-plugin-community)).
 
 Au sein d’une organisation, dans la majorité des cas, la plupart des utilisateurs sont des visiteurs : ce sont les personnes qui se connectent à la photothèque pour rechercher et télécharger les fichiers dont elles ont besoin.
 
@@ -52,10 +51,9 @@ Les utilisateurs ayant ce statut ne peuvent pas se connecter à Piwigo.
 
 Ce statut est utile pour désactiver le compte d’un utilisateur sans supprimer son historique.
 
-<aside>
-⚠️ Attention ! À ne pas confondre avec le “compte invité” ou “guest”, qui est le nom générique donné au profil des visiteurs anonyme (non connectés à la galerie) : voir ci-dessous
+!!! Warning "Attention"
+    Attention ! À ne pas confondre avec le “compte invité” ou “guest”, qui est le nom générique donné au profil des visiteurs anonyme (non connectés à la galerie) : voir ci-dessous
 
-</aside>
 
 ## Cas particulier : l’utilisateur “Guest”
 
@@ -71,7 +69,7 @@ Dans nos [offres tarifaires](https://fr.piwigo.com/tarifs), nous mentionnons le 
 
 Ce statut n’est pas un type d’utilisateur à proprement parler : il qualifie les utilisateurs non administrateurs autorisés à importer des fichiers dans Piwigo lorsque le plugin Community est activé. 
 
-Pour en savoir plus, lisez cet article : [Gérer les contributeurs (plugin Community)](Gérer les contributeurs (plugin Community).md) 
+Pour en savoir plus, lisez cet article : [Gérer les contributeurs (plugin Community)](/les-utilisateurs/gerer-les-contributeurs-plugin-community) 
 
 Sommaire de l’article
 

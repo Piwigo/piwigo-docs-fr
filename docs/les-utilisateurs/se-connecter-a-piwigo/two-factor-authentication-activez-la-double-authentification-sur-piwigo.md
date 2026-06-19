@@ -73,21 +73,13 @@ Piwigo affiche alors le message ci-dessous.
 
 Copiez les codes de récupération et stockez les dans un fichier, une note, un email, ou tout lieu sécurisé dont vous êtes certain de vous souvenir.
 
-<aside>
-⚠️
-
-Attention : comme indiqué sur votre profil, une fois la double authentification activée, les applications tierces qui se connectent à votre compte Piwigo (applications mobiles Piwigo, plugin Lightroom, Piwigo Remote Sync) ne pourront plus se connecter à votre compte utilisateur. [Lisez le dernier chapitre de cette page pour y remédier.](/les-utilisateurs/se-connecter-a-piwigo/two-factor-authentication-activez-la-double-authentification-sur-piwigo)
-
-</aside>
+!!! Warning "Attention"
+    Comme indiqué sur votre profil, une fois la double authentification activée, les applications tierces qui se connectent à votre compte Piwigo (applications mobiles Piwigo, plugin Lightroom, Piwigo Remote Sync) ne pourront plus se connecter à votre compte utilisateur. [Lisez le dernier chapitre de cette page pour y remédier.](/les-utilisateurs/se-connecter-a-piwigo/two-factor-authentication-activez-la-double-authentification-sur-piwigo)
 
 ## Utiliser la double authentification par email
 
-<aside>
-⚠️
-
-Attention : cette méthode n’est pas la plus sûre. Les emails peuvent tomber dans les SPAMS, ou bien ne pas être envoyé si votre serveur est mal configuré. Si vous activez cette méthode, assurez-vous que les emails envoyés par votre Piwigo arrivent bien à destination.
-
-</aside>
+!!! Warning "Attention"
+    Cette méthode n’est pas la plus sûre. Les emails peuvent tomber dans les SPAMS, ou bien ne pas être envoyé si votre serveur est mal configuré. Si vous activez cette méthode, assurez-vous que les emails envoyés par votre Piwigo arrivent bien à destination.
 
 Une fois la double authentification par email activée dans la configuration du plugin, rendez-vous sur votre profil et cochez “Configuration par email”. Vérifiez que l’adresse e-mail associée à votre compte est la bonne, saisissez-là dans la zone “Confirmez votre email” et cliquez sur “Envoyez l’email” : 
 
@@ -97,12 +89,8 @@ Consultez votre boîte mail, et une fois reçu, saisissez le code dans la zone d
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-9e94e80d.png)
 
-<aside>
-⚠️
-
-Attention : comme indiqué sur votre profil, une fois la double authentification activée, les applications tierces qui se connectent à votre compte Piwigo (applications mobiles Piwigo, plugin Lightroom, Piwigo Remote Sync) ne pourront plus se connecter à votre compte utilisateur. [Lisez le dernier chapitre de cette page pour y remédier.](/les-utilisateurs/se-connecter-a-piwigo/two-factor-authentication-activez-la-double-authentification-sur-piwigo)
-
-</aside>
+!!! Warning "Attention"
+    Comme indiqué sur votre profil, une fois la double authentification activée, les applications tierces qui se connectent à votre compte Piwigo (applications mobiles Piwigo, plugin Lightroom, Piwigo Remote Sync) ne pourront plus se connecter à votre compte utilisateur. [Lisez le dernier chapitre de cette page pour y remédier.](/les-utilisateurs/se-connecter-a-piwigo/two-factor-authentication-activez-la-double-authentification-sur-piwigo)
 
 ## Connexion aux applications tierces lorsque la 2FA est activée
 
@@ -136,9 +124,5 @@ Cliquez sur “Générer la clé” : Piwigo affiche alors un code “identifian
 
 À la place du nom d'utilisateur, fournissez l'ID (identifiant) de la clef d'API, commençant par "pkid-...", et à la place du mot de passe, fournissez le “secret” de la clef d'API : vous êtes connecté et reconnu comme l'utilisateur associé à la clef d'API.
 
-<aside>
-⚠️
-
-La clef API ayant une durée de vie limitée, il faudra veiller à la renouveler régulièrement. Piwigo vous enverra un email lorsqu'une de vos clef d'API expirera.
-
-</aside>
+!!! Warning "Attention"
+    La clef API ayant une durée de vie limitée, il faudra veiller à la renouveler régulièrement. Piwigo vous enverra un email lorsqu'une de vos clef d'API expirera.

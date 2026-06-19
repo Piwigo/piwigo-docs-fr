@@ -135,21 +135,19 @@ Menu “Albums” avec le thème Modus AVEC RV Menu Tree
 
 Le plugin **See My Photos** permet d’ajouter un point de menu “Mes photos” sur la galerie, disponible au sein du bloc “Spéciales”.
 
-<aside>
-⚠️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
+!!! Warning "Attention"
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
-</aside>
 
-Ce lien permet à un utilisateur de voir toutes les photos qu’il a lui même importées dans Piwigo. C’est particulièrement utile lorsque vous utilisez le plugin [Community](../Les utilisateurs/Gérer les contributeurs (plugin Community).md).
+Ce lien permet à un utilisateur de voir toutes les photos qu’il a lui même importées dans Piwigo. C’est particulièrement utile lorsque vous utilisez le plugin [Community](/les-utilisateurs/gerer-les-contributeurs-plugin-community).
 
 ### See photos by user : Ajout d’un menu “Utilisateurs”
 
 Le plugin **See photos by user** permet aux visiteurs de la galerie de filtrer facilement les photos en fonction de l’utilisateur qui les a ajoutées.
 
-<aside>
-⚠️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
+!!! Warning "Attention"
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
-</aside>
 
 Vous pouvez affiner les paramètres de ce plugin depuis sa page de configuration dans l’administration :
 
@@ -168,10 +166,9 @@ Ci-dessous, on peut voir un exemple de page “Utilisateurs” avec les options 
 
 ![fr-see-photo-by-user.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-6d809fcc.png)
 
-<aside>
-⚠️ Ce plugin n’est que partiellement compatible avec le thème bootstrap Darkroom.
+!!! Warning "Attention"
+    Ce plugin n’est que partiellement compatible avec le thème bootstrap Darkroom.
 
-</aside>
 
 ### Menu Random Photo : ajout d’une photo aléatoire
 
@@ -195,12 +192,11 @@ Mais sur la page d’accueil, à la place du menu “Tag liés”, on affichera 
 
 ### **Upload 1 Menu : ajout d’un menu “Ajoutez des photos”**
 
-<aside>
-⚠️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
+!!! Warning "Attention"
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
-</aside>
 
-Lorsque le plugin [Community](../Les utilisateurs/Gérer les contributeurs (plugin Community).md) est activé, le plugin **Upload 1 Menu** permet d’afficher le menu “Ajouter des photos” au niveau du menu principal de la galerie, à côté du menu “Explorer”.
+Lorsque le plugin [Community](/les-utilisateurs/gerer-les-contributeurs-plugin-community) est activé, le plugin **Upload 1 Menu** permet d’afficher le menu “Ajouter des photos” au niveau du menu principal de la galerie, à côté du menu “Explorer”.
 
 ![fr-community-uploadmenu1.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-29ba55aa.png)
 

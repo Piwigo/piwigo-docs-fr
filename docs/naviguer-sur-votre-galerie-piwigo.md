@@ -19,7 +19,7 @@ Pour tout comprendre sur votre galerie Piwigo, son fonctionnement, et découvrir
 
 [Gérer ses favoris](/naviguer-sur-votre-galerie-piwigo/gerer-ses-favoris)
 
-[Créer des collections (plugin User Collections)](Naviguer sur votre galerie Piwigo/Créer des collections (plugin User Collections).md)
+[Créer des collections (plugin User Collections)](docs/naviguer-sur-votre-galerie-piwigo/creer-des-collections-plugin-user-collections)
 
 Pour comprendre comment personnaliser l’affichage et le design de votre galerie, lisez également les séries d’articles ci-dessous :
 

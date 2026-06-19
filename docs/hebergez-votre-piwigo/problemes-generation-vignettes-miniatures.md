@@ -1,9 +1,7 @@
 # Problèmes de génération des vignettes et des miniatures
 
-<aside>
-ℹ️ Lire aussi : [Importer des photos dans Piwigo](/importer-et-gerer-les-photos/importer-des-photos-dans-piwigo)
-
-</aside>
+!!! info
+    Lire aussi : [Importer des photos dans Piwigo](/importer-et-gerer-les-photos/importer-des-photos-dans-piwigo)
 
 Lorsque vous téléchargez des fichiers sur Piwigo, tout un processus se met en route. Les fichiers sont téléchargés sur le serveur mais aussi enregistrés dans la base de données, et d'autres fichiers sont générés à la volée :
 
@@ -14,10 +12,9 @@ La génération des tailles multiples et des miniatures peut échouer si quelque
 
 Si vous gérez vous-même votre serveur, vous allez devoir investiguer pour résoudre ce problème : c'est ce que nous allons expliquer dans cet article.
 
-<aside>
-⚠️ Cet article s'adresse uniquement aux webmasters d'une bibliothèque Piwigo auto-hébergée. Si vous êtes client de piwigo.com, vous n'êtes pas concerné : l'environnement d'hébergement sur piwigo.com est optimisé.
+!!! Warning "Attention"
+    Cet article s'adresse uniquement aux webmasters d'une bibliothèque Piwigo auto-hébergée. Si vous êtes client de piwigo.com, vous n'êtes pas concerné : l'environnement d'hébergement sur piwigo.com est optimisé.
 
-</aside>
 
 ## 1- Problèmes de génération de vignettes de photos
 
@@ -27,10 +24,8 @@ Pour vous en assurer, rendez-vous dans l’administration, menu “Gestion par l
 
 ### Vérifier si une erreur est renvoyée par l'url i.php
 
-<aside>
-ℹ️ Piwigo a un système de génération automatique des miniatures et autres images retaillées. Piwigo appelle le fichier i.php pour générer les images retaillées dans ./_data/i/, puis une fois que l'image retaillée a été générée dans ce cache, Piwigo appelle directement l'image retaillée depuis ./_data/i/ . Ainsi plusieurs problèmes peuvent apparaître : surcharge serveur, image trop grosse/lourde ou avec une mauvaise extension de fichier, pas assez de permission sur les fichiers/dossiers…
-
-</aside>
+!!! info
+    Piwigo a un système de génération automatique des miniatures et autres images retaillées. Piwigo appelle le fichier i.php pour générer les images retaillées dans `./_data/i/`, puis une fois que l'image retaillée a été générée dans ce cache, Piwigo appelle directement l'image retaillée depuis `./_data/i/`. Ainsi plusieurs problèmes peuvent apparaître : surcharge serveur, image trop grosse/lourde ou avec une mauvaise extension de fichier, pas assez de permission sur les fichiers/dossiers…
 
 Dans la Gestion par lots, faites un clic droit sur une image qui a échoué puis « Afficher l'image » ou « copier l'url de l'image », à partir de votre navigateur. Vous pouvez également essayer d'afficher le code source de la page (Ctrl+U en général) et rechercher (Ctrl+F) une url avec « i.php ». Allez ensuite à cette url avec votre navigateur et notez tout message d'erreur affiché.
 
@@ -72,10 +67,8 @@ Pour vérifier quelle bibliothèque graphique est utilisée dans votre environne
 
 ![ext-image-magick.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-7b656060.png)
 
-<aside>
-⚠️ Attention ! Il est possible que votre serveur n’utilise pas ImageMagick mais Imagick, une fonctionnalité PHP qui “encapsule” ImageMagick, mais qui ne permet pas de générer les prévisualisations pour certains formats de fichiers. Assurez vous bien d’utiliser **External Image Magick.**
-
-</aside>
+!!! Warning "Attention"
+    Attention ! Il est possible que votre serveur n’utilise pas ImageMagick mais Imagick, une fonctionnalité PHP qui “encapsule” ImageMagick, mais qui ne permet pas de générer les prévisualisations pour certains formats de fichiers. Assurez vous bien d’utiliser **External Image Magick.**
 
 ## 2- Problèmes de génération de miniatures vidéo
 
@@ -98,10 +91,8 @@ $conf['ffmpeg_dir'] = '../../apps/ffmeg/';
 
 Si vous avez besoin de plus de support technique sur ce sujet, consultez la [documentation VideoJS sur GitHub](https://github.com/Piwigo/piwigo-videojs/wiki/How-to-add-videos#step-2-install) : vous y trouverez des instructions détaillées sur l'installation de **ffmpeg**.
 
-<aside>
-⚠️ Si **ffmpeg** n'est pas disponible sur votre hébergement web, vous ne pouvez pas importer correctement des vidéos sur votre Piwigo. Nous vous recommandons de changer d'hébergeur.
-
-</aside>
+!!! Warning "Attention"
+    Si **ffmpeg** n'est pas disponible sur votre hébergement web, vous ne pouvez pas importer correctement des vidéos sur votre Piwigo. Nous vous recommandons de changer d'hébergeur.
 
 ## 3- Problèmes de génération de vignettes PDF, PSD, HEIC et autres formats
 

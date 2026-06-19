@@ -1,11 +1,11 @@
 # Démarrer avec Piwigo en 15 minutes
 
-<aside>
-💡 À lire aussi :
 
-[Introduction : tout comprendre sur Piwigo en 2 minutes](/demarrer-avec-piwigo/introduction-tout-comprendre-sur-piwigo-en-2-minutes)
+!!! note "💡 À lire aussi :"
 
-</aside>
+    [Introduction : tout comprendre sur Piwigo en 2 minutes](/demarrer-avec-piwigo/introduction-tout-comprendre-sur-piwigo-en-2-minutes)
+
+
 
 ## Tutoriel Vidéo
 

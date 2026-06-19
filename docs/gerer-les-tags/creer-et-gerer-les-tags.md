@@ -29,10 +29,8 @@ Vous pouvez également créer un tag directement à chaque fois que vous avez la
 
 Si vous avez besoin d’importer dans votre Piwigo une liste de tags existants ou de créer rapidement plusieurs tags, il suffit d’activer le plugin “Add tags mass”.
 
-<aside>
-ℹ️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
-
-</aside>
+!!! info 
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
 Une fois ce plugin activé, rendez vous dans la configuration du plugin pour ajouter des tags en masse.
 
@@ -40,10 +38,8 @@ Une fois ce plugin activé, rendez vous dans la configuration du plugin pour ajo
 
 Il suffit d’ajouter des tags les uns à la suite des autres, ligne par ligne, dans le formulaire et de cliquer sur Valider pour les enregistrer.
 
-<aside>
-💡 Vous pouvez copier coller une liste de tags dans ce formulaire depuis un tableur (Excel par exemple).
-
-</aside>
+!!! info
+    Vous pouvez copier coller une liste de tags dans ce formulaire depuis un tableur (Excel par exemple).
 
 ### Importer les tags depuis vos mots-clés IPTC
 
@@ -53,12 +49,10 @@ Ces mots-clés font partie des métadonnées IPTC de vos photos, et peuvent êtr
 
 C’est le cas par défaut : si vous souhaitez modifier cette configuration, vous devez contacter le support si vous êtes client d’une offre piwigo.com.
 
-<aside>
-ℹ️ Attention ! Piwigo ne prend pas en charge l’import des tags que vous pouvez associer à une photo depuis le Finder de Mac OS.
+!!! Warning "Attention" 
+    Piwigo ne prend pas en charge l’import des tags que vous pouvez associer à une photo depuis le Finder de Mac OS.
 
-![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-f06a63cd.png)
-
-</aside>
+    ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-f06a63cd.png)
 
 ## Comment associer des tags à mes photos ?
 
@@ -86,10 +80,8 @@ Si vous souhaitez créer un nouveau tag, il suffit de saisir le nom du tag dans 
 
 ![fr-tag-photo3.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-c64ce62f.png)
 
-<aside>
-ℹ️ Pensez bien à enregistrer vos modifications pour qu’elles soient appliquées à votre photo !
-
-</aside>
+!!! info
+    Pensez bien à enregistrer vos modifications pour qu’elles soient appliquées à votre photo !
 
 ### Associer des tags à des photos en masse avec le gestionnaire de lot
 

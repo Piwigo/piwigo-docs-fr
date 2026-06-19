@@ -46,15 +46,13 @@ Si vous hébergez vous-même votre Piwigo, vous pouvez l’ajouter via le plugin
 $conf['picture_ext'] = array('jpg','jpeg','png','gif','webp');
 ```
 
-<aside>
-💡 WebP est le type le plus "supporté par les navigateurs web" pour remplacer le JPEG. WebP est supporté à l'import aussi bien qu'à l'affichage, et Piwigo va générer un fichier webp pour chaque taille affichée dans votre galerie. WebP peut remplacer le JPEG avec une meilleure qualité pour un poids équivalent, remplacer les GIF animés pour une fraction du poids et même remplacer les PNG avec une compression non destructive et de la transparence.
+!!! info
+    WebP est le type le plus "supporté par les navigateurs web" pour remplacer le JPEG. WebP est supporté à l'import aussi bien qu'à l'affichage, et Piwigo va générer un fichier webp pour chaque taille affichée dans votre galerie. WebP peut remplacer le JPEG avec une meilleure qualité pour un poids équivalent, remplacer les GIF animés pour une fraction du poids et même remplacer les PNG avec une compression non destructive et de la transparence.
 
-</aside>
 
-<aside>
-⚠️ Pour supporter les WebP animés, vous devrez peut-être mettre à jour le système d’exploitation de votre serveur si vous utilisez un Piwigo auto-hébergé.
+!!! Warning "Attention"
+    Pour supporter les WebP animés, vous devrez peut-être mettre à jour le système d’exploitation de votre serveur si vous utilisez un Piwigo auto-hébergé.
 
-</aside>
 
 ### Cas particulier du format HEIC
 
@@ -79,10 +77,8 @@ $conf['file_ext'] = array_merge(
   );
 ```
 
-<aside>
-⚠️ Pour supporter les fichiers HEIC, vous devrez peut-être mettre à jour le système d’exploitation de votre serveur si vous utilisez un Piwigo auto-hébergé.
-
-</aside>
+!!! Warning "Attention"
+    Pour supporter les fichiers HEIC, vous devrez peut-être mettre à jour le système d’exploitation de votre serveur si vous utilisez un Piwigo auto-hébergé.
 
 ## **Fichiers vidéo et audio**
 
@@ -96,10 +92,9 @@ Piwigo permet d'importer des fichiers audiovisuels avec les extensions suivantes
 - .ogv
 - .mp3
 
-<aside>
-ℹ️ Si vous hébergez vous-même votre Piwigo, vous devez installer et activer le plugin VideoJS pour accepter ce type de fichier. Si vous êtes client d’une offre piwigo.com, ce plugin est activé par défaut.
+!!! info
+    Si vous hébergez vous-même votre Piwigo, vous devez installer et activer le plugin VideoJS pour accepter ce type de fichier. Si vous êtes client d’une offre piwigo.com, ce plugin est activé par défaut.
 
-</aside>
 
 Lorsque vous importez un fichier vidéo dans Piwigo, une vignette de prévisualisation est créée à partir de la première image de votre vidéo. La vidéo est lisible depuis votre galerie, grâce au lecteur vidéo intégré à Piwigo. Vous pouvez lire la vidéo grâce au gros bouton de lecture.
 
@@ -124,10 +119,8 @@ $conf['file_ext'] = array_merge(
   );
 ```
 
-<aside>
-⚠️ Si vous utilisez une galerie auto-hébergée et que vous rencontrez des problèmes avec le téléchargement de vidéos ou la génération de vignettes, [consultez cet article](/hebergez-votre-piwigo/problemes-generation-vignettes-miniatures).
-
-</aside>
+!!! Warning "Attention"
+    Si vous utilisez une galerie auto-hébergée et que vous rencontrez des problèmes avec le téléchargement de vidéos ou la génération de vignettes, [consultez cet article](/hebergez-votre-piwigo/problemes-generation-vignettes-miniatures).
 
 ### **🎦 Cas particulier des vidéos MOV**
 
@@ -165,10 +158,8 @@ Si vous êtes client d’une offre d’abonnement piwigo.com, vous pouvez demand
 
 Si nous activons cette option, les fichiers .mov importés dans Piwigo depuis l’administration seront automatiquement convertis en .mp4. Au moment du téléchargement, l’utilisateur choisira si il souhaite télécharger la version .mov ou la version .mp4.
 
-<aside>
-⚠️ Attention ! Si vous choisissez d’activer cette option, cela utilise une place plus importante sur votre espace de stockage, car chaque vidéo est stockée en deux versions, et car les fichiers .mov sont très volumineux.
-
-</aside>
+!!! Warning "Attention"
+    Attention ! Si vous choisissez d’activer cette option, cela utilise une place plus importante sur votre espace de stockage, car chaque vidéo est stockée en deux versions, et car les fichiers .mov sont très volumineux.
 
 Vous pouvez aussi faire le choix de convertir vos fichiers .mov au format MP4 avant de les importer dans Piwigo, ce qui a deux avantages : 
 
@@ -181,10 +172,9 @@ Pour savoir comment convertir un fichier, lire le chapitre suivant.
 
 Si vous souhaitez importer un fichier vidéo non supporté par Piwigo (par exemple, un fichier AVI), il vous suffit de convertir vos fichiers vidéo vers le format MP4 : vous pouvez le faire avec de nombreux logiciels de montage vidéo, ou encore avec des outils gratuits en ligne [comme celui-ci](https://video.online-convert.com/fr/convertir-en-mp4).
 
-<aside>
-ℹ️ Nous conseillons le format de fichier MP4 avec un codec vidéo H.264 et audio AAC. Cela permet de conserver un haut degré de qualité même quand la vidéo est compressée. Les fichiers MP4 encodés de cette façon pèsent moins lourds : ainsi, ils consomment moins d'espace de stockage, et économisent de la bande passante. Enfin, cela garantit la compatibilité avec les lecteurs vidéo.
+!!! info
+    Nous conseillons le format de fichier MP4 avec un codec vidéo H.264 et audio AAC. Cela permet de conserver un haut degré de qualité même quand la vidéo est compressée. Les fichiers MP4 encodés de cette façon pèsent moins lourds : ainsi, ils consomment moins d'espace de stockage, et économisent de la bande passante. Enfin, cela garantit la compatibilité avec les lecteurs vidéo.
 
-</aside>
 
 ### ⚙️ Configuration du plugin VideoJS
 
@@ -228,10 +218,9 @@ $conf['file_ext'] = array_merge(
   );
 ```
 
-<aside>
-⚠️ Si vous utilisez une galerie auto-hébergée et que vous rencontrez des problèmes avec la génération de vignettes pour les fichiers PDF, ou la visualisation des fichiers AI, PSD, HEIC, TIF ou TIFF, [consultez cet article](/hebergez-votre-piwigo/problemes-generation-vignettes-miniatures).
+!!! Warning "Attention"
+    Si vous utilisez une galerie auto-hébergée et que vous rencontrez des problèmes avec la génération de vignettes pour les fichiers PDF, ou la visualisation des fichiers AI, PSD, HEIC, TIF ou TIFF, [consultez cet article](/hebergez-votre-piwigo/problemes-generation-vignettes-miniatures).
 
-</aside>
 
 ### **Cas particulier des fichiers PDF dans Piwigo**
 
@@ -263,10 +252,9 @@ Si vous souhaitez pouvoir proposer différents formats de fichiers pour une mêm
 
 [En savoir plus sur les formats multiples](/importer-et-gerer-les-photos/les-formats-multiples)
 
-<aside>
-ℹ️ Si vous êtes client d’une offre piwigo.com, cette fonctionnalité n’est accessible qu’à partir de l’offre Entreprise.
+!!! info
+    Si vous êtes client d’une offre piwigo.com, cette fonctionnalité n’est accessible qu’à partir de l’offre Entreprise.
 
-</aside>
 
 ## Embedded Videos: **Embarquez sur votre galerie des fichiers hébergés sur d'autres plateformes (Youtube...)**
 

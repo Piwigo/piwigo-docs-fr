@@ -20,10 +20,9 @@ Ce plugin permet de choisir un jeu d’émoticônes à ajouter à votre galerie.
 
 ![fr-commentaire-smilies.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-929139e0.png)
 
-<aside>
-ℹ️ Remarque : Ces émoticônes sont du même type que ceux que l’on retrouve dans les  forums de discussions. Il ne faut pas les confondre avec les émojis que l’on utilise beaucoup plus de nos jours. Piwigo n’intègre pas de clavier d’émojis.
+!!! info
+    Remarque : Ces émoticônes sont du même type que ceux que l’on retrouve dans les  forums de discussions. Il ne faut pas les confondre avec les émojis que l’on utilise beaucoup plus de nos jours. Piwigo n’intègre pas de clavier d’émojis.
 
-</aside>
 
 ## **Subscribe to Comments :** S’abonner aux commentaires
 
@@ -75,10 +74,9 @@ Pour cela, il suffit d’installer le plugin **RV Akismet.**
 
 Une fois le plugin activé, vous devez créer un compte Akismet : cela vous donnera accès à une clé API que vous devrez saisir dans la configuration du plugin.
 
-<aside>
-ℹ️ Il est possible de créer un compte gratuit sur Akismet, mais certaines options nécessitent un abonnement payant. Les comptes gratuits sont réservés à un usage personnel non commercial.
+!!! info
+    Il est possible de créer un compte gratuit sur Akismet, mais certaines options nécessitent un abonnement payant. Les comptes gratuits sont réservés à un usage personnel non commercial.
 
-</aside>
 
 Le plugin vous donne le choix entre deux options :
 

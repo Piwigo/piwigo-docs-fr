@@ -162,10 +162,9 @@ Vous pourrez ainsi en un clin d’oeil visualiser les photos pour lesquelles auc
 
 Pour filtrer les photos en fonction de l’utilisateur qui les a importées dans Piwigo, vous devez installer le plugin **Batch Manager, Added By**.
 
-<aside>
-ℹ️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
+!!! info
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
-</aside>
 
 Une fois activé, ce plugin ajoute un nouveau filtre dans la gestion par lot “Ajouté par”.
 
@@ -256,10 +255,9 @@ Pour cela, rendez-vous dans l’onglet Mode unitaire.
 
 Cette page affiche tous les fichiers correspondant aux filtres appliqués dans le premier onglet.
 
-<aside>
-⚠️ Si vous modifiez les filtres, pensez bien à cliquer sur “Rafraîchir le lot de photos” : cela mettra aussi à jour la sélection affichée dans l’onglet “Mode unitaire”.
+!!! Warning "Attention"
+    Si vous modifiez les filtres, pensez bien à cliquer sur “Rafraîchir le lot de photos” : cela mettra aussi à jour la sélection affichée dans l’onglet “Mode unitaire”.
 
-</aside>
 
 Vous pouvez ainsi, pour chaque fichier, modifier son titre, son auteur, sa date de création, son niveau de confidentialité, modifier les tags, le ou les albums associé(s), modifier la description.
 

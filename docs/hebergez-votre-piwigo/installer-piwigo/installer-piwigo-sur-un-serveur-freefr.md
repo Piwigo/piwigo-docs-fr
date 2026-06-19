@@ -1,11 +1,7 @@
 # Installer Piwigo sur un serveur free.fr
 
-<aside>
-⚠️
-
-La solution d’hébergement gratuit “Pages perso” accessible avec un abonnement Internet Free n’est pas adaptée à l’hébergement de Piwigo. Nous ne recommandons pas cette solution d’hébergement. 
-
-</aside>
+!!! Warning "Attention"
+    La solution d’hébergement gratuit “Pages perso” accessible avec un abonnement Internet Free n’est pas adaptée à l’hébergement de Piwigo. Nous ne recommandons pas cette solution d’hébergement. 
 
 ## Pourquoi vous ne devriez pas installer Piwigo chez Free
 

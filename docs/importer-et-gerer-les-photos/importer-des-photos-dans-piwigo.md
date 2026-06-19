@@ -2,10 +2,9 @@
 
 Il existe différentes possibilités pour importer des fichiers dans Piwigo. 
 
-<aside>
-ℹ️ Nous parlons le plus souvent de photos, mais ce qui est valable pour les photos est valable en général pour n'importe quel type d'image, de vidéo, ou de document (voir l'article : [Les différents formats de fichiers dans Piwigo](/importer-et-gerer-les-photos/les-differents-formats-de-fichiers)).
+!!! info
+    Nous parlons le plus souvent de photos, mais ce qui est valable pour les photos est valable en général pour n'importe quel type d'image, de vidéo, ou de document (voir l'article : [Les différents formats de fichiers dans Piwigo](/importer-et-gerer-les-photos/les-differents-formats-de-fichiers)).
 
-</aside>
 
 Cet article vous permet de découvrir comment ajouter des fichiers :
 
@@ -13,10 +12,9 @@ Cet article vous permet de découvrir comment ajouter des fichiers :
 - depuis votre galerie (pour les utilisateurs non administrateurs)
 - depuis d'autres sources
 
-<aside>
-⚠️ Certaines options comme l’import FTP ne sont disponibles que pour les utilisateurs qui hébergent eux-mêmes leur Piwigo.
+!!! Warning "Attention"
+    Certaines options comme l’import FTP ne sont disponibles que pour les utilisateurs qui hébergent eux-mêmes leur Piwigo.
 
-</aside>
 
 ## **Importez des photos depuis l'administration de Piwigo**
 
@@ -124,7 +122,7 @@ Vous souhaitez qu'un utilisateur puisse ajouter des photos dans Piwigo, sans êt
 
 Ce plugin permet de donner le droit aux utilisateurs non administrateurs d'ajouter des photos dans Piwigo, depuis une page dédiée de votre galerie.
 
-[Consultez la documentation de Community](../Les utilisateurs/Gérer les contributeurs (plugin Community).md)
+[Consultez la documentation de Community](/les-utilisateurs/gerer-les-contributeurs-plugin-community)
 
 ## **Importez des fichiers depuis votre téléphone mobile**
 
@@ -180,10 +178,8 @@ Vous avez des photos sur un compte Flickr et vous souhaitez les importer sur Piw
 
 Pour cela, installez le plugin Flickr2Piwigo.
 
-<aside>
-💡 Si vous utilisez Piwigo sur votre propre hébergement, vérifiez bien que vous avez la dernière version du plugin.
-
-</aside>
+!!! info
+    Si vous utilisez Piwigo sur votre propre hébergement, vérifiez bien que vous avez la dernière version du plugin.
 
 La page de configuration du plugin explique les différentes étapes pour connecter votre Piwigo à Flickr.
 

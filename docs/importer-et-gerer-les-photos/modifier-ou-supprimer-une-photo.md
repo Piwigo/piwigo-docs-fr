@@ -8,17 +8,15 @@ Une fois que vous êtes sur la page de votre photo, cliquez sur le bouton en for
 
 ![fr-edition-photo-galerie.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-b4679b47.png)
 
-<aside>
-ℹ️ En fonction de votre thème, le bouton n’apparaîtra pas toujours au même endroit. Si vous ne voyez pas le bouton d’édition sur votre galerie, et que vous êtes bien administrateur, alors c’est que ce bouton a été masqué. Pour l’afficher, rendez vous dans l’administration de Piwigo, sur la page Configuration > Options, onglet “Afficher”, section “Page de la photo”, et cochez “Activer l’icône Éditer la photo”. [En savoir plus sur la configuration de Piwigo](/personnaliser-ma-galerie/options-de-personnalisation-de-votre-galerie)
+!!! info
+    En fonction de votre thème, le bouton n’apparaîtra pas toujours au même endroit. Si vous ne voyez pas le bouton d’édition sur votre galerie, et que vous êtes bien administrateur, alors c’est que ce bouton a été masqué. Pour l’afficher, rendez vous dans l’administration de Piwigo, sur la page Configuration > Options, onglet “Afficher”, section “Page de la photo”, et cochez “Activer l’icône Éditer la photo”. [En savoir plus sur la configuration de Piwigo](/personnaliser-ma-galerie/options-de-personnalisation-de-votre-galerie)
 
-</aside>
 
 La page d’édition de la photo s’ouvrira alors, ce qui vous permettra de modifier ses informations.
 
-<aside>
-ℹ️ Vous pouvez également modifier une photo depuis l’administration, notamment depuis l’écran de [gestion par lot](/importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos).
+!!! info
+    Vous pouvez également modifier une photo depuis l’administration, notamment depuis l’écran de [gestion par lot](/importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos).
 
-</aside>
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-2825e1e2.png)
 
@@ -51,10 +49,9 @@ Dans la partie droite de l’écran apparaissent les propriétés de votre fichi
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-b781d625.png)
 
-<aside>
-⚠️ N’oubliez pas de cliquer sur le bouton “Enregistrer les paramètres” pour sauvegarder vos modifications !
+!!! Warning "Attention"
+    N’oubliez pas de cliquer sur le bouton “Enregistrer les paramètres” pour sauvegarder vos modifications !
 
-</aside>
 
 Pour en savoir plus sur les propriétés de vos fichiers, leur rôle, comprendre pourquoi et comment les modifier, et découvrir des options avancées, lisez l’article [Gérez les propriétés et métadonnées de vos fichiers](/importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers).
 

@@ -1,6 +1,4 @@
 # Déplacez Piwigo vers un autre serveur / emplacement
 
-<aside>
-⚠️ article bientôt disponible
-
-</aside>
+!!! Warning "Attention"
+    article bientôt disponible

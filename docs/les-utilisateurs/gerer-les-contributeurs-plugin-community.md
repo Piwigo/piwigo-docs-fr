@@ -16,10 +16,9 @@ Tous ces utilisateurs qui ne sont pas administrateurs mais ont le droit d’impo
 
 Pour activer cette fonctionnalité, vous devez activer le plugin Community.
 
-<aside>
-⚠️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
+!!! Warning "Attention"
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
-</aside>
 
 ## Définir les utilisateurs habilités à ajouter des photos et leurs autorisations
 
@@ -57,10 +56,9 @@ Choisissez ici dans quel espace de la galerie les contributeurs peuvent ajouter 
 - Dans la galerie toute entière (n’importe quel album)
 - Dans un album en particulier
 
-<aside>
-💡 Par défaut, l’activation du plugin Community crée un nouvel album “Community”. Vous pouvez choisir que les photos des contributeurs aillent dans cet album, pour qu’un administrateur les trie et les valide.
+!!! info
+    Par défaut, l’activation du plugin Community crée un nouvel album “Community”. Vous pouvez choisir que les photos des contributeurs aillent dans cet album, pour qu’un administrateur les trie et les valide.
 
-</aside>
 
 Si vous cochez “appliquez aux sous-albums”, les utilisateurs auront le droit d’ajouter des photos dans l’album choisi ET dans ses sous-albums.
 
@@ -102,10 +100,9 @@ Les utilisateurs habilités à ajouter des photos sur la galerie ont accès à u
 
 ![fr-community-menu.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-652c6497.png)
 
-<aside>
-ℹ️ Remarque : le menu “Ajouter des photos” peut être affiché au niveau du menu principal, à droite du menu “Explorer”. Pour cela, installez le plugin Upload 1 Menu. Ce plugin est réservé aux détenteurs d’un abonnement Equipe, Entreprise ou VIP.
+!!! info
+    Remarque : le menu “Ajouter des photos” peut être affiché au niveau du menu principal, à droite du menu “Explorer”. Pour cela, installez le plugin Upload 1 Menu. Ce plugin est réservé aux détenteurs d’un abonnement Equipe, Entreprise ou VIP.
 
-</aside>
 
 Le menu Ajouter des photos permet d’accéder à la page d’ajout de photos.
 
@@ -178,10 +175,9 @@ Ensuite, il suffit de cocher les photos et de cliquer sur “Valider” (mettre 
 
 Certains plugins sont utiles pour les galeries Piwigo qui utilisent le plugin Community : en voici la liste.
 
-<aside>
-ℹ️ Si vous êtes client d’une offre piwigo.com, ces plugins ne sont accessibles qu’à partir de l’offre Équipe.
+!!! info
+    Si vous êtes client d’une offre piwigo.com, ces plugins ne sont accessibles qu’à partir de l’offre Équipe.
 
-</aside>
 
 ### **Upload 1 Menu**
 

@@ -17,7 +17,7 @@ Découvrez ici le fonctionnement des albums dans Piwigo, comment les utiliser et
 
 [Permissions et visibilité des albums](/organiser-les-albums/permissions-et-visibilite-des-albums)
 
-[SmartAlbums (albums intelligents)](Organiser les albums/SmartAlbums (albums intelligents).md)
+[SmartAlbums (albums intelligents)](/organiser-les-albums/smartalbums-albums-intelligents)
 
 Découvrez également comment utiliser les albums sur votre galerie et personnaliser leur affichage en lisant cet article :
 

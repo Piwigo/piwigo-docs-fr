@@ -37,10 +37,8 @@ Enfin, d’autres outils sont accessibles à droite de la barre Admin Tools :
 
 ## Admin Messages : Ajouter un message d’accueil dans l’administration
 
-<aside>
-ℹ️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
-
-</aside>
+!!! info
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
 Le plugin **Admin Messages** permet aux administrateurs d'ajouter des messages sur l'accueil de l'administration de Piwigo (pour communiquer avec les autres administrateurs).
 
@@ -60,31 +58,24 @@ Une fois ce plugin activé, tous les emails de notifications envoyés par Piwigo
 
 En conséquence, les emails de notification seront correctement distribués.
 
-<aside>
-ℹ️ Depuis février 2024, Protect Notif est activé par défaut sur tous les nouveaux comptes créés sur piwigo.com.
-
-</aside>
+!!! info
+    Depuis février 2024, Protect Notif est activé par défaut sur tous les nouveaux comptes créés sur piwigo.com.
 
 ## Download Limits : Limiter le nombre de téléchargements par jour
 
-<aside>
-ℹ️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
-
-</aside>
+!!! info
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
 
 Le plugin **Download Limits** permet aux administrateurs de limiter le nombre de téléchargements par jour sur leur galerie.
 
-<aside>
-⚠️ Attention : le nombre de téléchargements maximum n’est pas paramétrable dans l’interface de Piwigo mais dans un fichier de configuration. Si vous êtes un client Piwigo.com, contactez le support pour le mettre en place.
-
-</aside>
+!!! Warning "Attention"
+    Le nombre de téléchargements maximum n’est pas paramétrable dans l’interface de Piwigo mais dans un fichier de configuration. Si vous êtes un client Piwigo.com, contactez le support pour le mettre en place.
 
 ## Export Data : Exporter les données de votre Piwigo
 
-<aside>
-ℹ️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
+!!! info
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
-</aside>
 
 Le plugin **Export Data** permet aux administrateurs d’exporter les données de Piwigo vers un tableur.
 
@@ -160,10 +151,8 @@ Comment activer toutes ces fonctionnalités ?
 
 Le plugin **LocalFiles Editor** vous permet de modifier des fichiers de Piwigo directement depuis l’administration.
 
-<aside>
-⚠️ Attention : cette fonctionnalité est réservée aux utilisateurs avertis !
-
-</aside>
+!!! Warning "Attention"
+    Cette fonctionnalité est réservée aux utilisateurs avertis !
 
 Pour les clients Piwigo.com, ce plugin permet uniquement d’ajouter du code CSS personnalisé.
 
@@ -247,10 +236,8 @@ L’acceptation est enregistrée sous la forme d’un cookie dont vous pouvez ch
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-9d6c6d2a.png)
 
-<aside>
-⚠️ Attention : si votre galerie utilise des cookies tiers comme ceux de Google Analytics, ce type de bannière n’est pas suffisante pour recueillir le consentement de vos visiteurs car elle est uniquement informative (l’utilisateur n’a pas la possibilité de refuser les cookies, ni de révoquer son consentement).
-
-</aside>
+!!! Warning "Attention"
+    Si votre galerie utilise des cookies tiers comme ceux de Google Analytics, ce type de bannière n’est pas suffisante pour recueillir le consentement de vos visiteurs car elle est uniquement informative (l’utilisateur n’a pas la possibilité de refuser les cookies, ni de révoquer son consentement).
 
 ## Les plugins pour le SEO de votre galerie
 

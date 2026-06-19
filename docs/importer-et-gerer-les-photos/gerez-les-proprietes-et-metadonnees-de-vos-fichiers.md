@@ -250,10 +250,9 @@ Vous souhaitez connaître l’intégralité des métadonnées EXIF et IPTC, et p
 
 Si vous souhaitez remplacer certaines métadonnées IPTC des fichiers importés sur votre galerie par les informations inscrites dans les propriétés Piwigo (titre, description, auteur, tags), vous devez installez le plugin **Write Metadata.**
 
-<aside>
-ℹ️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
+!!! info
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
-</aside>
 
 ### Exif View : Traduire les valeurs EXIF de vos photos
 
@@ -271,14 +270,12 @@ Contrairement aux métadonnées, c’est à vous de définir dans Piwigo les pro
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-14089b76.png)
 
-<aside>
-ℹ️ Pour en savoir plus sur l’édition de photo, lisez les articles suivants :
+!!! info
+    Pour en savoir plus sur l’édition de photo, lisez les articles suivants :
+    
+    * [Modifier ou supprimer une photo](/importer-et-gerer-les-photos/modifier-ou-supprimer-une-photo)
+    * [Gestion par lot : Modifier et gérer une sélection de photos](/importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos)
 
-[Modifier ou supprimer une photo](/importer-et-gerer-les-photos/modifier-ou-supprimer-une-photo)
-
-[Gestion par lot : Modifier et gérer une sélection de photos](/importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos)
-
-</aside>
 
 Par défaut, voici les propriétés et informations proposées par Piwigo pour qualifier un fichier.
 
@@ -387,10 +384,9 @@ Mais vous pouvez définir un niveau de confidentialité plus fin en choisissant 
 
 ![fr-edition-photo-condidentialité2.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-85a849c3.png)
 
-<aside>
-⚠️ Attention : cette fonctionnalité ne doit pas être confondue avec les permissions par album ! C’est une fonctionnalité avancée de Piwigo qui peut être un peu complexe à appréhender.
+!!! Warning "Attention"
+    Attention : cette fonctionnalité ne doit pas être confondue avec les permissions par album ! C’est une fonctionnalité avancée de Piwigo qui peut être un peu complexe à appréhender.
 
-</aside>
 
 Pour en savoir plus sur les niveaux de confidentialité, [lisez cet article](/les-utilisateurs/les-niveaux-de-confidentialite).
 
@@ -428,10 +424,8 @@ Vous souhaitez ajouter des propriétés personnalisées sur votre galerie, ou en
 
 Pour cela, vous devez installer le plugin **Manage Properties Photos**.
 
-<aside>
-ℹ️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
-
-</aside>
+!!! info
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
 
 Une fois Manage Properties Photos activé sur votre galerie, rendez-vous dans la configuration du plugin.
 
@@ -549,10 +543,9 @@ Vous souhaitez mettre à jour les propriétés d’un lot de photos depuis un ta
 
 Pour cela, vous devez installer le plugin **Properties Mass Update**.
 
-<aside>
-ℹ️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
+!!! info
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
 
-</aside>
 
 ### Show Photo Identifier : Afficher l’identifiant de la photo parmi les propriétés
 
@@ -572,10 +565,9 @@ Il peut être nécessaire d’ajouter une date d’expiration à un fichier, pou
 
 Pour cela, vous devez installer le plugin **Expiry Date**.
 
-<aside>
-ℹ️ Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
+!!! info
+    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
 
-</aside>
 
 Une fois le plugin activé, un nouveau champ “Date d’expiration” apparaît sur chaque photo, ainsi que dans le gestionnaire de lot.
 

@@ -137,10 +137,9 @@ Ce plugin oblige les utilisateurs à saisir un Captcha avant d’envoyer le form
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-e95f122c.png)
 
-<aside>
-💡 Ce plugin permet également d’ajouter un Captcha pour la saisie d’un commentaire ou la création d’un nouvel utilisateur.
+!!! info
+    Ce plugin permet également d’ajouter un Captcha pour la saisie d’un commentaire ou la création d’un nouvel utilisateur.
 
-</aside>
 
 ### ⚠️ Problèmes fréquents avec le plugin Contact Form
 

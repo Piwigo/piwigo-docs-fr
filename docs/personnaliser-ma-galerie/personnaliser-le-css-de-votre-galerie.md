@@ -14,10 +14,9 @@ Si votre galerie utilise le thème Bootstrap Darkroom, alors vous pouvez ajouter
 
 Le plugin **Localfile Editor** vous permet de modifier des fichiers de Piwigo directement depuis l’administration.
 
-<aside>
-⚠️ Attention : cette fonctionnalité est réservée aux utilisateurs avertis !
+!!! Warning "Attention"
+    Attention : cette fonctionnalité est réservée aux utilisateurs avertis !
 
-</aside>
 
 Pour les clients Piwigo.com, ce plugin permet uniquement d’ajouter du code CSS personnalisé.
 
@@ -31,10 +30,9 @@ Vous avez alors accès à une fenêtre qui vous permet de charger les fichiers C
 
 En ajoutant du code CSS personnalisé par ce biais, vous êtes certain de ne pas “écraser” le code de Piwigo : c’est donc la meilleure façon de procéder, même si vous avez accès aux fichiers de Piwigo (par FTP).
 
-<aside>
-⚠️ Si vous hébergez vous-même votre Piwigo, ne modifiez pas directement les fichiers d’installation ! Sinon, vous modifications seront écrasées à la prochaine mise à jour.
+!!! Warning "Attention"
+    Si vous hébergez vous-même votre Piwigo, ne modifiez pas directement les fichiers d’installation ! Sinon, vous modifications seront écrasées à la prochaine mise à jour.
 
-</aside>
 
 Sommaire de l’article
 

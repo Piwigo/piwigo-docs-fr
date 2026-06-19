@@ -91,10 +91,9 @@ Enfin, pour ouvrir votre album directement dans la galerie, cliquez sur le bouto
 
 En bas de l’écran d’édition d’album, vous avez la possibilité de verrouiller un album.
 
-<aside>
-ℹ️ Un album verrouillé est inaccessible sur la galerie, sauf pour les administrateurs. Le plus souvent, le statut verrouillé est utilisé lorsqu’un album n’est pas encore prêt à être rendu public sur la galerie, parce qu’un administrateur est en train de travailler dessus (préparation avant publication, maintenance…). C’est donc un statut “de travail”, temporaire.
+!!! info
+    Un album verrouillé est inaccessible sur la galerie, sauf pour les administrateurs. Le plus souvent, le statut verrouillé est utilisé lorsqu’un album n’est pas encore prêt à être rendu public sur la galerie, parce qu’un administrateur est en train de travailler dessus (préparation avant publication, maintenance…). C’est donc un statut “de travail”, temporaire.
 
-</aside>
 
 Vous pouvez également verrouiller / déverrouiller une liste d’albums depuis le menu Albums > Propriétés > Verrouiller.
 
@@ -102,10 +101,9 @@ Vous pouvez également verrouiller / déverrouiller une liste d’albums depuis 
 
 Quand vous éditez un album, le deuxième onglet “Ordre des photos” permet de modifier l’ordre des photos telles qu’elles s’affichent dans votre album.
 
-<aside>
-ℹ️ Par défaut Piwigo classe les photos de la façon suivante : par date d’ajout (du plus récent au plus ancien), PUIS par nom du fichier (de A à Z), PUIS par identifiant (du plus petit au plus grand). Vous pouvez modifier ce paramètre dans les options de configuration de Piwigo. [En savoir plus](/personnaliser-ma-galerie/options-de-personnalisation-de-votre-galerie)
+!!! info
+    Par défaut Piwigo classe les photos de la façon suivante : par date d’ajout (du plus récent au plus ancien), PUIS par nom du fichier (de A à Z), PUIS par identifiant (du plus petit au plus grand). Vous pouvez modifier ce paramètre dans les options de configuration de Piwigo. [En savoir plus](/personnaliser-ma-galerie/options-de-personnalisation-de-votre-galerie)
 
-</aside>
 
 ### **Modifier manuellement l’ordre des photos**
 
@@ -162,10 +160,9 @@ Les personnes concernées recevront un email contenant un lien vers l’album, a
 
 ![fr-notif-album.email.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-63560b26.png)
 
-<aside>
-ℹ️ Attention : avant d’envoyer une notification, pensez à vérifier que les utilisateurs ont bien accès à cet album dans l’onglet Permissions.
+!!! info
+    Attention : avant d’envoyer une notification, pensez à vérifier que les utilisateurs ont bien accès à cet album dans l’onglet Permissions.
 
-</aside>
 
 Sommaire de l’article
 

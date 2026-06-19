@@ -26,10 +26,9 @@ Les **albums privés**, eux, sont accessibles uniquement aux utilisateurs identi
 
 Pour chaque album privé, on va pouvoir définir qui, parmi les utilisateurs et groupes d’utilisateurs, a le droit de le visualiser.
 
-<aside>
-ℹ️ Lorsque vous créez un nouvel album à la racine de Piwigo, il est toujours public, par défaut. Si vous souhaitez modifier ce comportement, contactez le support si vous êtes client piwigo.com. Sinon, ajouter le paramètre suivant à votre configuration grâce à [LocalFiles Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) : `$conf['newcat_default_status'] = 'private';`
+!!! info
+    Lorsque vous créez un nouvel album à la racine de Piwigo, il est toujours public, par défaut. Si vous souhaitez modifier ce comportement, contactez le support si vous êtes client piwigo.com. Sinon, ajouter le paramètre suivant à votre configuration grâce à [LocalFiles Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) : `$conf['newcat_default_status'] = 'private';`
 
-</aside>
 
 ### Modifier les permissions sur un album
 
@@ -55,17 +54,15 @@ Vous avez la possibilité d’accorder des droits d’accès :
 
 Pour en savoir plus sur les groupes d’utilisateurs, [lisez cet article](/les-utilisateurs/les-groupes-dutilisateurs).
 
-<aside>
-⚠️ Attention ! Si un album est privé, personne ne le verra sur la galerie, pas même les administrateurs ! Pensez-donc bien à vous accorder les droits sur les albums privés que vous créez.
+!!! Warning "Attention"
+    Attention ! Si un album est privé, personne ne le verra sur la galerie, pas même les administrateurs ! Pensez-donc bien à vous accorder les droits sur les albums privés que vous créez.
 
-</aside>
 
 La case à cocher “Appliquer aux sous-albums” permet de modifier, en une seule fois, les permissions d’un album et d’appliquer ces modifications à tous ses sous-albums existants.
 
-<aside>
-⚠️ Attention : cette modification ne s’applique pas aux sous-albums qui seront créés à l’avenir.
+!!! Warning "Attention"
+    Attention : cette modification ne s’applique pas aux sous-albums qui seront créés à l’avenir.
 
-</aside>
 
 ### Règles des permissions sur les hiérarchies d’albums
 
@@ -81,10 +78,9 @@ En dehors du statut (privé / public), les sous-albums n’héritent pas automat
 
 Prenons un exemple : vous avez un album privé, accessible aux utilisateurs X et Y. Si vous créez un sous-album de cet album privé, par défaut, il ne sera pas accessible aux utilisateurs X et Y (uniquement aux administrateurs).
 
-<aside>
-ℹ️ Si vous voulez que les sous-albums héritent automatiquement des permissions de leurs parents, contactez le support si vous êtes client piwigo.com.  Sinon, ajoutez le paramètre suivant à votre configuration grâce à [LocalFiles Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) : `$conf['inheritance_by_default'];`
+!!! info
+    Si vous voulez que les sous-albums héritent automatiquement des permissions de leurs parents, contactez le support si vous êtes client piwigo.com.  Sinon, ajoutez le paramètre suivant à votre configuration grâce à [LocalFiles Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) : `$conf['inheritance_by_default'];`
 
-</aside>
 
 ## Gérer en masse l’accès aux albums (public / privé)
 
@@ -96,10 +92,9 @@ Le premier onglet permet de passer facilement un album du statut public au statu
 
 Sur cet écran, vous pouvez voir la liste de tous les albums et sous-albums de votre photothèque dans la colonne qui correspond à leur statut (Albums publics et Albums privés).
 
-<aside>
-ℹ️ Les sous-albums sont reconnaissables car leur nom apparaît ainsi : Album racine / Sous-album 1 / Sous-album 2
+!!! info
+    Les sous-albums sont reconnaissables car leur nom apparaît ainsi : Album racine / Sous-album 1 / Sous-album 2
 
-</aside>
 
 Pour passer un album du statut public au statut privé, il vous suffit de cliquer sur cet album et de cliquer sur la flèche en dessous de la première colonne : il est alors déplacé dans la colonne “Albums privés”. Pour passer en public un album privé, c’est l’inverse !
 
@@ -124,10 +119,9 @@ Pour verrouiller ou déverrouiller une liste d’albums sur votre galerie, rende
 
 Le deuxième onglet a exactement le même fonctionnement que le premier (voir paragraphe précédent), sauf qu’il permet de verrouiller / déverrouiller des albums.
 
-<aside>
-ℹ️ Un album verrouillé est inaccessible sur la galerie, sauf pour les administrateurs. Le plus souvent, le statut verrouillé est utilisé lorsqu’un album n’est pas encore prêt à être rendu public sur la galerie, parce d’un administrateur est en train de travailler dessus (préparation avant publication, maintenance…). C’est donc un statut “de travail”, temporaire.
+!!! info
+    Un album verrouillé est inaccessible sur la galerie, sauf pour les administrateurs. Le plus souvent, le statut verrouillé est utilisé lorsqu’un album n’est pas encore prêt à être rendu public sur la galerie, parce d’un administrateur est en train de travailler dessus (préparation avant publication, maintenance…). C’est donc un statut “de travail”, temporaire.
 
-</aside>
 
 Pour verrouiller ou déverrouiller un album unitairement, vous pouvez aussi tout simplement éditer cet album.
 
@@ -145,10 +139,9 @@ Par défaut, dans Piwigo, les utilisateurs habilités à télécharger des photo
 
 Si vous avez besoin de gérer des droits album par album, vous pouvez installer le plugin **Download Permissions**.
 
-<aside>
-ℹ️ Si vous êtes client d’une offre piwigo.com, ce plugin est accessible à partir de l’offre Équipe.
+!!! info
+    Si vous êtes client d’une offre piwigo.com, ce plugin est accessible à partir de l’offre Équipe.
 
-</aside>
 
 Il ajoutera à la page Albums > Propriétés un nouvel onglet, permettant de définir, sur le même principe que les autres onglets, dans quels albums les utilisateurs sont autorisés à télécharger les photos.
 
@@ -164,4 +157,4 @@ Sommaire de l’article
 
 Suivant →
 
-[SmartAlbums (albums intelligents)](SmartAlbums (albums intelligents).md)
+[SmartAlbums (albums intelligents)](/organiser-les-albums/smartalbums-albums-intelligents)

@@ -6,10 +6,9 @@ Les formats multiples permettent, pour une même photo ou image, de proposer plu
 - une version JPG, une version PSD et une version PDF
 - etc.
 
-<aside>
-ℹ️ Si vous êtes client d’une offre piwigo.com, cette fonctionnalité n’est accessible qu’à partir de l’offre Entreprise.
+!!! info
+    Si vous êtes client d’une offre piwigo.com, cette fonctionnalité n’est accessible qu’à partir de l’offre Entreprise.
 
-</aside>
 
 ## Comment activer les formats multiples ?
 

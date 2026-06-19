@@ -80,7 +80,7 @@ Si vous avez besoin de créer plusieurs sélections thématiques, alors le plugi
 
 Il vous permet de créer des collections, d’y ajouter des fichiers, et de partager ces collections par lien ou par email.
 
-[En savoir plus sur User Collections](Créer des collections (plugin User Collections).md)
+[En savoir plus sur User Collections](/naviguer-sur-votre-galerie-piwigo/creer-des-collections-plugin-user-collections)
 
 Sommaire de l’article
 
@@ -92,4 +92,4 @@ Sommaire de l’article
 
 Suivant →
 
-[Créer des collections (plugin User Collections)](Créer des collections (plugin User Collections).md)
+[Créer des collections (plugin User Collections)](/naviguer-sur-votre-galerie-piwigo/creer-des-collections-plugin-user-collections)

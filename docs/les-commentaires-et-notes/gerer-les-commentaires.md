@@ -25,12 +25,8 @@ Il permet de visualiser toutes les photos qui ont été notées, triées par sco
 
 ![fr-mieux-notees.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-f5e1d59b.png)
 
-<aside>
-ℹ️ P**ourquoi utiliser un score pondéré plutôt qu’une note moyenne ?**
-
-Si on utilise la note moyenne, une photo avec une seule note de 5/5 sera considérée comme mieux notée qu’une photo avec 500 notes et une moyenne de 4,8/5. Dans une logique de concours, ce n’est pas pertinent.
-
-</aside>
+!!! info "**Pourquoi utiliser un score pondéré plutôt qu’une note moyenne ?**"
+    Si on utilise la note moyenne, une photo avec une seule note de 5/5 sera considérée comme mieux notée qu’une photo avec 500 notes et une moyenne de 4,8/5. Dans une logique de concours, ce n’est pas pertinent.
 
 ## Gérer les notes dans l’administration
 

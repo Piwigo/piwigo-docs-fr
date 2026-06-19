@@ -21,4 +21,4 @@ Pour tout comprendre sur la gestion des utilisateurs et leurs autorisations dans
 
 [Les groupes d’utilisateurs](/les-utilisateurs/les-groupes-dutilisateurs)
 
-[Gérer les contributeurs (plugin Community)](Les utilisateurs/Gérer les contributeurs (plugin Community).md)
+[Gérer les contributeurs (plugin Community)](/les-utilisateurs/gerer-les-contributeurs-plugin-community)

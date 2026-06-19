@@ -50,10 +50,9 @@ Ensuite, vous pouvez utiliser l’application pour organiser votre photothèque 
 
 Depuis l’application, vous pouvez très facilement importer les photos et les vidéos de votre mobile vers de nouveaux albums ou vers des albums existants.
 
-<aside>
-💡 Attention : vous devez avoir un compte administrateur pour ajouter des photos à Piwigo depuis votre application mobile.
+!!! info
+    Attention : vous devez avoir un compte administrateur pour ajouter des photos à Piwigo depuis votre application mobile.
 
-</aside>
 
 L'application peut accéder aux photos de votre appareil en fonction de vos préférences. Si vous accordez un accès complet à votre photothèque, l'application affichera tous les albums « intelligents » et partagés avec les photos triées par date et par lieu.
 

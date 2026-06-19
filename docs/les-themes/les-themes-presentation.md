@@ -69,10 +69,9 @@ Si on le définit “par défaut”, alors c’est lui qui s’affichera par dé
 
 Mais pour chaque utilisateur, on peut définir quel thème s’affiche pour lui spécifiquement : c’est pour cette raison qu’il est possible d’activer en parallèle plusieurs thèmes.
 
-<aside>
-ℹ️ Dans la grande majorité des cas, on n’active qu’un seul thème, le même pour tous les utilisateurs (en dehors du thème Smart Pocket qui, lorsqu’il est activé, s’affiche automatiquement quand on consulte la galerie depuis un mobile).
+!!! info
+    Dans la grande majorité des cas, on n’active qu’un seul thème, le même pour tous les utilisateurs (en dehors du thème Smart Pocket qui, lorsqu’il est activé, s’affiche automatiquement quand on consulte la galerie depuis un mobile).
 
-</aside>
 
 ## Changer de thème par défaut
 
@@ -175,10 +174,9 @@ Si vous souhaitez rendre encore plus facile le changement de thème sur votre ga
 
 Une fois activé, ce plugin ajoute une icône en forme de pinceau sur votre galerie, qui permet de changer de thème en un clic.
 
-<aside>
-ℹ️ Attention : cette icône est visible par tous les visiteurs, pas seulement les administrateurs.
+!!! info
+    Attention : cette icône est visible par tous les visiteurs, pas seulement les administrateurs.
 
-</aside>
 
 ![fr-plugin-theme-switch.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-5b2a92e9.png)
 
@@ -192,10 +190,9 @@ Lorsque ce plugin est activé, lorsqu’un administrateur se connecte à la gale
 
 ![fr-plugin-admin-tools-theme.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-b9976377.png)
 
-<aside>
-ℹ️ Ce plugin permet également de changer de langue en un clic ou de voir votre galerie en tant que n’importe quel autre utilisateur : il est donc très utile pour faire des tests.
+!!! info
+    Ce plugin permet également de changer de langue en un clic ou de voir votre galerie en tant que n’importe quel autre utilisateur : il est donc très utile pour faire des tests.
 
-</aside>
 
 [En savoir plus sur le plugin Admin Tools](/administrer-piwigo/plugins-pour-les-administrateurs)
 

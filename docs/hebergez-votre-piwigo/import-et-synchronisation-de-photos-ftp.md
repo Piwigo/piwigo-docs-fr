@@ -1,9 +1,8 @@
 # Import et synchronisation de photos FTP
 
-<aside>
-💡 À lire aussi : [Importer des photos dans Piwigo](/importer-et-gerer-les-photos/importer-des-photos-dans-piwigo)
+!!! info
+    À lire aussi : [Importer des photos dans Piwigo](/importer-et-gerer-les-photos/importer-des-photos-dans-piwigo)
 
-</aside>
 
 ## Introduction
 
@@ -15,10 +14,8 @@ Si vous possédez une grosse photothèque, c'est peut-être une méthode d'ajout
 
 Si vous préférez, il existe d’autres méthodes pour importer vos photos : pour en savoir plus, visitez la section [Importer des photos dans Piwigo](/importer-et-gerer-les-photos/importer-des-photos-dans-piwigo).
 
-<aside>
-⚠️ Cette méthode d’import n’est accessible que pour les Piwigo auto-hébergés : elle n’est donc pas disponible pour les clients d’une offre piwigo.com.
-
-</aside>
+!!! Warning "Attention"
+    Cette méthode d’import n’est accessible que pour les Piwigo auto-hébergés : elle n’est donc pas disponible pour les clients d’une offre piwigo.com.
 
 ## Avantages et inconvénients de cette méthode
 
@@ -34,10 +31,11 @@ Si vous préférez, il existe d’autres méthodes pour importer vos photos : po
 1. Créez un répertoire sur votre ordinateur.
 2. Copiez des photos à l'intérieur de ce répertoire.
     
-    <aside>
-    ⚠️ *Attention* : le nom des répertoires et des fichiers ne doit contenir que des lettres, des chiffres et les caractères "-", "_" ou ".". Pas d'espace ou de caractères accentués.
-    
-    </aside>
+!!! Warning "Attention"
+    Le nom des répertoires et des fichiers ne doit contenir que des lettres, des chiffres et les caractères `-`, `_` ou `.`
+
+    **Pas d'espace ou de caractères accentués**.
+
     
 3. Avec un client FTP, copiez le répertoire dans le répertoire  `./galleries/` de votre installation de Piwigo.
 4. Connectez-vous à votre galerie Piwigo, rendez-vous dans l’administration, menu Outils > Synchronisation. Cochez les options Répertoires + fichiers, Synchroniser les métadonnées et ne pas cocher “Simuler uniquement”.
@@ -97,15 +95,12 @@ Quelques explications pour mieux comprendre ce schéma :
 - Les éléments autres que les photos (sons, fichiers texte, tout ce que vous voulez...) sont représentés par défaut par une icône correspondant à l'extension du nom du fichier. De façon optionnelle, un représentant peut être associé (voir le fichier video-decollage-avion.avi dans l'exemple).
 - Formats multiples : vous pouvez proposer une photo dans plusieurs formats. Dans cet exemple, il y a 3 formats supplémentaires pour img0001.jpg. Vous pouvez activer cette fonctionnalité en ajoutant `$conf['enable_formats'] = true;` à votre configuration locale et en définissant une liste de formats, comme `$conf['format_ext'] = array('cmyk.jpg', 'cr2', 'zip');` [En savoir plus sur les formats multiples](/importer-et-gerer-les-photos/les-formats-multiples)
 
-<aside>
-⚠️ *Attention* : le nom d'un répertoire ou d'un fichier ne doit être composé que de lettres, de chiffres, de "-", "_" ou ".". Pas d'espace ou de caractères accentués.
+!!! Warning "Attention"
+    *Attention* : le nom d'un répertoire ou d'un fichier ne doit être composé que de lettres, de chiffres, de "-", "_" ou ".". Pas d'espace ou de caractères accentués.
 
-</aside>
+!!! info
+    *Conseil* : un album peut contenir des photos et des sous-albums à la fois. Néanmoins, il est fortement conseillé pour chaque album de choisir entre contenir des photos **ou bien** des sous-albums.
 
-<aside>
-💡 *Conseil* : un album peut contenir des photos et des sous-albums à la fois. Néanmoins, il est fortement conseillé pour chaque album de choisir entre contenir des photos **ou bien** des sous-albums.
-
-</aside>
 
 - Une fois que les fichiers sont correctement placés dans les répertoires, se rendre sur l'écran Administration » Outils » Synchroniser.
 
@@ -113,10 +108,9 @@ Quelques explications pour mieux comprendre ce schéma :
 
 Dès lors que vous choisissez de transférer vos fichiers par FTP, la synchronisation est une étape indispensable dès lors que vous *ajouter/renommez/déplacer/supprimer* le *moindre élément* dans vos photos.
 
-<aside>
-⚠️ Cette fonctionnalité est inutile si vous transférer vos fichiers par un autre moyen.
+!!! Warning "Attention"
+    Cette fonctionnalité est inutile si vous transférer vos fichiers par un autre moyen.
 
-</aside>
 
 Dans l’administration, rendez-vous dans Outils > Synchronisation.
 
@@ -161,10 +155,9 @@ Piwigo permet de ne pas effectuer de changement tout de suite afin que vous puis
 
 Comme son nom l'indique, cette fonction va donc simuler le résultat de la synchronisation.
 
-<aside>
-⚠️ Si vous souhaitez vraiment synchroniser vos fichiers, vérifiez que cette case n’est pas cochée !
+!!! Warning "Attention"
+    Si vous souhaitez vraiment synchroniser vos fichiers, vérifiez que cette case n’est pas cochée !
 
-</aside>
 
 ### **Traiter uniquement un album**
 

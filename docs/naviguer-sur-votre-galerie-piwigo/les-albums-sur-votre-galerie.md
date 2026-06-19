@@ -8,10 +8,9 @@ Les albums sont organisés en arborescence et peuvent contenir des sous-albums, 
 
 Dans cet article nous verrons comment naviguer dans les albums, comment la page Album est structurée, quelles fonctionnalités sont disponibles, et quelles sont les options de personnalisation possibles, en standard ou avec des plugins.
 
-<aside>
-⚠️ Remarque : la plupart des captures d’écran présentées dans cet article montrent une galerie utilisant le thème Modus. En fonction du thème utilisé par votre galerie, la présentation des informations et les icônes utilisées ne sont pas forcément les mêmes.
+!!! Warning "Attention"
+    Remarque : la plupart des captures d’écran présentées dans cet article montrent une galerie utilisant le thème Modus. En fonction du thème utilisé par votre galerie, la présentation des informations et les icônes utilisées ne sont pas forcément les mêmes.
 
-</aside>
 
 Pour en savoir plus sur les albums, lisez cette série d’articles :
 
@@ -46,19 +45,17 @@ Les albums qui apparaissent sont :
 - Tous les albums publics
 - Tous les albums privés que vous avez le droit de voir, si vous êtes connecté. [En savoir plus sur les permissions](/organiser-les-albums/permissions-et-visibilite-des-albums)
 
-<aside>
-ℹ️ Par défaut, la page d’accueil affiche 12 albums par page. Vous pouvez naviguer dans vos albums grâce à la pagination en bas de page. Si vous souhaitez modifier le nombre d’albums affichés par page, rendez-vous dans l’administration, Configuration > Options, onglet Afficher.
+!!! info
+    Par défaut, la page d’accueil affiche 12 albums par page. Vous pouvez naviguer dans vos albums grâce à la pagination en bas de page. Si vous souhaitez modifier le nombre d’albums affichés par page, rendez-vous dans l’administration, Configuration > Options, onglet Afficher.
 
-</aside>
 
 En cliquant sur un album, vous accédez à la page de l’Album.
 
 Le contenu de celle-ci diffère en fonction du contenu de l’album : soit il contient directement des photos (ou d’autres fichiers), soit il continent des sous-albums.
 
-<aside>
-ℹ️ Pour comprendre les notions d’albums et sous-albums, [lisez cet article](/organiser-les-albums/albums-et-sous-albums-presentation). Il est possible qu’un album contienne à la fois des sous-albums et des fichiers, mais on le déconseille.
+!!! info
+    Pour comprendre les notions d’albums et sous-albums, [lisez cet article](/organiser-les-albums/albums-et-sous-albums-presentation). Il est possible qu’un album contienne à la fois des sous-albums et des fichiers, mais on le déconseille.
 
-</aside>
 
 ## Album avec des sous-albums
 
@@ -84,10 +81,9 @@ Si vous avez de nombreux fichiers dans cet album, des liens de pagination appara
 
 Si vous souhaitez supprimer la pagination et afficher l’intégralité des photos sur la page album, vous pouvez activer le plugin **RV Thumb Scroller**. Ce plugin charge les photos progressivement au fur et à mesure que l’utilisateur scrolle sur la page.
 
-<aside>
-ℹ️ Pour modifier le nombre de photos affichées sur une page album, rendez vous dans vos [préférences utilisateur](/les-utilisateurs/creer-et-gerer-les-utilisateurs) ; vous pouvez y accéder en cliquant sur le menu “Personnaliser” sur la galerie, ou en modifiant votre profil utilisateur dans l’administration.
+!!! info
+    Pour modifier le nombre de photos affichées sur une page album, rendez vous dans vos [préférences utilisateur](/les-utilisateurs/creer-et-gerer-les-utilisateurs) ; vous pouvez y accéder en cliquant sur le menu “Personnaliser” sur la galerie, ou en modifiant votre profil utilisateur dans l’administration.
 
-</aside>
 
 ## La barre d’outils de la page Album
 
@@ -95,10 +91,9 @@ La barre d’outils vous donne accès à plusieurs fonctionnalités.
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-6b027860.png)
 
-<aside>
-ℹ️ Remarque : Les icônes et fonctionnalités disponibles sur votre galerie dépendent du thème que vous avez choisi, de la configuration de Piwigo, des plugins activés... Les exemples présentés sur cette page présentent les possibilités par défaut du thème [Modus](/les-themes/le-theme-modus). Si vous utilisez le thème [Bootstrap Darkroom](/les-themes/le-theme-bootstrap-darkroo), par exemple, les fonctionnalités disponibles sont globalement les mêmes, mais les icônes sont légèrement différentes.
+!!! info
+    Remarque : Les icônes et fonctionnalités disponibles sur votre galerie dépendent du thème que vous avez choisi, de la configuration de Piwigo, des plugins activés... Les exemples présentés sur cette page présentent les possibilités par défaut du thème [Modus](/les-themes/le-theme-modus). Si vous utilisez le thème [Bootstrap Darkroom](/les-themes/le-theme-bootstrap-darkroo), par exemple, les fonctionnalités disponibles sont globalement les mêmes, mais les icônes sont légèrement différentes.
 
-</aside>
 
 ### **Modifier l’ordre de tri des photos**
 
@@ -106,10 +101,9 @@ Vous pouvez modifier l’ordre de tri par défaut en cliquant sur l’icône “
 
 ![fr-modifier-tri-album.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-227d4fed.png)
 
-<aside>
-ℹ️ Pour modifier l’ordre de tri par défaut, rendez-vous dans l’administration, menu Configuration > Options.
+!!! info
+    Pour modifier l’ordre de tri par défaut, rendez-vous dans l’administration, menu Configuration > Options.
 
-</aside>
 
 ### **Modifier la taille des photos affichées**
 
@@ -328,10 +322,9 @@ La configuration du plugin vous permet de personnaliser les options par défaut,
 
 ### Image Preview : afficher les miniatures au survol
 
-<aside>
-⚠️ Attention ! Si vous utilisez le thème Modus, pour utiliser le plugin Image Preview, vous devrez au préalable activer le plugin **Gthumb+** (voir chapitre précédent).
+!!! Warning "Attention"
+    Attention ! Si vous utilisez le thème Modus, pour utiliser le plugin Image Preview, vous devrez au préalable activer le plugin **Gthumb+** (voir chapitre précédent).
 
-</aside>
 
 Le plugin **Image Preview** permet ****d’agrandir les miniatures des photos lorsque l’on passe la souris dessus, depuis la page Album ou toute autre page de liste sur la galerie.
 
@@ -377,10 +370,9 @@ Avec Piwigo, il est possible pour chaque utilisateur d’ajouter une photo à se
 
 Le plugin **Quick Fav** permet d’ajouter une photo en clic depuis sa vignette, sur la page Album ou une autre page de liste.
 
-<aside>
-⚠️ Attention ! Ce plugin est pour le moment uniquement compatible avec le thème Bootstrap Darkroom. Par ailleurs, il n’est accessible que pour les clients d’une offre [piwigo.com](https://piwigo.com) (ce sera corrigé prochainement).
+!!! Warning "Attention"
+    Attention ! Ce plugin est pour le moment uniquement compatible avec le thème Bootstrap Darkroom. Par ailleurs, il n’est accessible que pour les clients d’une offre [piwigo.com](https://piwigo.com) (ce sera corrigé prochainement).
 
-</aside>
 
 Une fois ce plugin activé, lorsque l’on passe la souris sur une photo, un coeur apparaît : un clic sur ce coeur ajoute la photo aux favoris de l’utilisateur.
 
@@ -404,10 +396,9 @@ Sur la page d’un album, lorsque l’on passe la souris sur une photo, on affic
 
 Il est possible de personnaliser le contenu de cette infobulle avec le plugin **Thumbnail Tooltip**.
 
-<aside>
-⚠️ Attention : le thème Modus d’affiche pas d’infobulle sur la page Album. Ainsi, le plugin Thumbnail Tooltip n’est pas compatible avec Modus.
+!!! Warning "Attention"
+    Attention : le thème Modus d’affiche pas d’infobulle sur la page Album. Ainsi, le plugin Thumbnail Tooltip n’est pas compatible avec Modus.
 
-</aside>
 
 Une fois ce plugin activé, rendez vous dans sa configuration pour définir ce que vous souhaitez afficher dans l’infobulle, et dans quel ordre.
 

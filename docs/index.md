@@ -6,10 +6,9 @@
 
 Ici, vous pouvez trouver des réponses à la plupart des questions que vous vous posez sur l’utilisation de Piwigo : import des photos, gestion des utilisateurs, plugins et personnalisation…
 
-<aside>
-ℹ️ Votre avis est précieux ! Si vous avez une remarque sur cette doc, si une information vous manque, si vous repérez une erreur : [envoyez-nous votre retour ici](https://framaforms.org/vos-retours-sur-la-documentation-piwigo-1689089222) !
 
-</aside>
+!!! info "Votre avis est précieux !"
+    Si vous avez une remarque sur cette doc, si une information vous manque, si vous repérez une erreur : [envoyez-nous votre retour ici](https://framaforms.org/vos-retours-sur-la-documentation-piwigo-1689089222) !
 
 ## Pour démarrer…
 
