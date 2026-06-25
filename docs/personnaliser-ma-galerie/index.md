@@ -1,5 +1,4 @@
 ---
-title: Sommaire
 icon: lucide/sliders-horizontal
 ---
 
