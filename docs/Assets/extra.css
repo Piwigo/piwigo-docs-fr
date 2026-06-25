@@ -1,0 +1,4 @@
+/* Remove repo link */
+.md-header__source {
+    display: none;
+}
