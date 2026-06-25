@@ -146,15 +146,3 @@ Si vous avez besoin de gérer des droits album par album, vous pouvez installer 
 Il ajoutera à la page Albums > Propriétés un nouvel onglet, permettant de définir, sur le même principe que les autres onglets, dans quels albums les utilisateurs sont autorisés à télécharger les photos.
 
 ![fr-album-download-permissions.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-551907de.png)
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Modifier un album](modifier-un-albu)
-
-Suivant →
-
-[SmartAlbums (albums intelligents)](smartalbums-albums-intelligents)

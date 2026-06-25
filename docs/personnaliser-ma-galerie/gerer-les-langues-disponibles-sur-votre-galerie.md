@@ -108,15 +108,3 @@ Ceci est particulièrement pratique pour inclure du code HTML ou Javascript dans
 Notez que le plugin Extended Descriptions vous donne accès à d’autres fonctionnalités pour personnaliser votre galerie.
 
 [En savoir plus](personnaliser-votre-galerie-avec-des-plugins)
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Options de personnalisation de votre galerie](options-de-personnalisation-de-votre-galerie)
-
-Suivant →
-
-[Personnaliser le menu de votre galerie](personnaliser-le-menu-de-votre-galerie)

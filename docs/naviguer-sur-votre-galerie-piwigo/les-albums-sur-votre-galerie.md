@@ -413,13 +413,3 @@ Sommaire de l’article
 Le plugin **RV Thumb Scroller** permet de désactiver la pagination sur la page Album.
 
 Si vous l’activez, les miniatures des photos se chargeront progressivement au scroll sur la page, quel que soit le nombre de photos dans l’album.
-
----
-
-← Précédent
-
-[Votre galerie : présentation](votre-galerie-presentation)
-
-Suivant →
-
-[La page Photo sur votre galerie](la-page-photo-sur-votre-galerie)

@@ -152,15 +152,3 @@ En conséquence, il arrive parfois que les emails envoyés via ce formulaire n�
 Si vous rencontrez ce type de problème, vous pouvez tenter de le résoudre en modifiant l’adresse destinataire des emails (évitez les adresses Gmail ou Yahoo).
 
 Si vous ne réussissez pas à résoudre le problème, nous vous conseillons de désactiver Contact Form.
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Personnaliser le menu de votre galerie](personnaliser-le-menu-de-votre-galerie)
-
-Suivant →
-
-[Personnaliser votre galerie avec des plugins](personnaliser-votre-galerie-avec-des-plugins)

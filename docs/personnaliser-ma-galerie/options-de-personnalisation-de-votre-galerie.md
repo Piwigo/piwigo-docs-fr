@@ -132,11 +132,3 @@ Les préférences peuvent être différentes pour chaque utilisateur, mais vous 
 - Modifier vos propres préférences et celles des autres utilisateurs.
 
 [En savoir plus sur les préférences](../les-utilisateurs/creer-et-gerer-les-utilisateurs)
-
-Sommaire de l’article
-
----
-
-Suivant →
-
-[Gérer les langues disponibles sur votre galerie](gerer-les-langues-disponibles-sur-votre-galerie)

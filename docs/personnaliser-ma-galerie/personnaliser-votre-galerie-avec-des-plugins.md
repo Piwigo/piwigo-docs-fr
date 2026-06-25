@@ -364,15 +364,3 @@ L’ajout d’une photo au panier ouvre une page de paiement Paypal ; mais le vi
 Une fois qu’il a terminé ses achats, il peut payer la commande sur Paypal.
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-7ca2ec7e.png)
-
----
-
-Sommaire de l’article
-
-← Précédent
-
-[Ajouter des pages à votre galerie](ajouter-des-pages-a-votre-galerie)
-
-Suivant →
-
-[Personnaliser le CSS de votre galerie](personnaliser-le-css-de-votre-galerie)

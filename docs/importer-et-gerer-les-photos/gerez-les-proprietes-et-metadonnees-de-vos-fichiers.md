@@ -642,13 +642,3 @@ Si vous avez besoin de le faire, vous devez installer le plugin **Edit Filename*
 Une fois ce plugin activé, le nom du fichier source est modifiable dans la page d’édition d’une photo.
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-d41f0cb7.png)
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-Suivant →
-
-[Les formats multiples](les-formats-multiples)

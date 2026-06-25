@@ -98,15 +98,3 @@ Pour cela, vous devez installer le plugin **Rotate Image**.
 Une fois ce plugin activé, un nouvel onglet “Pivoter” s’ajoute dans l’écran d’édition de photo.
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-4c71679e.png)
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Les différents formats de fichiers](les-differents-formats-de-fichiers)
-
-Suivant →
-
-[Gestion par lot : Modifier et gérer une sélection de photos](gestion-par-lot-modifier-et-gerer-une-selection-de-photos)

@@ -288,15 +288,3 @@ Le menu Panier affiche tout simplement l’écran de gestion par lot, filtré su
 Pour vider le panier, cliquez sur le bouton “Vider le Panier” en dessous du filtre.
 
 ![fr-panier-vider.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-c37f1e32.png)
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Modifier ou supprimer une photo](modifier-ou-supprimer-une-photo)
-
-Suivant →
-
-[Gérez les propriétés et métadonnées de vos fichiers](gerez-les-proprietes-et-metadonnees-de-vos-fichiers)

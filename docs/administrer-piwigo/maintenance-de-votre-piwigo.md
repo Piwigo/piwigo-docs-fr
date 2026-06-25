@@ -174,15 +174,3 @@ Une fois le plugin Delete Hit/Rate activé, deux nouvelles actions de purge sont
 - Purger toutes les notes de la galerie
 
 ![fr-delete-hit-rate.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-5b1d79e3.png)
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Consultez les statistiques de votre Piwigo](consultez-les-statistiques-de-votre-piwigo)
-
-Suivant →
-
-[Plugins pour les administrateurs](plugins-pour-les-administrateurs)

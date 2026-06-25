@@ -84,16 +84,3 @@ En conséquence, les emails de notification seront correctement distribués.
 
 !!! info
     Depuis février 2024, Protect Notif est activé par défaut sur tous les nouveaux comptes créés sur piwigo.com.
-
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Les niveaux de confidentialité](les-niveaux-de-confidentialite)
-
-Suivant →
-
-[Les groupes d’utilisateurs](les-groupes-dutilisateurs)

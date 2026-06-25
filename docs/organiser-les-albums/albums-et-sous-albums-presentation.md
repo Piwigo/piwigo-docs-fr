@@ -47,11 +47,3 @@ Si un album n’a pas de sous-albums, on affiche le nombre de photos. Ainsi, lor
 Pour en savoir plus sur la page Album et connaître toutes les possibilités pour la personnaliser, lisez l’article suivant :
 
 [Les albums sur votre galerie](../naviguer-sur-votre-galerie-piwigo/les-albums-sur-votre-galerie)
-
-Sommaire de l’article
-
----
-
-Suivant →
-
-[Comment créer un album ?](comment-creer-un-albu)

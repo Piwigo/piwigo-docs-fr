@@ -69,16 +69,4 @@ Dans nos [offres tarifaires](https://fr.piwigo.com/tarifs), nous mentionnons le 
 
 Ce statut n’est pas un type d’utilisateur à proprement parler : il qualifie les utilisateurs non administrateurs autorisés à importer des fichiers dans Piwigo lorsque le plugin Community est activé. 
 
-Pour en savoir plus, lisez cet article : [Gérer les contributeurs (plugin Community)](gerer-les-contributeurs-plugin-community) 
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Se connecter à Piwigo](se-connecter-a-piwigo)
-
-Suivant →
-
-[Créer et gérer les utilisateurs](creer-et-gerer-les-utilisateurs)
+Pour en savoir plus, lisez cet article : [Gérer les contributeurs (plugin Community)](gerer-les-contributeurs-plugin-community)

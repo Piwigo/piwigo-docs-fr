@@ -32,16 +32,3 @@ En ajoutant du code CSS personnalisé par ce biais, vous êtes certain de ne pas
 
 !!! Warning "Attention"
     Si vous hébergez vous-même votre Piwigo, ne modifiez pas directement les fichiers d’installation ! Sinon, vous modifications seront écrasées à la prochaine mise à jour.
-
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Personnaliser votre galerie avec des plugins](personnaliser-votre-galerie-avec-des-plugins)
-
-Suivant →
-
-[Ajouter une bannière personnalisée à votre galerie](ajouter-banniere-personnalisee-piwigo)

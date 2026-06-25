@@ -162,14 +162,3 @@ Les personnes concernées recevront un email contenant un lien vers l’album, a
 
 !!! info
     Attention : avant d’envoyer une notification, pensez à vérifier que les utilisateurs ont bien accès à cet album dans l’onglet Permissions.
-
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Gérez vos albums](gerez-vos-albums)
-
-Suivant →

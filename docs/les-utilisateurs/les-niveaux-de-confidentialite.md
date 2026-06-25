@@ -48,16 +48,3 @@ C’est une gestion de droits “en cascade”, un peu complexe à appréhender 
 
 !!! info
     Si les libellés Admin, Famille, Amis et Contacts ne vous conviennent pas, sachez qu’il est possible de les personnaliser en contactant le support si vous avez un compte sur piwigo.com. En revanche, il n’est pas possible d’ajouter un niveau de confidentialité supplémentaire.
-
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Créer et gérer les utilisateurs](creer-et-gerer-les-utilisateurs)
-
-Suivant →
-
-[Envoyer des emails de notification aux utilisateurs](envoyer-des-emails-de-notification-aux-utilisateurs)

@@ -161,15 +161,3 @@ Une fois votre sélection de tags terminée, cliquez sur l’action de votre cho
 Lisez cet article pour découvrir comment utiliser les tags sur votre galerie, ainsi que des options et plugins pour aller plus loin dans l’utilisation des tags.
 
 [Les tags sur votre galerie](../naviguer-sur-votre-galerie-piwigo/les-tags-sur-votre-galerie)
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Les tags : présentation](les-tags-presentation)
-
-Suivant →
-
-[Tag Recognition : Taguez automatiquement vos photos par IA](tag-recognition-piwigo)

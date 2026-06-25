@@ -34,12 +34,4 @@ Si vous cochez cette option, les utilisateurs pourront eux-mêmes modifier leurs
 
 Les préférences sont des options de visualisation : thème, langue, nombre de photos par page… [En savoir plus sur les préférences](creer-et-gerer-les-utilisateurs)
 
-Si vous décochez cette option, les utilisateurs ne pourront pas modifier leurs préférences. 
-
-Sommaire de l’article
-
----
-
-Suivant →
-
-[Se connecter à Piwigo](se-connecter-a-piwigo)
+Si vous décochez cette option, les utilisateurs ne pourront pas modifier leurs préférences.

@@ -100,15 +100,3 @@ Vous pouvez alors cocher la liste des groupes à fusionner.
 ![fr-fusionner-groupes.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-e7ec84a2.png)
 
 Vous pouvez choisir quel groupe conserver dans la liste déroulante à droite de l’écran : tous les utilisateurs des autres groupes seront ajoutés au groupe cible, et les autres groupes seront supprimés.
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Envoyer des emails de notification aux utilisateurs](envoyer-des-emails-de-notification-aux-utilisateurs)
-
-Suivant →
-
-[Gérer les contributeurs (plugin Community)](gerer-les-contributeurs-plugin-community)

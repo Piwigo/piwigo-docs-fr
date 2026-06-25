@@ -59,11 +59,3 @@ Les tags, de leur côté, sont utilisés pour décrire le contenu.
 On peut ainsi facilement trouver toutes les photos de céramique, toutes époques confondues, en cherchant juste le tag “céramique”.
 
 Mais on peut aussi affiner sa recherche en combinant les tags “céramique” + “antiquité tardive”.
-
-Sommaire de l’article
-
----
-
-Suivant →
-
-[Créer et gérer les tags](creer-et-gerer-les-tags)

@@ -418,15 +418,3 @@ Ce plugin oblige les utilisateurs à saisir un Captcha avant de créer un compte
 Plusieurs options sont disponibles pour paramétrer votre Captcha.
 
 ![fr-captcha-creation-utilisateur.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-b8c55def.png)
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Les statuts utilisateurs](les-statuts-utilisateurs)
-
-Suivant →
-
-[Les niveaux de confidentialité](les-niveaux-de-confidentialite)

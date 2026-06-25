@@ -104,11 +104,3 @@ Pour obtenir davantage d’informations sur la personnalisation de l’apparence
 [Les thèmes](../les-themes)
 
 [Personnaliser ma galerie](../personnaliser-ma-galerie)
-
-Sommaire de l’article
-
----
-
-Suivant →
-
-[Les albums sur votre galerie](les-albums-sur-votre-galerie)

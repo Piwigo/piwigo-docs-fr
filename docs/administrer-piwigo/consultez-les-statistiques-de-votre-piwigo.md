@@ -186,11 +186,3 @@ Il arrive que les statistiques de Piwigo soient “polluées” par les visites 
 Pour les exclure, il suffit d’activer le plugin **No Stats for Robots**.
 
 Ce plugin exclut les passages des robots connus de vos statistiques de visite.
-
-Sommaire de l’article
-
----
-
-Suivant →
-
-[Maintenance de votre Piwigo](maintenance-de-votre-piwigo)

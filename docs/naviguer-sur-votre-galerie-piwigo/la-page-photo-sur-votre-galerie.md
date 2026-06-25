@@ -359,16 +359,3 @@ La page de configuration du plugin permet de paramétrer certaines options, comm
 
 !!! info
     Attention ! L’activation du plugin ne génère pas les palettes sur chaque image de votre photothèque. La palette d’une photo est générée lorsqu’elle est affichée pour la première fois après l’activation du plugin. Au début, la recherche par couleur donnera donc peu de résultats puisque les palettes de vos photos n’auront pas encore été générées.
-
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Les albums sur votre galerie](les-albums-sur-votre-galerie)
-
-Suivant →
-
-[Les tags sur votre galerie](les-tags-sur-votre-galerie)

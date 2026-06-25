@@ -117,11 +117,3 @@ Lorsqu’un administrateur visualise les commentaires d’une photo sur la galer
 Ces actions sont bien entendu disponibles également depuis la page des commentaires sur la galerie.
 
 Lorsque les administrateurs sont notifiés par email à chaque ajout de commentaire (sans validation), ils reçoivent un email qui contient un lien pour lire et éventuellement, modifier ou supprimer le commentaire.
-
-Sommaire de l’article
-
----
-
-Suivant →
-
-[Personnaliser la gestion des commentaires avec des plugins](gerer-les-notes-votes)

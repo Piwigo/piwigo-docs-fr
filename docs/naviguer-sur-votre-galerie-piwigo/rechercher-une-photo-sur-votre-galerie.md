@@ -222,15 +222,3 @@ Pour activer ou désactiver l’affichage de ce bouton et de cette icône sur vo
 Si vos photos sont correctement indexées à l’aide de tags, alors la recherche par tag peut s’avérer très puissante pour trouver une photo. Vous pouvez rechercher une photo par tag en utilisant le moteur de recherche, mais également en navigant par tags avec la fonctionnalité “Tags liés” ou un nuage de tags.
 
 Pour en savoir plus, lisez cet article : [Utilisez les tags sur votre galerie](les-tags-sur-votre-galerie)
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Les tags sur votre galerie](les-tags-sur-votre-galerie)
-
-Suivant →
-
-[Gérer ses favoris](gerer-ses-favoris)

@@ -181,15 +181,3 @@ Les couleurs des tags sont visibles sur votre galerie, dans le menu Tags Liés e
 Certains utilisateurs n’apprécient pas le terme “tag” et lui préfèrent “mot-clé”.
 
 C’est pourquoi il existe un plugin “Tag To Keyword” qui, une fois activé, remplace le mot “tag” par “mot-clé”.
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[La page Photo sur votre galerie](la-page-photo-sur-votre-galerie)
-
-Suivant →
-
-[Rechercher une photo sur votre galerie](rechercher-une-photo-sur-votre-galerie)

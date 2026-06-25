@@ -191,15 +191,3 @@ Un score inférieur à 100 est considéré comme faible. Un score compris entre 
 L’onglet Gestion permet de gérer les demandes de renouvellement de mot de passe et de déverrouiller les comptes verrouillés.
 
 ![password.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-b567532a.png)
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Utilisateurs : présentation](utilisateurs-presentation)
-
-Suivant →
-
-[Les statuts utilisateurs](les-statuts-utilisateurs)

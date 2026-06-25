@@ -199,15 +199,3 @@ Mais sur la page d’accueil, à la place du menu “Tag liés”, on affichera 
 Lorsque le plugin [Community](../les-utilisateurs/gerer-les-contributeurs-plugin-community) est activé, le plugin **Upload 1 Menu** permet d’afficher le menu “Ajouter des photos” au niveau du menu principal de la galerie, à côté du menu “Explorer”.
 
 ![fr-community-uploadmenu1.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-29ba55aa.png)
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Gérer les langues disponibles sur votre galerie](gerer-les-langues-disponibles-sur-votre-galerie)
-
-Suivant →
-
-[Ajouter des pages à votre galerie](ajouter-des-pages-a-votre-galerie)

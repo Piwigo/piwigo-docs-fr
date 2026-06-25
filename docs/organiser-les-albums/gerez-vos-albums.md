@@ -88,15 +88,3 @@ Pour supprimer un lien permanent, cliquez à nouveau sur “Ajouter / supprimer 
 Le lien supprimé apparaît désormais dans la liste “Historique des liens permanents”.
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-693d26a4.png)
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Comment créer un album ?](comment-creer-un-albu)
-
-Suivant →
-
-[Modifier un album](modifier-un-albu)

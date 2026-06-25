@@ -53,15 +53,3 @@ Une fenêtre s’ouvre, comme lorsque vous créez un album à la racine, pour ch
 Lorsque vous créez un nouvel album, qui a le droit de voir son contenu ?
 
 Pour comprendre le fonctionnement des permissions sur les albums, lisez [cet article](permissions-et-visibilite-des-albums).
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Albums et sous-albums : présentation](albums-et-sous-albums-presentation)
-
-Suivant →
-
-[Gérez vos albums](gerez-vos-albums)

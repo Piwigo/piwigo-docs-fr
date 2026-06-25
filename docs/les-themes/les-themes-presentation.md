@@ -195,11 +195,3 @@ Lorsque ce plugin est activé, lorsqu’un administrateur se connecte à la gale
 
 
 [En savoir plus sur le plugin Admin Tools](../administrer-piwigo/plugins-pour-les-administrateurs)
-
-Sommaire de l’article
-
----
-
-Suivant →
-
-[Le thème Modus](le-theme-modus)
