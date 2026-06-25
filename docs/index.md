@@ -1,7 +1,3 @@
----
-icon: lucide/braces
----
-
 # Documentation Piwigo
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-3d7abc8a.png)
@@ -57,5 +53,3 @@ L’historique des modifications apportées à cette doc est listé sur la page 
 [Historique des modifications](historique-modifications)
 
 Si vous cherchez la documentation Piwigo pour les développeurs, rendez vous sur la [page GitHub de Piwigo](https://github.com/Piwigo/Piwigo/wiki).
-
--
