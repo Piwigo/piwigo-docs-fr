@@ -1,5 +1,6 @@
 ---
 title: Sommaire
+icon: lucide/cloudy
 ---
 
 

@@ -1,3 +1,7 @@
+---
+icon: lucide/house
+---
+
 # Documentation Piwigo
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-3d7abc8a.png)
