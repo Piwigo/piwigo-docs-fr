@@ -108,11 +108,3 @@ Un moteur de recherche permet de filtrer les collections par nom et par utilisat
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-d25f9c33.png)
 
 Depuis cet écran, l’administrateur peut retrouver les collection créées, les modifier, les exporter au format CSV, et les supprimer.
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Gérer ses favoris](gerer-ses-favoris)

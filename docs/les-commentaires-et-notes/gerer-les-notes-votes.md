@@ -106,12 +106,3 @@ Une fois ce plugin activé, un onglet Albums est ajouté :
 - sur la liste page qui liste les commentaires sur la galerie
     
     ![fr-albums-comment-galerie.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-6bb31cb8.png)
-    
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Gérer les commentaires](commentaires-options-avancees)

@@ -57,5 +57,3 @@ Choisissez ensuite le dossier de votre ordinateur que vous souhaitez synchronise
 ![piwigo-remote-sync.upload.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-1a7d31fb.png)
 
 Cliquez sur Upload : le transfert démarre. Vous voyez défiler à l’écran les photos synchronisées.
-
-Sommaire de l’article

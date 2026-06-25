@@ -112,6 +112,4 @@ Dans ce cas, le fichier est correctement téléchargé sur Piwigo, et peut être
 
 Pour régler ce problème, vérifiez si la bibliothèque **External** **ImageMagick** est installée et, le cas échéant, déclarez son chemin dans la configuration locale (comme expliqué dans un chapitre précédent de cette page).
 
-Ce problème ne concerne pas que les PDF : il empêche également de générer des vignettes pour les fichiers PSD, AI, TIF, TIFF, et HEIC. 
-
-Sommaire de l’article
+Ce problème ne concerne pas que les PDF : il empêche également de générer des vignettes pour les fichiers PSD, AI, TIF, TIFF, et HEIC.

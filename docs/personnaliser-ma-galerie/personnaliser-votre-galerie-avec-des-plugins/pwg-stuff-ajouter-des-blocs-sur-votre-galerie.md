@@ -111,5 +111,3 @@ Par exemple :
 - Module 3 *BIENVENUE*, (paramètres d'affichage : ligne A, 40%, affiché en page d'accueil uniquement, visible uniquement des visiteurs connectés), pourrait contenir leur nom d'utilisateur et un mot de bienvenue.
 
 En arrivant, le visiteur voit en haut à gauche l'*EDITO*, à sa droite les *NEWS*. Quand il se connecte, *NEWS* est remplacé par *BIENVENUE*. Puis, quand il commence sa visite des albums, ces modules disparaissent pour laisser plus de place au contenu de votre galerie.
-
-Sommaire de l’article

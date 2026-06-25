@@ -194,5 +194,3 @@ Voyons ensemble ces erreurs.
 Il est possible, depuis l’administration de Piwigo, de re-synchroniser les métadonnées d’une photo en cliquant sur l’icône “synchroniser les métadonnées” depuis l’écran d’édition d’une photo.
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-7f6b4084.png)
-
-Sommaire de l’article

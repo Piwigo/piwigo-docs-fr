@@ -51,5 +51,3 @@ Pour activer ou désactiver le mode sombre, cliquez sur l’icône représentant
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-e0ab6b25.png)
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-9402b25f.png)
-
-Sommaire de l’article

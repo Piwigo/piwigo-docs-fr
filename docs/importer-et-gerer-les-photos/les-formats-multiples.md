@@ -64,11 +64,3 @@ Pour pouvoir afficher les différents formats disponibles pour une photo sur vot
 Une fois ce plugin activé, le bouton de téléchargement d’un fichier affiche les différents formats disponibles ainsi que la taille du fichier. Cliquez sur le format choisi pour le télécharger.
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-df8c2a73.png)
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Gérez les propriétés et métadonnées de vos fichiers](gerez-les-proprietes-et-metadonnees-de-vos-fichiers)

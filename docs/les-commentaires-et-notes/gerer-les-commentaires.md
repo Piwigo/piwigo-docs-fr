@@ -64,5 +64,3 @@ Le plugin Delete Hit/Rate permet de remettre à zéro les notes :
 - De toutes les photos d’un album, directement depuis l’éditeur d’album
 
 Il permet également de remettre à zéro toutes les notes de la galerie depuis la page Outils > Maintenance.
-
-Sommaire de l’article

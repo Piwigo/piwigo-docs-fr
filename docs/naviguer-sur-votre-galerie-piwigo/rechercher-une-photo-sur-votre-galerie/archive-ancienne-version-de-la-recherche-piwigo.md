@@ -94,5 +94,3 @@ Avec ce formulaire, vous pouvez saisir un mot dans la première barre de recherc
 Si vos photos sont correctement indexées à l’aide de tags, alors la recherche par tag peut s’avérer très puissante pour trouver une photo.
 
 Pour en savoir plus, lisez cet article : [Utilisez les tags sur votre galerie](../les-tags-sur-votre-galerie)
-
-Sommaire de l’article

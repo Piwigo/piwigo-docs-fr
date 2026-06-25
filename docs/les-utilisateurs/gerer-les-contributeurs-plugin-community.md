@@ -206,11 +206,3 @@ Ce plugin permet d’afficher sur la page d’une photo l’identifiant de l’u
 La configuration du plugin permet de définir à quel endroit on souhaite afficher cette information (par défaut, juste avant “Albums”).
 
 Si le plugin “See photos by user” est activé, il est possible de rendre le nom de l’utilisateur cliquable, pour permettre d’accéder à la page listant toutes les photos ajoutées par cet utilisateur.
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Les groupes d’utilisateurs](les-groupes-dutilisateurs)

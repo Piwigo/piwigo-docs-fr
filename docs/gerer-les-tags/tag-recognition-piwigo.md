@@ -89,11 +89,3 @@ Cliquez sur “Appliquer l’action” : le processus se lance. Les photos sont 
 Une fois le lot traité, les photos sont taguées ! Vous pouvez vous rendre dans l’onglet “Mode unitaire” du gestionnaire de lot pour vérifier si les tags choisis vous conviennent.
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-6afeff08.png)
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Créer et gérer les tags](creer-et-gerer-les-tags)

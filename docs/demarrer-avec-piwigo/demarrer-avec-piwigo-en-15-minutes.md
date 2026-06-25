@@ -254,5 +254,3 @@ Ce n’est pas terminé ! Il vous reste de nombreuses choses à découvrir pour 
 - [Personnaliser](../personnaliser-ma-galerie) votre galerie
 - Utiliser le [gestionnaire par lot](../importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos) pour modifier vos fichiers en masse
 - Et bien d’autres fonctionnalités qui vont vite devenir indispensables !
-
-Sommaire de l’article

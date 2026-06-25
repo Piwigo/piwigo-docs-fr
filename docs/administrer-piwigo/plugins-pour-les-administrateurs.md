@@ -357,11 +357,3 @@ Il permet de saisir le code souhaité et de choisir si on l’insère dans le he
 L’option “Exclure l'administrateur des statistiques” permet de ne pas activer le code saisi quand un administrateur est connecté.
 
 L’option “Exclure l'utilisateur non connecté des statistiques” permet de ne pas activer le code saisi quand le visiteur de la galerie n’est pas connecté.
-
-Sommaire de l’article
-
----
-
-← Précédent
-
-[Maintenance de votre Piwigo](maintenance-de-votre-piwigo)

@@ -181,5 +181,3 @@ Si vous faites ce choix, vous devez en comprendre les conséquences :
 Si vous souhaitez héberger vous-même Piwigo tout en bénéficiant du support de notre équipe, vous pouvez opter pour notre [contrat de maintenance](https://fr.piwigo.com/tarifs?plan=self_hosted).
 
 Pour en savoir plus sur l’auto-hébergement, [c’est ici](../hebergez-votre-piwigo).
-
-Sommaire de l’article
