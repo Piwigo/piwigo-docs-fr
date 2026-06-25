@@ -1,7 +1,7 @@
 # Problèmes de génération des vignettes et des miniatures
 
 !!! info
-    Lire aussi : [Importer des photos dans Piwigo](/importer-et-gerer-les-photos/importer-des-photos-dans-piwigo)
+    Lire aussi : [Importer des photos dans Piwigo](../importer-et-gerer-les-photos/importer-des-photos-dans-piwigo)
 
 Lorsque vous téléchargez des fichiers sur Piwigo, tout un processus se met en route. Les fichiers sont téléchargés sur le serveur mais aussi enregistrés dans la base de données, et d'autres fichiers sont générés à la volée :
 
@@ -72,7 +72,7 @@ Pour vérifier quelle bibliothèque graphique est utilisée dans votre environne
 
 ## 2- Problèmes de génération de miniatures vidéo
 
-Vous pouvez télécharger des vidéos sur votre Piwigo en utilisant le plugin VideoJS et en ajoutant du code à votre configuration locale [(comme expliqué ici).](/importer-et-gerer-les-photos/les-differents-formats-de-fichiers)
+Vous pouvez télécharger des vidéos sur votre Piwigo en utilisant le plugin VideoJS et en ajoutant du code à votre configuration locale [(comme expliqué ici).](../importer-et-gerer-les-photos/les-differents-formats-de-fichiers)
 
 Mais ce plugin a besoin de la bibliothèque **ffmpeg** pour fonctionner correctement. Si elle n'est pas installée sur votre serveur, Piwigo ne pourra pas exécuter la commande qui génère les vignettes.
 
@@ -96,7 +96,7 @@ Si vous avez besoin de plus de support technique sur ce sujet, consultez la [doc
 
 ## 3- Problèmes de génération de vignettes PDF, PSD, HEIC et autres formats
 
-Vous pouvez télécharger des fichiers PDF sur Piwigo, [comme expliqué ici](/importer-et-gerer-les-photos/les-differents-formats-de-fichiers).
+Vous pouvez télécharger des fichiers PDF sur Piwigo, [comme expliqué ici](../importer-et-gerer-les-photos/les-differents-formats-de-fichiers).
 
 Piwigo génère une vignette pour représenter votre fichier PDF, en extrayant la première page du fichier et en la convertissant en image.
 

@@ -56,7 +56,7 @@ Les blocs “Menu” et “Spéciales” sur une galerie avec le thème Modus
     - Commentaires
     - Notifications
 - La ligne “Albums liés” ne s’affiche que sur la page d’une photo
-- La ligne “Liens” correspond aux liens externes qui peuvent être ajoutés dans la configuration de Piwigo (avec [LocalFile Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) si votre Piwigo est auto-hébergé, ou avec le plugin [Advanced Menu Manager](/personnaliser-ma-galerie/personnaliser-le-menu-de-votre-galerie))
+- La ligne “Liens” correspond aux liens externes qui peuvent être ajoutés dans la configuration de Piwigo (avec [LocalFile Editor](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) si votre Piwigo est auto-hébergé, ou avec le plugin [Advanced Menu Manager](personnaliser-le-menu-de-votre-galerie))
 
 Pour modifier l’ordre d’affichage des points de menus, il suffit de procéder par “drag and drop” (glisser-déposer) et d’enregistrer les paramètres.
 
@@ -78,8 +78,8 @@ Le plugin Advanced Menu Manager offre des options supplémentaires pour la perso
 
 Cet onglet permet, comme sur la page de configuration du menu dans l’administration, de réordonner les points de menu en “drag and drop”. Il permet également modifier la visibilité de certains points de menu en fonction des utilisateurs :
 
-- par [statut utilisateur](/les-utilisateurs/les-statuts-utilisateurs) dans la colonne de gauche (administrateur, webmaster, visiteur, invité…)
-- par [groupe d’utilisateurs](/les-utilisateurs/les-groupes-dutilisateurs) dans la colonne de droite
+- par [statut utilisateur](../les-utilisateurs/les-statuts-utilisateurs) dans la colonne de gauche (administrateur, webmaster, visiteur, invité…)
+- par [groupe d’utilisateurs](../les-utilisateurs/les-groupes-dutilisateurs) dans la colonne de droite
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-6a0ce627.png)
 
@@ -139,7 +139,7 @@ Le plugin **See My Photos** permet d’ajouter un point de menu “Mes photos”
     Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
 
-Ce lien permet à un utilisateur de voir toutes les photos qu’il a lui même importées dans Piwigo. C’est particulièrement utile lorsque vous utilisez le plugin [Community](/les-utilisateurs/gerer-les-contributeurs-plugin-community).
+Ce lien permet à un utilisateur de voir toutes les photos qu’il a lui même importées dans Piwigo. C’est particulièrement utile lorsque vous utilisez le plugin [Community](../les-utilisateurs/gerer-les-contributeurs-plugin-community).
 
 ### See photos by user : Ajout d’un menu “Utilisateurs”
 
@@ -188,7 +188,7 @@ Mais sur la page d’accueil, à la place du menu “Tag liés”, on affichera 
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-c813024c.png)
 
-[En savoir plus sur les tags sur votre galerie](/naviguer-sur-votre-galerie-piwigo/les-tags-sur-votre-galerie)
+[En savoir plus sur les tags sur votre galerie](../naviguer-sur-votre-galerie-piwigo/les-tags-sur-votre-galerie)
 
 ### **Upload 1 Menu : ajout d’un menu “Ajoutez des photos”**
 
@@ -196,7 +196,7 @@ Mais sur la page d’accueil, à la place du menu “Tag liés”, on affichera 
     Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
 
-Lorsque le plugin [Community](/les-utilisateurs/gerer-les-contributeurs-plugin-community) est activé, le plugin **Upload 1 Menu** permet d’afficher le menu “Ajouter des photos” au niveau du menu principal de la galerie, à côté du menu “Explorer”.
+Lorsque le plugin [Community](../les-utilisateurs/gerer-les-contributeurs-plugin-community) est activé, le plugin **Upload 1 Menu** permet d’afficher le menu “Ajouter des photos” au niveau du menu principal de la galerie, à côté du menu “Explorer”.
 
 ![fr-community-uploadmenu1.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-29ba55aa.png)
 
@@ -206,8 +206,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Gérer les langues disponibles sur votre galerie](/personnaliser-ma-galerie/gerer-les-langues-disponibles-sur-votre-galerie)
+[Gérer les langues disponibles sur votre galerie](gerer-les-langues-disponibles-sur-votre-galerie)
 
 Suivant →
 
-[Ajouter des pages à votre galerie](/personnaliser-ma-galerie/ajouter-des-pages-a-votre-galerie)
+[Ajouter des pages à votre galerie](ajouter-des-pages-a-votre-galerie)

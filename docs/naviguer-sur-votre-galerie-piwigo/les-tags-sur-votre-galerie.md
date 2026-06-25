@@ -4,11 +4,11 @@
 
 Pour en savoir plus sur les tags, lisez également ces articles:
 
-[Les tags : présentation](/gerer-les-tags/les-tags-presentation)
+[Les tags : présentation](../gerer-les-tags/les-tags-presentation)
 
-[Créer et gérer les tags](/gerer-les-tags/creer-et-gerer-les-tags)
+[Créer et gérer les tags](../gerer-les-tags/creer-et-gerer-les-tags)
 
-[Tag Recognition : Taguez automatiquement vos photos par IA](/gerer-les-tags/tag-recognition-piwigo)
+[Tag Recognition : Taguez automatiquement vos photos par IA](../gerer-les-tags/tag-recognition-piwigo)
 
 ## Utiliser les tags sur votre galerie
 
@@ -62,7 +62,7 @@ Cliquez sur le filtre “Tag” pour ajouter un ou plusieurs tags à votre reche
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-79347649.png)
 
-[En savoir plus sur le moteur de recherche](/naviguer-sur-votre-galerie-piwigo/rechercher-une-photo-sur-votre-galerie)
+[En savoir plus sur le moteur de recherche](rechercher-une-photo-sur-votre-galerie)
 
 ## Personnaliser la gestion des tags avec des plugins
 
@@ -72,7 +72,7 @@ Vous souhaitez afficher un nuage de tags sur la page d’accueil de votre galeri
 
 C’est possible en activant le plugin **PWG Stuffs**.
 
-[En savoir plus](/personnaliser-ma-galerie/personnaliser-votre-galerie-avec-des-plugins/pwg-stuff-ajouter-des-blocs-sur-votre-galerie) 
+[En savoir plus](../personnaliser-ma-galerie/personnaliser-votre-galerie-avec-des-plugins/pwg-stuff-ajouter-des-blocs-sur-votre-galerie) 
 
 ### Menu Tags: Lister tous les tags dans le menu
 
@@ -188,8 +188,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[La page Photo sur votre galerie](/naviguer-sur-votre-galerie-piwigo/la-page-photo-sur-votre-galerie)
+[La page Photo sur votre galerie](la-page-photo-sur-votre-galerie)
 
 Suivant →
 
-[Rechercher une photo sur votre galerie](/naviguer-sur-votre-galerie-piwigo/rechercher-une-photo-sur-votre-galerie)
+[Rechercher une photo sur votre galerie](rechercher-une-photo-sur-votre-galerie)

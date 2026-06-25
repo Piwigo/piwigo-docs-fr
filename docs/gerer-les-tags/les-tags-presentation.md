@@ -17,7 +17,7 @@ Les tags ont plusieurs utilités et plusieurs façons d’être utilisés.
 
 ### **Moteur de recherche**
 
-Tout d’abord, lorsque vous tapez une recherche dans le moteur de recherche de votre galerie, ou dans l’administration de Piwigo, les libellés des tags sont pris en compte : c’est donc un moyen de retrouver facilement toutes les photos correspondant à un critère. Vous pouvez également utiliser les filtres de la barre de recherche pour rechercher des photos liées à un ou plusieurs tags. [En savoir plus sur la recherche dans Piwigo](/naviguer-sur-votre-galerie-piwigo/rechercher-une-photo-sur-votre-galerie)
+Tout d’abord, lorsque vous tapez une recherche dans le moteur de recherche de votre galerie, ou dans l’administration de Piwigo, les libellés des tags sont pris en compte : c’est donc un moyen de retrouver facilement toutes les photos correspondant à un critère. Vous pouvez également utiliser les filtres de la barre de recherche pour rechercher des photos liées à un ou plusieurs tags. [En savoir plus sur la recherche dans Piwigo](../naviguer-sur-votre-galerie-piwigo/rechercher-une-photo-sur-votre-galerie)
 
 ### **Nuage de tags**
 
@@ -41,7 +41,7 @@ Si vous passez à nouveau la souris sur le menu “Tags liés”, vous ne voyez 
 
 Pour en savoir plus sur l’utilisation des tags sur votre galerie, lisez cet article :
 
-[Les tags sur votre galerie](/naviguer-sur-votre-galerie-piwigo/les-tags-sur-votre-galerie)
+[Les tags sur votre galerie](../naviguer-sur-votre-galerie-piwigo/les-tags-sur-votre-galerie)
 
 ## Exemple d’utilisation des tags : le Musée Archea
 
@@ -66,4 +66,4 @@ Sommaire de l’article
 
 Suivant →
 
-[Créer et gérer les tags](/gerer-les-tags/creer-et-gerer-les-tags)
+[Créer et gérer les tags](creer-et-gerer-les-tags)

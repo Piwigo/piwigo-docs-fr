@@ -8,7 +8,7 @@ Or, parfois, vous souhaitez autoriser certains utilisateurs à importer des fich
 
 - Vous travaillez avec un photographe, et pour gagner du temps, vous souhaitez qu’il envoie son dernier shooting directement sur Piwigo pour faire le tri, plutôt que passer par un CD ou un transfert de fichiers ;
 - Certains membres de votre équipe sont chargés de créer des fichiers (photos retouchées, créations graphiques, brochures…) ; vous ne voulez pas qu’ils soient obligés de passer par un administrateur pour les ajouter à Piwigo, mais vous ne souhaitez pas non plus leur donner les droits d’administration.
-- Des utilisateurs sur le terrain doivent envoyer des photos prises sur site (agents de maintenance, chefs de chantier, responsables de site…). Leur permettre de les ajouter directement à Piwigo fait gagner du temps à tout le monde (surtout s’ ils utilisent [l’application mobile Piwigo](/les-applications-mobiles) pour iOS ou Android !).
+- Des utilisateurs sur le terrain doivent envoyer des photos prises sur site (agents de maintenance, chefs de chantier, responsables de site…). Leur permettre de les ajouter directement à Piwigo fait gagner du temps à tout le monde (surtout s’ ils utilisent [l’application mobile Piwigo](../les-applications-mobiles) pour iOS ou Android !).
 
 Si vous utilisez Piwigo dans un contexte familial, amical ou dans un club, vous pouvez également donner à d’autres personnes la possibilité d’envoyer leurs photos sur votre Piwigo.
 
@@ -47,7 +47,7 @@ Définissez ici qui a le droit d’ajouter des photos depuis la galerie :
 - N’importe quel visiteur (même anonyme)
 - N’importe quel utilisateur enregistré
 - Un utilisateur en particulier : vous pouvez alors choisir l’utilisateur en question
-- Un groupe d’utilisateur en particulier : vous pouvez créer un groupe Contributeurs, ce qui est le plus pratique. [En savoir plus sur les groupes d’utilisateurs](/les-utilisateurs/les-groupes-dutilisateurs)
+- Un groupe d’utilisateur en particulier : vous pouvez créer un groupe Contributeurs, ce qui est le plus pratique. [En savoir plus sur les groupes d’utilisateurs](les-groupes-dutilisateurs)
 
 **Où ?**
 
@@ -167,7 +167,7 @@ Cet onglet liste les photos en attente de validation.
 
 Pour chaque photo, vous pouvez voir ses paramètres, l’agrandir en cliquant sur “Zoom” et l’éditer en cliquant sur “Editer”. Vous pouvez ainsi ajuster les propriétés de l’image (titre, description, album, tags…) avant de la mettre définitivement en ligne.
 
-Vous pouvez enfin ajuster le niveau de confidentialité des photos grâce à la liste déroulante en dessous du texte “Qui peut voir ces photos” ? (en savoir plus sur les [niveaux de confidentialité](/les-utilisateurs/les-niveaux-de-confidentialite)). Si vous n’utilisez pas les niveaux de confidentialité sur votre galerie, laissez la liste déroulante sur “Tout le monde”.
+Vous pouvez enfin ajuster le niveau de confidentialité des photos grâce à la liste déroulante en dessous du texte “Qui peut voir ces photos” ? (en savoir plus sur les [niveaux de confidentialité](les-niveaux-de-confidentialite)). Si vous n’utilisez pas les niveaux de confidentialité sur votre galerie, laissez la liste déroulante sur “Tout le monde”.
 
 Ensuite, il suffit de cocher les photos et de cliquer sur “Valider” (mettre en ligne les photos) ou “Rejeter” (refuser la mise en ligne des photos).
 
@@ -189,13 +189,13 @@ Ce plugin permet d’afficher le menu “Ajouter des photos” au niveau du menu
 
 Ce plugin permet d’ajouter un menu “Mes photos” sur la galerie. Ainsi, chaque utilisateur peut facilement visualiser les photos qu’il a ajoutées à la galerie, sous albums confondus.
 
-[En savoir plus](/personnaliser-ma-galerie/personnaliser-le-menu-de-votre-galerie)
+[En savoir plus](../personnaliser-ma-galerie/personnaliser-le-menu-de-votre-galerie)
 
 ### **See photos by user**
 
 Ce plugin permet aux visiteurs de la galerie de filtrer facilement les photos en fonction de l’utilisateur qui les a ajoutées.
 
-[En savoir plus](/personnaliser-ma-galerie/personnaliser-le-menu-de-votre-galerie)
+[En savoir plus](../personnaliser-ma-galerie/personnaliser-le-menu-de-votre-galerie)
 
 ### **Photo added by**
 
@@ -213,4 +213,4 @@ Sommaire de l’article
 
 ← Précédent
 
-[Les groupes d’utilisateurs](/les-utilisateurs/les-groupes-dutilisateurs)
+[Les groupes d’utilisateurs](les-groupes-dutilisateurs)

@@ -2,8 +2,8 @@
 
 Il existe différents moyens de personnaliser votre galerie Piwigo :
 
-- En choisissant et en configurant le [thème](/les-themes) de votre choix
-- En installant des [plugins](/les-plugins)
+- En choisissant et en configurant le [thème](../les-themes) de votre choix
+- En installant des [plugins](../les-plugins)
 - Mais il faut également explorer les différentes options de configuration standard de Piwigo. C’est ce que nous présentons dans cet article.
 
 Pour cela, rendez-vous dans d’administration, Menu Configuration > Options. Ce menu centralise différentes options de personnalisation de votre galerie Piwigo.
@@ -32,7 +32,7 @@ La zone “Bannière des pages” vous permet de créer une bannière qui s’af
 
 Pour en savoir plus sur la création de bannières pour votre galerie Piwigo, lisez cet article :
 
-[Ajouter une bannière personnalisée à votre galerie](/personnaliser-ma-galerie/ajouter-banniere-personnalisee-piwigo)
+[Ajouter une bannière personnalisée à votre galerie](ajouter-banniere-personnalisee-piwigo)
 
 **Modifier l’ordre d’affichage des photos**
 
@@ -42,11 +42,11 @@ C’est ici que vous pouvez également modifier l’ordre d’affichage des phot
 
 ![fr-config-permissions.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-4f39b61c.png)
 
-C’est ici que vous pouvez choisir si vous activez ou non les notes sur votre galerie (option “Permettre les notations”). [En savoir plus sur les notes](/les-commentaires-et-notes/gerer-les-notes-votes)
+C’est ici que vous pouvez choisir si vous activez ou non les notes sur votre galerie (option “Permettre les notations”). [En savoir plus sur les notes](../les-commentaires-et-notes/gerer-les-notes-votes)
 
-C’est également ici que vous allez choisir si vous acceptez ou non que les utilisateurs puissent créer un compte en autonomie (option “Permettre l’enregistrement des utilisateurs”). [En savoir plus sur les utilisateurs](/les-utilisateurs/creer-et-gerer-les-utilisateurs)
+C’est également ici que vous allez choisir si vous acceptez ou non que les utilisateurs puissent créer un compte en autonomie (option “Permettre l’enregistrement des utilisateurs”). [En savoir plus sur les utilisateurs](../les-utilisateurs/creer-et-gerer-les-utilisateurs)
 
-Enfin, vous pouvez ici autoriser ou pas les utilisateurs à personnaliser leurs préférences d’affichage depuis la galerie (en activant ou pas le menu “Personnaliser”). [En savoir plus sur les préférences](/les-utilisateurs/creer-et-gerer-les-utilisateurs)
+Enfin, vous pouvez ici autoriser ou pas les utilisateurs à personnaliser leurs préférences d’affichage depuis la galerie (en activant ou pas le menu “Personnaliser”). [En savoir plus sur les préférences](../les-utilisateurs/creer-et-gerer-les-utilisateurs)
 
 ### Divers
 
@@ -64,13 +64,13 @@ Les options disponibles dans la section Divers ne sont pas vraiment relatives à
 
 Cet onglet permet de personnaliser les tailles de photos disponibles sur votre galerie.
 
-[En savoir plus sur les tailles de photos](/naviguer-sur-votre-galerie-piwigo/la-page-photo-sur-votre-galerie)
+[En savoir plus sur les tailles de photos](../naviguer-sur-votre-galerie-piwigo/la-page-photo-sur-votre-galerie)
 
 ## Onglet Filigrane
 
 Cet onglet permet d’afficher automatiquement un filigrane sur toutes les photos affichées sur votre galerie.
 
-[En savoir plus sur les filigranes](/naviguer-sur-votre-galerie-piwigo/la-page-photo-sur-votre-galerie)
+[En savoir plus sur les filigranes](../naviguer-sur-votre-galerie-piwigo/la-page-photo-sur-votre-galerie)
 
 ## Onglet Afficher
 
@@ -106,13 +106,13 @@ La section “Propriétés de la photo” permet de choisir les propriétés aff
 
 ![fr-config-proprietes.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-4d831bde.png)
 
-[En savoir plus sur les propriétés](/importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers)
+[En savoir plus sur les propriétés](../importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers)
 
 ## Onglet Commentaires
 
 Cet onglet permet d’activer ou de désactiver les commentaires sur votre galerie, et de paramétrer certaines options relatives aux commentaires.
 
-[En savoir plus sur les commentaires](/les-commentaires-et-notes/commentaires-options-avancees)
+[En savoir plus sur les commentaires](../les-commentaires-et-notes/commentaires-options-avancees)
 
 ## Personnaliser l’apparence de votre galerie via les préférences
 
@@ -131,7 +131,7 @@ Les préférences peuvent être différentes pour chaque utilisateur, mais vous 
 - Définir les préférences de l’utilisateur “guest” (visiteurs anonymes de votre galerie, non connectés)
 - Modifier vos propres préférences et celles des autres utilisateurs.
 
-[En savoir plus sur les préférences](/les-utilisateurs/creer-et-gerer-les-utilisateurs)
+[En savoir plus sur les préférences](../les-utilisateurs/creer-et-gerer-les-utilisateurs)
 
 Sommaire de l’article
 
@@ -139,4 +139,4 @@ Sommaire de l’article
 
 Suivant →
 
-[Gérer les langues disponibles sur votre galerie](/personnaliser-ma-galerie/gerer-les-langues-disponibles-sur-votre-galerie)
+[Gérer les langues disponibles sur votre galerie](gerer-les-langues-disponibles-sur-votre-galerie)

@@ -32,7 +32,7 @@ Pour éviter cela, nous vous conseillons de respecter quelques bonnes pratiques�
 
 - Ne cochez pas l’option “Autoriser les utilisateurs à donner un lien vers leur site web” : lorsque tout le monde peut laisser un commentaire sur un site, cette option est très appréciée des spammeurs ;
 - Obligez les utilisateurs à donner des informations pour laisser un commentaire (adresse email, nom d’utilisateur)
-- Si nécessaire, ajoutez un contrôle antispam sur les commentaires (pour en savoir plus, visitez la page [Commentaires : options avancées](/les-commentaires-et-notes/gerer-les-notes-votes))
+- Si nécessaire, ajoutez un contrôle antispam sur les commentaires (pour en savoir plus, visitez la page [Commentaires : options avancées](gerer-les-notes-votes))
 
 ## Affichage des commentaires sur la galerie
 
@@ -124,4 +124,4 @@ Sommaire de l’article
 
 Suivant →
 
-[Personnaliser la gestion des commentaires avec des plugins](/les-commentaires-et-notes/gerer-les-notes-votes)
+[Personnaliser la gestion des commentaires avec des plugins](gerer-les-notes-votes)

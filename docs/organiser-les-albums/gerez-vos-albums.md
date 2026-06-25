@@ -47,7 +47,7 @@ Depuis la liste, vous pouvez importer des fichier dans un album donné en cliqua
 
 ![fr-ajout-photo-depuis-album.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-63b2fee7.png)
 
-Cela vous amène sur l’écran [d’import de fichier](/importer-et-gerer-les-photos/importer-des-photos-dans-piwigo), positionné sur l’album choisi.
+Cela vous amène sur l’écran [d’import de fichier](../importer-et-gerer-les-photos/importer-des-photos-dans-piwigo), positionné sur l’album choisi.
 
 ## Voir le contenu d’un album
 
@@ -95,8 +95,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Comment créer un album ?](/organiser-les-albums/comment-creer-un-albu)
+[Comment créer un album ?](comment-creer-un-albu)
 
 Suivant →
 
-[Modifier un album](/organiser-les-albums/modifier-un-albu)
+[Modifier un album](modifier-un-albu)

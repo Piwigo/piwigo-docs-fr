@@ -3,7 +3,7 @@
 Il existe différentes possibilités pour importer des fichiers dans Piwigo. 
 
 !!! info
-    Nous parlons le plus souvent de photos, mais ce qui est valable pour les photos est valable en général pour n'importe quel type d'image, de vidéo, ou de document (voir l'article : [Les différents formats de fichiers dans Piwigo](/importer-et-gerer-les-photos/les-differents-formats-de-fichiers)).
+    Nous parlons le plus souvent de photos, mais ce qui est valable pour les photos est valable en général pour n'importe quel type d'image, de vidéo, ou de document (voir l'article : [Les différents formats de fichiers dans Piwigo](les-differents-formats-de-fichiers)).
 
 
 Cet article vous permet de découvrir comment ajouter des fichiers :
@@ -114,7 +114,7 @@ Vous avez la possibilité d’apporter des modifications aux fichiers de votre i
 
 ![fr-edition-photos-import.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-92097be6.png)
 
-Pour comprendre comment utiliser la gestion par lot, [lisez cet article](/importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos).
+Pour comprendre comment utiliser la gestion par lot, [lisez cet article](gestion-par-lot-modifier-et-gerer-une-selection-de-photos).
 
 ## **Importez des photos depuis votre galerie**
 
@@ -122,11 +122,11 @@ Vous souhaitez qu'un utilisateur puisse ajouter des photos dans Piwigo, sans êt
 
 Ce plugin permet de donner le droit aux utilisateurs non administrateurs d'ajouter des photos dans Piwigo, depuis une page dédiée de votre galerie.
 
-[Consultez la documentation de Community](/les-utilisateurs/gerer-les-contributeurs-plugin-community)
+[Consultez la documentation de Community](../les-utilisateurs/gerer-les-contributeurs-plugin-community)
 
 ## **Importez des fichiers depuis votre téléphone mobile**
 
-Vous pouvez connecter votre téléphone ou votre tablette à Piwigo pour y créer des albums et ajouter des photos et vidéos vers votre galerie. Pour cela, installez une des [applications mobiles](/les-applications-mobiles) officielles Piwigo.
+Vous pouvez connecter votre téléphone ou votre tablette à Piwigo pour y créer des albums et ajouter des photos et vidéos vers votre galerie. Pour cela, installez une des [applications mobiles](../les-applications-mobiles) officielles Piwigo.
 
 ## **Importez des fichiers depuis un répertoire de votre ordinateur avec Piwigo Remote Sync**
 
@@ -138,7 +138,7 @@ Pour cela, vous devez installer l’application [Piwigo Remote Sync](https://piw
 
 Pour en savoir plus, lisez la documentation dédiée en cliquant sur le lien ci-dessous :
 
-[Documentation : Piwigo Remote Sync](/importer-et-gerer-les-photos/importer-des-photos-dans-piwigo/documentation-piwigo-remote-sync)
+[Documentation : Piwigo Remote Sync](importer-des-photos-dans-piwigo/documentation-piwigo-remote-sync)
 
 ## **Importez et synchronisez un répertoire de votre ordinateur en FTP**
 
@@ -148,7 +148,7 @@ Pour cela, vous aurez besoin d’un logiciel client FTP.
 
 Pour en savoir plus, lisez l’article ci-dessous.
 
-[Import et synchronisation de photos FTP](/hebergez-votre-piwigo/import-et-synchronisation-de-photos-ftp)
+[Import et synchronisation de photos FTP](../hebergez-votre-piwigo/import-et-synchronisation-de-photos-ftp)
 
 ## **Importez des fichiers depuis Adobe Lightroom**
 
@@ -158,7 +158,7 @@ Si vous utilisez le gestionnaire de photos Adobe Lightroom, vous pouvez installe
 
 Une documentation du plugin Lightroom pour Piwigo existe, mais attention : elle date de la version 1.6.2 r1034 du plugin. Nous en sommes aujourd’hui à la version 3.1.0 (publiée en octobre 2021), elle peut donc être incomplète.
 
-[Documentation : Plugin Piwigo pour Lightroom](/importer-et-gerer-les-photos/importer-des-photos-dans-piwigo/documentation-plugin-piwigo-pour-lightroo)
+[Documentation : Plugin Piwigo pour Lightroom](importer-des-photos-dans-piwigo/documentation-plugin-piwigo-pour-lightroo)
 
 ## **Importez des fichiers depuis Digikam**
 
@@ -232,4 +232,4 @@ Sommaire de l’article
 
 Suivant →
 
-[Les différents formats de fichiers](/importer-et-gerer-les-photos/les-differents-formats-de-fichiers)
+[Les différents formats de fichiers](les-differents-formats-de-fichiers)

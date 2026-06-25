@@ -41,7 +41,7 @@ Continuez ainsi autant que vous le souhaitez. La liste des utilisateurs associé
 
 Vous pouvez également, si vous préférez, passer par la liste des utilisateurs pour les associer à un groupe. Vous pouvez ainsi associer manuellement chaque utilisateur à un ou plusieurs groupes, ou affecter des utilisateurs à des groupes en masse via le mode sélection.
 
-Pour en savoir plus, [lisez l’article sur la gestion des utilisateurs](/les-utilisateurs/creer-et-gerer-les-utilisateurs).
+Pour en savoir plus, [lisez l’article sur la gestion des utilisateurs](creer-et-gerer-les-utilisateurs).
 
 ## Gérer les permissions d’un groupe
 
@@ -55,7 +55,7 @@ Pour autoriser des albums aux membres d’un groupe, il suffit de déplacer les 
 
 Pour définir les groupes autorisés pour un album en particulier, vous pouvez également passer par la liste des albums et l’éditeur d’album. L’onglet Permissions, lorsque l’on modifie un album, permet de définir les groupes autorisés à voir l’album.
 
-[En savoir plus sur les permissions sur les albums](/organiser-les-albums/permissions-et-visibilite-des-albums)
+[En savoir plus sur les permissions sur les albums](../organiser-les-albums/permissions-et-visibilite-des-albums)
 
 ![fr-permissions-groupes-album.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-b5b5ba10.png)
 
@@ -107,8 +107,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Envoyer des emails de notification aux utilisateurs](/les-utilisateurs/envoyer-des-emails-de-notification-aux-utilisateurs)
+[Envoyer des emails de notification aux utilisateurs](envoyer-des-emails-de-notification-aux-utilisateurs)
 
 Suivant →
 
-[Gérer les contributeurs (plugin Community)](/les-utilisateurs/gerer-les-contributeurs-plugin-community)
+[Gérer les contributeurs (plugin Community)](gerer-les-contributeurs-plugin-community)

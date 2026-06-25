@@ -28,12 +28,12 @@ Cette fenêtre permet de définir les informations suivantes pour votre utilisat
 
 - nom d’utilisateur (identifiant qui permet de se connecter à Piwigo)
 - email
-- statut ([en savoir plus sur les statuts](/les-utilisateurs/les-statuts-utilisateurs))
-- niveau de confidentialité ([en savoir plus sur les niveaux de confidentialité](/les-utilisateurs/les-niveaux-de-confidentialite))
-- groupe(s) ([en savoir plus sur les groupes d’utilisateurs](/les-utilisateurs/les-groupes-dutilisateurs))
+- statut ([en savoir plus sur les statuts](les-statuts-utilisateurs))
+- niveau de confidentialité ([en savoir plus sur les niveaux de confidentialité](les-niveaux-de-confidentialite))
+- groupe(s) ([en savoir plus sur les groupes d’utilisateurs](les-groupes-dutilisateurs))
 - autorisation ou pas de télécharger des fichiers sur la galerie
 
-Par défaut, les nouveaux utilisateurs héritent des mêmes préférences que l’utilisateur “Invité” (dont on parle [un peu plus tard](/les-utilisateurs/creer-et-gerer-les-utilisateurs) dans cette page).
+Par défaut, les nouveaux utilisateurs héritent des mêmes préférences que l’utilisateur “Invité” (dont on parle [un peu plus tard](creer-et-gerer-les-utilisateurs) dans cette page).
 
 Une fois que vous avez créé un nouvel utilisateur, vous pouvez le modifier pour personnaliser son profil.
 
@@ -92,7 +92,7 @@ Cette fenêtre permet :
 
 Dans Piwigo, on peut définir si un album est privé ou public. Si il est privé, alors seuls les utilisateurs autorisés pourront le voir dans la galerie.
 
-Pour en savoir plus sur les permissions sur les albums, [lisez cet article](/organiser-les-albums/permissions-et-visibilite-des-albums).
+Pour en savoir plus sur les permissions sur les albums, [lisez cet article](../organiser-les-albums/permissions-et-visibilite-des-albums).
 
 Depuis la fenêtre de modification d’un utilisateur, cliquez sur “Permissions” pour visualiser et modifier les albums qu’il a le droit de consulter.
 
@@ -108,7 +108,7 @@ Pour modifier les albums auquel l’utilisateur a accès, il suffit de les dépl
 ![fr-permissions-utilisateurs-2.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-9d65449e.png)
 
 !!! info
-    Si l’utilisateur est membre d’un groupe, les permissions individuelles supplantent celle du groupe. [En savoir plus sur les groupes d’utilisateurs](/les-utilisateurs/les-groupes-dutilisateurs)
+    Si l’utilisateur est membre d’un groupe, les permissions individuelles supplantent celle du groupe. [En savoir plus sur les groupes d’utilisateurs](les-groupes-dutilisateurs)
 
 
 ### Supprimer un utilisateur
@@ -152,7 +152,7 @@ Vous pouvez modifier l’adresse email d’un utilisateur depuis cette fenêtre.
 
 Vous pouvez modifier le statut d’un utilisateur, notamment après sa création, pour le changer en Administrateur, Générique, Webmestre…
 
-Pour en savoir plus sur le rôle et les droits associés à chaque Statut, [lisez cet article](/les-utilisateurs/les-statuts-utilisateurs).
+Pour en savoir plus sur le rôle et les droits associés à chaque Statut, [lisez cet article](les-statuts-utilisateurs).
 
 Il existe certaines limitations :
 
@@ -163,13 +163,13 @@ Il existe certaines limitations :
 
 Par défaut, les niveaux de confidentialités ne sont pas utilisés dans Piwigo. Vous pouvez donc ignorer ce paramètre, sauf si vous avez un besoin très précis.
 
-[En savoir plus sur les niveaux de confidentialité](/les-utilisateurs/les-niveaux-de-confidentialite)
+[En savoir plus sur les niveaux de confidentialité](les-niveaux-de-confidentialite)
 
 **Groupe**
 
 Vous pouvez associer un utilisateur à un ou plusieurs groupes existant depuis la fenêtre de modification d’un utilisateur.
 
-[En savoir plus sur les groupes d’utilisateurs](/les-utilisateurs/les-groupes-dutilisateurs)
+[En savoir plus sur les groupes d’utilisateurs](les-groupes-dutilisateurs)
 
 **Autoriser le téléchargement**
 
@@ -191,9 +191,9 @@ Chaque utilisateur peut également les modifier lui-même lorsqu’il est connec
     La modification des préférences par les utilisateurs via la galerie peut être désactivée dans les Options de Piwigo (en décochant l’option “Permettre la personnalisation de l'affichage”). Dans ce cas, le menu “Personnaliser” ne sert qu’à modifier son adresse mail et / ou son mot de passe.
 
 
-Vous pouvez enfin modifier en masse les préférences d’une liste d’utilisateurs en utilisant le mode Sélection (voir chapitre [Modifier des utilisateurs en masse](/les-utilisateurs/creer-et-gerer-les-utilisateurs)).
+Vous pouvez enfin modifier en masse les préférences d’une liste d’utilisateurs en utilisant le mode Sélection (voir chapitre [Modifier des utilisateurs en masse](creer-et-gerer-les-utilisateurs)).
 
-Pour modifier les préférences appliquées par défaut aux nouveaux utilisateurs, il faut modifier le profil “invité ([voir plus loin](/les-utilisateurs/creer-et-gerer-les-utilisateurs)).
+Pour modifier les préférences appliquées par défaut aux nouveaux utilisateurs, il faut modifier le profil “invité ([voir plus loin](creer-et-gerer-les-utilisateurs)).
 
 Voici quelques précisions sur les préférences.
 
@@ -205,7 +205,7 @@ Il s’agit du nombre de photos affichées sur une page dans la galerie (sur la 
 
 Dans la majeure partie des cas, les galeries Piwigo n’utilisent qu’un seul thème. Ce paramètre n’a donc pas à être modifié. Il n’est utile que si vous avez installé plusieurs thèmes sur votre galerie, et que vous souhaitez afficher des thèmes différents en fonction des utilisateurs.
 
-[En savoir plus sur les thèmes](/les-themes)
+[En savoir plus sur les thèmes](../les-themes)
 
 **Langue**
 
@@ -213,7 +213,7 @@ Sur chaque galerie, une langue par défaut est définie, mais on peut en install
 
 Cet paramètre permet ainsi de choisir, pour un utilisateur donné, quelle langue sera utilisée pour l’interface de Piwigo, parmi les langues activées sur la galerie.
 
-[En savoir plus sur les langues](/personnaliser-ma-galerie/gerer-les-langues-disponibles-sur-votre-galerie)
+[En savoir plus sur les langues](../personnaliser-ma-galerie/gerer-les-langues-disponibles-sur-votre-galerie)
 
 **Période récente**
 
@@ -259,7 +259,7 @@ L’écran de modification d’un utilisateur affiche la date de création et la
 
 Le bouton “Historique des visites” permet d’ouvrir l’historique des visites de cet utilisateur. Cela permet de voir quels albums ont été consultés, quelles photos ont été vues et téléchargées.
 
-[En savoir plus sur l’historique des visites](/administrer-piwigo/consultez-les-statistiques-de-votre-piwigo)
+[En savoir plus sur l’historique des visites](../administrer-piwigo/consultez-les-statistiques-de-votre-piwigo)
 
 ![fr-historique-visite-utilisateur.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-2b05d3ae.png)
 
@@ -267,7 +267,7 @@ Le bouton “Historique des visites” permet d’ouvrir l’historique des visi
 
 Pour visualiser l’historique détaillé de toutes les actions d’un utilisateur dans l’administration, vous devez vous rendre dans l’onglet Activité de la page Utilisateurs.
 
-[En savoir plus sur l’historique des activités](/administrer-piwigo/consultez-les-statistiques-de-votre-piwigo)
+[En savoir plus sur l’historique des activités](../administrer-piwigo/consultez-les-statistiques-de-votre-piwigo)
 
 !!! info
     Si vous êtes client d’une offre piwigo.com, cette fonctionnalité n’est accessible qu’à partir de l’offre Équipe.
@@ -365,7 +365,7 @@ Si vous souhaitez créer plusieurs utilisateurs en une seule fois, vous devez ac
 
 Ce plugin permet de créer des utilisateurs en masse à partir d’une liste d’adresses email. Les utilisateurs sont créés par défaut avec le statut Visiteur. 
 
-Vous pouvez ensuite modifier ces utilisateurs en masse grâce au mode sélection (voir chapitre : [Modifier des utilisateurs en masse](/les-utilisateurs/creer-et-gerer-les-utilisateurs))**.**
+Vous pouvez ensuite modifier ces utilisateurs en masse grâce au mode sélection (voir chapitre : [Modifier des utilisateurs en masse](creer-et-gerer-les-utilisateurs))**.**
 
 !!! info
     Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
@@ -425,8 +425,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Les statuts utilisateurs](/les-utilisateurs/les-statuts-utilisateurs)
+[Les statuts utilisateurs](les-statuts-utilisateurs)
 
 Suivant →
 
-[Les niveaux de confidentialité](/les-utilisateurs/les-niveaux-de-confidentialite)
+[Les niveaux de confidentialité](les-niveaux-de-confidentialite)

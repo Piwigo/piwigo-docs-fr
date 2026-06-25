@@ -1,3 +1,7 @@
+---
+icon: lucide/braces
+---
+
 # Documentation Piwigo
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-3d7abc8a.png)
@@ -14,43 +18,43 @@ Ici, vous pouvez trouver des réponses à la plupart des questions que vous vous
 
 Nous avons récapitulé sur une page les questions les plus fréquentes à propos de l’utilisation de Piwigo.
 
-[FAQ - Les questions les plus fréquentes sur Piwigo](/faq-questions-frequentes-piwigo)
+[FAQ - Les questions les plus fréquentes sur Piwigo](faq-questions-frequentes-piwigo)
 
 Lisez l’article ci-dessous pour savoir comment naviguer dans ce site et trouver les réponses à vos questions !
 
-[Comment naviguer dans cette documentation ?](/comment-naviguer-dans-cette-documentation)
+[Comment naviguer dans cette documentation ?](comment-naviguer-dans-cette-documentation)
 
 ## Naviguer dans la documentation
 
-[**Démarrer avec Piwigo**](/demarrer-avec-piwigo)
+[**Démarrer avec Piwigo**](demarrer-avec-piwigo)
 
-[Importer et gérer les photos](/importer-et-gerer-les-photos)
+[Importer et gérer les photos](importer-et-gerer-les-photos)
 
-[Naviguer sur votre galerie Piwigo](/naviguer-sur-votre-galerie-piwigo)
+[Naviguer sur votre galerie Piwigo](naviguer-sur-votre-galerie-piwigo)
 
-[Organiser les albums](/organiser-les-albums)
+[Organiser les albums](organiser-les-albums)
 
-[Gérer les tags](/gerer-les-tags)
+[Gérer les tags](gerer-les-tags)
 
-[Les commentaires et notes](/les-commentaires-et-notes)
+[Les commentaires et notes](les-commentaires-et-notes)
 
-[Les utilisateurs](/les-utilisateurs)
+[Les utilisateurs](les-utilisateurs)
 
-[Les thèmes](/les-themes)
+[Les thèmes](les-themes)
 
-[Personnaliser ma galerie](/personnaliser-ma-galerie)
+[Personnaliser ma galerie](personnaliser-ma-galerie)
 
-[Administrer Piwigo](/administrer-piwigo)
+[Administrer Piwigo](administrer-piwigo)
 
-[Les plugins](/les-plugins)
+[Les plugins](les-plugins)
 
-[Les applications mobiles](/les-applications-mobiles)
+[Les applications mobiles](les-applications-mobiles)
 
-[Hébergez votre Piwigo](/hebergez-votre-piwigo)
+[Hébergez votre Piwigo](hebergez-votre-piwigo)
 
 L’historique des modifications apportées à cette doc est listé sur la page ci-dessous :
 
-[Historique des modifications](/historique-modifications)
+[Historique des modifications](historique-modifications)
 
 Si vous cherchez la documentation Piwigo pour les développeurs, rendez vous sur la [page GitHub de Piwigo](https://github.com/Piwigo/Piwigo/wiki).
 

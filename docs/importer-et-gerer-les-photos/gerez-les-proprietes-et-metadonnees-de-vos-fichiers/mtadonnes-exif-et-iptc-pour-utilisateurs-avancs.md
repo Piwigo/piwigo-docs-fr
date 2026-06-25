@@ -1,12 +1,12 @@
 # Métadonnées EXIF et IPTC pour utilisateurs avancés
 
 !!! info
-    Lisez d’abord le chapitre suivant pour tout comprendre aux métadonnées EXIF et IPTC : [**Gérer les métadonnées dans Piwigo**](/importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers)
+    Lisez d’abord le chapitre suivant pour tout comprendre aux métadonnées EXIF et IPTC : [**Gérer les métadonnées dans Piwigo**](.)
 
 
 Vous souhaitez personnaliser l’affichage des métadonnées EXIF et IPTC dans Piwigo ?
 
-Comme vous avez pu le lire dans l’article [Gérer les métadonnées dans Piwigo](/importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers), vous pouvez personnaliser les métadonnées affichées ou non dans Piwigo en modifiant la configuration à l’aide du plugin [LocalFiles Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor). Vous pouvez également “mapper” certaines métadonnées avec les propriétés de Piwigo.
+Comme vous avez pu le lire dans l’article [Gérer les métadonnées dans Piwigo](.), vous pouvez personnaliser les métadonnées affichées ou non dans Piwigo en modifiant la configuration à l’aide du plugin [LocalFiles Editor](../../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor). Vous pouvez également “mapper” certaines métadonnées avec les propriétés de Piwigo.
 
 Vous trouverez dans cet article des informations utiles pour configurer Piwigo en ce sens.
 

@@ -158,13 +158,13 @@ Pour les clients Piwigo.com, ce plugin permet uniquement d’ajouter du code CSS
 
 Pour les autres utilisateurs qui hébergent eux-mêmes Piwigo, ce plugin permet de modifier d’autres fichiers (configuration locale, fichiers de langue, etc). 
 
-[En savoir plus sur LocalFiles Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor)
+[En savoir plus sur LocalFiles Editor](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor)
 
 ## Rightclick : Désactiver le clic droit sur les photos
 
 Vous souhaitez empêcher les visiteurs de votre galerie de pouvoir télécharger les photos de votre galerie ?
 
-Vous pouvez d’abord interdire le téléchargement aux utilisateurs invités (anonymes) ou à certains utilisateurs, dans la gestion des utilisateurs [comme expliqué dans cet article](/les-utilisateurs/creer-et-gerer-les-utilisateurs). Si vous désactivez le téléchargement, l’icône de téléchargement ne s’affichera pas.
+Vous pouvez d’abord interdire le téléchargement aux utilisateurs invités (anonymes) ou à certains utilisateurs, dans la gestion des utilisateurs [comme expliqué dans cet article](../les-utilisateurs/creer-et-gerer-les-utilisateurs). Si vous désactivez le téléchargement, l’icône de téléchargement ne s’affichera pas.
 
 Mais les visiteurs pourront toujours télécharger les photos en effectuant un clic droit > Enregistrer l’image sous.
 
@@ -364,4 +364,4 @@ Sommaire de l’article
 
 ← Précédent
 
-[Maintenance de votre Piwigo](/administrer-piwigo/maintenance-de-votre-piwigo)
+[Maintenance de votre Piwigo](maintenance-de-votre-piwigo)

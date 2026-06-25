@@ -92,8 +92,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Les niveaux de confidentialité](/les-utilisateurs/les-niveaux-de-confidentialite)
+[Les niveaux de confidentialité](les-niveaux-de-confidentialite)
 
 Suivant →
 
-[Les groupes d’utilisateurs](/les-utilisateurs/les-groupes-dutilisateurs)
+[Les groupes d’utilisateurs](les-groupes-dutilisateurs)

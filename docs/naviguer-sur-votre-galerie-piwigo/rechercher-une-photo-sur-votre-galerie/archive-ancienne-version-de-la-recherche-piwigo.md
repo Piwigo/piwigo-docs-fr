@@ -4,7 +4,7 @@ Cette page présente les fonctionnalités de recherche sur une galerie Piwigo ju
 
 Si vous cherchez la dernière version de la documentation sur la recherche (depuis Piwigo 14), lisez plutôt l’article suivant :
 
-[Rechercher une photo sur votre galerie](/naviguer-sur-votre-galerie-piwigo/rechercher-une-photo-sur-votre-galerie)
+[Rechercher une photo sur votre galerie](.)
 
 ## La recherche rapide
 
@@ -93,6 +93,6 @@ Avec ce formulaire, vous pouvez saisir un mot dans la première barre de recherc
 
 Si vos photos sont correctement indexées à l’aide de tags, alors la recherche par tag peut s’avérer très puissante pour trouver une photo.
 
-Pour en savoir plus, lisez cet article : [Utilisez les tags sur votre galerie](/naviguer-sur-votre-galerie-piwigo/les-tags-sur-votre-galerie)
+Pour en savoir plus, lisez cet article : [Utilisez les tags sur votre galerie](../les-tags-sur-votre-galerie)
 
 Sommaire de l’article

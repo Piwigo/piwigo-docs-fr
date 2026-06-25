@@ -8,7 +8,7 @@ Pour commencer, les choses sont légèrement différentes selon que vous ayez un
 
 - J’héberge moi-même mon Piwigo
     
-    Si vous hébergez vous-même votre Piwigo, par défaut vous ne pourrez importer que des fichiers de type jpg, jpeg, png, et gif. Mais ce paramétrage est facile à changer en modifiant la configuration locale avec LocalFiles Editor ([en savoir plus](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor)).
+    Si vous hébergez vous-même votre Piwigo, par défaut vous ne pourrez importer que des fichiers de type jpg, jpeg, png, et gif. Mais ce paramétrage est facile à changer en modifiant la configuration locale avec LocalFiles Editor ([en savoir plus](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor)).
     
     De plus, si vous hébergez vous-même votre Piwigo, vous devez installer et activer le plugin VideoJS pour pouvoir importer sur votre galerie des fichiers multimédia (video et audio).
     
@@ -40,7 +40,7 @@ Piwigo permet également d'importer des GIF animés (extension de fichier .gif).
 
 Depuis la version 14 de Piwigo, vous pouvez également importer des fichiers image au format webp.
 
-Si vous hébergez vous-même votre Piwigo, vous pouvez l’ajouter via le plugin [LocalFiles Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor), en ajoutant `webp` au niveau du paramètre `$conf['picture_ext']` comme dans l’exemple ci-dessous.
+Si vous hébergez vous-même votre Piwigo, vous pouvez l’ajouter via le plugin [LocalFiles Editor](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor), en ajoutant `webp` au niveau du paramètre `$conf['picture_ext']` comme dans l’exemple ci-dessous.
 
 ```php
 $conf['picture_ext'] = array('jpg','jpeg','png','gif','webp');
@@ -60,7 +60,7 @@ HEIC est un format d’image supporté dans Piwigo depuis la version 14. C’est
 
 Les fichiers HEIC ne sont pas affichables dans un navigateur web : Piwigo génère donc une prévisualisation du fichier. 
 
-Pour activer le support du format HEIC si vous hébergez vous-même votre Piwigo, vous devez l’ajouter via le plugin [LocalFiles Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor).
+Pour activer le support du format HEIC si vous hébergez vous-même votre Piwigo, vous devez l’ajouter via le plugin [LocalFiles Editor](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor).
 
 Si ce n’est pas déjà le cas, vous devez d’abord activer le paramètre `upload_form_all_types` comme ci-dessous.
 
@@ -104,7 +104,7 @@ Lorsque vous importez un fichier audio dans Piwigo, il sera représenté sur vot
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/61e7cec9c1b8c85d97faea30/images/62d6e0c3c74a080359c8b31a/file-aSH00yRAHB.png)
 
-Pour activer le support des vidéos, si vous hébergez vous-même votre Piwigo, vous devez d’abord activer le paramètre `upload_form_all_types` comme ci-dessous (si ce n’est pas déjà fait) via le plugin [LocalFiles Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor).
+Pour activer le support des vidéos, si vous hébergez vous-même votre Piwigo, vous devez d’abord activer le paramètre `upload_form_all_types` comme ci-dessous (si ce n’est pas déjà fait) via le plugin [LocalFiles Editor](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor).
 
 ```php
 $conf['upload_form_all_types'] = true;
@@ -120,7 +120,7 @@ $conf['file_ext'] = array_merge(
 ```
 
 !!! Warning "Attention"
-    Si vous utilisez une galerie auto-hébergée et que vous rencontrez des problèmes avec le téléchargement de vidéos ou la génération de vignettes, [consultez cet article](/hebergez-votre-piwigo/problemes-generation-vignettes-miniatures).
+    Si vous utilisez une galerie auto-hébergée et que vous rencontrez des problèmes avec le téléchargement de vidéos ou la génération de vignettes, [consultez cet article](../hebergez-votre-piwigo/problemes-generation-vignettes-miniatures).
 
 ### **🎦 Cas particulier des vidéos MOV**
 
@@ -130,13 +130,13 @@ Mais il existe plusieurs moyens de les transférer quand même sur Piwigo.
 
 **Depuis l’application mobile Piwigo pour iOS**
 
-Depuis [l'application mobile Piwigo pour iOS,](/les-applications-mobiles/lapplication-mobile-piwigo-pour-ios) vous allez pouvoir envoyer des vidéos MOV vers Piwigo. Les vidéos seront converties pendant le transfert en fichier .mp4. Elles seront donc lisibles depuis votre galerie, comme n'importe quelle autre vidéo.
+Depuis [l'application mobile Piwigo pour iOS,](../les-applications-mobiles/lapplication-mobile-piwigo-pour-ios) vous allez pouvoir envoyer des vidéos MOV vers Piwigo. Les vidéos seront converties pendant le transfert en fichier .mp4. Elles seront donc lisibles depuis votre galerie, comme n'importe quelle autre vidéo.
 
 **Depuis l’administration Piwigo (vous hébergez Piwigo vous-même)**
 
 Si vous avez besoin de transférer des vidéos MOV depuis l'administration de Piwigo, c’est possible, mais par défaut, les vidéos ne sont pas visibles via le lecteur vidéo de votre galerie : il faudra les télécharger pour les visionner.
 
-Pour que votre Piwigo accepte d’importer des fichiers .mov, vous devez modifier le paramètre `$conf['file_ext']`  et ajouter le format mov comme dans l’exemple ci-dessous avec [LocalFiles Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor).
+Pour que votre Piwigo accepte d’importer des fichiers .mov, vous devez modifier le paramètre `$conf['file_ext']`  et ajouter le format mov comme dans l’exemple ci-dessous avec [LocalFiles Editor](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor).
 
 ```php
 $conf['file_ext'] = array_merge(
@@ -203,7 +203,7 @@ Ces formats de fichier sont réservé aux clients d’une offre Équipe, Entrepr
 
 Pour ce type de fichiers, Piwigo génère une prévisualisation qui les rend consultables dans l'administration et dans votre galerie.
 
-Pour activer le support de ces fichiers, si vous hébergez vous-même votre Piwigo, vous devez d’abord activer le paramètre `upload_form_all_types` comme ci-dessous (si ce n’est pas déjà fait) via le plugin [LocalFiles Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor). 
+Pour activer le support de ces fichiers, si vous hébergez vous-même votre Piwigo, vous devez d’abord activer le paramètre `upload_form_all_types` comme ci-dessous (si ce n’est pas déjà fait) via le plugin [LocalFiles Editor](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor). 
 
 ```php
 $conf['upload_form_all_types'] = true;
@@ -219,7 +219,7 @@ $conf['file_ext'] = array_merge(
 ```
 
 !!! Warning "Attention"
-    Si vous utilisez une galerie auto-hébergée et que vous rencontrez des problèmes avec la génération de vignettes pour les fichiers PDF, ou la visualisation des fichiers AI, PSD, HEIC, TIF ou TIFF, [consultez cet article](/hebergez-votre-piwigo/problemes-generation-vignettes-miniatures).
+    Si vous utilisez une galerie auto-hébergée et que vous rencontrez des problèmes avec la génération de vignettes pour les fichiers PDF, ou la visualisation des fichiers AI, PSD, HEIC, TIF ou TIFF, [consultez cet article](../hebergez-votre-piwigo/problemes-generation-vignettes-miniatures).
 
 
 ### **Cas particulier des fichiers PDF dans Piwigo**
@@ -250,7 +250,7 @@ Vous pouvez aussi, grâce au plugin **Photo Update**, ajouter votre propre prév
 
 Si vous souhaitez pouvoir proposer différents formats de fichiers pour une même image sur votre galerie (par exemple, un format JPG, un format PNG et un format PSD), c’est possible ! Pour cela, vous devez activer l’option Formats Multiples.
 
-[En savoir plus sur les formats multiples](/importer-et-gerer-les-photos/les-formats-multiples)
+[En savoir plus sur les formats multiples](les-formats-multiples)
 
 !!! info
     Si vous êtes client d’une offre piwigo.com, cette fonctionnalité n’est accessible qu’à partir de l’offre Entreprise.
@@ -323,8 +323,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Importer des photos dans Piwigo](/importer-et-gerer-les-photos/importer-des-photos-dans-piwigo)
+[Importer des photos dans Piwigo](importer-des-photos-dans-piwigo)
 
 Suivant →
 
-[Modifier ou supprimer une photo](/importer-et-gerer-les-photos/modifier-ou-supprimer-une-photo)
+[Modifier ou supprimer une photo](modifier-ou-supprimer-une-photo)

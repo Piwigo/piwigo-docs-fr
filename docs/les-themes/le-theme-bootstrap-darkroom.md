@@ -50,7 +50,7 @@ Si vous activez cette option, vous devrez indiquer dans le champ “Chemin” le
 
 Vous pouvez ajouter une bannière sur votre galerie. Vous avez accès à deux styles de bannière :
 
-- Jumbotron : Cette option permet de créer une bannière sur l’accueil de votre galerie de type “Jumbotron”. Le contenu de la bannière est défini en HTML depuis le menu Configuration>Options. Le contenu peut intégrer un titre, du texte, une image, un bouton… Pour en savoir plus sur la zone de création des bannières de page, consultez [cet article](/personnaliser-ma-galerie/options-de-personnalisation-de-votre-galerie).
+- Jumbotron : Cette option permet de créer une bannière sur l’accueil de votre galerie de type “Jumbotron”. Le contenu de la bannière est défini en HTML depuis le menu Configuration>Options. Le contenu peut intégrer un titre, du texte, une image, un bouton… Pour en savoir plus sur la zone de création des bannières de page, consultez [cet article](../personnaliser-ma-galerie/options-de-personnalisation-de-votre-galerie).
     
     ![fr-banniere-bootstrap-jumbotron.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-d4b01e09.png)
     
@@ -62,7 +62,7 @@ Vous pouvez ajouter une bannière sur votre galerie. Vous avez accès à deux st
 
 Pour en savoir plus sur la création de bannières dans Piwigo, lisez cet article :
 
-[Ajouter une bannière personnalisée à votre galerie](/personnaliser-ma-galerie/ajouter-banniere-personnalisee-piwigo)
+[Ajouter une bannière personnalisée à votre galerie](../personnaliser-ma-galerie/ajouter-banniere-personnalisee-piwigo)
 
 **Affichage de la page des catégories (albums)**
 
@@ -206,4 +206,4 @@ Sommaire de l’article
 
 ← Précédent
 
-[Le thème Modus](/les-themes/le-theme-modus)
+[Le thème Modus](le-theme-modus)

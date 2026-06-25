@@ -8,7 +8,7 @@ Si votre galerie utilise le thème Bootstrap Darkroom, alors vous pouvez ajouter
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-2ccbf4d1.png)
 
-[En savoir plus sur Bootstrap Darkoom](/les-themes/le-theme-bootstrap-darkroo)
+[En savoir plus sur Bootstrap Darkoom](../les-themes/le-theme-bootstrap-darkroo)
 
 ## Ajouter du CSS avec LocalFile Editor
 
@@ -20,7 +20,7 @@ Le plugin **Localfile Editor** vous permet de modifier des fichiers de Piwigo di
 
 Pour les clients Piwigo.com, ce plugin permet uniquement d’ajouter du code CSS personnalisé.
 
-Pour les autres utilisateurs qui hébergent eux-mêmes Piwigo, ce plugin permet de modifier d’autres fichiers (configuration locale, fichiers de langue, personal plugin). [En savoir plus](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor)
+Pour les autres utilisateurs qui hébergent eux-mêmes Piwigo, ce plugin permet de modifier d’autres fichiers (configuration locale, fichiers de langue, personal plugin). [En savoir plus](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor)
 
 Une fois le plugin activé, rendez vous dans la Configuration du plugin.
 
@@ -40,8 +40,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Personnaliser votre galerie avec des plugins](/personnaliser-ma-galerie/personnaliser-votre-galerie-avec-des-plugins)
+[Personnaliser votre galerie avec des plugins](personnaliser-votre-galerie-avec-des-plugins)
 
 Suivant →
 
-[Ajouter une bannière personnalisée à votre galerie](/personnaliser-ma-galerie/ajouter-banniere-personnalisee-piwigo)
+[Ajouter une bannière personnalisée à votre galerie](ajouter-banniere-personnalisee-piwigo)

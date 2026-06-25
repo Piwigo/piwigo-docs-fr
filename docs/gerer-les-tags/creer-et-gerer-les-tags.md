@@ -6,7 +6,7 @@ Les tags sont un outil essentiel pour organiser votre photothèque et faciliter 
 
 Il existe plusieurs manières de créer des tags. Vous pouvez les créer vous-même dans l’administration de Piwigo ; ils peuvent également être importés depuis votre ordinateur si vous utilisez déjà un système de mots-clés pour classer vos photos, ou depuis un logiciel tiers comme Lightroom. 
 
-Pour en savoir plus sur l’import de photo, [lisez cet article](/importer-et-gerer-les-photos/importer-des-photos-dans-piwigo).
+Pour en savoir plus sur l’import de photo, [lisez cet article](../importer-et-gerer-les-photos/importer-des-photos-dans-piwigo).
 
 ### Créer un tag dans l’administration
 
@@ -62,7 +62,7 @@ Pour modifier les tags d’une photo de façon unitaire, il vous suffit de modif
 
 L’éditeur de photo permet d’ajouter un ou plusieurs tags à une photo grâce au champ Tags.
 
-[En savoir plus sur l’édition de photos](/importer-et-gerer-les-photos/modifier-ou-supprimer-une-photo)
+[En savoir plus sur l’édition de photos](../importer-et-gerer-les-photos/modifier-ou-supprimer-une-photo)
 
 Lorsque vous cliquez dans la zone de saisie, la liste déroulante des tags apparaît. Pour chercher un tag en particulier, il suffit de saisir quelques caractères : la liste se rafraîchit immédiatement pour afficher uniquement les tags correspondant à votre saisie.
 
@@ -90,7 +90,7 @@ En général, on va préférer taguer des photos en masse plutôt que le faire d
 - Soit après avoir importé un lot de photos dans Piwigo
 - Soit pour mettre à jour une liste de photos correspondant à un critère (photos d’un album, sélection de photo dans votre Panier…)
 
-Vous pouvez le faire facilement en passant par la [Gestion par Lot.](/importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos)
+Vous pouvez le faire facilement en passant par la [Gestion par Lot.](../importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos)
 
 Une fois votre sélection effectuée, vous pouvez choisir l’action “Ajouter les tags”. Elle permet d’associer à un lot de photos des tags existants ou un nouveau tag créé à la volée.
 
@@ -160,7 +160,7 @@ Une fois votre sélection de tags terminée, cliquez sur l’action de votre cho
 
 Lisez cet article pour découvrir comment utiliser les tags sur votre galerie, ainsi que des options et plugins pour aller plus loin dans l’utilisation des tags.
 
-[Les tags sur votre galerie](/naviguer-sur-votre-galerie-piwigo/les-tags-sur-votre-galerie)
+[Les tags sur votre galerie](../naviguer-sur-votre-galerie-piwigo/les-tags-sur-votre-galerie)
 
 Sommaire de l’article
 
@@ -168,8 +168,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Les tags : présentation](/gerer-les-tags/les-tags-presentation)
+[Les tags : présentation](les-tags-presentation)
 
 Suivant →
 
-[Tag Recognition : Taguez automatiquement vos photos par IA](/gerer-les-tags/tag-recognition-piwigo)
+[Tag Recognition : Taguez automatiquement vos photos par IA](tag-recognition-piwigo)

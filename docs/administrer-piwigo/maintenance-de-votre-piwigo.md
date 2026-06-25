@@ -166,7 +166,7 @@ Si vous souhaitez remettre à zéro les vues et les notes des photos, vous pouve
 - Hits : ce sont les vues des photos. Elles sont affichées sur la galerie si vous avez activé cette option. C’est ce qui est utilisé pour trier les photos par nombre de vues.
 - Rates : ce sont les notes des photos. Elles sont affichées si vous avez activé l’option “Permettre les notations” dans la page Configurations > Options.
 
-[En savoir plus sur les notes](/les-commentaires-et-notes/gerer-les-notes-votes)
+[En savoir plus sur les notes](../les-commentaires-et-notes/gerer-les-notes-votes)
 
 Une fois le plugin Delete Hit/Rate activé, deux nouvelles actions de purge sont disponibles dans l’écran de Maintenance :
 
@@ -181,8 +181,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Consultez les statistiques de votre Piwigo](/administrer-piwigo/consultez-les-statistiques-de-votre-piwigo)
+[Consultez les statistiques de votre Piwigo](consultez-les-statistiques-de-votre-piwigo)
 
 Suivant →
 
-[Plugins pour les administrateurs](/administrer-piwigo/plugins-pour-les-administrateurs)
+[Plugins pour les administrateurs](plugins-pour-les-administrateurs)

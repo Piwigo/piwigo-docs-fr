@@ -16,7 +16,7 @@ La réponse est différente suivant que vous hébergiez vous-même votre galerie
 
 - J’héberge moi-même ma galerie (ou mon organisation le fait)
     
-    Pour activer cette option, vous devez utilisez [LocalFile Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) et ajouter le code ci-dessous dans votre fichier de configuration. Si vous n’en avez pas la possibilité, faites la demande au webmaster qui gère votre galerie.
+    Pour activer cette option, vous devez utilisez [LocalFile Editor](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) et ajouter le code ci-dessous dans votre fichier de configuration. Si vous n’en avez pas la possibilité, faites la demande au webmaster qui gère votre galerie.
     
     ```php
     // enable_formats: should Piwigo search for multiple formats?
@@ -71,4 +71,4 @@ Sommaire de l’article
 
 ← Précédent
 
-[Gérez les propriétés et métadonnées de vos fichiers](/importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers)
+[Gérez les propriétés et métadonnées de vos fichiers](gerez-les-proprietes-et-metadonnees-de-vos-fichiers)

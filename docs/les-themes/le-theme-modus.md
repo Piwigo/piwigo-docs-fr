@@ -88,7 +88,7 @@ Le contenu de cette bannière (texte ou image) peut être modifié depuis l’é
 
 Pour en savoir plus sur la création d’une bannière pour votre galerie, lisez cet article :
 
-[Ajouter une bannière personnalisée à votre galerie](/personnaliser-ma-galerie/ajouter-banniere-personnalisee-piwigo)
+[Ajouter une bannière personnalisée à votre galerie](../personnaliser-ma-galerie/ajouter-banniere-personnalisee-piwigo)
 
 ## Pour aller plus loin
 
@@ -107,8 +107,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Les thèmes](/les-themes)
+[Les thèmes](.)
 
 Suivant →
 
-[Le thème Bootstrap Darkroom](/les-themes/le-theme-bootstrap-darkroo)
+[Le thème Bootstrap Darkroom](le-theme-bootstrap-darkroo)

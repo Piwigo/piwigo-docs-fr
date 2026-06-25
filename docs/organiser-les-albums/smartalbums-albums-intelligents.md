@@ -61,4 +61,4 @@ Sommaire de l’article
 
 ← Précédent
 
-[Permissions et visibilité des albums](/organiser-les-albums/permissions-et-visibilite-des-albums)
+[Permissions et visibilité des albums](permissions-et-visibilite-des-albums)

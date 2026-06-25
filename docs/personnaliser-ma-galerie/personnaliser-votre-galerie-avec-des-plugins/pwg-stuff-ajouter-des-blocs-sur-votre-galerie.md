@@ -86,9 +86,9 @@ Pour cela, dans la configuration de PWG Stuffs, rendez vous dans l’onglet Conf
 
 Vous pouvez mettre en place une gestion des droits :
 
-- Par [statut (ou type) d’utilisateur](/les-utilisateurs/les-statuts-utilisateurs)
-- Par [niveau de confidentialité](/les-utilisateurs/les-niveaux-de-confidentialite)
-- Par [groupe d’utilisateur](/les-utilisateurs/les-groupes-dutilisateurs)
+- Par [statut (ou type) d’utilisateur](../../les-utilisateurs/les-statuts-utilisateurs)
+- Par [niveau de confidentialité](../../les-utilisateurs/les-niveaux-de-confidentialite)
+- Par [groupe d’utilisateur](../../les-utilisateurs/les-groupes-dutilisateurs)
 
 Imaginons que l’on ne veuille afficher un bloc qu’aux utilisateurs anonymes (non connectés à la galerie). Dans ce cas on va activer les droits par type d’utilisateur.
 

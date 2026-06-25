@@ -96,7 +96,7 @@ Choisir un thème n’est qu’une première étape dans la personnalisation de 
 - d’ajouter des éléments de personnalisation (logo, bandeau…)
 - d’activer des composants optionnels
 
-Les thèmes les plus récents, [Modus](/les-themes/le-theme-modus) et [Bootstrap Darkroom](/les-themes/le-theme-bootstrap-darkroo), proposent de nombreux styles de couleurs et options de configuration. D’autres, plus anciens, ne sont pas configurables.
+Les thèmes les plus récents, [Modus](le-theme-modus) et [Bootstrap Darkroom](le-theme-bootstrap-darkroo), proposent de nombreux styles de couleurs et options de configuration. D’autres, plus anciens, ne sont pas configurables.
 
 On vous conseille d’explorer les options des principaux thèmes pour faire votre choix.
 
@@ -117,7 +117,7 @@ Il permet également :
 - de personnaliser la taille et le format des miniatures de vos albums (par défaut, des miniatures carrées de 250x250 pixels)
 - d’ajouter une bannière sur votre galerie
 
-[Lire la documentation du thème Modus](/les-themes/le-theme-modus)
+[Lire la documentation du thème Modus](le-theme-modus)
 
 ### Bootstrap Darkroom
 
@@ -140,7 +140,7 @@ En plus de ces styles de couleurs, Bootstrap Darkroom offre de nombreuses option
 - Ajouter des icônes de partage sur les réseaux sociaux
 - …
 
-[Lire la documentation du thème Bootstrap Darkroom](/les-themes/le-theme-bootstrap-darkroo)
+[Lire la documentation du thème Bootstrap Darkroom](le-theme-bootstrap-darkroo)
 
 ### Elegant
 
@@ -194,7 +194,7 @@ Lorsque ce plugin est activé, lorsqu’un administrateur se connecte à la gale
     Ce plugin permet également de changer de langue en un clic ou de voir votre galerie en tant que n’importe quel autre utilisateur : il est donc très utile pour faire des tests.
 
 
-[En savoir plus sur le plugin Admin Tools](/administrer-piwigo/plugins-pour-les-administrateurs)
+[En savoir plus sur le plugin Admin Tools](../administrer-piwigo/plugins-pour-les-administrateurs)
 
 Sommaire de l’article
 
@@ -202,4 +202,4 @@ Sommaire de l’article
 
 Suivant →
 
-[Le thème Modus](/les-themes/le-theme-modus)
+[Le thème Modus](le-theme-modus)

@@ -4,11 +4,11 @@ Vous trouverez sur cette page quelques plugins permettant de personnaliser l’a
 
 Vous trouverez d’autres plugins de personnalisation pour votre galerie en lisant les articles suivants :
 
-[Les albums sur votre galerie](/naviguer-sur-votre-galerie-piwigo/les-albums-sur-votre-galerie)
+[Les albums sur votre galerie](../naviguer-sur-votre-galerie-piwigo/les-albums-sur-votre-galerie)
 
-[La page Photo sur votre galerie](/naviguer-sur-votre-galerie-piwigo/la-page-photo-sur-votre-galerie)
+[La page Photo sur votre galerie](../naviguer-sur-votre-galerie-piwigo/la-page-photo-sur-votre-galerie)
 
-[Les tags sur votre galerie](/naviguer-sur-votre-galerie-piwigo/les-tags-sur-votre-galerie)
+[Les tags sur votre galerie](../naviguer-sur-votre-galerie-piwigo/les-tags-sur-votre-galerie)
 
 ## PWG Stuff : ajouter des blocs configurables sur votre galerie
 
@@ -24,7 +24,7 @@ Il est notamment utilisé pour :
 
 Cliquez ci-dessous pour lire la documentation complète de PWG Stuff.
 
-[PWG Stuffs : ajouter des blocs sur votre galerie](/personnaliser-ma-galerie/personnaliser-votre-galerie-avec-des-plugins/pwg-stuff-ajouter-des-blocs-sur-votre-galerie)
+[PWG Stuffs : ajouter des blocs sur votre galerie](personnaliser-votre-galerie-avec-des-plugins/pwg-stuff-ajouter-des-blocs-sur-votre-galerie)
 
 ## Fotorama : un autre diaporama pour votre galerie
 
@@ -38,7 +38,7 @@ Diaporama plein écran avec Fotorama
 
 ## Extended Description : de nombreuses options pour personnaliser votre galerie
 
-Le plugin Extended Description offre de nombreuses possibilités. Il est notamment utilisé pour traduire en plusieurs langues les titres et descriptions des albums et des photos [comme expliqué dans cet article](/personnaliser-ma-galerie/gerer-les-langues-disponibles-sur-votre-galerie).
+Le plugin Extended Description offre de nombreuses possibilités. Il est notamment utilisé pour traduire en plusieurs langues les titres et descriptions des albums et des photos [comme expliqué dans cet article](gerer-les-langues-disponibles-sur-votre-galerie).
 
 Mais il offre de nombreuses autres possibilités.
 
@@ -336,7 +336,7 @@ Ce plugin permet :
 
 Pour en savoir plus sur la création des bannières, avec ou sans ce plugin, lisez cet article :
 
-[Ajouter une bannière personnalisée à votre galerie](/personnaliser-ma-galerie/ajouter-banniere-personnalisee-piwigo)
+[Ajouter une bannière personnalisée à votre galerie](ajouter-banniere-personnalisee-piwigo)
 
 ## Paypal Shopping Cart : Vendre des photos sur votre galerie avec Paypal
 
@@ -371,8 +371,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Ajouter des pages à votre galerie](/personnaliser-ma-galerie/ajouter-des-pages-a-votre-galerie)
+[Ajouter des pages à votre galerie](ajouter-des-pages-a-votre-galerie)
 
 Suivant →
 
-[Personnaliser le CSS de votre galerie](/personnaliser-ma-galerie/personnaliser-le-css-de-votre-galerie)
+[Personnaliser le CSS de votre galerie](personnaliser-le-css-de-votre-galerie)

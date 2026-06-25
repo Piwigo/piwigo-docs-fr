@@ -1,7 +1,7 @@
 # Import et synchronisation de photos FTP
 
 !!! info
-    À lire aussi : [Importer des photos dans Piwigo](/importer-et-gerer-les-photos/importer-des-photos-dans-piwigo)
+    À lire aussi : [Importer des photos dans Piwigo](../importer-et-gerer-les-photos/importer-des-photos-dans-piwigo)
 
 
 ## Introduction
@@ -12,7 +12,7 @@ Cette méthode, historiquement la plus ancienne, est plus longue à mettre en œ
 
 Si vous possédez une grosse photothèque, c'est peut-être une méthode d'ajout de photos faite pour vous.
 
-Si vous préférez, il existe d’autres méthodes pour importer vos photos : pour en savoir plus, visitez la section [Importer des photos dans Piwigo](/importer-et-gerer-les-photos/importer-des-photos-dans-piwigo).
+Si vous préférez, il existe d’autres méthodes pour importer vos photos : pour en savoir plus, visitez la section [Importer des photos dans Piwigo](../importer-et-gerer-les-photos/importer-des-photos-dans-piwigo).
 
 !!! Warning "Attention"
     Cette méthode d’import n’est accessible que pour les Piwigo auto-hébergés : elle n’est donc pas disponible pour les clients d’une offre piwigo.com.
@@ -93,7 +93,7 @@ Quelques explications pour mieux comprendre ce schéma :
 - A l'exception de "pwg_representative" et "pwg_format", chaque répertoire dans `./galleries/` génère un album. Le nombre de niveaux (profondeur) n'est pas limité.
 - Fondamentalement, une photo est représentée par un fichier. Pour Piwigo, un fichier peut être une photo si son extension figure dans la liste du paramètre de configuration `file_ext` (voir fichier include/config.inc.php). Un fichier peut être une photo si son extension figure dans la liste du paramètre de configuration `picture_ext`.
 - Les éléments autres que les photos (sons, fichiers texte, tout ce que vous voulez...) sont représentés par défaut par une icône correspondant à l'extension du nom du fichier. De façon optionnelle, un représentant peut être associé (voir le fichier video-decollage-avion.avi dans l'exemple).
-- Formats multiples : vous pouvez proposer une photo dans plusieurs formats. Dans cet exemple, il y a 3 formats supplémentaires pour img0001.jpg. Vous pouvez activer cette fonctionnalité en ajoutant `$conf['enable_formats'] = true;` à votre configuration locale et en définissant une liste de formats, comme `$conf['format_ext'] = array('cmyk.jpg', 'cr2', 'zip');` [En savoir plus sur les formats multiples](/importer-et-gerer-les-photos/les-formats-multiples)
+- Formats multiples : vous pouvez proposer une photo dans plusieurs formats. Dans cet exemple, il y a 3 formats supplémentaires pour img0001.jpg. Vous pouvez activer cette fonctionnalité en ajoutant `$conf['enable_formats'] = true;` à votre configuration locale et en définissant une liste de formats, comme `$conf['format_ext'] = array('cmyk.jpg', 'cr2', 'zip');` [En savoir plus sur les formats multiples](../importer-et-gerer-les-photos/les-formats-multiples)
 
 !!! Warning "Attention"
     *Attention* : le nom d'un répertoire ou d'un fichier ne doit être composé que de lettres, de chiffres, de "-", "_" ou ".". Pas d'espace ou de caractères accentués.
@@ -136,9 +136,9 @@ C’est ce qui permet de dire à Piwigo : “hé ho, il y a de nouveaux fichiers
     
     Afficher un maximum d’informations vous permettra d’obtenir des statistiques sur les résultats de la synchronisation.
     
-    Ajouter les nouvelles photos au panier permettra d’ajouter dans votre panier toutes les photos ajoutées (par exemple, pour les traiter ensuite grâce à la [gestion par lot](/importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos)).
+    Ajouter les nouvelles photos au panier permettra d’ajouter dans votre panier toutes les photos ajoutées (par exemple, pour les traiter ensuite grâce à la [gestion par lot](../importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos)).
     
-    “Qui peut voir ces photos” permet de définir le [niveau de confidentialité](/les-utilisateurs/les-niveaux-de-confidentialite) des photos ajoutées.
+    “Qui peut voir ces photos” permet de définir le [niveau de confidentialité](../les-utilisateurs/les-niveaux-de-confidentialite) des photos ajoutées.
     
 
 ### **Synchroniser les informations des photos de la base de données à partir des méta-données des fichiers**

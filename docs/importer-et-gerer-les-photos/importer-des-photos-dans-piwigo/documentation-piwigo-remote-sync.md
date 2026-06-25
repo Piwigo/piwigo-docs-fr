@@ -1,6 +1,6 @@
 # Documentation : Piwigo Remote Sync
 
-← [Importer des photos dans Piwigo](/importer-et-gerer-les-photos/importer-des-photos-dans-piwigo)
+← [Importer des photos dans Piwigo](.)
 
 ## Piwigo Remote Sync : qu’est-ce c’est ?
 

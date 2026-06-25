@@ -1,7 +1,7 @@
 # Introduction : tout comprendre sur Piwigo en 2 minutes
 
 !!! info
-    À lire aussi : [Démarrer avec Piwigo en 15 minutes](/demarrer-avec-piwigo/demarrer-avec-piwigo-en-15-minutes)
+    À lire aussi : [Démarrer avec Piwigo en 15 minutes](demarrer-avec-piwigo-en-15-minutes)
 
 ## Qu'est-ce que Piwigo ?
 
@@ -48,9 +48,9 @@ La galerie, c’est la façade de Piwigo : c’est un site web qui permet de vis
 
 ![gallery-piwigo.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-b5710321.png)
 
-[En savoir plus sur la galerie](/naviguer-sur-votre-galerie-piwigo)
+[En savoir plus sur la galerie](../naviguer-sur-votre-galerie-piwigo)
 
-[Personnaliser votre galerie](/personnaliser-ma-galerie)
+[Personnaliser votre galerie](../personnaliser-ma-galerie)
 
 ## Les utilisateurs
 
@@ -61,7 +61,7 @@ Vous pouvez ensuite créer de nouveaux utilisateurs :
 - Les administrateurs : ils auront accès à l’administration de Piwigo pour créer des albums, ajouter des photos...
 - Les visiteurs : ils n’auront accès qu’à votre galerie Piwigo pour rechercher, visualiser, télécharger des fichiers.
 
-[En savoir plus sur les utilisateurs](/les-utilisateurs)
+[En savoir plus sur les utilisateurs](../les-utilisateurs)
 
 ## Les albums
 
@@ -75,7 +75,7 @@ Vous pouvez utiliser vos albums pour classer vos fichiers dans des dossiers coh�
 
 Vous pouvez en effet décider que certains albums ne sont visibles que par certains utilisateurs. Pour simplifier cette gestion, si vous avez de nombreux utilisateurs, vous pouvez créer des groupes d’utilisateurs : par exemple, un groupe pour chaque service de votre entreprise, ou pour chaque filiale.
 
-[En savoir plus sur les albums](/organiser-les-albums)
+[En savoir plus sur les albums](../organiser-les-albums)
 
 ## Les tags
 
@@ -89,7 +89,7 @@ Vous pouvez tester la recherche par tag [sur cette galerie de démo](https://dem
 
 ![tag-cloud.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-6aa5a892.png)
 
-[En savoir plus sur les tags](/gerer-les-tags)
+[En savoir plus sur les tags](../gerer-les-tags)
 
 ## Les thèmes
 
@@ -114,7 +114,7 @@ Pour voir quelques exemples de personnalisation, vous pouvez :
 - Lire cet article sur notre blog : [8 exemples de personnalisation graphique de Piwigo](https://fr.piwigo.com/blog/2022/02/03/8-exemples-personnalisation-graphique-piwigo/)
 - [Découvrir quelques démos sur notre site](https://fr.piwigo.com/demo)
 
-[En savoir plus sur les thèmes](/les-themes)
+[En savoir plus sur les thèmes](../les-themes)
 
 ## Les plugins
 
@@ -136,7 +136,7 @@ Voici par exemple quelques plugins très populaires :
 
 Mais il y en a des dizaines et des dizaines d’autres !
 
-[En savoir plus sur les plugins](/les-plugins)
+[En savoir plus sur les plugins](../les-plugins)
 
 # Abonnements Piwigo
 
@@ -180,6 +180,6 @@ Si vous faites ce choix, vous devez en comprendre les conséquences :
 
 Si vous souhaitez héberger vous-même Piwigo tout en bénéficiant du support de notre équipe, vous pouvez opter pour notre [contrat de maintenance](https://fr.piwigo.com/tarifs?plan=self_hosted).
 
-Pour en savoir plus sur l’auto-hébergement, [c’est ici](/hebergez-votre-piwigo).
+Pour en savoir plus sur l’auto-hébergement, [c’est ici](../hebergez-votre-piwigo).
 
 Sommaire de l’article

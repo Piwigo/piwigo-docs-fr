@@ -4,7 +4,7 @@ Vous souhaitez ajouter des pages personnalisées à votre galerie Piwigo ? C’e
 
 ## Additional Pages : Ajouter des pages HTML
 
-Le plugin Additional Pages permet d’ajouter de nouvelles pages dans votre galerie et de les rendre accessible via le [menu de navigation](/personnaliser-ma-galerie/personnaliser-le-menu-de-votre-galerie).
+Le plugin Additional Pages permet d’ajouter de nouvelles pages dans votre galerie et de les rendre accessible via le [menu de navigation](personnaliser-le-menu-de-votre-galerie).
 
 Une fois ce plugin activé, rendez vous dans sa page de Configuration.
 
@@ -40,7 +40,7 @@ La page proposée par défaut avec le modèle *Standalone Homepage* est conçue 
 
 Si vous souhaitez faire de même, vous devez installer le plugin Extended Description, qui permettra d’afficher sur la page du contenu issu de votre galerie. 
 
-[En savoir plus sur Extended Description](/personnaliser-ma-galerie/personnaliser-votre-galerie-avec-des-plugins)
+[En savoir plus sur Extended Description](personnaliser-votre-galerie-avec-des-plugins)
 
 Ensuite, dans le code HTML présent par défaut lorsque vous créez la page, vous devez modifier le contenu de la balise (`[photo id=12345 size=L link=no]`) pour l’adapter à ce que vous souhaitez :
 
@@ -117,7 +117,7 @@ Vous pouvez enfin ajouter de nouveaux destinataires à droite, même si ils ne s
 
 ### Affichage du formulaire sur votre galerie
 
-Si vous avez coché cette option, le formulaire est accessible depuis un point de menu Contacter accessible depuis le bloc de menu Spéciales ([en savoir plus sur les menus](/personnaliser-ma-galerie/personnaliser-le-menu-de-votre-galerie)).
+Si vous avez coché cette option, le formulaire est accessible depuis un point de menu Contacter accessible depuis le bloc de menu Spéciales ([en savoir plus sur les menus](personnaliser-le-menu-de-votre-galerie)).
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-0a684208.png)
 
@@ -159,8 +159,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Personnaliser le menu de votre galerie](/personnaliser-ma-galerie/personnaliser-le-menu-de-votre-galerie)
+[Personnaliser le menu de votre galerie](personnaliser-le-menu-de-votre-galerie)
 
 Suivant →
 
-[Personnaliser votre galerie avec des plugins](/personnaliser-ma-galerie/personnaliser-votre-galerie-avec-des-plugins)
+[Personnaliser votre galerie avec des plugins](personnaliser-votre-galerie-avec-des-plugins)

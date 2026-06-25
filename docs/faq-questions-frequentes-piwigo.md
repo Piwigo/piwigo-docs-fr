@@ -18,7 +18,7 @@ Cliquez sur la flèche pour afficher la réponse à une question.
     
     Pour vérifier, rendez-vous dans l’administration, Albums > Gérer. Recherchez votre album et éditez-le. Rendez-vous dans l’onglet “Permissions”. Si votre album est privé, vérifiez que vous avez la permission de le voir.
     
-    [En savoir plus sur les permissions sur les albums](/organiser-les-albums/permissions-et-visibilite-des-albums)
+    [En savoir plus sur les permissions sur les albums](organiser-les-albums/permissions-et-visibilite-des-albums)
     
     Si vous avez bien la permission de visualiser cet album, assurez-vous qu’il n’est pas vide (sans aucune photo). Les albums vides ne sont pas visibles sur la galerie.
     
@@ -34,7 +34,7 @@ Cliquez sur la flèche pour afficher la réponse à une question.
     
     - Modifier l’adresse email du webmestre : Pour que les emails arrivent à destination, il faut que votre site Piwigo soit autorisé à envoyer des emails avec l’adresse du webmestre de votre site. Si cette adresse est une adresse de type Gmail, Yahoo, etc, l’envoi d’email depuis Piwigo risque de ne pas fonctionner. L’idéal est que l’adresse email du webmestre soit associée au même nom de domaine que celui de votre galerie. Par exemple, si votre galerie a pour adresse photos.monsite.com, l’idéal est que l’adresse email du webmestre soit une adresse de type *@monsite.com.
     - Installer le plugin Protect Notification : Le plugin Protect Notification remplace l’expéditeur des emails par une adresse de type no-reply@monsite.com (monsite.com étant remplacé par le nom de domaine de votre galerie). En général, l’installation de ce plugin résout les problèmes d’emails. Depuis février 2024, Protect Notification est activé par défaut sur les nouveaux comptes Piwigo.
-    - ⚠️ Ces solutions ne résolvent pas les problèmes de réception des emails envoyés par le plugin Contact Form, car ceux-ci ont pour expéditeur l’adresse mail saisie dans le formulaire. Pour résoudre les problèmes avec le plugin Contact Form, [consultez cette page](/personnaliser-ma-galerie/ajouter-des-pages-a-votre-galerie).
+    - ⚠️ Ces solutions ne résolvent pas les problèmes de réception des emails envoyés par le plugin Contact Form, car ceux-ci ont pour expéditeur l’adresse mail saisie dans le formulaire. Pour résoudre les problèmes avec le plugin Contact Form, [consultez cette page](personnaliser-ma-galerie/ajouter-des-pages-a-votre-galerie).
 - Comment supprimer mon compte piwigo.com ?
     
     Contactez le support à l’adresse support@piwigo.com.
@@ -77,7 +77,7 @@ Cliquez sur la flèche pour afficher la réponse à une question.
     
     Pour désactiver complètement l’indexation de votre galerie Piwigo sur les moteurs de recherche avec le plugin Meta, rendez-vous dans la configuration du plugin, et sur le premier onglet, sélectionner la métadonnée “robots”. Éditez la métadonnée et saisissez la valeur `noindex`, puis cliquez sur Insérer la métadonnée.
     
-    [En savoir plus sur les plugins pour le référencement de votre galerie](/administrer-piwigo/plugins-pour-les-administrateurs)
+    [En savoir plus sur les plugins pour le référencement de votre galerie](administrer-piwigo/plugins-pour-les-administrateurs)
     
 - Comment régler le titre et la description de ma galerie sur les moteurs de recherche ?
     
@@ -89,25 +89,25 @@ Cliquez sur la flèche pour afficher la réponse à une question.
     
     ![meta.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-f2f860b7.png)
     
-    [En savoir plus sur les plugins pour le référencement de votre galerie](/administrer-piwigo/plugins-pour-les-administrateurs)
+    [En savoir plus sur les plugins pour le référencement de votre galerie](administrer-piwigo/plugins-pour-les-administrateurs)
     
 - Comment modifier l’apparence de ma galerie lorsque je la partage sur les réseaux sociaux ?
     
-    Pour personnaliser l’apparence (titre, de description, image…) des pages de votre galerie lorsque vous les partagez sur les réseaux sociaux, vous pouvez installer le plugin **Meta Open Graph**. [En savoir plus](/administrer-piwigo/plugins-pour-les-administrateurs)
+    Pour personnaliser l’apparence (titre, de description, image…) des pages de votre galerie lorsque vous les partagez sur les réseaux sociaux, vous pouvez installer le plugin **Meta Open Graph**. [En savoir plus](administrer-piwigo/plugins-pour-les-administrateurs)
     
 - Comment modifier le pied de page (footer) de ma galerie ?
     
     Par défaut, votre galerie affiche un texte en pied de page avec un lien vers piwigo.com ou piwigo.org (selon que votre galerie soit hébergée chez piwigo.com ou sur votre hébergement).
     
-    Si vous souhaitez personnaliser le pied de page (footer) de votre galerie, vous pouvez installer le plugin **Perso Footer** ([en savoir plus](/personnaliser-ma-galerie/personnaliser-votre-galerie-avec-des-plugins)).
+    Si vous souhaitez personnaliser le pied de page (footer) de votre galerie, vous pouvez installer le plugin **Perso Footer** ([en savoir plus](personnaliser-ma-galerie/personnaliser-votre-galerie-avec-des-plugins)).
     
-    Si vous voulez complètement masquer le pied de page (et ne pas faire de pub à Piwigo 😢) vous pouvez ajouter le code suivant dans le fichier CSS du site via le plugin LocalFiles Editor ([en savoir plus sur LocalFiles Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor)). Toutefois, ce serait dommage de le faire.
+    Si vous voulez complètement masquer le pied de page (et ne pas faire de pub à Piwigo 😢) vous pouvez ajouter le code suivant dans le fichier CSS du site via le plugin LocalFiles Editor ([en savoir plus sur LocalFiles Editor](hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor)). Toutefois, ce serait dommage de le faire.
     
     ```css
     #copyright{display: none;}
     ```
     
-    Enfin, vous pouvez également créer un pied de page personnalisé en plus du pied de page par défaut en créant un bloc personnalisé avec le plugin [PWG Stuff](/personnaliser-ma-galerie/personnaliser-votre-galerie-avec-des-plugins/pwg-stuff-ajouter-des-blocs-sur-votre-galerie).
+    Enfin, vous pouvez également créer un pied de page personnalisé en plus du pied de page par défaut en créant un bloc personnalisé avec le plugin [PWG Stuff](personnaliser-ma-galerie/personnaliser-votre-galerie-avec-des-plugins/pwg-stuff-ajouter-des-blocs-sur-votre-galerie).
     
 - Comment ajouter une bannière / photo personnalisée sur mon site Piwigo ?
     
@@ -115,7 +115,7 @@ Cliquez sur la flèche pour afficher la réponse à une question.
     
     Pour savoir comment, lisez cet article :
     
-    [Ajouter une bannière personnalisée à votre galerie](/personnaliser-ma-galerie/ajouter-banniere-personnalisee-piwigo)
+    [Ajouter une bannière personnalisée à votre galerie](personnaliser-ma-galerie/ajouter-banniere-personnalisee-piwigo)
     
 - Comment obtenir une facture sur piwigo.com ?
     

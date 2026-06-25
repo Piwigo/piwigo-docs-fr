@@ -115,4 +115,4 @@ Sommaire de l’article
 
 ← Précédent
 
-[Gérer ses favoris](/naviguer-sur-votre-galerie-piwigo/gerer-ses-favoris)
+[Gérer ses favoris](gerer-ses-favoris)

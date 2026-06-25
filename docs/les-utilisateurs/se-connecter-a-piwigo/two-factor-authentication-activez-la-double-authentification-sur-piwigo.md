@@ -74,7 +74,7 @@ Piwigo affiche alors le message ci-dessous.
 Copiez les codes de récupération et stockez les dans un fichier, une note, un email, ou tout lieu sécurisé dont vous êtes certain de vous souvenir.
 
 !!! Warning "Attention"
-    Comme indiqué sur votre profil, une fois la double authentification activée, les applications tierces qui se connectent à votre compte Piwigo (applications mobiles Piwigo, plugin Lightroom, Piwigo Remote Sync) ne pourront plus se connecter à votre compte utilisateur. [Lisez le dernier chapitre de cette page pour y remédier.](/les-utilisateurs/se-connecter-a-piwigo/two-factor-authentication-activez-la-double-authentification-sur-piwigo)
+    Comme indiqué sur votre profil, une fois la double authentification activée, les applications tierces qui se connectent à votre compte Piwigo (applications mobiles Piwigo, plugin Lightroom, Piwigo Remote Sync) ne pourront plus se connecter à votre compte utilisateur. [Lisez le dernier chapitre de cette page pour y remédier.](two-factor-authentication-activez-la-double-authentification-sur-piwigo)
 
 ## Utiliser la double authentification par email
 
@@ -90,7 +90,7 @@ Consultez votre boîte mail, et une fois reçu, saisissez le code dans la zone d
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-9e94e80d.png)
 
 !!! Warning "Attention"
-    Comme indiqué sur votre profil, une fois la double authentification activée, les applications tierces qui se connectent à votre compte Piwigo (applications mobiles Piwigo, plugin Lightroom, Piwigo Remote Sync) ne pourront plus se connecter à votre compte utilisateur. [Lisez le dernier chapitre de cette page pour y remédier.](/les-utilisateurs/se-connecter-a-piwigo/two-factor-authentication-activez-la-double-authentification-sur-piwigo)
+    Comme indiqué sur votre profil, une fois la double authentification activée, les applications tierces qui se connectent à votre compte Piwigo (applications mobiles Piwigo, plugin Lightroom, Piwigo Remote Sync) ne pourront plus se connecter à votre compte utilisateur. [Lisez le dernier chapitre de cette page pour y remédier.](two-factor-authentication-activez-la-double-authentification-sur-piwigo)
 
 ## Connexion aux applications tierces lorsque la 2FA est activée
 

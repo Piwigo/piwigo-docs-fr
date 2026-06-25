@@ -1,6 +1,6 @@
 # Personnaliser la gestion des commentaires avec des plugins
 
-Dans l’article [Gérer les commentaires](/les-commentaires-et-notes/commentaires-options-avancees), nous présentons les options de base dans Piwigo sur la gestion des commentaires. Mais il existe plusieurs plugins permettant d’aller plus loin : on fait le tour de ces options dans cet article.
+Dans l’article [Gérer les commentaires](commentaires-options-avancees), nous présentons les options de base dans Piwigo sur la gestion des commentaires. Mais il existe plusieurs plugins permettant d’aller plus loin : on fait le tour de ces options dans cet article.
 
 ## Options de mise en forme des commentaires
 
@@ -114,4 +114,4 @@ Sommaire de l’article
 
 ← Précédent
 
-[Gérer les commentaires](/les-commentaires-et-notes/commentaires-options-avancees)
+[Gérer les commentaires](commentaires-options-avancees)

@@ -27,7 +27,7 @@ Les **albums privés**, eux, sont accessibles uniquement aux utilisateurs identi
 Pour chaque album privé, on va pouvoir définir qui, parmi les utilisateurs et groupes d’utilisateurs, a le droit de le visualiser.
 
 !!! info
-    Lorsque vous créez un nouvel album à la racine de Piwigo, il est toujours public, par défaut. Si vous souhaitez modifier ce comportement, contactez le support si vous êtes client piwigo.com. Sinon, ajouter le paramètre suivant à votre configuration grâce à [LocalFiles Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) : `$conf['newcat_default_status'] = 'private';`
+    Lorsque vous créez un nouvel album à la racine de Piwigo, il est toujours public, par défaut. Si vous souhaitez modifier ce comportement, contactez le support si vous êtes client piwigo.com. Sinon, ajouter le paramètre suivant à votre configuration grâce à [LocalFiles Editor](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) : `$conf['newcat_default_status'] = 'private';`
 
 
 ### Modifier les permissions sur un album
@@ -37,7 +37,7 @@ Pour modifier les permissions sur un album, vous devez modifier cet album :
 - Soit depuis votre galerie, en vous rendant sur la page de cet album et en cliquant sur l’icône d’édition ;
 - Soit depuis l’administration, en vous rendant dans la liste des albums (menu Albums > Gérer) et en cliquant sur l’icône d’édition.
 
-[En savoir plus sur la modification des albums](/organiser-les-albums/modifier-un-albu)
+[En savoir plus sur la modification des albums](modifier-un-albu)
 
 Depuis l’éditeur d’album, cliquez sur l’onglet “Permissions”. Cet onglet permet de définir le statut de votre album (public ou privé).
 
@@ -52,7 +52,7 @@ Vous avez la possibilité d’accorder des droits d’accès :
 
 ![fr-permissions-albums.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-b0f55b03.png)
 
-Pour en savoir plus sur les groupes d’utilisateurs, [lisez cet article](/les-utilisateurs/les-groupes-dutilisateurs).
+Pour en savoir plus sur les groupes d’utilisateurs, [lisez cet article](../les-utilisateurs/les-groupes-dutilisateurs).
 
 !!! Warning "Attention"
     Attention ! Si un album est privé, personne ne le verra sur la galerie, pas même les administrateurs ! Pensez-donc bien à vous accorder les droits sur les albums privés que vous créez.
@@ -79,7 +79,7 @@ En dehors du statut (privé / public), les sous-albums n’héritent pas automat
 Prenons un exemple : vous avez un album privé, accessible aux utilisateurs X et Y. Si vous créez un sous-album de cet album privé, par défaut, il ne sera pas accessible aux utilisateurs X et Y (uniquement aux administrateurs).
 
 !!! info
-    Si vous voulez que les sous-albums héritent automatiquement des permissions de leurs parents, contactez le support si vous êtes client piwigo.com.  Sinon, ajoutez le paramètre suivant à votre configuration grâce à [LocalFiles Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) : `$conf['inheritance_by_default'];`
+    Si vous voulez que les sous-albums héritent automatiquement des permissions de leurs parents, contactez le support si vous êtes client piwigo.com.  Sinon, ajoutez le paramètre suivant à votre configuration grâce à [LocalFiles Editor](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) : `$conf['inheritance_by_default'];`
 
 
 ## Gérer en masse l’accès aux albums (public / privé)
@@ -131,7 +131,7 @@ Si vous avez activé les commentaires sur votre galerie, vous pouvez visualiser 
 
 Le troisième onglet fonctionne exactement de la même manière que les deux autres (voir chapitres précédents). 
 
-Pour en savoir plus sur les commentaires, [lisez cet article](/les-commentaires-et-notes/commentaires-options-avancees).
+Pour en savoir plus sur les commentaires, [lisez cet article](../les-commentaires-et-notes/commentaires-options-avancees).
 
 ## **Download Permissions :** Gérer les droits au téléchargement album par album
 
@@ -153,8 +153,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Modifier un album](/organiser-les-albums/modifier-un-albu)
+[Modifier un album](modifier-un-albu)
 
 Suivant →
 
-[SmartAlbums (albums intelligents)](/organiser-les-albums/smartalbums-albums-intelligents)
+[SmartAlbums (albums intelligents)](smartalbums-albums-intelligents)

@@ -2,7 +2,7 @@
 
 ## Créer un album lors d’un import de photos
 
-Lorsque vous [importez des contenus dans Piwigo](/importer-et-gerer-les-photos/importer-des-photos-dans-piwigo), vous pouvez les associer à un album existant en choisissant dans la liste déroulante. La liste affiche tous les albums et sous-albums présents sur votre photothèque.
+Lorsque vous [importez des contenus dans Piwigo](../importer-et-gerer-les-photos/importer-des-photos-dans-piwigo), vous pouvez les associer à un album existant en choisissant dans la liste déroulante. La liste affiche tous les albums et sous-albums présents sur votre photothèque.
 
 Les sous-albums, ou albums “enfants” apparaissent de la façon suivante :
 
@@ -36,7 +36,7 @@ Pour créer un album à la racine (et non pas à l’intérieur d’un album exi
 
 Une fenêtre s’ouvre, qui vous permet de saisir le nom de l’album, et de choisir sa position par défaut (au début ou à la fin de la liste des albums). 
 
-Cette position pourra bien sûr être modifiée manuellement ou en changeant l’ordre de tri des albums (voir le chapitre : [Modifier l’ordre des albums](/organiser-les-albums/gerez-vos-albums)).
+Cette position pourra bien sûr être modifiée manuellement ou en changeant l’ordre de tri des albums (voir le chapitre : [Modifier l’ordre des albums](gerez-vos-albums)).
 
 ![fr-créer-album-racine.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-94fa576d.png)
 
@@ -52,7 +52,7 @@ Une fenêtre s’ouvre, comme lorsque vous créez un album à la racine, pour ch
 
 Lorsque vous créez un nouvel album, qui a le droit de voir son contenu ?
 
-Pour comprendre le fonctionnement des permissions sur les albums, lisez [cet article](/organiser-les-albums/permissions-et-visibilite-des-albums).
+Pour comprendre le fonctionnement des permissions sur les albums, lisez [cet article](permissions-et-visibilite-des-albums).
 
 Sommaire de l’article
 
@@ -60,8 +60,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Albums et sous-albums : présentation](/organiser-les-albums/albums-et-sous-albums-presentation)
+[Albums et sous-albums : présentation](albums-et-sous-albums-presentation)
 
 Suivant →
 
-[Gérez vos albums](/organiser-les-albums/gerez-vos-albums)
+[Gérez vos albums](gerez-vos-albums)

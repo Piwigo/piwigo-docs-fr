@@ -1,6 +1,6 @@
 # L’application mobile Piwigo NG pour Android
 
-L’application mobile Piwigo pour Android peut être installée sur un smartphone ou une tablette utilisant un système d’exploitation basé sur Android. C’est le cas de la plupart des smartphones du marché, en dehors des smartphones Apple (qui peuvent installer [l’application Piwigo pour iOS](/les-applications-mobiles/lapplication-mobile-piwigo-pour-ios)), et des smartphones Microsoft.
+L’application mobile Piwigo pour Android peut être installée sur un smartphone ou une tablette utilisant un système d’exploitation basé sur Android. C’est le cas de la plupart des smartphones du marché, en dehors des smartphones Apple (qui peuvent installer [l’application Piwigo pour iOS](lapplication-mobile-piwigo-pour-ios)), et des smartphones Microsoft.
 
 ## Télécharger l’application Piwigo NG pour Android
 

@@ -74,7 +74,7 @@ Cliquez sur les tags qui vous conviennent, et cliquez sur “Appliquer les tags�
 
 ## Utiliser Tag Recognition pour appliquer des tags en masse à une sélection
 
-Si vous souhaitez aller vite, vous pouvez générer des tags en masse avec la [Gestion par lot.](/importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos)
+Si vous souhaitez aller vite, vous pouvez générer des tags en masse avec la [Gestion par lot.](../importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos)
 
 En effet, une nouvelle action est rendue possible dans le gestionnaire de lot : “Génération de tags”.
 
@@ -96,4 +96,4 @@ Sommaire de l’article
 
 ← Précédent
 
-[Créer et gérer les tags](/gerer-les-tags/creer-et-gerer-les-tags)
+[Créer et gérer les tags](creer-et-gerer-les-tags)

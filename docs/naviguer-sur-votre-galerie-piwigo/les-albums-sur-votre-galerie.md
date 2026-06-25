@@ -14,7 +14,7 @@ Dans cet article nous verrons comment naviguer dans les albums, comment la page 
 
 Pour en savoir plus sur les albums, lisez cette série d’articles :
 
-[Organiser les albums](/organiser-les-albums)
+[Organiser les albums](../organiser-les-albums)
 
 ## Préambule
 
@@ -43,7 +43,7 @@ Lorsque vous arrivez sur l’accueil de votre galerie, vous visualisez la liste 
 Les albums qui apparaissent sont : 
 
 - Tous les albums publics
-- Tous les albums privés que vous avez le droit de voir, si vous êtes connecté. [En savoir plus sur les permissions](/organiser-les-albums/permissions-et-visibilite-des-albums)
+- Tous les albums privés que vous avez le droit de voir, si vous êtes connecté. [En savoir plus sur les permissions](../organiser-les-albums/permissions-et-visibilite-des-albums)
 
 !!! info
     Par défaut, la page d’accueil affiche 12 albums par page. Vous pouvez naviguer dans vos albums grâce à la pagination en bas de page. Si vous souhaitez modifier le nombre d’albums affichés par page, rendez-vous dans l’administration, Configuration > Options, onglet Afficher.
@@ -54,7 +54,7 @@ En cliquant sur un album, vous accédez à la page de l’Album.
 Le contenu de celle-ci diffère en fonction du contenu de l’album : soit il contient directement des photos (ou d’autres fichiers), soit il continent des sous-albums.
 
 !!! info
-    Pour comprendre les notions d’albums et sous-albums, [lisez cet article](/organiser-les-albums/albums-et-sous-albums-presentation). Il est possible qu’un album contienne à la fois des sous-albums et des fichiers, mais on le déconseille.
+    Pour comprendre les notions d’albums et sous-albums, [lisez cet article](../organiser-les-albums/albums-et-sous-albums-presentation). Il est possible qu’un album contienne à la fois des sous-albums et des fichiers, mais on le déconseille.
 
 
 ## Album avec des sous-albums
@@ -82,7 +82,7 @@ Si vous avez de nombreux fichiers dans cet album, des liens de pagination appara
 Si vous souhaitez supprimer la pagination et afficher l’intégralité des photos sur la page album, vous pouvez activer le plugin **RV Thumb Scroller**. Ce plugin charge les photos progressivement au fur et à mesure que l’utilisateur scrolle sur la page.
 
 !!! info
-    Pour modifier le nombre de photos affichées sur une page album, rendez vous dans vos [préférences utilisateur](/les-utilisateurs/creer-et-gerer-les-utilisateurs) ; vous pouvez y accéder en cliquant sur le menu “Personnaliser” sur la galerie, ou en modifiant votre profil utilisateur dans l’administration.
+    Pour modifier le nombre de photos affichées sur une page album, rendez vous dans vos [préférences utilisateur](../les-utilisateurs/creer-et-gerer-les-utilisateurs) ; vous pouvez y accéder en cliquant sur le menu “Personnaliser” sur la galerie, ou en modifiant votre profil utilisateur dans l’administration.
 
 
 ## La barre d’outils de la page Album
@@ -92,7 +92,7 @@ La barre d’outils vous donne accès à plusieurs fonctionnalités.
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-6b027860.png)
 
 !!! info
-    Remarque : Les icônes et fonctionnalités disponibles sur votre galerie dépendent du thème que vous avez choisi, de la configuration de Piwigo, des plugins activés... Les exemples présentés sur cette page présentent les possibilités par défaut du thème [Modus](/les-themes/le-theme-modus). Si vous utilisez le thème [Bootstrap Darkroom](/les-themes/le-theme-bootstrap-darkroo), par exemple, les fonctionnalités disponibles sont globalement les mêmes, mais les icônes sont légèrement différentes.
+    Remarque : Les icônes et fonctionnalités disponibles sur votre galerie dépendent du thème que vous avez choisi, de la configuration de Piwigo, des plugins activés... Les exemples présentés sur cette page présentent les possibilités par défaut du thème [Modus](../les-themes/le-theme-modus). Si vous utilisez le thème [Bootstrap Darkroom](../les-themes/le-theme-bootstrap-darkroo), par exemple, les fonctionnalités disponibles sont globalement les mêmes, mais les icônes sont légèrement différentes.
 
 
 ### **Modifier l’ordre de tri des photos**
@@ -117,11 +117,11 @@ Exemple d’affichage avec la taille “Miniature” :
 
 ### Ajouter au panier (administrateurs uniquement)
 
-Si vous êtes administrateur, l’icône représentant un chariot permet d’ajouter toutes les photos de l’album à votre panier. Vous retrouverez ensuite ce panier dans l’administration, et pourrez agir sur ces photos, via le [gestionnaire de lots](/importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos).
+Si vous êtes administrateur, l’icône représentant un chariot permet d’ajouter toutes les photos de l’album à votre panier. Vous retrouverez ensuite ce panier dans l’administration, et pourrez agir sur ces photos, via le [gestionnaire de lots](../importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos).
 
 ### Éditer l’album (administrateurs uniquement)
 
-Si vous êtes administrateur, l’icône représentant un outil permet de vous rendre dans l’administration pour [modifier l’album](/organiser-les-albums/modifier-un-albu).
+Si vous êtes administrateur, l’icône représentant un outil permet de vous rendre dans l’administration pour [modifier l’album](../organiser-les-albums/modifier-un-albu).
 
 ### **Afficher les photos en mode Calendrier**
 
@@ -176,8 +176,8 @@ En fonction du thème utilisé par votre galerie, vous avez accès à d’autres
 
 Visitez la documentation de votre thème pour en savoir plus :
 
-- [Documentation de Modus](/les-themes/le-theme-modus)
-- [Documentation de Bootstrap Darkroom](/les-themes/le-theme-bootstrap-darkroo)
+- [Documentation de Modus](../les-themes/le-theme-modus)
+- [Documentation de Bootstrap Darkroom](../les-themes/le-theme-bootstrap-darkroo)
 
 ### Modifier le nombre de photos affichées sur la page Album
 
@@ -185,17 +185,17 @@ Par défaut, Piwigo affiche 15 miniatures sur la page d’un album, mais vous po
 
 Pour modifier le nombre de photos affichées sur une page album, rendez-vous dans vos préférences utilisateur ; vous pouvez y accéder en cliquant sur le menu “Personnaliser” sur la galerie, ou bien en modifiant votre profil utilisateur dans l’administration.
 
-[En savoir plus sur les préférences](/les-utilisateurs/creer-et-gerer-les-utilisateurs)
+[En savoir plus sur les préférences](../les-utilisateurs/creer-et-gerer-les-utilisateurs)
 
 ## Personnaliser la page Album avec des plugins
 
 ### **Comments on albums : Afficher** des commentaires sur les albums
 
-Par défaut, Piwigo permet aux visiteurs de votre galerie de publier des [commentaires](/les-commentaires-et-notes/gerer-les-notes-votes) sur les photos, mais pas sur les albums.
+Par défaut, Piwigo permet aux visiteurs de votre galerie de publier des [commentaires](../les-commentaires-et-notes/gerer-les-notes-votes) sur les photos, mais pas sur les albums.
 
 Si vous souhaitez activer cette option, il suffit d’activer le plugin **Comments on albums**.
 
-[En savoir plus](/les-commentaires-et-notes/gerer-les-notes-votes)
+[En savoir plus](../les-commentaires-et-notes/gerer-les-notes-votes)
 
 ### Batch Downloader : Télécharger tous les fichiers d’un album (ou d’une sélection) au format zip
 
@@ -253,7 +253,7 @@ Vous pouvez également définir des règles sur le temps de conservation des arc
 
 Les fonctionnalités avancées listent les options qui sont modifiables via le fichier de configuration de Piwigo.
 
-Vous pouvez les modifier grâce à [Localfile Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) si vous travaillez sur un Piwigo auto-hébergé ; si vous êtes clients d’une offre piwigo.com, contactez le support pour modifier l’un de ces paramètres.
+Vous pouvez les modifier grâce à [Localfile Editor](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) si vous travaillez sur un Piwigo auto-hébergé ; si vous êtes clients d’une offre piwigo.com, contactez le support pour modifier l’un de ces paramètres.
 
 ### ShareAlbum : partager un lien sécurité vers un album
 
@@ -418,8 +418,8 @@ Si vous l’activez, les miniatures des photos se chargeront progressivement au 
 
 ← Précédent
 
-[Votre galerie : présentation](/naviguer-sur-votre-galerie-piwigo/votre-galerie-presentation)
+[Votre galerie : présentation](votre-galerie-presentation)
 
 Suivant →
 
-[La page Photo sur votre galerie](/naviguer-sur-votre-galerie-piwigo/la-page-photo-sur-votre-galerie)
+[La page Photo sur votre galerie](la-page-photo-sur-votre-galerie)

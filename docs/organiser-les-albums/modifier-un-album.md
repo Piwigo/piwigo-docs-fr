@@ -62,7 +62,7 @@ Vous pouvez également visiter la page d’une photo sur la galerie, et cliquer 
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-3d45d5eb.png)
 
-Si vous souhaitez qu’une photo en particulier illustre votre album, vous pouvez enfin éditer cette photo et choisir l’album qu’elle représente grâce au champ “Représentation des albums”. Avec cette fonctionnalité, vous pouvez ainsi choisir comme représentante d’un album une photo qui n’est même pas présente dans cet album ! [En savoir plus](/importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers) 
+Si vous souhaitez qu’une photo en particulier illustre votre album, vous pouvez enfin éditer cette photo et choisir l’album qu’elle représente grâce au champ “Représentation des albums”. Avec cette fonctionnalité, vous pouvez ainsi choisir comme représentante d’un album une photo qui n’est même pas présente dans cet album ! [En savoir plus](../importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers) 
 
 ### **Autoriser ou interdire les commentaires**
 
@@ -72,7 +72,7 @@ Pour gérer les commentaires dans les sous-albums, cliquer sur l’icône repré
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-02970173.png)
 
-[En savoir plus sur les commentaires](/les-commentaires-et-notes/commentaires-options-avancees)
+[En savoir plus sur les commentaires](../les-commentaires-et-notes/commentaires-options-avancees)
 
 ### **Autres actions disponibles sur l’album**
 
@@ -80,7 +80,7 @@ Depuis la barre d’outils à droite, vous avez accès à plusieurs options.
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-74b54b7e.png)
 
-- Gérer les photos de l’album : cette icône vous permet de modifier en lot les photos de votre album. [En savoir plus sur la gestion par lot](/importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos)
+- Gérer les photos de l’album : cette icône vous permet de modifier en lot les photos de votre album. [En savoir plus sur la gestion par lot](../importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos)
 - Ajouter des photos : cette icône permet d’ajouter de nouveaux fichiers dans votre album
 - Gérer les sous-albums : cette icône vous amène à la liste des albums, si vous avez besoin de modifier les sous-albums présents dans votre album
 - Supprimer l’album : cette icône vous permet, au choix, de supprimer l’album et son contenu, ou de supprimer uniquement l’album (les photos qu’il contient seront alors considérées dans Piwigo comme “orphelines”).
@@ -102,7 +102,7 @@ Vous pouvez également verrouiller / déverrouiller une liste d’albums depuis 
 Quand vous éditez un album, le deuxième onglet “Ordre des photos” permet de modifier l’ordre des photos telles qu’elles s’affichent dans votre album.
 
 !!! info
-    Par défaut Piwigo classe les photos de la façon suivante : par date d’ajout (du plus récent au plus ancien), PUIS par nom du fichier (de A à Z), PUIS par identifiant (du plus petit au plus grand). Vous pouvez modifier ce paramètre dans les options de configuration de Piwigo. [En savoir plus](/personnaliser-ma-galerie/options-de-personnalisation-de-votre-galerie)
+    Par défaut Piwigo classe les photos de la façon suivante : par date d’ajout (du plus récent au plus ancien), PUIS par nom du fichier (de A à Z), PUIS par identifiant (du plus petit au plus grand). Vous pouvez modifier ce paramètre dans les options de configuration de Piwigo. [En savoir plus](../personnaliser-ma-galerie/options-de-personnalisation-de-votre-galerie)
 
 
 ### **Modifier manuellement l’ordre des photos**
@@ -148,7 +148,7 @@ Le troisième onglet de l’éditeur d’album est sans doute le plus important 
 
 Pour tout comprendre sur la gestion des permissions sur les albums, lisez l’article suivant :
 
-[Permissions et visibilité des albums](/organiser-les-albums/permissions-et-visibilite-des-albums)
+[Permissions et visibilité des albums](permissions-et-visibilite-des-albums)
 
 ## Envoyer une notification sur un album
 
@@ -170,6 +170,6 @@ Sommaire de l’article
 
 ← Précédent
 
-[Gérez vos albums](/organiser-les-albums/gerez-vos-albums)
+[Gérez vos albums](gerez-vos-albums)
 
 Suivant →

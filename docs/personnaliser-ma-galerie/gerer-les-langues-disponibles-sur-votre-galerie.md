@@ -29,7 +29,7 @@ Rendez vous ensuite sur votre galerie.
 
 En cliquant sur “Personnaliser”, vous pouvez modifier la langue visible : ce choix ne s’appliquera qu’à vous seul (c’est une préférence enregistrée pour chaque utilisateur).
 
-[En savoir plus sur les préférences](/les-utilisateurs/creer-et-gerer-les-utilisateurs)
+[En savoir plus sur les préférences](../les-utilisateurs/creer-et-gerer-les-utilisateurs)
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-1da9433e.png)
 
@@ -107,7 +107,7 @@ Ceci est particulièrement pratique pour inclure du code HTML ou Javascript dans
 
 Notez que le plugin Extended Descriptions vous donne accès à d’autres fonctionnalités pour personnaliser votre galerie.
 
-[En savoir plus](/personnaliser-ma-galerie/personnaliser-votre-galerie-avec-des-plugins)
+[En savoir plus](personnaliser-votre-galerie-avec-des-plugins)
 
 Sommaire de l’article
 
@@ -115,8 +115,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Options de personnalisation de votre galerie](/personnaliser-ma-galerie/options-de-personnalisation-de-votre-galerie)
+[Options de personnalisation de votre galerie](options-de-personnalisation-de-votre-galerie)
 
 Suivant →
 
-[Personnaliser le menu de votre galerie](/personnaliser-ma-galerie/personnaliser-le-menu-de-votre-galerie)
+[Personnaliser le menu de votre galerie](personnaliser-le-menu-de-votre-galerie)

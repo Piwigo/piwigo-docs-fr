@@ -4,7 +4,7 @@
 
 Pour déterminer quels utilisateurs ont accès à quels contenus dans Piwigo, la solution la plus courante et la plus pratique, c’est d’utiliser les permissions sur les albums.
 
-Pour rappel, un album peut être privé ou public, et les utilisateurs et groupes d’utilisateurs ont accès, ou non, à chaque album privé. [En savoir plus sur la visibilité des albums](/organiser-les-albums/permissions-et-visibilite-des-albums)
+Pour rappel, un album peut être privé ou public, et les utilisateurs et groupes d’utilisateurs ont accès, ou non, à chaque album privé. [En savoir plus sur la visibilité des albums](../organiser-les-albums/permissions-et-visibilite-des-albums)
 
 Ainsi, lorsqu’un utilisateur est connecté à votre galerie, il visualise uniquement les albums auxquels il a accès.
 
@@ -56,8 +56,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Créer et gérer les utilisateurs](/les-utilisateurs/creer-et-gerer-les-utilisateurs)
+[Créer et gérer les utilisateurs](creer-et-gerer-les-utilisateurs)
 
 Suivant →
 
-[Envoyer des emails de notification aux utilisateurs](/les-utilisateurs/envoyer-des-emails-de-notification-aux-utilisateurs)
+[Envoyer des emails de notification aux utilisateurs](envoyer-des-emails-de-notification-aux-utilisateurs)

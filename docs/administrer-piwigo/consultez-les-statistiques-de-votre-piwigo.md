@@ -193,4 +193,4 @@ Sommaire de l’article
 
 Suivant →
 
-[Maintenance de votre Piwigo](/administrer-piwigo/maintenance-de-votre-piwigo)
+[Maintenance de votre Piwigo](maintenance-de-votre-piwigo)

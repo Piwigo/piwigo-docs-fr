@@ -46,7 +46,7 @@ Comme on l’a dit, il ne faut pas modifier le fichier de configuration livré a
 
 LocalFiles Editor va vous permettre de surcharger les paramètres de ce fichier, c’est à dire de spécifier quels paramètres doivent être modifiés par rapport au fichier de base.
 
-Reprenons l’exemple précédent : imaginons que vous souhaitez activer la gestion des [formats multiples](/importer-et-gerer-les-photos/les-formats-multiples).
+Reprenons l’exemple précédent : imaginons que vous souhaitez activer la gestion des [formats multiples](../importer-et-gerer-les-photos/les-formats-multiples).
 
 Vous n’avez qu’à copier la section correspondant au paramètre `'enable_formats'` et à la coller dans l’onglet Configuration Locale de LocalFiles Editor. Vous pouvez maintenant remplacer la valeur `false` par `true` comme dans l'exemple ci-dessous.
 

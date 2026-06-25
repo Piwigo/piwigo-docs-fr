@@ -16,12 +16,12 @@ Les articles listés ici ne concernent donc pas les clients d’une offre piwigo
 
 ---
 
-[Installer Piwigo](/hebergez-votre-piwigo/installer-piwigo)
+[Installer Piwigo](hebergez-votre-piwigo/installer-piwigo)
 
-[Import et synchronisation de photos FTP](/hebergez-votre-piwigo/import-et-synchronisation-de-photos-ftp)
+[Import et synchronisation de photos FTP](hebergez-votre-piwigo/import-et-synchronisation-de-photos-ftp)
 
-[Modifier la configuration locale avec LocalFiles Editor](/hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor)
+[Modifier la configuration locale avec LocalFiles Editor](hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor)
 
-[Problèmes de génération des vignettes et des miniatures](/hebergez-votre-piwigo/problemes-generation-vignettes-miniatures)
+[Problèmes de génération des vignettes et des miniatures](hebergez-votre-piwigo/problemes-generation-vignettes-miniatures)
 
-[Déplacez Piwigo vers un autre serveur / emplacement](/hebergez-votre-piwigo/deplacez-piwigo-vers-un-autre-serveur)
+[Déplacez Piwigo vers un autre serveur / emplacement](hebergez-votre-piwigo/deplacez-piwigo-vers-un-autre-serveur)

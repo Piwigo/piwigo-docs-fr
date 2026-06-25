@@ -29,7 +29,7 @@ Dans la plupart des organisations, les administrateurs sont les gestionnaires de
 
 Un visiteur peut se connecter à votre galerie Piwigo, mais pas à l’administration. Par défaut, quand vous créez un utilisateur, ou quand un utilisateur s’enregistre lui-même, il a le statut de visiteur.
 
-Un visiteur peut visualiser et télécharger les fichiers de votre photothèque auxquels il a droit, mais il ne peut pas ajouter de photo à Piwigo (sauf avec le plugin [Community](/les-utilisateurs/gerer-les-contributeurs-plugin-community)).
+Un visiteur peut visualiser et télécharger les fichiers de votre photothèque auxquels il a droit, mais il ne peut pas ajouter de photo à Piwigo (sauf avec le plugin [Community](gerer-les-contributeurs-plugin-community)).
 
 Au sein d’une organisation, dans la majorité des cas, la plupart des utilisateurs sont des visiteurs : ce sont les personnes qui se connectent à la photothèque pour rechercher et télécharger les fichiers dont elles ont besoin.
 
@@ -61,7 +61,7 @@ L’utilisateur Guest (ou invité) est un utilisateur “fantôme” dans Piwigo
 
 Dans l’administration, vous pouvez déterminer les permissions et paramètres appliqués à ces utilisateurs. Ils seront appliqués par défaut à tous les nouveaux utilisateurs créés par la suite : ce sont donc les paramètres “de base” de Piwigo.
 
-Pour savoir comment modifier le compte “Guest”, [lisez cet article](/les-utilisateurs/creer-et-gerer-les-utilisateurs).
+Pour savoir comment modifier le compte “Guest”, [lisez cet article](creer-et-gerer-les-utilisateurs).
 
 ## Le statut de contributeur (plugin Community)
 
@@ -69,7 +69,7 @@ Dans nos [offres tarifaires](https://fr.piwigo.com/tarifs), nous mentionnons le 
 
 Ce statut n’est pas un type d’utilisateur à proprement parler : il qualifie les utilisateurs non administrateurs autorisés à importer des fichiers dans Piwigo lorsque le plugin Community est activé. 
 
-Pour en savoir plus, lisez cet article : [Gérer les contributeurs (plugin Community)](/les-utilisateurs/gerer-les-contributeurs-plugin-community) 
+Pour en savoir plus, lisez cet article : [Gérer les contributeurs (plugin Community)](gerer-les-contributeurs-plugin-community) 
 
 Sommaire de l’article
 
@@ -77,8 +77,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Se connecter à Piwigo](/les-utilisateurs/se-connecter-a-piwigo)
+[Se connecter à Piwigo](se-connecter-a-piwigo)
 
 Suivant →
 
-[Créer et gérer les utilisateurs](/les-utilisateurs/creer-et-gerer-les-utilisateurs)
+[Créer et gérer les utilisateurs](creer-et-gerer-les-utilisateurs)

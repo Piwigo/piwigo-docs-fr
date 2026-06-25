@@ -62,7 +62,7 @@ Vous pouvez retrouver facilement vos favoris grâce au filtre prédéfini “Mes
 
 Vous pouvez alors sélectionner les photos à modifier parmi vos photos favorites ou toutes les sélectionner, et choisir l’action à appliquer.
 
-Pour en savoir plus sur la gestion par lot, [lisez cet article](/importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos).
+Pour en savoir plus sur la gestion par lot, [lisez cet article](../importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos).
 
 ## **Quick Fav : ajouter une photo à ses favoris depuis la page Album**
 
@@ -72,7 +72,7 @@ Le plugin **Quick Fav** permet d’ajouter une photo en clic depuis sa vignette,
 
 Il permet également en un clic d’ajouter tout le contenu d’un album à ses favoris
 
-[En savoir plus sur Quick Fav](/naviguer-sur-votre-galerie-piwigo/les-albums-sur-votre-galerie)
+[En savoir plus sur Quick Fav](les-albums-sur-votre-galerie)
 
 ## User Collections : Organisez vos favoris en collections thématiques
 
@@ -80,7 +80,7 @@ Si vous avez besoin de créer plusieurs sélections thématiques, alors le plugi
 
 Il vous permet de créer des collections, d’y ajouter des fichiers, et de partager ces collections par lien ou par email.
 
-[En savoir plus sur User Collections](/naviguer-sur-votre-galerie-piwigo/creer-des-collections-plugin-user-collections)
+[En savoir plus sur User Collections](creer-des-collections-plugin-user-collections)
 
 Sommaire de l’article
 
@@ -88,8 +88,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Rechercher une photo sur votre galerie](/naviguer-sur-votre-galerie-piwigo/rechercher-une-photo-sur-votre-galerie)
+[Rechercher une photo sur votre galerie](rechercher-une-photo-sur-votre-galerie)
 
 Suivant →
 
-[Créer des collections (plugin User Collections)](/naviguer-sur-votre-galerie-piwigo/creer-des-collections-plugin-user-collections)
+[Créer des collections (plugin User Collections)](creer-des-collections-plugin-user-collections)

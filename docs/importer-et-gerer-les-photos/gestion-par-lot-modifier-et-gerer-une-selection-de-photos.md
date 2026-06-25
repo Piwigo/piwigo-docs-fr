@@ -84,7 +84,7 @@ L’option “inclure les photos d’un niveau de confidentialité inférieur”
 
 Exemple : si on choisit le niveau de confidentialité “Amis” et que l’on coche cette option, on affichera les photos associées aux niveaux de confidentialité “Amis” ET “Contacts”.
 
-Pour comprendre le fonctionnement des niveaux de confidentialité, [lisez cet article](/les-utilisateurs/les-niveaux-de-confidentialite).
+Pour comprendre le fonctionnement des niveaux de confidentialité, [lisez cet article](../les-utilisateurs/les-niveaux-de-confidentialite).
 
 ### **Filtrer les photos par dimensions**
 
@@ -295,8 +295,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Modifier ou supprimer une photo](/importer-et-gerer-les-photos/modifier-ou-supprimer-une-photo)
+[Modifier ou supprimer une photo](modifier-ou-supprimer-une-photo)
 
 Suivant →
 
-[Gérez les propriétés et métadonnées de vos fichiers](/importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers)
+[Gérez les propriétés et métadonnées de vos fichiers](gerez-les-proprietes-et-metadonnees-de-vos-fichiers)

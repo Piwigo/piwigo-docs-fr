@@ -64,13 +64,13 @@ Pour en savoir plus sur les propriétés et métadonnées, et pour savoir :
 - comment créer des propriétés personnalisées
 - etc
 
-Alors lisez [l’article sur les propriétés et métadonnées](/importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers).
+Alors lisez [l’article sur les propriétés et métadonnées](../importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers).
 
 ### Commentaires
 
 Si vous avez activé les commentaires sur votre galerie, une zone de commentaires s’affiche sur la page Photo.
 
-Pour en savoir plus, lisez [l’article sur la gestion des commentaires](/les-commentaires-et-notes/commentaires-options-avancees).
+Pour en savoir plus, lisez [l’article sur la gestion des commentaires](../les-commentaires-et-notes/commentaires-options-avancees).
 
 ### Actions disponibles sur une photo
 
@@ -84,7 +84,7 @@ La première icône permet de choisir la taille de la photo affichée, parmi les
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-901fedf6.png)
 
-Pour savoir comment définir les tailles de photos disponibles sur la galerie, lisez le chapitre [Gérer les tailles de fichiers disponibles sur votre galerie](/naviguer-sur-votre-galerie-piwigo/la-page-photo-sur-votre-galerie).
+Pour savoir comment définir les tailles de photos disponibles sur la galerie, lisez le chapitre [Gérer les tailles de fichiers disponibles sur votre galerie](la-page-photo-sur-votre-galerie).
 
 **Lancer un diaporama**
 
@@ -94,7 +94,7 @@ L’icône en forme de bouton “Lecture” permet de lancer un diaporama pleine
 
 **Afficher les métadonnées**
 
-L’icône en forme d’appareil photo permet d’afficher ou masquer les métadonnées de votre photo dans le panneau latéral des propriétés. En savoir plus sur [l’affichage des métadonnées](/importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers)
+L’icône en forme d’appareil photo permet d’afficher ou masquer les métadonnées de votre photo dans le panneau latéral des propriétés. En savoir plus sur [l’affichage des métadonnées](../importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers)
 
 **Télécharger la photo**
 
@@ -112,7 +112,7 @@ Si vous souhaitez désactiver complètement le bouton “Télécharger” sur vo
 
 **Ajouter la photo à vos favoris**
 
-L’icône en forme de coeur permet d’ajouter la photo à vos favoris. Vous pouvez retrouver vos favoris dans la page Mes favorites disponibles via le menu Explorer (ou Découvrir si vous utilisez le thème Bootstrap Darkroom). [En savoir plus sur les favoris](/naviguer-sur-votre-galerie-piwigo/gerer-ses-favoris)
+L’icône en forme de coeur permet d’ajouter la photo à vos favoris. Vous pouvez retrouver vos favoris dans la page Mes favorites disponibles via le menu Explorer (ou Découvrir si vous utilisez le thème Bootstrap Darkroom). [En savoir plus sur les favoris](gerer-ses-favoris)
 
 **Choisir la photo comme représentante de cet album (administrateurs uniquement)**
 
@@ -124,7 +124,7 @@ L’icône en forme de crayon est visible uniquement aux administrateurs. Elle p
 
 **Ajouter la photo au panier (administrateurs uniquement)**
 
-L’icône en forme de caddie est visible uniquement aux administrateurs. Elle permet d’ajouter la photo à son panier. Le panier est ensuite accessible dans l’administration pour effectuer des actions en masse via le [gestionnaire de lots](/importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos).
+L’icône en forme de caddie est visible uniquement aux administrateurs. Elle permet d’ajouter la photo à son panier. Le panier est ensuite accessible dans l’administration pour effectuer des actions en masse via le [gestionnaire de lots](../importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos).
 
 ## Gérer les tailles de fichiers disponibles sur votre galerie
 
@@ -180,9 +180,9 @@ Une fois que vous avez terminé la personnalisation des tailles de fichier, n'ou
 
 Vous pouvez définir dans l’administration de Piwigo quelles actions sont disponibles via la barre d’outil, et quelles propriétés sont affichées sur la page Photo, et d’autres options de personnalisation de cette page.
 
-Pour en savoir plus lisez l’article sur les [options de personnalisation de votre galerie](/personnaliser-ma-galerie/options-de-personnalisation-de-votre-galerie).
+Pour en savoir plus lisez l’article sur les [options de personnalisation de votre galerie](../personnaliser-ma-galerie/options-de-personnalisation-de-votre-galerie).
 
-Pour plus d’informations sur la personnalisation de l’affichage des propriétés et métadonnées, lisez l’article sur [les propriétés et métadonnées](/importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers).
+Pour plus d’informations sur la personnalisation de l’affichage des propriétés et métadonnées, lisez l’article sur [les propriétés et métadonnées](../importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers).
 
 ### **Ajouter un filigrane à vos photos**
 
@@ -238,7 +238,7 @@ On en a déjà parlé précédemment dans cet article : le plugin **Download by 
 
 Le plugin **Private Share** permet aux utilisateurs habilités de générer un lien de partage d’une photo et de l’envoyer par email. Ce qui est très utile avec ce plugin, c’est qu’il vous permet de partager une photo présente dans un album privé, même avec des personnes n’ayant pas de compte Piwigo.
 
-Une fois ce plugin activé, vous devez d’abord définir quels utilisateurs ont le droit de l’utiliser. Pour cela rendez vous dans la configuration du plugin. Le premier onglet vous permet de définir quels sont les groupes d’utilisateurs qui ont le droit de l’utiliser. [En savoir plus sur les groupes d’utilisateurs](/les-utilisateurs/les-groupes-dutilisateurs)
+Une fois ce plugin activé, vous devez d’abord définir quels utilisateurs ont le droit de l’utiliser. Pour cela rendez vous dans la configuration du plugin. Le premier onglet vous permet de définir quels sont les groupes d’utilisateurs qui ont le droit de l’utiliser. [En savoir plus sur les groupes d’utilisateurs](../les-utilisateurs/les-groupes-dutilisateurs)
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-1a1a92dd.png)
 
@@ -309,7 +309,7 @@ Par défaut, les métadonnées sont masquées sur la page Photo de votre galerie
 
 Si vous souhaitez qu’elles soient toujours affichées, alors installez le plugin **AlwaysShowMetadata.**
 
-Pour en savoir plus sur les métadonnées, [lisez cet article](/importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers).
+Pour en savoir plus sur les métadonnées, [lisez cet article](../importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers).
 
 ### Rightclick : Interdire le clic droit sur la page Photo
 
@@ -367,8 +367,8 @@ Sommaire de l’article
 
 ← Précédent
 
-[Les albums sur votre galerie](/naviguer-sur-votre-galerie-piwigo/les-albums-sur-votre-galerie)
+[Les albums sur votre galerie](les-albums-sur-votre-galerie)
 
 Suivant →
 
-[Les tags sur votre galerie](/naviguer-sur-votre-galerie-piwigo/les-tags-sur-votre-galerie)
+[Les tags sur votre galerie](les-tags-sur-votre-galerie)

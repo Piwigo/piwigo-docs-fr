@@ -22,7 +22,7 @@ Si vous êtes administrateur, vous avez accès à l’administration ET à la ga
 
 Chaque galerie est différente ! Toutefois, lorsque l’on installe Piwigo ou quand on crée un compte sur le site piwigo.com, on commence tous avec la même galerie, vide de tout contenu.
 
-Cette galerie utilise le thème [Modus](/les-themes/le-theme-modus) et les paramètres par défaut de Piwigo. C’est cette version “par défaut” que nous allons présenter ici. Mais comme vous le verrez plus tard, il existe de nombreux moyens de personnaliser votre galerie.
+Cette galerie utilise le thème [Modus](../les-themes/le-theme-modus) et les paramètres par défaut de Piwigo. C’est cette version “par défaut” que nous allons présenter ici. Mais comme vous le verrez plus tard, il existe de nombreux moyens de personnaliser votre galerie.
 
 La page d’accueil de votre galerie comporte les éléments suivants :
 
@@ -41,7 +41,7 @@ Le menu de navigation vous donne accès à différents moyens d’accéder aux c
 - Accéder à la recherche avancée
 - …
 
-[En savoir plus sur le menu de navigation](/personnaliser-ma-galerie/personnaliser-le-menu-de-votre-galerie)
+[En savoir plus sur le menu de navigation](../personnaliser-ma-galerie/personnaliser-le-menu-de-votre-galerie)
 
 Sur la page d’accueil, les icônes de la barre d’outils donnent accès par défaut à 3 actions :
 
@@ -49,7 +49,7 @@ Sur la page d’accueil, les icônes de la barre d’outils donnent accès par d
 - Visualiser les photos par date d’ajout
 - Visualiser les photos par date de prise de vue
 
-À partir du moment où vous choisirez l’une de ces options, vous accéderez à la vue “Liste” qui donne accès à d’autres actions. Cette vue Liste est décrite dans la [documentation de la Page Album](/naviguer-sur-votre-galerie-piwigo/les-albums-sur-votre-galerie).
+À partir du moment où vous choisirez l’une de ces options, vous accéderez à la vue “Liste” qui donne accès à d’autres actions. Cette vue Liste est décrite dans la [documentation de la Page Album](les-albums-sur-votre-galerie).
 
 Si vous n’êtes pas connecté, vous voyez ce que n’importe quel visiteur de votre galerie pourra voir, c’est à dire les albums définis comme publics.
 
@@ -101,9 +101,9 @@ Dans les chapitres suivants, nous présenterons, pour les principales pages, les
 
 Pour obtenir davantage d’informations sur la personnalisation de l’apparence de votre galerie, visitez les chapitres suivants :
 
-[Les thèmes](/les-themes)
+[Les thèmes](../les-themes)
 
-[Personnaliser ma galerie](/personnaliser-ma-galerie)
+[Personnaliser ma galerie](../personnaliser-ma-galerie)
 
 Sommaire de l’article
 
@@ -111,4 +111,4 @@ Sommaire de l’article
 
 Suivant →
 
-[Les albums sur votre galerie](/naviguer-sur-votre-galerie-piwigo/les-albums-sur-votre-galerie)
+[Les albums sur votre galerie](les-albums-sur-votre-galerie)

@@ -101,4 +101,4 @@ En effet, dans la page d’édition d’un album, le plugin ajoute un onglet “
 
 ← Précédent
 
-[Personnaliser le CSS de votre galerie](/personnaliser-ma-galerie/personnaliser-le-css-de-votre-galerie)
+[Personnaliser le CSS de votre galerie](personnaliser-le-css-de-votre-galerie)

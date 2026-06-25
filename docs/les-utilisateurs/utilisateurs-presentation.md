@@ -8,13 +8,13 @@ Dans Piwigo, on qualifie d’utilisateur toute personne qui va visiter votre gal
 
 Ainsi, un utilisateur peut être :
 
-- Anonyme : si votre galerie contient des albums publics, un utilisateur pourra visualiser leur contenu sans être enregistré. Il n’aura pas besoin de créer un compte ni de se connecter. Il aura le statut d’**Invité** (guest). [En savoir plus](/les-utilisateurs/les-statuts-utilisateurs)
+- Anonyme : si votre galerie contient des albums publics, un utilisateur pourra visualiser leur contenu sans être enregistré. Il n’aura pas besoin de créer un compte ni de se connecter. Il aura le statut d’**Invité** (guest). [En savoir plus](les-statuts-utilisateurs)
 - Enregistré : un utilisateur enregistré a un compte utilisateur sur Piwigo. Une fois connecté sur Piwigo, il visualise un contenu personnalisé, potentiellement différent de ce que verra un autre utilisateur. Ce qu’un utilisateur voit sur Piwigo dépend de plusieurs critères :
-    - Son statut (visiteur, administrateur, webmaster) : [en savoir plus](/les-utilisateurs/les-statuts-utilisateurs)
-    - Les albums qu’il a la permission de visualiser : [en savoir plus](/les-utilisateurs/creer-et-gerer-les-utilisateurs)
-    - Le ou les groupes auxquels il appartient : [en savoir plus](/les-utilisateurs/les-groupes-dutilisateurs)
-    - Son niveau de confidentialité : [en savoir plus](/les-utilisateurs/les-niveaux-de-confidentialite)
-    - Ses préférences : [en savoir plus](/les-utilisateurs/creer-et-gerer-les-utilisateurs)
+    - Son statut (visiteur, administrateur, webmaster) : [en savoir plus](les-statuts-utilisateurs)
+    - Les albums qu’il a la permission de visualiser : [en savoir plus](creer-et-gerer-les-utilisateurs)
+    - Le ou les groupes auxquels il appartient : [en savoir plus](les-groupes-dutilisateurs)
+    - Son niveau de confidentialité : [en savoir plus](les-niveaux-de-confidentialite)
+    - Ses préférences : [en savoir plus](creer-et-gerer-les-utilisateurs)
 
 ## Utilisateurs : options de configuration
 
@@ -32,7 +32,7 @@ Si vous décochez cette option, les utilisateurs devront être créés par un ad
 
 Si vous cochez cette option, les utilisateurs pourront eux-mêmes modifier leurs préférences depuis leur compte sur la galerie, en cliquant sur le menu “Personnaliser”. 
 
-Les préférences sont des options de visualisation : thème, langue, nombre de photos par page… [En savoir plus sur les préférences](/les-utilisateurs/creer-et-gerer-les-utilisateurs)
+Les préférences sont des options de visualisation : thème, langue, nombre de photos par page… [En savoir plus sur les préférences](creer-et-gerer-les-utilisateurs)
 
 Si vous décochez cette option, les utilisateurs ne pourront pas modifier leurs préférences. 
 
@@ -42,4 +42,4 @@ Sommaire de l’article
 
 Suivant →
 
-[Se connecter à Piwigo](/les-utilisateurs/se-connecter-a-piwigo)
+[Se connecter à Piwigo](se-connecter-a-piwigo)
