@@ -21,7 +21,7 @@ Vous devrez installer un serveur LAMP sur votre machine.
 
 ## Installer Piwigo
 
-Vous devez ensuite suivre la [procédure manuelle](https://fr.piwigo.org/guides/installation/manuelle) d’installation de Piwigo, et copier les fichiers d’installation dans votre répertoire web `www`.
+Vous devez ensuite suivre la [procédure manuelle](../guides-installation/installation-manuelle.md) d’installation de Piwigo, et copier les fichiers d’installation dans votre répertoire web `www`.
 
 ## Configuration de votre base de données
 

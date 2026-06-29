@@ -78,9 +78,9 @@ Une fois l'installation terminée, vous pouvez vous rendre sur la galerie. Ident
 
 ---
 
-!!! note "Articles complémentaires"
-    - **[Installer Piwigo sur un disque dur réseau](installer-piwigo/installer-piwigo-sur-un-disque-dur-reseau)**
-    - **[Installer Piwigo sur un serveur free.fr](installer-piwigo/installer-piwigo-sur-un-serveur-freefr)**
-    - **[Installer Piwigo en local](installer-piwigo/installer-piwigo-en-local)**
-    - **[Installer Piwigo sur Debian](installer-piwigo/installer-piwigo-sur-debian)**
-    - **[Installer Piwigo sur un NAS](installer-piwigo/installer-piwigo-sur-un-nas)**
+!!! abstract "Articles complémentaires"
+    - **[Installer Piwigo sur un disque dur réseau](../installer-piwigo/installer-piwigo-sur-un-disque-dur-reseau)**
+    - **[Installer Piwigo sur un serveur free.fr](../installer-piwigo/installer-piwigo-sur-un-serveur-freefr)**
+    - **[Installer Piwigo en local](../installer-piwigo/installer-piwigo-en-local)**
+    - **[Installer Piwigo sur Debian](../installer-piwigo/installer-piwigo-sur-debian)**
+    - **[Installer Piwigo sur un NAS](../installer-piwigo/installer-piwigo-sur-un-nas)**
