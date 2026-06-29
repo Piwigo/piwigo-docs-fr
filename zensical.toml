@@ -153,7 +153,6 @@ nav = [
         "hebergez-votre-piwigo/problemes-generation-vignettes-miniatures.md",
         "hebergez-votre-piwigo/deplacez-piwigo-vers-un-autre-serveur.md"
 	]},
-	{"Une remarque sur cette doc ?" = "https://fr.piwigo.org/forum/viewforum.php?id=14"}
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
