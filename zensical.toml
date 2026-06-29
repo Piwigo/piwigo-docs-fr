@@ -138,7 +138,16 @@ nav = [
 	]},
 	{"Hébergez votre Piwigo" = [
         "hebergez-votre-piwigo/index.md",
-        "hebergez-votre-piwigo/installer-piwigo.md",
+        {"Guides d'installation" = [
+            "hebergez-votre-piwigo/guides-installation/prerequis.md",
+            "hebergez-votre-piwigo/guides-installation/installation-manuelle.md",
+            "hebergez-votre-piwigo/guides-installation/installation-docker.md"
+        ]},
+        {"Guides de mise à jour" = [
+            "hebergez-votre-piwigo/guides-de-mise-a-jour/mise-a-jour-automatique.md",
+            "hebergez-votre-piwigo/guides-de-mise-a-jour/mise-a-jour-manuelle.md",
+            "hebergez-votre-piwigo/guides-de-mise-a-jour/mise-a-jour-docker.md"
+        ]},
         "hebergez-votre-piwigo/import-et-synchronisation-de-photos-ftp.md",
         "hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor.md",
         "hebergez-votre-piwigo/problemes-generation-vignettes-miniatures.md",
