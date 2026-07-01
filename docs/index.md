@@ -16,44 +16,43 @@ Ici, vous pouvez trouver des réponses à la plupart des questions que vous vous
 
 ## Pour démarrer…
 
-Nous avons récapitulé sur une page les questions les plus fréquentes à propos de l’utilisation de Piwigo.
+<div class="grid" markdown>
 
-[FAQ - Les questions les plus fréquentes sur Piwigo](faq-questions-frequentes-piwigo)
+Nous avons récapitulé sur une page les questions les plus fréquentes à propos de l’utilisation de Piwigo.  
+:question: [FAQ - Les questions les plus fréquentes sur Piwigo](faq-questions-frequentes-piwigo)
 
-Lisez l’article ci-dessous pour savoir comment naviguer dans ce site et trouver les réponses à vos questions !
+Lisez l’article ci-dessous pour savoir comment naviguer dans ce site et trouver les réponses à vos questions !  
+:mag: [Comment naviguer dans cette documentation ?](comment-naviguer-dans-cette-documentation)
 
-[Comment naviguer dans cette documentation ?](comment-naviguer-dans-cette-documentation)
+</div>
+
+
+
+
 
 ## Naviguer dans la documentation
 
-[**Démarrer avec Piwigo**](demarrer-avec-piwigo)
+<div class="grid cards" markdown>
 
-[Importer et gérer les photos](importer-et-gerer-les-photos)
+- :new: [Démarrer avec Piwigo](demarrer-avec-piwigo)
+- :art: [Les thèmes](les-themes)
+- :camera: [Importer et gérer les photos](importer-et-gerer-les-photos)
+- :gear: [Personnaliser ma galerie](personnaliser-ma-galerie)
+- :desktop: [Naviguer sur votre galerie Piwigo](naviguer-sur-votre-galerie-piwigo)
+- :tools: [Administrer Piwigo](administrer-piwigo)
+- :open_file_folder: [Organiser les albums](organiser-les-albums)
+- :electric_plug: [Les plugins](les-plugins)
+- :label: [Gérer les tags](gerer-les-tags)
+- :mobile_phone: [Les applications mobiles](les-applications-mobiles)
+- :speech_balloon: [Les commentaires et notes](les-commentaires-et-notes)
+- :technologist: [Hébergez votre Piwigo](hebergez-votre-piwigo)
+- :busts_in_silhouette: [Les utilisateurs](les-utilisateurs)
+- :question: [FAQ - Les questions les plus fréquentes sur Piwigo](faq-questions-frequentes-piwigo)
 
-[Naviguer sur votre galerie Piwigo](naviguer-sur-votre-galerie-piwigo)
-
-[Organiser les albums](organiser-les-albums)
-
-[Gérer les tags](gerer-les-tags)
-
-[Les commentaires et notes](les-commentaires-et-notes)
-
-[Les utilisateurs](les-utilisateurs)
-
-[Les thèmes](les-themes)
-
-[Personnaliser ma galerie](personnaliser-ma-galerie)
-
-[Administrer Piwigo](administrer-piwigo)
-
-[Les plugins](les-plugins)
-
-[Les applications mobiles](les-applications-mobiles)
-
-[Hébergez votre Piwigo](hebergez-votre-piwigo)
+</div>
 
 L’historique des modifications apportées à cette doc est listé sur la page ci-dessous :
 
-[Historique des modifications](historique-modifications)
+:books: [Historique des modifications](historique-modifications)
 
-Si vous cherchez la documentation Piwigo pour les développeurs, rendez vous sur la [page GitHub de Piwigo](https://github.com/Piwigo/Piwigo/wiki).
+Si vous cherchez la documentation Piwigo pour les développeurs, rendez vous sur la page :fontawesome-brands-github: [GitHub de Piwigo](https://github.com/Piwigo/Piwigo/wiki).
