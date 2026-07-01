@@ -13,7 +13,7 @@ La génération des tailles multiples et des miniatures peut échouer si quelque
 Si vous gérez vous-même votre serveur, vous allez devoir investiguer pour résoudre ce problème : c'est ce que nous allons expliquer dans cet article.
 
 !!! Warning "Attention"
-    Cet article s'adresse uniquement aux webmasters d'une bibliothèque Piwigo auto-hébergée. Si vous êtes client de piwigo.com, vous n'êtes pas concerné : l'environnement d'hébergement sur piwigo.com est optimisé.
+    Cet article s'adresse uniquement aux webmasters d'une bibliothèque Piwigo auto-hébergée. Si vous êtes client de Piwigo Cloud, vous n'êtes pas concerné : l'environnement d'hébergement sur Piwigo Cloud est optimisé.
 
 
 ## 1- Problèmes de génération de vignettes de photos

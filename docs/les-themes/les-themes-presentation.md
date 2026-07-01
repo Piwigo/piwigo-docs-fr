@@ -13,7 +13,7 @@ Mais pour personnaliser votre galerie, vous devez d’abord choisir un thème, o
 
 Pour voir différents exemples de personnalisation, basés sur différents thèmes, vous pouvez visiter notre [page de Démos](https://fr.piwigo.com/demo).
 
-Vous pouvez également découvrir un article de blog, qui présente [8 exemples de personnalisation graphique de Piwigo](https://fr.piwigo.com/blog/2022/02/03/8-exemples-personnalisation-graphique-piwigo/).
+Vous pouvez également découvrir un article de blog, qui présente [8 exemples de personnalisation graphique de Piwigo](https://fr.piwigo.org/blog/2022/02/03/8-exemples-personnalisation-graphique-piwigo/).
 
 ## Les thèmes par défaut
 
@@ -34,9 +34,9 @@ Mais vous pouvez tout à fait choisir :
 - d’utiliser un autre thème pour votre galerie
 - de désactiver le thème mobile Smart Pocket (dans ce cas, sur un écran mobile, votre galerie utilisera le même thème que sur ordinateur. Cela ne pose pas de problème avec les thèmes Modus et Bootstrap Darkroom, qui sont *responsive*, c’est à dire qu’ils s’adaptent à toutes les tailles d’écran).
 
-## Clients piwigo.com et auto-hébergement : les différences pour ajouter un nouveau thème
+## Clients Piwigo Cloud et auto-hébergement : les différences pour ajouter un nouveau thème
 
-Vous souhaitez ajouter un nouveau thème ? Tout d’abord, sachez que les choses sont légèrement différentes selon que vous ayez un compte sur [piwigo.com](http://piwigo.com) ou que vous hébergiez vous-même votre Piwigo.
+Vous souhaitez ajouter un nouveau thème ? Tout d’abord, sachez que les choses sont légèrement différentes selon que vous ayez un compte sur [Piwigo Cloud](http://piwigo.org) ou que vous hébergiez vous-même votre Piwigo.
 
 - J’héberge moi-même mon Piwigo
     
@@ -46,9 +46,9 @@ Vous souhaitez ajouter un nouveau thème ? Tout d’abord, sachez que les choses
     
     Vous devez également penser à mettre à jour vos thèmes installés lorsqu’une mise à jour est disponible.
     
-- J’ai un compte Piwigo hébergé sur piwigo.com
+- J’ai un compte Piwigo hébergé sur Piwigo Cloud
     
-    Si vous avez créé un compte sur piwigo.com, votre Piwigo est hébergé sur nos serveurs. 
+    Si vous avez créé un compte sur Piwigo Cloud, votre Piwigo est hébergé sur nos serveurs. 
     
     Votre compte a été initialisé avec une liste de thèmes déjà installés. Vous ne pouvez pas en installer un nouveau. Vous n’avez pas besoin de mettre à jour vos thèmes.
     
@@ -148,7 +148,7 @@ Elegant est un thème qui a été très populaire pendant de nombreuses années 
 
 ![fr-theme-elegant.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-6f9298df.png)
 
-Les couleurs ne peuvent pas être modifiées directement depuis la configuration du thème Elegant : les clients d’une offre sur [Piwigo.com](http://Piwigo.com) doivent contacter le support pour en faire la demande ou pour avoir accès à la feuille de style de Piwigo.
+Les couleurs ne peuvent pas être modifiées directement depuis la configuration du thème Elegant : les clients d’une offre sur [Piwigo Cloud](http://Piwigo.org) doivent contacter le support pour en faire la demande ou pour avoir accès à la feuille de style de Piwigo.
 
 Elegant offre quelques options de configuration :
 

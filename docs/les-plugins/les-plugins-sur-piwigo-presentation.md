@@ -13,7 +13,7 @@ Lorsque vous installez Piwigo pour la première fois, vous avez accès au coeur 
 - L’administration de Piwigo
 - La galerie avec le thème par défaut Modus
 
-Par défaut, certains plugins sont déjà installés sur votre Piwigo, selon qu'il s'agisse d'une galerie auto-hébergée ou d'un compte piwigo.com.
+Par défaut, certains plugins sont déjà installés sur votre Piwigo, selon qu'il s'agisse d'une galerie auto-hébergée ou d'un compte Piwigo Cloud.
 
 - Vous avez installé vous-même Piwigo
     
@@ -23,12 +23,12 @@ Par défaut, certains plugins sont déjà installés sur votre Piwigo, selon qu'
     - Language Switch (permet de changer facilement la langue de la galerie)
     - LocalFiles Editor (permet de modifier les fichiers de configuration locaux à partir de l'administration)
     - Take A Tour of Your Piwigo (ajoute une visite guidée interactive de l'administration de Piwigo pour les nouveaux utilisateurs)
-- Vous avez créé un compte sur piwigo.com
+- Vous avez créé un compte sur Piwigo Cloud
     
-    Si vous créez un compte sur piwigo.com, les plugins suivants seront activés par défaut :
+    Si vous créez un compte sur Piwigo Cloud, les plugins suivants seront activés par défaut :
     
     - Stop Spammer (un plugin pour éviter le SPAM, à ne pas désactiver)
-    - VideoJS (le plugin de gestion des vidéos, activé par défaut pour les clients d’une offre piwigo.com depuis mars 2023).
+    - VideoJS (le plugin de gestion des vidéos, activé par défaut pour les clients d’une offre Piwigo Cloud depuis mars 2023).
 
 **Mais il ne faut pas s’arrêter avec les plugins pré-installés.** 
 
@@ -36,13 +36,13 @@ Piwigo est un outil modulaire sur lequel vous pouvez choisir, ou pas, d’ajoute
 
 Si vous connaissez WordPress, c’est exactement le même principe. Vous observerez d’ailleurs que très peu de sites créés avec WordPress fonctionnent sans aucun plugin. De même, il serait vraiment dommage d’utiliser Piwigo sans l’enrichir avec les plugins répondant à vos besoins.
 
-## Gestion des plugins : différence entre clients piwigo.com et auto-hébergement
+## Gestion des plugins : différence entre clients Piwigo Cloud et auto-hébergement
 
-Le fonctionnement des plugins diffère selon que vous ayez un compte sur piwigo.com ou que vous hébergiez vous-même votre Piwigo.
+Le fonctionnement des plugins diffère selon que vous ayez un compte sur Piwigo Cloud ou que vous hébergiez vous-même votre Piwigo.
 
-### Vous êtes client d’une offre piwigo.com
+### Vous êtes client d’une offre Piwigo Cloud
 
-Si vous êtes client d’une offre d’hébergement sur piwigo.com, vous n’avez pas besoin d’installer ou de mettre à jour les plugins.
+Si vous êtes client d’une offre d’hébergement sur Piwigo Cloud, vous n’avez pas besoin d’installer ou de mettre à jour les plugins.
 
 Vous avez accès à une liste limitées de plugins, en fonction de l’offre d’abonnement que vous avez choisie. Ils sont déjà installés sur votre Piwigo, et vous pouvez, selon votre choix, les activer ou les désactiver.
 
@@ -72,7 +72,7 @@ Si vous cherchez un plugin en particulier, combinez les toucher Ctrl+F de votre 
 
 ### Vous hébergez vous-même votre Piwigo
 
-Si vous utilisez un Piwigo installé sur votre propre infrastructure d’hébergement, et non sur piwigo.com, les choses sont différentes.
+Si vous utilisez un Piwigo installé sur votre propre infrastructure d’hébergement, et non sur Piwigo Cloud, les choses sont différentes.
 
 Pour utiliser un nouveau plugin, vous devez d’abord l’installer sur votre serveur, puis l’activer.
 
@@ -86,7 +86,7 @@ L’onglet Liste vous permet de visualiser les plugins déjà activés sur votre
 
 **Mettre à jour les plugins**
 
-Contrairement aux clients de piwigo.com, vous devez mettre à jour vos plugins vous-même lorsqu’une nouvelle version est disponible. Pour cela, vous disposez de l’onglet Rechercher les mises à jour, qui vous permet de voir si des mises à jour sont disponibles, et de les installer.
+Contrairement aux clients de Piwigo Cloud, vous devez mettre à jour vos plugins vous-même lorsqu’une nouvelle version est disponible. Pour cela, vous disposez de l’onglet Rechercher les mises à jour, qui vous permet de voir si des mises à jour sont disponibles, et de les installer.
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-208b1fad.png)
 
@@ -102,10 +102,10 @@ Vous pouvez rechercher un plugin par mot-clé ou filtrer les plugins (par date, 
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-99afc4a0.png)
 
-Dans cette liste, on retrouve certains plugins qui ne sont pas disponibles sur piwigo.com. Ce sont des plugins créés par la communauté, que l’équipe qui développe Piwigo n’a pas nécessairement testés ou validés : nous ne garantissons donc pas leur bon fonctionnement, ni leur compatibilité ! 
+Dans cette liste, on retrouve certains plugins qui ne sont pas disponibles sur Piwigo Cloud. Ce sont des plugins créés par la communauté, que l’équipe qui développe Piwigo n’a pas nécessairement testés ou validés : nous ne garantissons donc pas leur bon fonctionnement, ni leur compatibilité ! 
 
 !!! info
-    Les plugins que nous présentons dans la présente documentation sont les plugins disponibles sur piwigo.com, que notre équipe a testés et validés. Mais cela ne veut pas dire que les autres plugins disponibles ne sont pas intéressants, bien sûr.
+    Les plugins que nous présentons dans la présente documentation sont les plugins disponibles sur Piwigo Cloud, que notre équipe a testés et validés. Mais cela ne veut pas dire que les autres plugins disponibles ne sont pas intéressants, bien sûr.
 
 
 Pour installer un nouveau plugin, cliquez sur Ajouter.

@@ -105,7 +105,7 @@ Par défaut, les tags sont tous au même niveau, contrairement aux albums: ils n
 Toutefois, il est possible de créer une arborescence de tags à un niveau grâce au plugin **Tag Groups**.
 
 !!! Warning "Attention"
-    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
+    Si vous êtes client d’une offre Piwigo Cloud, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
 
 
 ?
@@ -134,7 +134,7 @@ Pour afficher les tags par groupe, sur la page Tags, cliquez sur le bouton en ha
 
 Si vous souhaitez que par défaut la page Tag affiche les tags par groupes, c’est possible.
 
-Si vous êtes client d’une offre d’abonnement sur piwigo.com, vous devez contacter le support pour activer cette option.
+Si vous êtes client d’une offre d’abonnement sur Piwigo Cloud, vous devez contacter le support pour activer cette option.
 
 Si vous hébergez vous-même votre Piwigo, vous pouvez l’activer en modifiant la configuration locale avec LocalFiles Editor, à l’aide du paramètre de configuration ci-dessous.
 
@@ -144,7 +144,7 @@ $conf['tags_default_display_mode'] = 'groups';
 
 **Comment activer les filtres multicritères par groupe de tag?**
 
-Si vous êtes client d’une offre d’abonnement sur piwigo.com, vous devez contacter le support pour activer cette option.
+Si vous êtes client d’une offre d’abonnement sur Piwigo Cloud, vous devez contacter le support pour activer cette option.
 
 Si vous hébergez vous-même votre Piwigo, vous pouvez l’activer en modifiant la configuration locale avec LocalFiles Editor, à l’aide des paramètres de configuration ci-dessous.
 
@@ -155,7 +155,7 @@ $conf['tag_groups_dynamic_filters'] = true;
 
 Pour en savoir plus sur les groupes de tags vous pouvez:
 
-- [Lire cet article de blog](https://fr.piwigo.com/blog/2020/06/05/moteur-de-recherche-multicriteres-phototheque-piwigo/)
+- [Lire cet article de blog](https://fr.piwigo.org/blog/2020/06/05/moteur-de-recherche-multicriteres-phototheque-piwigo/)
 - [Voir cette démo d’exemple](https://hannah.piwigo.com/)
 
 ### Colorer les tags avec Colored Tags

@@ -4,7 +4,7 @@ Piwigo a besoin d'un hébergement web pour fonctionner. Pour une
 solution de galerie photo "clef en main" (installation, hébergement,
 mises à jour, sauvegardes...), ou si vous souhaitez simplement essayer
 Piwigo sans l'installer, [ouvrez un compte d'essai gratuit sur
-Piwigo.com](https://fr.piwigo.com/inscription).
+Piwigo Cloud](https://fr.piwigo.org/inscription).
 
 ### Le minimum requis {#le-minimum-requis .pwg-guides-h3}
 

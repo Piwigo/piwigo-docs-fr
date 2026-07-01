@@ -35,19 +35,19 @@ Cliquez sur la flèche pour afficher la réponse à une question.
     - Modifier l’adresse email du webmestre : Pour que les emails arrivent à destination, il faut que votre site Piwigo soit autorisé à envoyer des emails avec l’adresse du webmestre de votre site. Si cette adresse est une adresse de type Gmail, Yahoo, etc, l’envoi d’email depuis Piwigo risque de ne pas fonctionner. L’idéal est que l’adresse email du webmestre soit associée au même nom de domaine que celui de votre galerie. Par exemple, si votre galerie a pour adresse photos.monsite.com, l’idéal est que l’adresse email du webmestre soit une adresse de type *@monsite.com.
     - Installer le plugin Protect Notification : Le plugin Protect Notification remplace l’expéditeur des emails par une adresse de type no-reply@monsite.com (monsite.com étant remplacé par le nom de domaine de votre galerie). En général, l’installation de ce plugin résout les problèmes d’emails. Depuis février 2024, Protect Notification est activé par défaut sur les nouveaux comptes Piwigo.
     - ⚠️ Ces solutions ne résolvent pas les problèmes de réception des emails envoyés par le plugin Contact Form, car ceux-ci ont pour expéditeur l’adresse mail saisie dans le formulaire. Pour résoudre les problèmes avec le plugin Contact Form, [consultez cette page](personnaliser-ma-galerie/ajouter-des-pages-a-votre-galerie).
-- Comment supprimer mon compte piwigo.com ?
+- Comment supprimer mon compte Piwigo Cloud ?
     
     Contactez le support à l’adresse support@piwigo.com.
     
-- Comment associer ma galerie piwigo.com à un nom de domaine personnalisé ?
+- Comment associer ma galerie Piwigo Cloud à un nom de domaine personnalisé ?
     
-    Par défaut tous les comptes piwigo.com ont une adresse web de la forme *.piwigo.com. Vous pouvez ajouter votre propre nom de domaine, ou un simple sous-domaine.
+    Par défaut tous les comptes piwigo.com ont une adresse web de la forme `*.piwigo.com`. Vous pouvez ajouter votre propre nom de domaine, ou un simple sous-domaine.
     
-    Etant donné que [Piwigo.com](http://piwigo.com/) ne vend pas de noms de domaine, il faudra l'acheter auprès d'un fournisseur de noms de domaine, comme OVH.
-    Envoyez nous un email à [support@piwigo.com](mailto:support@piwigo.com) et dites nous quel est votre nom de domaine (ou sous-domaine). Nous configurerons les serveurs piwigo.com et nous vous expliquerons comment configurer votre nom de domaine.
+    Etant donné que [Piwigo Cloud](http://piwigo.org/) ne vend pas de noms de domaine, il faudra l'acheter auprès d'un fournisseur de noms de domaine, comme OVH.
+    Envoyez nous un email à [support@piwigo.com](mailto:support@piwigo.com) et dites nous quel est votre nom de domaine (ou sous-domaine). Nous configurerons les serveurs Piwigo Cloud et nous vous expliquerons comment configurer votre nom de domaine.
     Une fois que la configuration DNS sera propagée, nous ajouterons une couche de sécurité avec HTTPS.
     
-- Comment renommer mon compte piwigo.com ?
+- Comment renommer mon compte Piwigo Cloud ?
     
     Contactez le support à l’adresse support@piwigo.com.
     
@@ -97,7 +97,7 @@ Cliquez sur la flèche pour afficher la réponse à une question.
     
 - Comment modifier le pied de page (footer) de ma galerie ?
     
-    Par défaut, votre galerie affiche un texte en pied de page avec un lien vers piwigo.com ou piwigo.org (selon que votre galerie soit hébergée chez piwigo.com ou sur votre hébergement).
+    Par défaut, votre galerie affiche un texte en pied de page avec un lien vers piwigo.com ou piwigo.org (selon que votre galerie soit hébergée chez Piwigo Cloud ou sur votre hébergement).
     
     Si vous souhaitez personnaliser le pied de page (footer) de votre galerie, vous pouvez installer le plugin **Perso Footer** ([en savoir plus](personnaliser-ma-galerie/personnaliser-votre-galerie-avec-des-plugins)).
     
@@ -117,9 +117,9 @@ Cliquez sur la flèche pour afficher la réponse à une question.
     
     [Ajouter une bannière personnalisée à votre galerie](personnaliser-ma-galerie/ajouter-banniere-personnalisee-piwigo)
     
-- Comment obtenir une facture sur piwigo.com ?
+- Comment obtenir une facture sur Piwigo Cloud ?
     
-    Vous avez besoin d’une facture pour votre abonnement sur piwigo.com? 
+    Vous avez besoin d’une facture pour votre abonnement sur Piwigo Cloud? 
     
     - Si vous avez besoin d’une facture avant de réaliser paiement : faites une demande au support ; attention : demander une facture vous engage à la régler.
     - Si vous avez besoin d’une facture après le paiement : pas d’inquiétude, elle est disponible automatiquement dans votre administration Piwigo, menu Mon Compte > Gérer, onglet Facturation.

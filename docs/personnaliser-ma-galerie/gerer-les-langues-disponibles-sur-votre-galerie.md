@@ -14,7 +14,7 @@ L’écran affiche les langues activées sur votre Piwigo, permet d’activer de
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-6163e782.png)
 
-Si vous avez créé votre compte depuis le site fr.piwigo.com, la configuration est la suivante :
+Si vous avez créé votre compte depuis le site [Piwigo Cloud](fr.piwigo.org), la configuration est la suivante :
 
 - Les langues activées sont le français et l’anglais
 - La langue par défaut est le français.

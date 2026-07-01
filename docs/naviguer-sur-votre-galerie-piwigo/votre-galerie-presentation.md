@@ -20,7 +20,7 @@ Si vous êtes administrateur, vous avez accès à l’administration ET à la ga
 
 ## Page d’accueil de votre galerie
 
-Chaque galerie est différente ! Toutefois, lorsque l’on installe Piwigo ou quand on crée un compte sur le site piwigo.com, on commence tous avec la même galerie, vide de tout contenu.
+Chaque galerie est différente ! Toutefois, lorsque l’on installe Piwigo ou quand on crée un compte sur le site Piwigo Cloud, on commence tous avec la même galerie, vide de tout contenu.
 
 Cette galerie utilise le thème [Modus](../les-themes/le-theme-modus) et les paramètres par défaut de Piwigo. C’est cette version “par défaut” que nous allons présenter ici. Mais comme vous le verrez plus tard, il existe de nombreux moyens de personnaliser votre galerie.
 
@@ -28,7 +28,7 @@ La page d’accueil de votre galerie comporte les éléments suivants :
 
 - Le menu de navigation qui contient un champ de recherche et un lien de connexion
 - Une liste d’albums (si vous avez créé au moins un album) et une barre d’outils
-- Un pied de page avec un texte par défaut. Pour les galeries hébergées sur piwigo.com, vous y trouverez également un lien de connexion.
+- Un pied de page avec un texte par défaut. Pour les galeries hébergées sur Piwigo Cloud, vous y trouverez également un lien de connexion.
 
 ![accueil.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-1b1f4c8b.png)
 

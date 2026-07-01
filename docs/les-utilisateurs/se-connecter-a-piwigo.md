@@ -18,7 +18,7 @@ Si vous utilisez le thème Bootstrap Darkroom, le bouton de connexion ouvre une 
 
 L'URL de votre page de connexion Piwigo est `mygallery.com`/identification.php, `mygallery.com` représentant l'URL racine de votre galerie. 
 
-Si votre galerie est hébergée sur [piwigo.com](http://piwigo.com) et que vous n’avez pas personnalisé le nom de domaine de votre galerie, votre URL de connexion ressemble à `mygallery`.piwigo.com/identification.php, `mygallery` représentant le nom d'utilisateur que vous avez choisi lors de la création de votre compte.
+Si votre galerie est hébergée sur [Piwigo Cloud](http://piwigo.org) et que vous n’avez pas personnalisé le nom de domaine de votre galerie, votre URL de connexion ressemble à `mygallery`.piwigo.com/identification.php, `mygallery` représentant le nom d'utilisateur que vous avez choisi lors de la création de votre compte.
 
 Pour vous connecter à Piwigo, vous pouvez utiliser votre identifiant OU votre adresse email dans le champ “Nom d’utilisateur”.
 
@@ -46,7 +46,7 @@ Si vous utilisez le thème Bootstrap Darkroom, le menu d’accès à l’adminis
 
 ## Comment récupérer mon mot de passe ?
 
-Si vous avez perdu votre mot de passe, il est impossible de le récupérer, que vous soyez client d’une offre piwigo.com, ou utilisateur d’un piwigo auto-hébergé. Vous devez donc réinitialiser votre mot de passe.
+Si vous avez perdu votre mot de passe, il est impossible de le récupérer, que vous soyez client d’une offre Piwigo Cloud, ou utilisateur d’un piwigo auto-hébergé. Vous devez donc réinitialiser votre mot de passe.
 
 Pour réinitialiser votre mot de passe, vous devez vous rendre sur la fenêtre de connexion à Piwigo et cliquer sur “Mot de passe oublié”.
 
@@ -70,12 +70,12 @@ Vous pouvez également rechercher dans votre boîte mail l’email qui vous a é
 
 Si vous êtes le seul utilisateur de votre Piwigo, ou si vous êtes l’administrateur principal (le webmestre), vous avez normalement reçu vos identifiants par email.
 
-- Si votre Piwigo est hébergé sur [piwigo.com](http://piwigo.com) : vous avez reçu un email au moment de la création de votre compte Piwigo.
+- Si votre Piwigo est hébergé sur [Piwigo Cloud](http://piwigo.org) : vous avez reçu un email au moment de la création de votre compte Piwigo.
 - Si vous hébergez vous-même votre Piwigo : lorsque vous avez installé Piwigo la première fois, si vous êtes passé par le formulaire d’installation, vous avez peut-être coché la case “recevoir mes identifiants par email”.
 
 ### Vous ne réussissez vraiment pas à vous connecter à Piwigo ?
 
-Si vous avez un compte sur piwigo.com, contactez le support : nous trouverons un moyen de le récupérer.
+Si vous avez un compte sur Piwigo Cloud, contactez le support : nous trouverons un moyen de le récupérer.
 
 Si vous hébergez vous-même votre Piwigo, nous ne pouvons malheureusement pas vous aider. Si vous avez accès à la base de données de Piwigo, vous pouvez en revanche retrouver votre identifiant dans la table Users.
 
@@ -139,7 +139,7 @@ C’est possible de deux façons : avec le plugin **LDAP Login** et avec le plug
 Ce plugin permet de connecter Piwigo à un annuaire LDAP.
 
 !!! Warning "Attention"
-    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’aux clients d’une offre VIP.
+    Si vous êtes client d’une offre Piwigo Cloud, ce plugin n’est accessible qu’aux clients d’une offre VIP.
 
 
 ### Microsoft 365 connect : connecter Piwigo à un Azure Active Directory
@@ -147,7 +147,7 @@ Ce plugin permet de connecter Piwigo à un annuaire LDAP.
 Ce plugin permet de connecter Piwigo à un Active Directory Azure.
 
 !!! Warning "Attention"
-    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’aux clients d’une offre VIP.
+    Si vous êtes client d’une offre Piwigo Cloud, ce plugin n’est accessible qu’aux clients d’une offre VIP.
 
 
 Les utilisateurs peuvent ainsi utiliser leur compte Microsoft 365 pour se connecter à Piwigo.
@@ -160,7 +160,7 @@ Les utilisateurs peuvent ainsi utiliser leur compte Microsoft 365 pour se connec
 Le plugin **Password Policy** permet de mettre en place des règles de sécurité sur les mots de passe : score de complexité, politique de renouvellement, gestion des tentatives de connexion échouées…
 
 !!! Warning "Attention"
-    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’aux clients d’une offre VIP.
+    Si vous êtes client d’une offre Piwigo Cloud, ce plugin n’est accessible qu’aux clients d’une offre VIP.
 
 
 Une fois le plugin Password Policy activé sur votre Piwigo, rendez vous dans sa configuration.

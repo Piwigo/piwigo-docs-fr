@@ -9,7 +9,7 @@ Chaque utilisateur peut créer un nombre illimité de collections.
 Pour utiliser cette fonctionnalité, vous devez activer le plugin **User Collections**.
 
 !!! Warning "Attention"
-    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
+    Si vous êtes client d’une offre Piwigo Cloud, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
 
 
 ## Définir les autorisations associées aux collections

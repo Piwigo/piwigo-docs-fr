@@ -65,7 +65,7 @@ Pour savoir comment modifier le compte “Guest”, [lisez cet article](creer-et
 
 ## Le statut de contributeur (plugin Community)
 
-Dans nos [offres tarifaires](https://fr.piwigo.com/tarifs), nous mentionnons le statut de “Contributeur”.
+Dans nos [offres tarifaires](https://fr.piwigo.org/tarifs), nous mentionnons le statut de “Contributeur”.
 
 Ce statut n’est pas un type d’utilisateur à proprement parler : il qualifie les utilisateurs non administrateurs autorisés à importer des fichiers dans Piwigo lorsque le plugin Community est activé. 
 

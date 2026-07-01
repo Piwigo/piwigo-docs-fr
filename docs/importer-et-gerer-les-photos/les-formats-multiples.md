@@ -7,12 +7,12 @@ Les formats multiples permettent, pour une même photo ou image, de proposer plu
 - etc.
 
 !!! info
-    Si vous êtes client d’une offre piwigo.com, cette fonctionnalité n’est accessible qu’à partir de l’offre Entreprise.
+    Si vous êtes client d’une offre Piwigo Cloud, cette fonctionnalité n’est accessible qu’à partir de l’offre Entreprise.
 
 
 ## Comment activer les formats multiples ?
 
-La réponse est différente suivant que vous hébergiez vous-même votre galerie ou que vous soyez un client d’une offre piwigo.com.
+La réponse est différente suivant que vous hébergiez vous-même votre galerie ou que vous soyez un client d’une offre Piwigo Cloud.
 
 - J’héberge moi-même ma galerie (ou mon organisation le fait)
     
@@ -30,9 +30,9 @@ La réponse est différente suivant que vous hébergiez vous-même votre galerie
     $conf['format_ext'] = array('cr2', 'tif', 'tiff', 'nef', 'dng', 'ai', 'psd');
     ```
     
-- Je suis client d’une offre piwigo.com
+- Je suis client d’une offre Piwigo Cloud
     
-    Cette fonctionnalité est accessible aux clients [piwigo.com](http://piwigo.com) qui ont souscrit à une offre Entreprise ou VIP. Pour l’activer sur votre galerie, vous devez en faire la demande au support.
+    Cette fonctionnalité est accessible aux clients [Piwigo Cloud](http://piwigo.org) qui ont souscrit à une offre Entreprise ou VIP. Pour l’activer sur votre galerie, vous devez en faire la demande au support.
     
 
 ## Ajouter des formats multiples sur une photo

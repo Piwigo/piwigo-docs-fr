@@ -96,7 +96,7 @@ Pour en savoir plus sur la création d’une bannière pour votre galerie, lisez
 
 Si vous souhaitez aller plus loin dans la personnalisation de votre thème Modus, vous pouvez :
 
-- Contacter le support si vous êtes client d’une offre sur piwigo.com
+- Contacter le support si vous êtes client d’une offre sur Piwigo Cloud
 - Contacter le support si vous hébergez vous-même votre Piwigo et que vous avez signé un contrat de maintenance
 - Consulter la [page de Modus sur GitHub](https://github.com/Piwigo)
 - Poser une question sur [le forum de Piwigo](https://fr.piwigo.org/forum/)

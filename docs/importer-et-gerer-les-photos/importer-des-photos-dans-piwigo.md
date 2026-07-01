@@ -142,7 +142,7 @@ Pour en savoir plus, lisez la documentation dédiée en cliquant sur le lien ci-
 
 ## **Importez et synchronisez un répertoire de votre ordinateur en FTP**
 
-Si vous utilisez un Piwigo hébergé sur votre propre serveur, et non un Piwigo hébergé sur piwigo.com, vous pouvez synchroniser un répertoire de votre ordinateur avec votre galerie.
+Si vous utilisez un Piwigo hébergé sur votre propre serveur, et non un Piwigo hébergé sur Piwigo Cloud, vous pouvez synchroniser un répertoire de votre ordinateur avec votre galerie.
 
 Pour cela, vous aurez besoin d’un logiciel client FTP.
 

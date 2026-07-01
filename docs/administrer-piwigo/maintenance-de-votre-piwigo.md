@@ -123,7 +123,7 @@ Chaque fois qu’un utilisateur demande à afficher une version d’une photo su
 
 L’onglet “Environnement” affiche des informations sur votre Piwigo.
 
-Pour les clients hébergés sur piwigo.com, seules les informations ci-dessous sont disponibles :
+Pour les clients hébergés sur Piwigo Cloud, seules les informations ci-dessous sont disponibles :
 
 - Version de Piwigo utilisée
 - Liste des plugins activés

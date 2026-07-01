@@ -74,7 +74,7 @@ Cliquez sur “Envoi” pour déclencher l’envoi de l’email.
 
 ## **Protect Notification : Changer l’expéditeur des emails de notification**
 
-Parfois, il arrive que les emails de notification envoyés par Piwigo arrivent en SPAM. Cela vient du fait qu’ils sont envoyés par l’adresse email de l’administrateur principal (webmestre). Le serveur [piwigo.com](http://piwigo.com) n’ayant pas le droit d’envoyer des emails depuis cette adresse mail, les emails sont considérés comme non sécurisés.
+Parfois, il arrive que les emails de notification envoyés par Piwigo arrivent en SPAM. Cela vient du fait qu’ils sont envoyés par l’adresse email de l’administrateur principal (webmestre). Le serveur [Piwigo Cloud](http://piwigo.org) n’ayant pas le droit d’envoyer des emails depuis cette adresse mail, les emails sont considérés comme non sécurisés.
 
 Pour régler ce problème, vous pouvez installer le plugin **Protect Notif**.
 
@@ -83,4 +83,4 @@ Une fois ce plugin activé, tous les emails de notifications envoyés par Piwigo
 En conséquence, les emails de notification seront correctement distribués.
 
 !!! info
-    Depuis février 2024, Protect Notif est activé par défaut sur tous les nouveaux comptes créés sur piwigo.com.
+    Depuis février 2024, Protect Notif est activé par défaut sur tous les nouveaux comptes créés sur Piwigo Cloud.

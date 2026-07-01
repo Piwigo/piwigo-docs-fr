@@ -123,7 +123,7 @@ Vous pourrez ainsi visualiser tous les téléchargements d’une même photo sur
 Pour visualiser l’historique détaillé de toutes les actions des utilisateurs dans l’administration de Piwigo, vous avez juste à vous rendre dans l’onglet Activité de la page Utilisateurs.
 
 !!! info
-    Si vous êtes client d’une offre piwigo.com, cette fonctionnalité n’est accessible qu’à partir de l’offre Équipe.
+    Si vous êtes client d’une offre Piwigo Cloud, cette fonctionnalité n’est accessible qu’à partir de l’offre Équipe.
 
 Cette page affiche toutes les activités réalisées par des utilisateurs dans votre Piwigo :
 

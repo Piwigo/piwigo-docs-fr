@@ -163,7 +163,7 @@ Vous pourrez ainsi en un clin d’oeil visualiser les photos pour lesquelles auc
 Pour filtrer les photos en fonction de l’utilisateur qui les a importées dans Piwigo, vous devez installer le plugin **Batch Manager, Added By**.
 
 !!! info
-    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
+    Si vous êtes client d’une offre Piwigo Cloud, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
 
 Une fois activé, ce plugin ajoute un nouveau filtre dans la gestion par lot “Ajouté par”.

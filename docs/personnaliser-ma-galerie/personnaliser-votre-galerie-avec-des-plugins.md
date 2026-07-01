@@ -241,7 +241,7 @@ Nous les avons repris intégralement ci-dessous.
 
 ## Perso Footer : Personnaliser le pied de page de votre galerie
 
-Par défaut, le pied de page, ou “footer” de votre galerie affiche un texte de présentation de Piwigo, ainsi qu’un lien de connexion/déconnexion et un lien pour envoyer un email au webmaster de la galerie (abonnés [piwigo.com](http://piwigo.com) uniquement).
+Par défaut, le pied de page, ou “footer” de votre galerie affiche un texte de présentation de Piwigo, ainsi qu’un lien de connexion/déconnexion et un lien pour envoyer un email au webmaster de la galerie (abonnés [Piwigo Cloud](http://piwigo.org) uniquement).
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-3494b9f3.png)
 
@@ -255,7 +255,7 @@ Si vous installez en plus le plugin FCK Editor, qui ajoute aux zones de saisie d
 
 ## Personal Favicon : Personnaliser l’icône de votre galerie dans le navigateur
 
-Par défaut, le favicon de votre galerie Piwigo, c’est à dire l’icône qui s’affiche dans le navigateur, est l’icône de Piwigo.com.
+Par défaut, le favicon de votre galerie Piwigo, c’est à dire l’icône qui s’affiche dans le navigateur, est l’icône de Piwigo Cloud.
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-8435a237.png)
 

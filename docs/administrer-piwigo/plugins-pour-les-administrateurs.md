@@ -38,7 +38,7 @@ Enfin, d’autres outils sont accessibles à droite de la barre Admin Tools :
 ## Admin Messages : Ajouter un message d’accueil dans l’administration
 
 !!! info
-    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
+    Si vous êtes client d’une offre Piwigo Cloud, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
 Le plugin **Admin Messages** permet aux administrateurs d'ajouter des messages sur l'accueil de l'administration de Piwigo (pour communiquer avec les autres administrateurs).
 
@@ -50,7 +50,7 @@ Pour chaque message, on affiche le nom de l’administrateur, la date et le mess
 
 ## **Protect Notification : Changer l’expéditeur des emails de notification**
 
-Parfois, il arrive que les emails de notification envoyés par Piwigo arrivent en SPAM. Cela vient du fait qu’ils sont envoyés par l’adresse email de l’administrateur principal (webmestre). Si votre serveur (ou le serveur piwigo.com) n’a pas le droit d’envoyer des emails depuis cette adresse mail, les emails sont considérés comme non sécurisés.
+Parfois, il arrive que les emails de notification envoyés par Piwigo arrivent en SPAM. Cela vient du fait qu’ils sont envoyés par l’adresse email de l’administrateur principal (webmestre). Si votre serveur (ou le serveur Piwigo Cloud) n’a pas le droit d’envoyer des emails depuis cette adresse mail, les emails sont considérés comme non sécurisés.
 
 Pour régler ce problème, vous pouvez installer le plugin **Protect Notif**.
 
@@ -59,22 +59,22 @@ Une fois ce plugin activé, tous les emails de notifications envoyés par Piwigo
 En conséquence, les emails de notification seront correctement distribués.
 
 !!! info
-    Depuis février 2024, Protect Notif est activé par défaut sur tous les nouveaux comptes créés sur piwigo.com.
+    Depuis février 2024, Protect Notif est activé par défaut sur tous les nouveaux comptes créés sur Piwigo Cloud.
 
 ## Download Limits : Limiter le nombre de téléchargements par jour
 
 !!! info
-    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
+    Si vous êtes client d’une offre Piwigo Cloud, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
 
 Le plugin **Download Limits** permet aux administrateurs de limiter le nombre de téléchargements par jour sur leur galerie.
 
 !!! Warning "Attention"
-    Le nombre de téléchargements maximum n’est pas paramétrable dans l’interface de Piwigo mais dans un fichier de configuration. Si vous êtes un client Piwigo.com, contactez le support pour le mettre en place.
+    Le nombre de téléchargements maximum n’est pas paramétrable dans l’interface de Piwigo mais dans un fichier de configuration. Si vous êtes un client Piwigo Cloud, contactez le support pour le mettre en place.
 
 ## Export Data : Exporter les données de votre Piwigo
 
 !!! info
-    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
+    Si vous êtes client d’une offre Piwigo Cloud, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
 
 Le plugin **Export Data** permet aux administrateurs d’exporter les données de Piwigo vers un tableur.
@@ -106,7 +106,7 @@ Par défaut, la version basique de FCK Editor est affichée sur la plupart des p
 
 Comment activer toutes ces fonctionnalités ?
 
-- Si votre Piwigo est hébergé sur piwigo.com, contactez le support.
+- Si votre Piwigo est hébergé sur Piwigo Cloud, contactez le support.
 - Si vous hébergez vous-même Piwigo, suivez le tutoriel ci-dessous.
     - Cliquez ici pour afficher le tutoriel
         
@@ -154,7 +154,7 @@ Le plugin **LocalFiles Editor** vous permet de modifier des fichiers de Piwigo d
 !!! Warning "Attention"
     Cette fonctionnalité est réservée aux utilisateurs avertis !
 
-Pour les clients Piwigo.com, ce plugin permet uniquement d’ajouter du code CSS personnalisé.
+Pour les clients Piwigo Cloud, ce plugin permet uniquement d’ajouter du code CSS personnalisé.
 
 Pour les autres utilisateurs qui hébergent eux-mêmes Piwigo, ce plugin permet de modifier d’autres fichiers (configuration locale, fichiers de langue, etc). 
 

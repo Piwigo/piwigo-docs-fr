@@ -136,7 +136,7 @@ Menu “Albums” avec le thème Modus AVEC RV Menu Tree
 Le plugin **See My Photos** permet d’ajouter un point de menu “Mes photos” sur la galerie, disponible au sein du bloc “Spéciales”.
 
 !!! Warning "Attention"
-    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
+    Si vous êtes client d’une offre Piwigo Cloud, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
 
 Ce lien permet à un utilisateur de voir toutes les photos qu’il a lui même importées dans Piwigo. C’est particulièrement utile lorsque vous utilisez le plugin [Community](../les-utilisateurs/gerer-les-contributeurs-plugin-community).
@@ -146,7 +146,7 @@ Ce lien permet à un utilisateur de voir toutes les photos qu’il a lui même i
 Le plugin **See photos by user** permet aux visiteurs de la galerie de filtrer facilement les photos en fonction de l’utilisateur qui les a ajoutées.
 
 !!! Warning "Attention"
-    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
+    Si vous êtes client d’une offre Piwigo Cloud, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
 
 Vous pouvez affiner les paramètres de ce plugin depuis sa page de configuration dans l’administration :
@@ -193,7 +193,7 @@ Mais sur la page d’accueil, à la place du menu “Tag liés”, on affichera 
 ### **Upload 1 Menu : ajout d’un menu “Ajoutez des photos”**
 
 !!! Warning "Attention"
-    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
+    Si vous êtes client d’une offre Piwigo Cloud, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
 
 Lorsque le plugin [Community](../les-utilisateurs/gerer-les-contributeurs-plugin-community) est activé, le plugin **Upload 1 Menu** permet d’afficher le menu “Ajouter des photos” au niveau du menu principal de la galerie, à côté du menu “Explorer”.

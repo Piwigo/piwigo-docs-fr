@@ -3,7 +3,7 @@
 Vous avez une quantité importante de photos et vous souhaitez les taguer de façon rapide et automatique ? C’est possible avec le plugin Tag Recognition.
 
 !!! Warning "Attention"
-    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
+    Si vous êtes client d’une offre Piwigo Cloud, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
 
 ## Choix de l’API à utiliser
 

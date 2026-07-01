@@ -2,9 +2,9 @@
 
 **Quels sont les formats de fichiers compatibles avec Piwigo ? On vous explique tout !**
 
-## Clients piwigo.com et auto-hébergement : les différences
+## Clients Piwigo Cloud et auto-hébergement : les différences
 
-Pour commencer, les choses sont légèrement différentes selon que vous ayez un compte sur [piwigo.com](http://piwigo.com) ou que vous hébergiez vous-même votre Piwigo.
+Pour commencer, les choses sont légèrement différentes selon que vous ayez un compte sur [piwigo.org](http://piwigo.org) ou que vous hébergiez vous-même votre Piwigo.
 
 - J’héberge moi-même mon Piwigo
     
@@ -12,9 +12,9 @@ Pour commencer, les choses sont légèrement différentes selon que vous ayez un
     
     De plus, si vous hébergez vous-même votre Piwigo, vous devez installer et activer le plugin VideoJS pour pouvoir importer sur votre galerie des fichiers multimédia (video et audio).
     
-- J’ai un compte Piwigo hébergé sur piwigo.com
+- J’ai un compte Piwigo hébergé sur Piwigo Cloud
     
-    Si vous avez créé un compte sur piwigo.com, la gestion des fichiers images, video et audio est activée par défaut.
+    Si vous avez créé un compte sur Piwigo Cloud, la gestion des fichiers images, video et audio est activée par défaut.
     
     Mais pour pouvoir accepter les formats de fichier “Premium” (PDF, PSD, AI…), vous devrez opter pour un abonnement Équipe, Entreprise, ou VIP.
     
@@ -93,7 +93,7 @@ Piwigo permet d'importer des fichiers audiovisuels avec les extensions suivantes
 - .mp3
 
 !!! info
-    Si vous hébergez vous-même votre Piwigo, vous devez installer et activer le plugin VideoJS pour accepter ce type de fichier. Si vous êtes client d’une offre piwigo.com, ce plugin est activé par défaut.
+    Si vous hébergez vous-même votre Piwigo, vous devez installer et activer le plugin VideoJS pour accepter ce type de fichier. Si vous êtes client d’une offre Piwigo Cloud, ce plugin est activé par défaut.
 
 
 Lorsque vous importez un fichier vidéo dans Piwigo, une vignette de prévisualisation est créée à partir de la première image de votre vidéo. La vidéo est lisible depuis votre galerie, grâce au lecteur vidéo intégré à Piwigo. Vous pouvez lire la vidéo grâce au gros bouton de lecture.
@@ -152,9 +152,9 @@ Vous pouvez aussi faire le choix de convertir vos fichiers .mov au format MP4 av
 
 Pour savoir comment convertir un fichier, lire le chapitre suivant.
 
-**Depuis l’administration Piwigo (clients piwigo.com uniquement)**
+**Depuis l’administration Piwigo (clients Piwigo Cloud uniquement)**
 
-Si vous êtes client d’une offre d’abonnement piwigo.com, vous pouvez demander au support la mise en place de la conversion automatique des fichiers .mov vers .mp4. 
+Si vous êtes client d’une offre d’abonnement Piwigo Cloud, vous pouvez demander au support la mise en place de la conversion automatique des fichiers .mov vers .mp4. 
 
 Si nous activons cette option, les fichiers .mov importés dans Piwigo depuis l’administration seront automatiquement convertis en .mp4. Au moment du téléchargement, l’utilisateur choisira si il souhaite télécharger la version .mov ou la version .mp4.
 
@@ -192,7 +192,7 @@ Vous trouverez une documentation détaillée du plugin VidéoJS [sur sa page Git
 
 ## ⭐️ Autres formats de fichiers
 
-Ces formats de fichier sont réservé aux clients d’une offre Équipe, Entreprise ou VIP sur piwigo.com, et aux utilisateurs qui hébergent eux-même leur Piwigo.
+Ces formats de fichier sont réservé aux clients d’une offre Équipe, Entreprise ou VIP sur Piwigo Cloud, et aux utilisateurs qui hébergent eux-même leur Piwigo.
 
 - Fichiers PDF
 - Fichiers SVG
@@ -234,7 +234,7 @@ Vous pouvez également cliquer sur l’icône « Télécharger ce fichier » : v
 
 ## **📄 Autres formats de documents**
 
-Si vous avez besoin d'importer d'autres formats de fichiers dans un compte hébergé sur piwigo.com (Excel, Word, Open Office...), vous pouvez en faire la demande en contactant le support si vous êtes un client piwigo.com, ou en modifiant votre fichier de configuration si vous hébergez vous-même votre Piwigo.
+Si vous avez besoin d'importer d'autres formats de fichiers dans un compte hébergé sur Piwigo Cloud (Excel, Word, Open Office...), vous pouvez en faire la demande en contactant le support si vous êtes un client Piwigo Cloud, ou en modifiant votre fichier de configuration si vous hébergez vous-même votre Piwigo.
 
 Ces fichiers ne seront pas lisibles directement sur Piwigo, mais ils pourront être téléchargés pour être ouverts ensuite dans le logiciel qui convient.
 
@@ -253,7 +253,7 @@ Si vous souhaitez pouvoir proposer différents formats de fichiers pour une mêm
 [En savoir plus sur les formats multiples](les-formats-multiples)
 
 !!! info
-    Si vous êtes client d’une offre piwigo.com, cette fonctionnalité n’est accessible qu’à partir de l’offre Entreprise.
+    Si vous êtes client d’une offre Piwigo Cloud, cette fonctionnalité n’est accessible qu’à partir de l’offre Entreprise.
 
 
 ## Embedded Videos: **Embarquez sur votre galerie des fichiers hébergés sur d'autres plateformes (Youtube...)**

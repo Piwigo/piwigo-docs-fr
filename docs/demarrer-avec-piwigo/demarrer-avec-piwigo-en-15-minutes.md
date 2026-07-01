@@ -19,14 +19,14 @@ Et si vous préférez l’écrit, suivez le guide ci-dessous.
 
 ## Création du compte
 
-Si vous êtes arrivé.e jusqu’ici, vous avez déjà peut-être installé Piwigo sur votre serveur ou créé votre compte sur piwigo.com.
+Si vous êtes arrivé.e jusqu’ici, vous avez déjà peut-être installé Piwigo sur votre serveur ou créé votre compte sur Piwigo Cloud.
 
-Mais si vous souhaitez créer un compte sur [piwigo.com](http://piwigo.com), [rendez-vous sur cette page](https://fr.piwigo.com/inscription).
+Mais si vous souhaitez créer un compte sur [Piwigo Cloud](http://piwigo.org), [rendez-vous sur cette page](https://fr.piwigo.org/inscription).
 
 Nous avons besoin de seulement 3 informations pour créer votre compte :
 
 - Votre adresse email : choisissez une adresse email à laquelle vous avez accès. C’est l’adresse à laquelle vous recevrez les informations importantes concernant votre compte. Bien sûr, vous pourrez la modifier à l’avenir.
-- Nom d’utilisateur : choisissez-le avec attention ! Non seulement ce sera votre login pour vous connecter à Piwigo, mais ce sera également le début de l’adresse web de votre galerie ! En effet, tous les comptes sur [piwigo.com](http://piwigo.com) ont une adresse web du type “identifiant.piwigo.com”. Si vous le souhaitez, vous pourrez plus tard associer votre galerie à un nom de domaine personnalisé.
+- Nom d’utilisateur : choisissez-le avec attention ! Non seulement ce sera votre login pour vous connecter à Piwigo, mais ce sera également le début de l’adresse web de votre galerie ! En effet, tous les comptes sur [Piwigo Cloud](http://piwigo.org) ont une adresse web du type “identifiant.piwigo.com”. Si vous le souhaitez, vous pourrez plus tard associer votre galerie à un nom de domaine personnalisé.
 - Votre mot de passe : choisissez un mot de passe sécurisé. Tâchez de vous en souvenir, nous ne pourrons pas vous le donner (mais si vous l’oubliez, pas de panique, vous pourrez toujours en demander un nouveau).
 
 ![creation-compte-fr.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-3f00985c.png)

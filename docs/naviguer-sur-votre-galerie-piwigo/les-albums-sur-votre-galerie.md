@@ -253,7 +253,7 @@ Vous pouvez également définir des règles sur le temps de conservation des arc
 
 Les fonctionnalités avancées listent les options qui sont modifiables via le fichier de configuration de Piwigo.
 
-Vous pouvez les modifier grâce à [Localfile Editor](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) si vous travaillez sur un Piwigo auto-hébergé ; si vous êtes clients d’une offre piwigo.com, contactez le support pour modifier l’un de ces paramètres.
+Vous pouvez les modifier grâce à [Localfile Editor](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) si vous travaillez sur un Piwigo auto-hébergé ; si vous êtes clients d’une offre Piwigo Cloud, contactez le support pour modifier l’un de ces paramètres.
 
 ### ShareAlbum : partager un lien sécurité vers un album
 
@@ -371,7 +371,7 @@ Avec Piwigo, il est possible pour chaque utilisateur d’ajouter une photo à se
 Le plugin **Quick Fav** permet d’ajouter une photo en clic depuis sa vignette, sur la page Album ou une autre page de liste.
 
 !!! Warning "Attention"
-    Attention ! Ce plugin est pour le moment uniquement compatible avec le thème Bootstrap Darkroom. Par ailleurs, il n’est accessible que pour les clients d’une offre [piwigo.com](https://piwigo.com) (ce sera corrigé prochainement).
+    Attention ! Ce plugin est pour le moment uniquement compatible avec le thème Bootstrap Darkroom. Par ailleurs, il n’est accessible que pour les clients d’une offre [Piwigo Cloud](https://piwigo.org) (ce sera corrigé prochainement).
 
 
 Une fois ce plugin activé, lorsque l’on passe la souris sur une photo, un coeur apparaît : un clic sur ce coeur ajoute la photo aux favoris de l’utilisateur.

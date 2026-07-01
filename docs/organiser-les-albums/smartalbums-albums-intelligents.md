@@ -5,7 +5,7 @@ Il est possible de créer des albums “intelligents”, alimentés automatiquem
 Pour cela, vous devez installer le plugin **SmartAlbums**.
 
 !!! info
-    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
+    Si vous êtes client d’une offre Piwigo Cloud, ce plugin n’est accessible qu’à partir de l’offre Entreprise.
 
 
 Une fois le plugin activé, rendez vous dans sa page de configuration.

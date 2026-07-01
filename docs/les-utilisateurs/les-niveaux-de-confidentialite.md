@@ -47,4 +47,4 @@ Et les utilisateurs avec le statut “Aucun” n’auront accès qu’aux fichie
 C’est une gestion de droits “en cascade”, un peu complexe à appréhender et relativement “figée”, c’est pourquoi on a tendance à la déconseiller aux utilisateurs débutants.
 
 !!! info
-    Si les libellés Admin, Famille, Amis et Contacts ne vous conviennent pas, sachez qu’il est possible de les personnaliser en contactant le support si vous avez un compte sur piwigo.com. En revanche, il n’est pas possible d’ajouter un niveau de confidentialité supplémentaire.
+    Si les libellés Admin, Famille, Amis et Contacts ne vous conviennent pas, sachez qu’il est possible de les personnaliser en contactant le support si vous avez un compte sur Piwigo Cloud. En revanche, il n’est pas possible d’ajouter un niveau de confidentialité supplémentaire.

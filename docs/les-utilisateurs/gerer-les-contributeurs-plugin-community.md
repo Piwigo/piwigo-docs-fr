@@ -17,7 +17,7 @@ Tous ces utilisateurs qui ne sont pas administrateurs mais ont le droit d’impo
 Pour activer cette fonctionnalité, vous devez activer le plugin Community.
 
 !!! Warning "Attention"
-    Si vous êtes client d’une offre piwigo.com, ce plugin n’est accessible qu’à partir de l’offre Équipe.
+    Si vous êtes client d’une offre Piwigo Cloud, ce plugin n’est accessible qu’à partir de l’offre Équipe.
 
 
 ## Définir les utilisateurs habilités à ajouter des photos et leurs autorisations
@@ -176,7 +176,7 @@ Ensuite, il suffit de cocher les photos et de cliquer sur “Valider” (mettre 
 Certains plugins sont utiles pour les galeries Piwigo qui utilisent le plugin Community : en voici la liste.
 
 !!! info
-    Si vous êtes client d’une offre piwigo.com, ces plugins ne sont accessibles qu’à partir de l’offre Équipe.
+    Si vous êtes client d’une offre Piwigo Cloud, ces plugins ne sont accessibles qu’à partir de l’offre Équipe.
 
 
 ### **Upload 1 Menu**

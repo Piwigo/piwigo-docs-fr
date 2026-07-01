@@ -23,7 +23,7 @@ Les avantages sont nombreux :
 - Piwigo permet de partager un fichier ou un ensemble de fichiers de façon sécurisée et rapide, via un simple partage de lien. Cela évite les envois d’emails avec pièce jointe, les doublons, les risques d’erreur...
 - Piwigo permet de créer un véritable site web, public ou privé, pour héberger et présenter vos photos. Cette galerie est personnalisable à vos couleurs.
 
-Pour en savoir plus, [consultez notre site web](http://fr.piwigo.com/).
+Pour en savoir plus, [consultez notre site web](http://fr.piwigo.org/).
 
 # Fonctionnement de Piwigo
 
@@ -54,7 +54,7 @@ La galerie, c’est la façade de Piwigo : c’est un site web qui permet de vis
 
 ## Les utilisateurs
 
-Lorsque vous créez votre compte sur piwigo.com, vous avez tous les droits : vous avez par défaut le statut Webmestre.
+Lorsque vous créez votre compte sur Piwigo Cloud, vous avez tous les droits : vous avez par défaut le statut Webmestre.
 
 Vous pouvez ensuite créer de nouveaux utilisateurs :
 
@@ -111,7 +111,7 @@ Enfin, sachez que nos clients Entreprise ont tous la possibilité de demander un
 
 Pour voir quelques exemples de personnalisation, vous pouvez :
 
-- Lire cet article sur notre blog : [8 exemples de personnalisation graphique de Piwigo](https://fr.piwigo.com/blog/2022/02/03/8-exemples-personnalisation-graphique-piwigo/)
+- Lire cet article sur notre blog : [8 exemples de personnalisation graphique de Piwigo](https://fr.piwigo.org/blog/2022/02/03/8-exemples-personnalisation-graphique-piwigo/)
 - [Découvrir quelques démos sur notre site](https://fr.piwigo.com/demo)
 
 [En savoir plus sur les thèmes](../les-themes)
@@ -124,7 +124,7 @@ Un plugin est une extension qui ajoute du code à votre Piwigo. Ce fonctionnemen
 
 En lisant cette documentation, vous découvrirez de nombreux plugins qui pourraient vous être utiles.
 
-Vous pouvez également contacter le support, si vous êtes client piwigo.com, pour nous présenter vos besoins : nous vous expliquerons quels plugins permettent d’y répondre.
+Vous pouvez également contacter le support, si vous êtes client Piwigo Cloud, pour nous présenter vos besoins : nous vous expliquerons quels plugins permettent d’y répondre.
 
 Voici par exemple quelques plugins très populaires :
 
@@ -140,7 +140,7 @@ Mais il y en a des dizaines et des dizaines d’autres !
 
 # Abonnements Piwigo
 
-Pour utiliser Piwigo, vous pouvez créer un compte sur le site [piwigo.com](http://piwigo.com) : vous profiterez d’une période d’essai de 30 jours pour tester le logiciel.
+Pour utiliser Piwigo, vous pouvez créer un compte sur le site [Piwigo Cloud](http://piwigo.org) : vous profiterez d’une période d’essai de 30 jours pour tester le logiciel.
 
 Ensuite, pour continuer à utiliser Piwigo, vous devrez opter pour une offre d’abonnement.
 
@@ -151,7 +151,7 @@ Nous proposons 4 offres, chacune étant calibrée au mieux pour répondre aux be
 - Une offre Entreprise pour les entreprises et organisations de taille moyenne
 - Une offre VIP pour les plus grandes entreprises et organisations aux besoins les plus exigeants
 
-[Voir les offres](https://fr.piwigo.com/tarifs)
+[Voir les offres](https://fr.piwigo.org/tarifs)
 
 Chaque offre comporte plusieurs limitations :
 
@@ -178,6 +178,6 @@ Si vous faites ce choix, vous devez en comprendre les conséquences :
 - Vous serez seul responsable des mises à jour et des sauvegardes ;
 - Si vous modifiez les fichiers sources de votre Piwigo, en cas de mise à jour, vos modifications seront “écrasées” ;
 
-Si vous souhaitez héberger vous-même Piwigo tout en bénéficiant du support de notre équipe, vous pouvez opter pour notre [contrat de maintenance](https://fr.piwigo.com/tarifs?plan=self_hosted).
+Si vous souhaitez héberger vous-même Piwigo tout en bénéficiant du support de notre équipe, vous pouvez opter pour notre [contrat de maintenance](https://fr.piwigo.org/tarifs?plan=self_hosted).
 
 Pour en savoir plus sur l’auto-hébergement, [c’est ici](../hebergez-votre-piwigo).

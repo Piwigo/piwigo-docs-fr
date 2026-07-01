@@ -49,7 +49,7 @@ Vous pouvez également choisir entre 3 options d’affichage :
 
 - Nuage de tags
 - Regrouper par lettres
-- Utiliser le mode Cumulus (le plugin Cumulus Tag Clouds doit être activé. Ce plugin n’est pas disponibles pour les clients d’une offre piwigo.com)
+- Utiliser le mode Cumulus (le plugin Cumulus Tag Clouds doit être activé. Ce plugin n’est pas disponibles pour les clients d’une offre Piwigo Cloud)
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-64c10f99.png)
 

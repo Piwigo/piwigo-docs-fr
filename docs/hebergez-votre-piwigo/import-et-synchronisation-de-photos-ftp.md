@@ -15,7 +15,7 @@ Si vous possédez une grosse photothèque, c'est peut-être une méthode d'ajout
 Si vous préférez, il existe d’autres méthodes pour importer vos photos : pour en savoir plus, visitez la section [Importer des photos dans Piwigo](../importer-et-gerer-les-photos/importer-des-photos-dans-piwigo).
 
 !!! Warning "Attention"
-    Cette méthode d’import n’est accessible que pour les Piwigo auto-hébergés : elle n’est donc pas disponible pour les clients d’une offre piwigo.com.
+    Cette méthode d’import n’est accessible que pour les Piwigo auto-hébergés : elle n’est donc pas disponible pour les clients d’une offre Piwigo Cloud.
 
 ## Avantages et inconvénients de cette méthode
 

@@ -195,7 +195,7 @@ Vous pouvez également choisir le mode d’affichage des boutons de partage :
 
 Si vous souhaitez aller plus loin dans la personnalisation de votre thème Bootstrap Darkroom, vous pouvez :
 
-- Contacter le support si vous êtes client d’une offre sur piwigo.com
+- Contacter le support si vous êtes client d’une offre sur Piwigo Cloud
 - Contacter le support si vous hébergez vous-même votre Piwigo et que vous avez signé un contrat de maintenance
 - Consulter la [documentation du thème](https://github.com/Piwigo/piwigo-bootstrap-darkroom/wiki) sur GitHub
 - Poser une question sur [le forum de Piwigo](https://fr.piwigo.org/forum/)

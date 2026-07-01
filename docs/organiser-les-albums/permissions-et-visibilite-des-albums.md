@@ -27,7 +27,7 @@ Les **albums privés**, eux, sont accessibles uniquement aux utilisateurs identi
 Pour chaque album privé, on va pouvoir définir qui, parmi les utilisateurs et groupes d’utilisateurs, a le droit de le visualiser.
 
 !!! info
-    Lorsque vous créez un nouvel album à la racine de Piwigo, il est toujours public, par défaut. Si vous souhaitez modifier ce comportement, contactez le support si vous êtes client piwigo.com. Sinon, ajouter le paramètre suivant à votre configuration grâce à [LocalFiles Editor](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) : `$conf['newcat_default_status'] = 'private';`
+    Lorsque vous créez un nouvel album à la racine de Piwigo, il est toujours public, par défaut. Si vous souhaitez modifier ce comportement, contactez le support si vous êtes client Piwigo Cloud. Sinon, ajouter le paramètre suivant à votre configuration grâce à [LocalFiles Editor](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) : `$conf['newcat_default_status'] = 'private';`
 
 
 ### Modifier les permissions sur un album
@@ -79,7 +79,7 @@ En dehors du statut (privé / public), les sous-albums n’héritent pas automat
 Prenons un exemple : vous avez un album privé, accessible aux utilisateurs X et Y. Si vous créez un sous-album de cet album privé, par défaut, il ne sera pas accessible aux utilisateurs X et Y (uniquement aux administrateurs).
 
 !!! info
-    Si vous voulez que les sous-albums héritent automatiquement des permissions de leurs parents, contactez le support si vous êtes client piwigo.com.  Sinon, ajoutez le paramètre suivant à votre configuration grâce à [LocalFiles Editor](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) : `$conf['inheritance_by_default'];`
+    Si vous voulez que les sous-albums héritent automatiquement des permissions de leurs parents, contactez le support si vous êtes client Piwigo Cloud.  Sinon, ajoutez le paramètre suivant à votre configuration grâce à [LocalFiles Editor](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor) : `$conf['inheritance_by_default'];`
 
 
 ## Gérer en masse l’accès aux albums (public / privé)
@@ -140,7 +140,7 @@ Par défaut, dans Piwigo, les utilisateurs habilités à télécharger des photo
 Si vous avez besoin de gérer des droits album par album, vous pouvez installer le plugin **Download Permissions**.
 
 !!! info
-    Si vous êtes client d’une offre piwigo.com, ce plugin est accessible à partir de l’offre Équipe.
+    Si vous êtes client d’une offre Piwigo Cloud, ce plugin est accessible à partir de l’offre Équipe.
 
 
 Il ajoutera à la page Albums > Propriétés un nouvel onglet, permettant de définir, sur le même principe que les autres onglets, dans quels albums les utilisateurs sont autorisés à télécharger les photos.

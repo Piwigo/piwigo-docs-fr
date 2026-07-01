@@ -18,7 +18,7 @@ Le plugin **Localfile Editor** vous permet de modifier des fichiers de Piwigo di
     Attention : cette fonctionnalité est réservée aux utilisateurs avertis !
 
 
-Pour les clients Piwigo.com, ce plugin permet uniquement d’ajouter du code CSS personnalisé.
+Pour les clients Piwigo Cloud, ce plugin permet uniquement d’ajouter du code CSS personnalisé.
 
 Pour les autres utilisateurs qui hébergent eux-mêmes Piwigo, ce plugin permet de modifier d’autres fichiers (configuration locale, fichiers de langue, personal plugin). [En savoir plus](../hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor)
 
