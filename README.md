@@ -1,19 +1,18 @@
-# Documentation de Piwigo
+# Documentation de Piwigo en Français
 
-## Building the site
+Ce répertoire contient la documentation de Piwigo écrite en markdown et publier en site statique avec [Zensical](https://zensical.org/)
 
-Install zensical :
+Pour contribuer à cette documentation consulter le fichier [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+## Construire le site
+
+Installer zensical dans un environement virtuel python :
 
 ```bash
-# Create a virtual environement in python
 python3 -m venv .venv
+# Choisissez la version de activate qui correspond a votre environement
 source .venv/bin/activate
 pip install zensical
 ```
 
-Test Locally :
-
-```bash
-zensical serve # test locally
-zensical build # build static site
-```
+Vous pouvez faire des tests localement avec `zensical serve`
