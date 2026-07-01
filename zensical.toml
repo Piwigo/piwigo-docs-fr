@@ -352,7 +352,7 @@ features = [
     # When navigation integration for the table of contents is enabled, it is
     # always rendered as part of the navigation sidebar on the left.
     # https://zensical.org/docs/setup/navigation/#navigation-integration
-    #"toc.integrate",
+    "toc.integrate",
 ]
 
 # ----------------------------------------------------------------------------
@@ -436,6 +436,7 @@ alternate = [
 [project.markdown_extensions.md_in_html]
 [project.markdown_extensions.toc]
 permalink = true
+toc_depth = 0
 [project.markdown_extensions.pymdownx.arithmatex]
 generic = true
 [project.markdown_extensions.pymdownx.betterem]
