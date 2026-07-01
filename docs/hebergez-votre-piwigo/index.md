@@ -16,7 +16,9 @@ Les articles listés ici ne concernent donc pas les clients d’une offre piwigo
 
 ---
 
-[Installer Piwigo](installer-piwigo)
+[Installer Piwigo](./guides-installation/installation-manuelle.md)
+
+[Installer Piwigo avec docker](./guides-installation/installation-docker.md)
 
 [Import et synchronisation de photos FTP](import-et-synchronisation-de-photos-ftp)
 
