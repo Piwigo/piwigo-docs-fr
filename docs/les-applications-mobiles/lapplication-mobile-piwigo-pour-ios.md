@@ -28,23 +28,15 @@ Vous pouvez afficher les albums avec ou sans description et trier les photos et 
 
 L’application propose aussi de rechercher des photos ou de visualiser les photos les plus vues, les mieux notées, les plus récentes et les photos par tags.
 
-![iPhone 17 Pro - 01.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-35fb8af2.webp)
-
-![iPhone 17 Pro - 02.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-0dae5b1a.webp)
-
-![iPhone 17 Pro - 03.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-734b8af8.webp)
+![iPhone 17 Pro - 01.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-35fb8af2.webp){ width=30% } ![iPhone 17 Pro - 02.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-0dae5b1a.webp){ width=30% } ![iPhone 17 Pro - 03.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-734b8af8.webp){ width=30% }
 
 ### **Organisez vos photos**
 
 Ensuite, vous pouvez utiliser l’application pour organiser votre photothèque (si vous avez un compte administrateur) : déplacer des albums, déplacer ou copier des photos d’un album à un autre, renommer ou effacer vos albums, créer des sous-albums, modifier les caractéristiques de vos photos (nom, description, tags…), choisir la vignette d’un album…
 
-![iPhone 17 Pro - 01.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-612e7485.webp)
+![iPhone 17 Pro - 01.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-612e7485.webp){ width=30% } ![iPhone 17 Pro - 03.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-7fb231a6.webp){ width=30% }
 
-![iPhone 17 Pro - 03.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-7fb231a6.webp)
-
-![iPhone 17 Pro - 02.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-6fc91183.webp)
-
-![iPhone 17 Pro - 04.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-d3981690.webp)
+![iPhone 17 Pro - 02.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-6fc91183.webp){ width=30% } ![iPhone 17 Pro - 04.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-d3981690.webp){ width=30% }
 
 ### **Importez les photos de votre mobile dans votre Piwigo**
 
@@ -60,15 +52,13 @@ En un clic, vous  pouvez sélectionner toutes les photos prises le même jour, 
 
 L’interface d’import vous permet, à la volée, de renommer les photos, de saisir une description, des tags, et de paramétrer leur visibilité (publique ou privée). L'application renomme les fichiers comme souhaité et les convertit dans un format géré par la galerie Piwigo si nécessaire. Elle vous informe de l’état d’avancement du processus de téléversement et vous pouvez retourner sélectionner d’autres photos à importer ou naviguer dans votre photothèque pendant le téléversement.
 
-![iPhone 17 Pro - 01.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-ca6a2b28.webp)
-
-![iPhone 17 Pro - 02.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-0a82c2e2.webp)
+![iPhone 17 Pro - 01.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-ca6a2b28.webp){ width=30% } ![iPhone 17 Pro - 02.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-0a82c2e2.webp){ width=30% }
 
 ### **Partagez vos photos**
 
 Par AirDrop, email, SMS, ou sur les réseaux sociaux… depuis l’application Piwigo, il est super simple de partager vos photos ! Vous pouvez aussi les imprimer, les copier dans le presse-papier, les assigner aux contacts, les utiliser comme fond d’écran ou les envoyer à votre Apple Watch.
 
-![iPhone 17 Pro - 01.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-4dad7246.webp)
+![iPhone 17 Pro - 01.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-4dad7246.webp){ width=50% }
 
 ### **Paramètres de l’application**
 
@@ -80,12 +70,4 @@ Et parce que nous nous soucions de votre vie privée, l'application ne collecte 
 
 Une option très pratique est l’effacement automatique des photos après importation dans votre Piwigo.
 
-![iPhone 17 Pro - 01.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-0ea9069d.webp)
-
-![iPhone 17 Pro - 02.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-031cfe5d.webp)
-
-![iPhone 17 Pro - 03.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-aa79e59c.webp)
-
-Sommaire de l’article
-
-[https://www.notion.so](https://www.notion.so)
+![iPhone 17 Pro - 01.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-0ea9069d.webp){ width=30% } ![iPhone 17 Pro - 02.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-031cfe5d.webp){ width=30% } ![iPhone 17 Pro - 03.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-aa79e59c.webp){ width=30% }
