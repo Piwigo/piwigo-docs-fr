@@ -52,7 +52,7 @@ Vous aurez optionnellement besoin de miniatures à placer dans un sous-répertoi
 
 Puis, à partir de l'administration en ligne, vous devrez ***synchroniser*** la base de données afin de lui faire reconnaître vos nouveaux éléments.
 
-## **Organisation des répertoires et des fichiers**
+## Organisation des répertoires et des fichiers
 
 Les répertoires représentant les albums se trouvent dans le répertoire `./galleries/` de votre installation de Piwigo.
 
@@ -122,7 +122,7 @@ Cette page permet de choisir les paramètres de synchronisation et de lancer une
 
 Voici les options proposées :
 
-### **Synchroniser la structure des fichiers avec la base de données**
+### Synchroniser la structure des fichiers avec la base de données
 
 C’est ce qui permet de dire à Piwigo : “hé ho, il y a de nouveaux fichiers, il serait temps d'aller les voir et de les prendre en compte”.
 
@@ -141,7 +141,7 @@ C’est ce qui permet de dire à Piwigo : “hé ho, il y a de nouveaux fichiers
     “Qui peut voir ces photos” permet de définir le [niveau de confidentialité](../les-utilisateurs/les-niveaux-de-confidentialite) des photos ajoutées.
     
 
-### **Synchroniser les informations des photos de la base de données à partir des méta-données des fichiers**
+### Synchroniser les informations des photos de la base de données à partir des méta-données des fichiers
 
 Cette section vous propose une option et deux sous-options :
 
@@ -149,7 +149,7 @@ Cette section vous propose une option et deux sous-options :
     - Même les photos déjà synchronisées : si vous cocher cette option, vous allez mettre à jour même les éléments qui sont déjà présents sur votre galerie. Utile lorsque vous avez modifié les métadonnées de vos photos.
     - Écraser les données existantes avec des données vides : si vous cochez cette option, vous allez remplacer les anciennes informations par des nouvelles, même si elles sont vides.
 
-### **Simulation**
+### Simulation
 
 Piwigo permet de ne pas effectuer de changement tout de suite afin que vous puissiez vérifier le bon déroulement de la synchronisation.
 
@@ -159,7 +159,7 @@ Comme son nom l'indique, cette fonction va donc simuler le résultat de la synch
     Si vous souhaitez vraiment synchroniser vos fichiers, vérifiez que cette case n’est pas cochée !
 
 
-### **Traiter uniquement un album**
+### Traiter uniquement un album
 
 Dans cette zone, il vous est possible de naviguer dans vos albums et vous sous-albums afin d'aider Piwigo à trouver les éléments à synchroniser. Il est inutile (voir parfois même dangereux) de synchroniser toute une galerie lorsque l'on connaît le bon répertoire à synchroniser.
 
@@ -176,11 +176,11 @@ Voyons ensemble ces erreurs.
 - **PWG-ERROR-VERSION**: La version de `create_listing_file.php` sur le site distant et Piwigo doit être la même.
 - **PWG-ERROR-NOLISTING**: le fichier listing.xml est introuvable sur le site distant. Ce fichier est généré en choisissant la commande “générer le listing” dans le gestionnaire de sites.
 
-## **Informations complémentaires**
+## Informations complémentaires
 
 - **pwg_representative** : (Usage facultatif) pour les éléments non image. Exemple: un fichier zip : comme le fichier zip n'est pas une image, c'est l'image jpg du même nom qui sera affichée dans la galerie, le zip sera téléchargeable via l’icône de téléchargement.
 
-## **Conseils**
+## Conseils
 
 - Ne pas décocher *Rechercher dans les sous-albums*.
 - Garder des noms simples, il y a des restrictions (dues au web, cf. ci-dessous).

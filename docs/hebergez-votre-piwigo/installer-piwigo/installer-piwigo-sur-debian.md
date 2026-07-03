@@ -14,7 +14,7 @@ En complément, voici un tutoriel créé par un membre de la communauté Piwigo.
 
 - Anciennes versions
     
-    ### **Debian 10 (PHP 7)**
+    ### Debian 10 (PHP 7)
     
     rooter en linux su -
     
@@ -26,7 +26,7 @@ En complément, voici un tutoriel créé par un membre de la communauté Piwigo.
     
     Enfin installer GD apt-get installer php-gd
     
-    ### **Debian 9 (PHP 7)**
+    ### Debian 9 (PHP 7)
     
     Il faudra installer ces paquets :
     

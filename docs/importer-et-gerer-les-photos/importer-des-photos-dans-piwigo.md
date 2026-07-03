@@ -16,7 +16,7 @@ Cet article vous permet de découvrir comment ajouter des fichiers :
     Certaines options comme l’import FTP ne sont disponibles que pour les utilisateurs qui hébergent eux-mêmes leur Piwigo.
 
 
-## **Importez des photos depuis l'administration de Piwigo**
+## Importez des photos depuis l'administration de Piwigo
 
 Pour importer des photos (ou tout autre type de fichier) depuis l'administration de Piwigo, rendez-vous dans l'administration.
 
@@ -72,7 +72,7 @@ Vous pouvez activer ou désactiver cette option depuis l’administration, menu 
 
 ![detection-doublons.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-45b4ca88.png)
 
-## **Redimensionner les photos à l'import**
+## Redimensionner les photos à l'import
 
 Pour configurer la taille des fichiers importés sur votre galerie, rendez-vous dans l'administration, et dans le menu de gauche, cliquez sur Configuration > Options. Cliquez ensuite sur l'onglet "Tailles de photos".
 
@@ -116,7 +116,7 @@ Vous avez la possibilité d’apporter des modifications aux fichiers de votre i
 
 Pour comprendre comment utiliser la gestion par lot, [lisez cet article](gestion-par-lot-modifier-et-gerer-une-selection-de-photos).
 
-## **Importez des photos depuis votre galerie**
+## Importez des photos depuis votre galerie
 
 Vous souhaitez qu'un utilisateur puisse ajouter des photos dans Piwigo, sans être administrateur ? C'est possible avec le plugin Community.
 
@@ -124,11 +124,11 @@ Ce plugin permet de donner le droit aux utilisateurs non administrateurs d'ajout
 
 [Consultez la documentation de Community](../les-utilisateurs/gerer-les-contributeurs-plugin-community)
 
-## **Importez des fichiers depuis votre téléphone mobile**
+## Importez des fichiers depuis votre téléphone mobile
 
 Vous pouvez connecter votre téléphone ou votre tablette à Piwigo pour y créer des albums et ajouter des photos et vidéos vers votre galerie. Pour cela, installez une des [applications mobiles](../les-applications-mobiles) officielles Piwigo.
 
-## **Importez des fichiers depuis un répertoire de votre ordinateur avec Piwigo Remote Sync**
+## Importez des fichiers depuis un répertoire de votre ordinateur avec Piwigo Remote Sync
 
 Il est possible de synchroniser automatiquement un répertoire de votre ordinateur avec Piwigo, et même d'ajouter une arborescence complète de répertoires.
 
@@ -140,7 +140,7 @@ Pour en savoir plus, lisez la documentation dédiée en cliquant sur le lien ci-
 
 [Documentation : Piwigo Remote Sync](importer-des-photos-dans-piwigo/documentation-piwigo-remote-sync)
 
-## **Importez et synchronisez un répertoire de votre ordinateur en FTP**
+## Importez et synchronisez un répertoire de votre ordinateur en FTP
 
 Si vous utilisez un Piwigo hébergé sur votre propre serveur, et non un Piwigo hébergé sur Piwigo Cloud, vous pouvez synchroniser un répertoire de votre ordinateur avec votre galerie.
 
@@ -150,7 +150,7 @@ Pour en savoir plus, lisez l’article ci-dessous.
 
 [Import et synchronisation de photos FTP](../hebergez-votre-piwigo/import-et-synchronisation-de-photos-ftp)
 
-## **Importez des fichiers depuis Adobe Lightroom**
+## Importez des fichiers depuis Adobe Lightroom
 
 Si vous utilisez le gestionnaire de photos Adobe Lightroom, vous pouvez installer un plugin qui vous permettra de transférer vos photos directement vers votre Piwigo. Ce plugin n’est pas développé par Piwigo. Il est vendu 15$ par son concepteur.
 
@@ -160,13 +160,13 @@ Une documentation du plugin Lightroom pour Piwigo existe, mais attention : elle 
 
 [Documentation : Plugin Piwigo pour Lightroom](importer-des-photos-dans-piwigo/documentation-plugin-piwigo-pour-lightroo)
 
-## **Importez des fichiers depuis Digikam**
+## Importez des fichiers depuis Digikam
 
 [Digikam](https://www.digikam.org/) est un logiciel libre de gestion de photos compatible Linux, Windows et Mac. Il dispose d’un plugin d’export vers Piwigo qui permet de transférer des photos depuis Digikam vers Piwigo.
 
 [Rendez-vous sur cette page pour en savoir plus](https://docs.digikam.org/en/export_tools/piwigo_export.html)
 
-## **Importez des fichiers depuis Shotwell**
+## Importez des fichiers depuis Shotwell
 
 [Shotwell](https://wiki.gnome.org/Apps/Shotwell) est un gestionnaire de photos open source pour Linux. Il est installé par défaut sur Ubuntu et Fedora. Un plugin pour Shotwell permet d’exporter des photos vers Piwigo.
 

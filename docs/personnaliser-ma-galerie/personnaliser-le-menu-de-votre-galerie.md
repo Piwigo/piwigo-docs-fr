@@ -190,7 +190,7 @@ Mais sur la page d’accueil, à la place du menu “Tag liés”, on affichera 
 
 [En savoir plus sur les tags sur votre galerie](../naviguer-sur-votre-galerie-piwigo/les-tags-sur-votre-galerie)
 
-### **Upload 1 Menu : ajout d’un menu “Ajoutez des photos”**
+### Upload 1 Menu : ajout d’un menu “Ajoutez des photos”
 
 !!! Warning "Attention"
     Si vous êtes client d’une offre Piwigo Cloud, ce plugin n’est accessible qu’à partir de l’offre Équipe.

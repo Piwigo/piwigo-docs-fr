@@ -29,7 +29,7 @@ Penchons-nous d’abord sur le premier onglet “Propriétés”.
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-2be2df5c.png)
 
-### **Voir les informations de l’album**
+### Voir les informations de l’album
 
 L’écran affiche des informations sur votre album.
 
@@ -37,7 +37,7 @@ En en-tête de la page, vous retrouver le nom de l’album et son emplacement da
 
 Vous pouvez ensuite visualiser des informations sur l’album : date de création, de dernière modification, nombre de photos, nombre de sous-albums.
 
-### **Modifier les propriétés de l’album**
+### Modifier les propriétés de l’album
 
 L’onglet Propriétés permet de modifier différentes informations sur votre album.
 
@@ -64,7 +64,7 @@ Vous pouvez également visiter la page d’une photo sur la galerie, et cliquer 
 
 Si vous souhaitez qu’une photo en particulier illustre votre album, vous pouvez enfin éditer cette photo et choisir l’album qu’elle représente grâce au champ “Représentation des albums”. Avec cette fonctionnalité, vous pouvez ainsi choisir comme représentante d’un album une photo qui n’est même pas présente dans cet album ! [En savoir plus](../importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers) 
 
-### **Autoriser ou interdire les commentaires**
+### Autoriser ou interdire les commentaires
 
 En bas de l’écran d’édition d’album, vous avez la possibilité d’autoriser ou interdire les commentaires pour les photos présentes dans cet album.
 
@@ -74,7 +74,7 @@ Pour gérer les commentaires dans les sous-albums, cliquer sur l’icône repré
 
 [En savoir plus sur les commentaires](../les-commentaires-et-notes/commentaires-options-avancees)
 
-### **Autres actions disponibles sur l’album**
+### Autres actions disponibles sur l’album
 
 Depuis la barre d’outils à droite, vous avez accès à plusieurs options.
 
@@ -87,7 +87,7 @@ Depuis la barre d’outils à droite, vous avez accès à plusieurs options.
 
 Enfin, pour ouvrir votre album directement dans la galerie, cliquez sur le bouton en bas à gauche “Ouvrir dans la galerie”.
 
-### **Verrouiller un album**
+### Verrouiller un album
 
 En bas de l’écran d’édition d’album, vous avez la possibilité de verrouiller un album.
 
@@ -105,13 +105,13 @@ Quand vous éditez un album, le deuxième onglet “Ordre des photos” permet d
     Par défaut Piwigo classe les photos de la façon suivante : par date d’ajout (du plus récent au plus ancien), PUIS par nom du fichier (de A à Z), PUIS par identifiant (du plus petit au plus grand). Vous pouvez modifier ce paramètre dans les options de configuration de Piwigo. [En savoir plus](../personnaliser-ma-galerie/options-de-personnalisation-de-votre-galerie)
 
 
-### **Modifier manuellement l’ordre des photos**
+### Modifier manuellement l’ordre des photos
 
 La première section “ordre manuel” vous permet de réorganiser comme bon vous semble l’ordre des photos par cliqué-glissé. Cliquez sur une photo et maintenez le clic : en déplaçant votre souris, vous pouvez déplacer la photo là où vous le souhaitez. Relâchez le clic lorsque votre photo est au bon endroit.
 
 ![fr-ordre-photos-manuel.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-137f96ef.png)
 
-### **Modifier automatiquement l’ordre des photos**
+### Modifier automatiquement l’ordre des photos
 
 La deuxième section “Ordre de tri” permet de modifier automatiquement l’ordre d’affichage des photos.
 
@@ -134,7 +134,7 @@ N’oubliez pas de cliquer sur Enregistrer les paramètres pour sauvegarder votr
 
 L’ordre de tri choisi peut être appliqué aux sous-albums (si votre album en a) en cochant la case à côté du bouton d’enregistrement.
 
-### **Reset Manual Order**
+### Reset Manual Order
 
 Vous souhaitez classer les photos au sein d’un album en choisissant un ordre de tri automatique, mais en y apportant des modifications ? Pour cela vous pouvez activer le plugin **Reset Manual Order**.
 

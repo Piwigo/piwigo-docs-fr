@@ -8,7 +8,7 @@ Si vous cherchez la dernière version de la documentation sur la recherche (depu
 
 ## La recherche rapide
 
-### **Utiliser le champ de recherche rapide**
+### Utiliser le champ de recherche rapide
 
 Si cette fonctionnalité est active sur votre galerie (c’est le cas par défaut sur la plupart des thèmes), vous disposez d’un champ de recherche.
 
@@ -34,7 +34,7 @@ Par ailleurs, si le mot-clé saisi correspond à un tag ou au nom d’un album d
 
 ![fr-recherche-tag-album.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-df1bf3f0.png)
 
-### U**tiliser la recherche rapide comme un pro**
+### Utiliser la recherche rapide comme un pro
 
 Tout comme dans les moteurs de recherche sur Internet, vous pouvez utiliser des opérateurs pour affiner votre recherche.
 
@@ -54,7 +54,7 @@ Tout comme dans les moteurs de recherche sur Internet, vous pouvez utiliser des 
 | filesize: | Recherche les photos par taille de fichier.filesize:1m..10m retourne les fichiers dont la taille est comprise entre 1 et 10 Mo. |
 | id: | Recherche les photos en utilisant leur identifiant numérique Piwigoid:123..126 trouve les photos 123 à 126 (le nombre de photos peut varier de 0 à 4 car certaines ont pu être effacées). |
 
-### RV autocomplete : Activer l’**autocomplétion sur le moteur de recherche**
+### RV autocomplete : Activer l’autocomplétion sur le moteur de recherche
 
 Vous souhaitez gagner encore plus de temps lorsque vous rechercher un tag ou un album sur votre galerie ?
 
@@ -64,7 +64,7 @@ Une fois ce plugin activé, quand vous saisirez une recherche, les albums et tag
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-91670494.png)
 
-## L**a recherche avancée**
+## La recherche avancée
 
 Sur votre galerie Piwigo, vous disposez également d’un formulaire de recherche avancée.
 

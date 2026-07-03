@@ -48,7 +48,7 @@ Pour chaque message, on affiche le nom de l’administrateur, la date et le mess
 
 ![fr-admin-messages.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-06937cb2.png)
 
-## **Protect Notification : Changer l’expéditeur des emails de notification**
+## Protect Notification : Changer l’expéditeur des emails de notification
 
 Parfois, il arrive que les emails de notification envoyés par Piwigo arrivent en SPAM. Cela vient du fait qu’ils sont envoyés par l’adresse email de l’administrateur principal (webmestre). Si votre serveur (ou le serveur Piwigo Cloud) n’a pas le droit d’envoyer des emails depuis cette adresse mail, les emails sont considérés comme non sécurisés.
 
@@ -344,11 +344,11 @@ Il est intéressant de connaître les deux car il peuvent fonctionner en parall�
 
 Ainsi, vous pouvez par exemple ajouter du code dans la balise <head> avec le premier, et dans le footer de votre site (avant la fermeture de la balise <body>) avec le second.
 
-### **Add < head > element : Ajouter du code dans la balise <head>**
+### Add < head > element : Ajouter du code dans la balise <head>
 
 Le plugin **Add < head > element** permet d’ajouter du code (un script javascript par exemple) dans la balise <head> de votre galerie. Vous pouvez choisir d’activer ce code sur la galerie, l’administration, ou les deux.
 
-### Statistics**: Ajouter du code dans la balise <head> ou le footer**
+### Statistics**: Ajouter du code dans la balise <head> ou le footer
 
 Conçu pour insérer un code de suivi d’un outil statistique externe (comme Matomo ou Google Analytics) sur votre galerie, le plugin Statistics permet également d’ajouter du code pour un autre usage.
 

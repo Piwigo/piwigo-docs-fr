@@ -55,11 +55,11 @@ Changement de langue avec Language Switch et le thème Modus
 
 Changement de langue avec Language Switch et le thème Bootstrap Darkroom
 
-## **Exif View :** Traduire les noms des métadonnées Exif
+## Exif View : Traduire les noms des métadonnées Exif
 
 Si vous souhaitez traduire les valeurs de métadonnées Exif dans la langue de la galerie, vous devez installer le plugin **Exif View**.
 
-## **Extended Descriptions :** Traduire les noms et descriptions des photos et albums
+## Extended Descriptions : Traduire les noms et descriptions des photos et albums
 
 Si vous souhaitez traduire les noms et descriptions des photos ou des albums, vous devez installer le plugin **Extended Descriptions**.
 

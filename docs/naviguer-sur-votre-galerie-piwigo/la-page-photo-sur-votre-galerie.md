@@ -134,7 +134,7 @@ Par défaut, Piwigo propose plusieurs tailles de fichiers. En réalité, Piwigo 
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/61e7cec9c1b8c85d97faea30/images/62385306ab585b230a8a2de9/file-hyfKHnjnF0.png)
 
-### **A quoi servent les différentes tailles de fichiers ?**
+### A quoi servent les différentes tailles de fichiers ?
 
 - Les tailles Carré, Miniature et Moyen sont utilisées par Piwigo pour l'affichage des photos dans la galerie. C'est pourquoi vous ne pouvez pas les décocher.
 - Les autres tailles peuvent être désactivées en les décochant. Sur votre galerie Piwigo, les utilisateurs pourront choisir la taille du fichier affiché sur leur écran parmi les formats disponibles.
@@ -148,7 +148,7 @@ Pour en savoir plus sur les différents formats, et éventuellement, les personn
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/61e7cec9c1b8c85d97faea30/images/6238533f2ce7ed0fb0917ac3/file-Kr8T7PoSY0.png)
 
-### **Pourquoi personnaliser les tailles d'images disponibles ?**
+### Pourquoi personnaliser les tailles d'images disponibles ?
 
 Cela peut être utile pour divers besoins.
 
@@ -184,7 +184,7 @@ Pour en savoir plus lisez l’article sur les [options de personnalisation de vo
 
 Pour plus d’informations sur la personnalisation de l’affichage des propriétés et métadonnées, lisez l’article sur [les propriétés et métadonnées](../importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers).
 
-### **Ajouter un filigrane à vos photos**
+### Ajouter un filigrane à vos photos
 
 Lorsque vous importez une photo dans Piwigo, Piwigo peut ajouter automatiquement un filigrane, c'est à dire une image qui va s'afficher "par dessus" votre photo.
 
@@ -303,7 +303,7 @@ Lorsqu’un verso a été défini pour une photo, un bouton “Voir le verso” 
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-fcda53ba.png)
 
-### **AlwaysShowMetadata : Toujours afficher les métadonnées des fichiers**
+### AlwaysShowMetadata : Toujours afficher les métadonnées des fichiers
 
 Par défaut, les métadonnées sont masquées sur la page Photo de votre galerie : il faut cliquer sur une icône pour les faire apparaître.
 

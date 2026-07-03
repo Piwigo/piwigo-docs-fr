@@ -23,7 +23,7 @@ Vous avez alors accès à l’écran ci-dessous :
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-67285369.png)
 
-## C**onfiguration par défaut**
+## Configuration par défaut
 
 Depuis cet écran, vous avez accès au fichier de configuration par défaut qui liste toutes les options de configuration disponibles dans ce fichier : pour cela cliquez sur le lien *Afficher le fichier "config_default.inc.php"* en haut à droite de l’écran.
 

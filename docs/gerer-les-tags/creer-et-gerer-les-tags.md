@@ -25,7 +25,7 @@ Vous pouvez également créer un tag directement à chaque fois que vous avez la
 - depuis l’éditeur de photo
 - depuis le gestionnaire de lot
 
-### **Add tags mass :** Créer une liste de tags en masse
+### Add tags mass : Créer une liste de tags en masse
 
 Si vous avez besoin d’importer dans votre Piwigo une liste de tags existants ou de créer rapidement plusieurs tags, il suffit d’activer le plugin “Add tags mass”.
 
@@ -128,7 +128,7 @@ Lorsque vous cliquez sur les 3 points à côté d’un tag, vous voyez apparaît
 - Dupliquer : crée une copie du tag
 - Supprimer : permet de supprimer le tag
 
-### **Modifier des tags en masse : mode sélection**
+### Modifier des tags en masse : mode sélection
 
 Pour modifier une liste de tags en masse, vous devez passer en mode sélection en cliquant sur le bouton “Mode sélection” à droite de l’écran.
 

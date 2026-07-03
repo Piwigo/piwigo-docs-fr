@@ -179,25 +179,25 @@ Certains plugins sont utiles pour les galeries Piwigo qui utilisent le plugin Co
     Si vous êtes client d’une offre Piwigo Cloud, ces plugins ne sont accessibles qu’à partir de l’offre Équipe.
 
 
-### **Upload 1 Menu**
+### Upload 1 Menu
 
 Ce plugin permet d’afficher le menu “Ajouter des photos” au niveau du menu principal de la galerie, à côté du menu “Explorer”.
 
 ![fr-community-uploadmenu1.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-29ba55aa.png)
 
-### **See My Photos**
+### See My Photos
 
 Ce plugin permet d’ajouter un menu “Mes photos” sur la galerie. Ainsi, chaque utilisateur peut facilement visualiser les photos qu’il a ajoutées à la galerie, sous albums confondus.
 
 [En savoir plus](../personnaliser-ma-galerie/personnaliser-le-menu-de-votre-galerie)
 
-### **See photos by user**
+### See photos by user
 
 Ce plugin permet aux visiteurs de la galerie de filtrer facilement les photos en fonction de l’utilisateur qui les a ajoutées.
 
 [En savoir plus](../personnaliser-ma-galerie/personnaliser-le-menu-de-votre-galerie)
 
-### **Photo added by**
+### Photo added by
 
 Ce plugin permet d’afficher sur la page d’une photo l’identifiant de l’utilisateur qui l’a ajoutée sous le champ “Photo ajoutée par”.
 

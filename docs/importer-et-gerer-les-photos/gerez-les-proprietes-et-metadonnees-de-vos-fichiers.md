@@ -6,7 +6,7 @@
 
 Pour commencer, quelques explications!
 
-### **Les métadonnées : c’est quoi ?**
+### Les métadonnées : c’est quoi ?
 
 Les métadonnées sont des informations issues du fichier d’origine. Elles sont lues et intégrées par Piwigo au moment de l’import.
 
@@ -39,7 +39,7 @@ Affichage des métadonnées avec le thème Modus
 
 Affichage des métadonnées avec le thème Boostrap Darkroom
 
-### **Les propriétés : c’est quoi ?**
+### Les propriétés : c’est quoi ?
 
 Les propriétés sont des champs internes à Piwigo, qui permettent de décrire et catégoriser vos fichiers. 
 
@@ -279,7 +279,7 @@ Contrairement aux métadonnées, c’est à vous de définir dans Piwigo les pro
 
 Par défaut, voici les propriétés et informations proposées par Piwigo pour qualifier un fichier.
 
-### **Titre**
+### Titre
 
 C’est le nom de la photo qui sera affiché sur la galerie. Selon votre thème et les paramétrages choisis, le titre pourra être affiché à plusieurs endroits sur votre galerie.
 
@@ -287,11 +287,11 @@ Par défaut, le nom est créé à partir du nom du fichier, mais vous pouvez le 
 
 Le nom d’une photo permet de la retrouver facilement grâce au moteur de recherche : c’est donc un paramètre important.
 
-### **Auteur**
+### Auteur
 
 Cette propriété permet de citer l’auteur, par exemple le photographe à l’origine de la photo. C’est un champ libre de type texte qui pourra être affiché sur la galerie.
 
-### **Date de création**
+### Date de création
 
 Par défaut, la date de création est importé à partir des *métadonnées* du fichier. 
 
@@ -299,7 +299,7 @@ Pour une photo, ce sera généralement la date de prise de vue ; pour un autre t
 
 Lorsque vous éditez une photo, vous pouvez cliquer sur “Vider” pour laisser cette propriété vide, ou bien modifier la date si la date affichée par défaut ne vous convient pas.
 
-### **Albums associés**
+### Albums associés
 
 Les albums associés ne sont pas une propriété à proprement parler même si ils apparaissent dans la liste des propriétés d’une photo.
 
@@ -321,7 +321,7 @@ Une fois la sélection d’album effectuée, vous revenez sur la page d’éditi
 
 Pour en savoir plus sur les albums, [lisez cette série d’articles](../organiser-les-albums).
 
-### **Représentation des albums (vignette d’un album)**
+### Représentation des albums (vignette d’un album)
 
 Lorsque vous éditez une photo, cette propriété affiche la liste des albums pour lesquels la photo en cours a été choisie comme vignette principale.
 
@@ -335,7 +335,7 @@ A noter qu’une photo n’a pas besoin d’être associée à un album pour le 
 
 Pour en savoir plus sur les albums, [lisez cette série d’articles](../organiser-les-albums).
 
-### **Tags**
+### Tags
 
 Pour organiser et décrire vos photos, vous pouvez les associer à des tags (que l’on peut aussi appeler mots-clés, ou étiquettes).
 
@@ -347,7 +347,7 @@ Lorsque vous éditez une photo dans l’administration, le champs Tags fonctionn
 
 Pour en savoir plus sur les tags, [lisez cette série d’articles](../gerer-les-tags)
 
-### **Description**
+### Description
 
 La propriété Description permet d’afficher un texte de présentation de votre photo sur votre galerie.
 
@@ -372,7 +372,7 @@ Pour pouvoir traduire les descriptions en plusieurs langues, utilisez le plugin 
 
 Pour en savoir plus sur la traduction des contenus avec Extended Description, [lisez cet article](../personnaliser-ma-galerie/gerer-les-langues-disponibles-sur-votre-galerie).
 
-### **Qui peut voir cette photo (niveau de confidentialité)**
+### Qui peut voir cette photo (niveau de confidentialité)
 
 Cette propriété permet de définir le Niveau de confidentialité d’un fichier.
 
@@ -559,7 +559,7 @@ Le plugin **Download Counter** permet de comptabiliser le nombre de télécharge
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-800d45b4.png)
 
-### **Expiry Date :** Ajouter une date d’expiration à un fichier
+### Expiry Date : Ajouter une date d’expiration à un fichier
 
 Il peut être nécessaire d’ajouter une date d’expiration à un fichier, pour gérer la date de validité d’une licence, ou encore la validité des droits à l’image associés à une photo.
 

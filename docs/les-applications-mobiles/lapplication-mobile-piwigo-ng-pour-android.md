@@ -24,7 +24,7 @@ Pour vous connecter à votre galerie sur l’application Piwigo NG, vous devez s
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-d432f660.png)
 
-### **Accédez à tous vos albums depuis votre mobile ou tablette**
+### Accédez à tous vos albums depuis votre mobile ou tablette
 
 L’un des premiers atouts de cette application, c’est qu’elle vous permet de consulter votre photothèque partout avec vous (connexion requise). Vous naviguez d’un album à l’autre ou recherchez vos photos.
 
@@ -38,7 +38,7 @@ L’application propose aussi de rechercher des photos ou de visualiser les phot
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-59b08630.png)
 
-### **Organisez vos photos**
+### Organisez vos photos
 
 Ensuite, vous pouvez utiliser l’application pour organiser votre photothèque (si vous êtes administrateur) : déplacer des albums, déplacer ou copier des photos d’un album à un autre, renommer ou effacer vos albums, créer des sous-albums, modifier les caractéristiques de vos photos (nom, description, tags…), choisir la vignette d’un album…
 
@@ -50,7 +50,7 @@ Ensuite, vous pouvez utiliser l’application pour organiser votre photothèque 
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-4e1d603f.png)
 
-### **Importez les photos de votre mobile dans votre Piwigo**
+### Importez les photos de votre mobile dans votre Piwigo
 
 Depuis l’application, vous pouvez très facilement importer les photos et les vidéos de votre mobile vers de nouveaux albums ou vers des albums existants.
 
@@ -64,7 +64,7 @@ Vous pouvez continuer à utiliser l’application pendant que les photos se tél
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-88294d46.png)
 
-### **Paramètres de l’application**
+### Paramètres de l’application
 
 Des paramètres vous permettent de personnaliser votre expérience de l’application et votre utilisation.
 

@@ -4,7 +4,7 @@ Dans l’article [Gérer les commentaires](commentaires-options-avancees), nous 
 
 ## Options de mise en forme des commentaires
 
-### **BBCode Bar :** Ajouter une barre d’outils pour mettre en forme les commentaires
+### BBCode Bar : Ajouter une barre d’outils pour mettre en forme les commentaires
 
 Si vous souhaitez que les utilisateurs puissent mettre en forme leurs commentaires (texte en gras, en italique, listes à puces,…) il suffit d’installer le plugin **BBCode Bar**.
 
@@ -24,7 +24,7 @@ Ce plugin permet de choisir un jeu d’émoticônes à ajouter à votre galerie.
     Remarque : Ces émoticônes sont du même type que ceux que l’on retrouve dans les  forums de discussions. Il ne faut pas les confondre avec les émojis que l’on utilise beaucoup plus de nos jours. Piwigo n’intègre pas de clavier d’émojis.
 
 
-## **Subscribe to Comments :** S’abonner aux commentaires
+## Subscribe to Comments : S’abonner aux commentaires
 
 Si vous souhaitez qu’un utilisateur (autre qu’un administrateur) puisse être notifié lorsqu’un nouveau commentaire est publié il suffit d’installer le plugin **Subscribe to Comments**.
 
@@ -48,7 +48,7 @@ Malheureusement, les zones de saisie de commentaires sont souvent appréciées d
 
 Plusieurs plugins permettent de contrôler la saisie des commentaires sur Piwigo.
 
-### **Comments Blacklist :** Bannir certains mots des commentaires
+### Comments Blacklist : Bannir certains mots des commentaires
 
 Pour définir une liste de mots interdits dans les commentaires, vous pouvez installer le plugin **Comments Blacklist.**
 
@@ -56,7 +56,7 @@ Ce plugin permet de saisir une liste de mots interdits. Si un commentaire compor
 
 Cela permet de bannir des mots fréquemment utilisés dans des commentaires “SPAM”, mais également d’éviter les commentaires grossiers, injurieux ou déplacés.
 
-### **Crypto Captcha :** Ajouter un Captcha sur la zone de commentaire
+### Crypto Captcha : Ajouter un Captcha sur la zone de commentaire
 
 Pour ajouter un Captcha sur le formulaire de saisie de commentaires, vous pouvez installer le plugin **Crypto Captcha.**
 
@@ -66,7 +66,7 @@ Plusieurs options sont disponibles pour paramétrer votre Captcha.
 
 ![fr-commentaire-captcha.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-52229e17.png)
 
-### **RV Akismet :** Contrôler les commentaires avec Askimet
+### RV Akismet : Contrôler les commentaires avec Askimet
 
 Vous pouvez utiliser le service en ligne [Akismet](https://akismet.com/), une référence dans le domaine, pour vérifier que les commentaires saisis sur votre galerie ne sont pas des SPAMS.
 
@@ -83,7 +83,7 @@ Le plugin vous donne le choix entre deux options :
 - Rejeter tous les commentaires identifiés par Akismet comme du SPAM
 - Modérer les commentaires identifiés par Akismet comme du SPAM (c’est à dire les soumettre à une validation avant publication).
 
-## **Comments on Albums :** Accepter les commentaires sur les pages Albums
+## Comments on Albums : Accepter les commentaires sur les pages Albums
 
 Par défaut, Piwigo gère les commentaires sur les pages des photos.
 

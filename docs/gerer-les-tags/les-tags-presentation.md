@@ -15,11 +15,11 @@ Les tags sont un moyen d’organiser votre photothèque complémentaire aux albu
 
 Les tags ont plusieurs utilités et plusieurs façons d’être utilisés.
 
-### **Moteur de recherche**
+### Moteur de recherche
 
 Tout d’abord, lorsque vous tapez une recherche dans le moteur de recherche de votre galerie, ou dans l’administration de Piwigo, les libellés des tags sont pris en compte : c’est donc un moyen de retrouver facilement toutes les photos correspondant à un critère. Vous pouvez également utiliser les filtres de la barre de recherche pour rechercher des photos liées à un ou plusieurs tags. [En savoir plus sur la recherche dans Piwigo](../naviguer-sur-votre-galerie-piwigo/rechercher-une-photo-sur-votre-galerie)
 
-### **Nuage de tags**
+### Nuage de tags
 
 Ensuite, vous pouvez afficher sur votre galerie un nuage de tags : la taille de chaque mot est proportionnelle au nombre de fichiers associés à ce tag.
 
@@ -27,7 +27,7 @@ Ensuite, vous pouvez afficher sur votre galerie un nuage de tags : la taille de 
 
 Un clic sur un tag permet d’afficher la liste de toutes les photos associés à ce tag.
 
-### **Tags liés**
+### Tags liés
 
 Chaque galerie Piwigo contient par défaut un menu “Tags liés”. 
 

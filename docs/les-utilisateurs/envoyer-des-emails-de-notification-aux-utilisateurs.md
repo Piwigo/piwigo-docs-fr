@@ -72,7 +72,7 @@ Cliquez sur “Envoi” pour déclencher l’envoi de l’email.
 
 ![fr-notif-contenu-email.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-61145fe7.png)
 
-## **Protect Notification : Changer l’expéditeur des emails de notification**
+## Protect Notification : Changer l’expéditeur des emails de notification
 
 Parfois, il arrive que les emails de notification envoyés par Piwigo arrivent en SPAM. Cela vient du fait qu’ils sont envoyés par l’adresse email de l’administrateur principal (webmestre). Le serveur [Piwigo Cloud](http://piwigo.org) n’ayant pas le droit d’envoyer des emails depuis cette adresse mail, les emails sont considérés comme non sécurisés.
 

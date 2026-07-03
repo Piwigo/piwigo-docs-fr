@@ -51,7 +51,7 @@ La page Collections liste toutes les collections créées par l’utilisateur, p
 
 Lorsque l’on est sur la page d’une collection, plusieurs icônes spécifiques à la collection sont disponibles dans la barre d’outils (en fonction des autorisations définies dans la configuration du plugin).
 
-### **Partager un lien vers la collection**
+### Partager un lien vers la collection
 
 ![collection.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-383da7f0.png)
 

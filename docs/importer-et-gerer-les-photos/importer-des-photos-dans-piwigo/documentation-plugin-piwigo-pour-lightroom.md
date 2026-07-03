@@ -78,11 +78,11 @@ Une nouvelle fenêtre, propre au module externe, s'ouvre.
 
 Voici quelques explications sur les options de configuration.
 
-### **Cadre Service de publication**
+### Cadre Service de publication
 
 *Description* ⇒ Optionnel, donne une description au service de publication. Ce nom sera affiché dans la colonne des services de publication de Lightroom.
 
-### **Cadre Piwigo**
+### Cadre Piwigo
 
 *Adresse URL du serveur* ⇒ Adresse (URL) de votre galerie du type : `https://monsite.com/piwigo`
 
@@ -94,7 +94,7 @@ Si vous lisez en rouge une ligne qui dit : Connexion à votre compte en ligne.
 
 Cela signifie qu'il vous faut soit ressaisir les bons renseignements, soit tout simplement cliquer sur le bouton “**Connexion**”
 
-### **Cadre Options de publication Piwigo**
+### Cadre Options de publication Piwigo
 
 *Créer un instantané à chaque publication* ⇒ Cette option va créer un “instantané” des photos que vous publierez. Cette instantané est visible dans le module “Développement” et correspond à la photo envoyé à la date indiquée avec les réglages correspondant.
 
@@ -116,7 +116,7 @@ Un premier album est automatiquement ajouté dans Lightroom (voir ci-dessous). I
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-b5f9a0a5.png)
 
-### **Les albums**
+### Les albums
 
 Si vous faites un clic droit sur le service de publication, vous pourrez alors choisir de créer 3 types d'albums :
 
@@ -126,7 +126,7 @@ Si vous faites un clic droit sur le service de publication, vous pourrez alors c
 
 A chaque fois qu'un album est créé dans Lightroom, il est instantanément créé dans votre galerie Piwigo.
 
-### **La publication**
+### La publication
 
 Lorsque vous aurez ajouté les photos de votre choix dans l'album correspondant, vous observerez une fenêtre semblable aux captures ci-dessous.
 
@@ -140,18 +140,18 @@ On retrouvera aussi ce bouton “Publier” en bas à gauche de la fenêtre Ligh
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-47393e76.png)
 
-### **La re-publication**
+### La re-publication
 
 Il y a plusieurs manières de re-publier une photo.
 
 - L'auto-détection : Le module détecte immédiatement lorsqu'une photo qui se trouve déjà en ligne à été modifié dans Lightroom et requiert une mise à jour vers Piwigo. À partir de là il est possible de mettre à jour le fichier entier en cliquant sur le bouton “Publier”.
 - L'action manuelle : Rien de plus simple pour re-publier une photo. Faites un clic droit sur celle-ci et choisissez l'option “Marquer pour republication”.
 
-### **Supprimer le marquer de re-publication**
+### Supprimer le marquer de re-publication
 
 Il est parfois nécessaire de ne pas re-publier des photos marquées comme telles : pour cela, clic droit sur vos photos et choisissez l'option “Marquer comme à jour”.
 
-### **Les commentaires et notation**
+### Les commentaires et notation
 
 Dans le module “Bibliothèque”, colonne de droite, vous trouverez une zone qui regroupe les informations sur les commentaires laissés ainsi que les notes attribuées à votre photo.
 
@@ -159,7 +159,7 @@ Il vous est possible de répondre aux commentaires directement via Lightroom via
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-04b30e1b.png)
 
-### **Ordre d'affichage des photos**
+### Ordre d'affichage des photos
 
 Ce sujet est important car assez complexe.
 

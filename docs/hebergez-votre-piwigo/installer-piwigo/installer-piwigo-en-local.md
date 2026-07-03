@@ -51,7 +51,7 @@ define('DB_COLLATE', '');
 ?>
 ```
 
-## **Gestion des EXIF**
+## Gestion des EXIF
 
 La gestion des EXIF n'est pas activée par défaut par EasyPHP. Pour l'activer suivez les étapes suivantes :
 

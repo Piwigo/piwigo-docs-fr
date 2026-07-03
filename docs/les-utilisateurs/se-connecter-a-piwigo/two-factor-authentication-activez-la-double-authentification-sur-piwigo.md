@@ -9,7 +9,7 @@ Depuis la version 16 de Piwigo, il est possible d’activer la double authentifi
 
 Pour mettre en place ce système d’authentification à deux facteurs, vous devez installer et activer le plugin **Two Factor Authentication.**
 
-## Configuration du plugin **Two Factor Authentication**
+## Configuration du plugin Two Factor Authentication
 
 Pour configurer la double authentification, rendez-vous dans la configuration du plugin.
 

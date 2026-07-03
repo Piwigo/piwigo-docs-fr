@@ -64,7 +64,7 @@ Vous pouvez alors sélectionner les photos à modifier parmi vos photos favorite
 
 Pour en savoir plus sur la gestion par lot, [lisez cet article](../importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos).
 
-## **Quick Fav : ajouter une photo à ses favoris depuis la page Album**
+## Quick Fav : ajouter une photo à ses favoris depuis la page Album
 
 Par défaut, le bouton “Ajouter aux favoris” n’est accessible que depuis la page d’une photo.
 

@@ -13,7 +13,7 @@ On fait le tour dans cet article !
 
 ## La recherche rapide
 
-### **Utiliser le champ de recherche rapide**
+### Utiliser le champ de recherche rapide
 
 Si cette fonctionnalité est active sur votre galerie (c’est le cas par défaut sur la plupart des thèmes), vous disposez d’un champ de recherche.
 
@@ -53,7 +53,7 @@ Dans cette fenêtre, vous allez pouvoir :
 - effectuer une recherche sur plusieurs mots en filtrant sur tous les mots ou bien l’un des mots ;
 - modifier où Piwigo effectue sa recherche (par exemple, en désactivant la recherche dans les descriptions des photos).
 
-### RV autocomplete : Activer l’**autocomplétion sur le moteur de recherche rapide**
+### RV autocomplete : Activer l’autocomplétion sur le moteur de recherche rapide
 
 Vous souhaitez gagner encore plus de temps lorsque vous rechercher un tag ou un album sur votre galerie ?
 

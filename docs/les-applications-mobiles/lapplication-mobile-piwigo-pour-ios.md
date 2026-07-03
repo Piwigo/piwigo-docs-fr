@@ -18,7 +18,7 @@ Cette application, traduite en 16 langues, fait l’unanimité parmi les utilisa
 
 Voici les principales fonctionnalités :
 
-### **Accédez à tous vos albums depuis votre mobile ou tablette**
+### Accédez à tous vos albums depuis votre mobile ou tablette
 
 L’un des premiers atouts de cette application, c’est qu’elle vous permet de consulter votre photothèque partout avec vous (y compris hors connexion). Vous naviguez d’un album à l’autre ou recherchez vos photos.
 
@@ -30,7 +30,7 @@ L’application propose aussi de rechercher des photos ou de visualiser les phot
 
 ![iPhone 17 Pro - 01.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-35fb8af2.webp){ width=30% } ![iPhone 17 Pro - 02.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-0dae5b1a.webp){ width=30% } ![iPhone 17 Pro - 03.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-734b8af8.webp){ width=30% }
 
-### **Organisez vos photos**
+### Organisez vos photos
 
 Ensuite, vous pouvez utiliser l’application pour organiser votre photothèque (si vous avez un compte administrateur) : déplacer des albums, déplacer ou copier des photos d’un album à un autre, renommer ou effacer vos albums, créer des sous-albums, modifier les caractéristiques de vos photos (nom, description, tags…), choisir la vignette d’un album…
 
@@ -38,7 +38,7 @@ Ensuite, vous pouvez utiliser l’application pour organiser votre photothèque 
 
 ![iPhone 17 Pro - 02.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-6fc91183.webp){ width=30% } ![iPhone 17 Pro - 04.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-d3981690.webp){ width=30% }
 
-### **Importez les photos de votre mobile dans votre Piwigo**
+### Importez les photos de votre mobile dans votre Piwigo
 
 Depuis l’application, vous pouvez très facilement importer les photos et les vidéos de votre mobile vers de nouveaux albums ou vers des albums existants.
 
@@ -54,13 +54,13 @@ L’interface d’import vous permet, à la volée, de renommer les photos, de s
 
 ![iPhone 17 Pro - 01.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-ca6a2b28.webp){ width=30% } ![iPhone 17 Pro - 02.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-0a82c2e2.webp){ width=30% }
 
-### **Partagez vos photos**
+### Partagez vos photos
 
 Par AirDrop, email, SMS, ou sur les réseaux sociaux… depuis l’application Piwigo, il est super simple de partager vos photos ! Vous pouvez aussi les imprimer, les copier dans le presse-papier, les assigner aux contacts, les utiliser comme fond d’écran ou les envoyer à votre Apple Watch.
 
 ![iPhone 17 Pro - 01.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-4dad7246.webp){ width=50% }
 
-### **Paramètres de l’application**
+### Paramètres de l’application
 
 De nombreux paramètres vous permettent de personnaliser votre expérience de l’application et votre utilisation.
 

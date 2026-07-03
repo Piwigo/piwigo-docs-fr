@@ -83,7 +83,7 @@ Si vous hébergez vous-même votre Piwigo, nous ne pouvons malheureusement pas v
 
 Pour créer un nouvel utilisateur sur Piwigo, il a deux possibilités.
 
-### **Cas n°1 : c’est un administrateur qui crée les comptes utilisateurs**
+### Cas n°1 : c’est un administrateur qui crée les comptes utilisateurs
 
 Parfois, l’option “Permettre l'enregistrement des utilisateurs” a été désactivée (cette option est disponible dans le menu Configuration > Options, onglet général, Section Permissions).
 
@@ -91,7 +91,7 @@ Dans ce cas, il est impossible pour un visiteur de la galerie de créer son comp
 
 Pour savoir comment créer un utilisateur dans l’administration, [lisez cet article](creer-et-gerer-les-utilisateurs).
 
-### **Cas n°2 : les visiteurs de la galerie peuvent créer leur compte**
+### Cas n°2 : les visiteurs de la galerie peuvent créer leur compte
 
 Si l’option  “Permettre l'enregistrement des utilisateurs” a été activée, alors n’importe quel visiteur de la galerie pourra créer son compte.
 
@@ -155,7 +155,7 @@ Les utilisateurs peuvent ainsi utiliser leur compte Microsoft 365 pour se connec
 - L'adresse email de l'utilisateur Piwigo doit correspondre à l'adresse email du compte Microsoft 365.
 - Vous devez d'abord déclarer votre Piwigo App dans le portail Azure (explications sur la page de configuration du plugin).
 
-## **Password Policy : D**éfinir des règles de sécurité des mots de passe
+## Password Policy : Définir des règles de sécurité des mots de passe
 
 Le plugin **Password Policy** permet de mettre en place des règles de sécurité sur les mots de passe : score de complexité, politique de renouvellement, gestion des tentatives de connexion échouées…
 

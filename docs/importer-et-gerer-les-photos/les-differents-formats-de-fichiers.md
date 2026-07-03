@@ -19,7 +19,7 @@ Pour commencer, les choses sont légèrement différentes selon que vous ayez un
     Mais pour pouvoir accepter les formats de fichier “Premium” (PDF, PSD, AI…), vous devrez opter pour un abonnement Équipe, Entreprise, ou VIP.
     
 
-## **Fichiers images**
+## Fichiers images
 
 Piwigo vous permet d'importer des fichiers images, qui sont lisibles dans un navigateur web. Les extensions de fichiers images supportés par Piwigo sont les suivants :
 
@@ -80,7 +80,7 @@ $conf['file_ext'] = array_merge(
 !!! Warning "Attention"
     Pour supporter les fichiers HEIC, vous devrez peut-être mettre à jour le système d’exploitation de votre serveur si vous utilisez un Piwigo auto-hébergé.
 
-## **Fichiers vidéo et audio**
+## Fichiers vidéo et audio
 
 Piwigo permet d'importer des fichiers audiovisuels avec les extensions suivantes :
 
@@ -122,7 +122,7 @@ $conf['file_ext'] = array_merge(
 !!! Warning "Attention"
     Si vous utilisez une galerie auto-hébergée et que vous rencontrez des problèmes avec le téléchargement de vidéos ou la génération de vignettes, [consultez cet article](../hebergez-votre-piwigo/problemes-generation-vignettes-miniatures).
 
-### **🎦 Cas particulier des vidéos MOV**
+### 🎦 Cas particulier des vidéos MOV
 
 Si vous enregistrez des vidéos depuis un iPhone, un iPad ou depuis le logiciel Quicktime pour Apple, les fichiers générés ont une extension .mov. Ce format de fichier n'est pas compatible avec Piwigo, car il ne s’affiche pas correctement dans les navigateurs web.
 
@@ -168,7 +168,7 @@ Vous pouvez aussi faire le choix de convertir vos fichiers .mov au format MP4 av
 
 Pour savoir comment convertir un fichier, lire le chapitre suivant.
 
-### **🎦 Convertir vos fichiers vidéo**
+### 🎦 Convertir vos fichiers vidéo
 
 Si vous souhaitez importer un fichier vidéo non supporté par Piwigo (par exemple, un fichier AVI), il vous suffit de convertir vos fichiers vidéo vers le format MP4 : vous pouvez le faire avec de nombreux logiciels de montage vidéo, ou encore avec des outils gratuits en ligne [comme celui-ci](https://video.online-convert.com/fr/convertir-en-mp4).
 
@@ -222,7 +222,7 @@ $conf['file_ext'] = array_merge(
     Si vous utilisez une galerie auto-hébergée et que vous rencontrez des problèmes avec la génération de vignettes pour les fichiers PDF, ou la visualisation des fichiers AI, PSD, HEIC, TIF ou TIFF, [consultez cet article](../hebergez-votre-piwigo/problemes-generation-vignettes-miniatures).
 
 
-### **Cas particulier des fichiers PDF dans Piwigo**
+### Cas particulier des fichiers PDF dans Piwigo
 
 Pour les fichiers PDF, Piwigo génère un aperçu en extrayant la première page et en la convertissant en image. Cette image est affichée dans l'album.
 
@@ -232,7 +232,7 @@ Depuis Piwigo 15, sur la page du fichier, Piwigo embarque un lecteur PDF qui per
 
 Vous pouvez également cliquer sur l’icône « Télécharger ce fichier » : vous téléchargerez le document sur votre ordinateur.
 
-## **📄 Autres formats de documents**
+## 📄 Autres formats de documents
 
 Si vous avez besoin d'importer d'autres formats de fichiers dans un compte hébergé sur Piwigo Cloud (Excel, Word, Open Office...), vous pouvez en faire la demande en contactant le support si vous êtes un client Piwigo Cloud, ou en modifiant votre fichier de configuration si vous hébergez vous-même votre Piwigo.
 
@@ -256,7 +256,7 @@ Si vous souhaitez pouvoir proposer différents formats de fichiers pour une mêm
     Si vous êtes client d’une offre Piwigo Cloud, cette fonctionnalité n’est accessible qu’à partir de l’offre Entreprise.
 
 
-## Embedded Videos: **Embarquez sur votre galerie des fichiers hébergés sur d'autres plateformes (Youtube...)**
+## Embedded Videos: Embarquez sur votre galerie des fichiers hébergés sur d'autres plateformes (Youtube...)
 
 Vous souhaitez afficher sur votre galerie des contenus déjà hébergés ailleurs, comme par exemple, des vidéos issues de votre chaîne Youtube ?
 

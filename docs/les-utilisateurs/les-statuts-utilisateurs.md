@@ -25,7 +25,7 @@ Dans la plupart des organisations, les administrateurs sont les gestionnaires de
     Un administrateur a accès à tous les albums et toutes les photos dans l’administation. En revanche, une fois connecté sur la galerie web, les permissions s’appliquent : il ne voit que les albums publics ou les albums privé auxquels il a accès.
 
 
-## 2- **Visiteur**
+## 2- Visiteur
 
 Un visiteur peut se connecter à votre galerie Piwigo, mais pas à l’administration. Par défaut, quand vous créez un utilisateur, ou quand un utilisateur s’enregistre lui-même, il a le statut de visiteur.
 
@@ -33,7 +33,7 @@ Un visiteur peut visualiser et télécharger les fichiers de votre photothèque 
 
 Au sein d’une organisation, dans la majorité des cas, la plupart des utilisateurs sont des visiteurs : ce sont les personnes qui se connectent à la photothèque pour rechercher et télécharger les fichiers dont elles ont besoin.
 
-## 3- **Webmestre**
+## 3- Webmestre
 
 Un webmestre a les mêmes droits que l’administrateur, mais également d’autres droits : activer ou désactiver des plugins, modifier le thème, accéder aux options de configuration de la galerie…
 

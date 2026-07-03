@@ -43,7 +43,7 @@ En cliquant sur “Ajouter un filtre”, vous allez pouvoir choisir le ou les cr
 
 Lorsque vous ajoutez un filtre, les photos correspondant à ce filtre ne sont pas automatiquement affichées : pour visualiser le résultat de votre sélection, vous devez cliquer sur “Rafraîchir le lot de photos”.
 
-### **Filtrer les photos par album**
+### Filtrer les photos par album
 
 Le filtre Album permet de choisir un album dont vous souhaitez afficher les fichiers. 
 
@@ -59,7 +59,7 @@ Une fois l’album choisi, vous pouvez choisir d’inclure dans votre sélection
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-484a72ce.png)
 
-### **Filtrer les photos par tag**
+### Filtrer les photos par tag
 
 Le filtre Tag permet de filtrer les photos par Tag. Vous pouvez saisir plusieurs tags, et choisir :
 
@@ -68,7 +68,7 @@ Le filtre Tag permet de filtrer les photos par Tag. Vous pouvez saisir plusieurs
 
 ![fr-gestion-lot-filtre-tag.png.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-becb58da.png)
 
-### **Filtrer les photos par niveau de confidentialité**
+### Filtrer les photos par niveau de confidentialité
 
 Le filtre Niveau de confidentialité permet de n’afficher que les fichiers associés à un niveau de confidentialité donné :
 
@@ -86,7 +86,7 @@ Exemple : si on choisit le niveau de confidentialité “Amis” et que l’on c
 
 Pour comprendre le fonctionnement des niveaux de confidentialité, [lisez cet article](../les-utilisateurs/les-niveaux-de-confidentialite).
 
-### **Filtrer les photos par dimensions**
+### Filtrer les photos par dimensions
 
 Le filtre Dimensions permet de filtrer les photos en fonction de leurs dimensions :
 
@@ -100,13 +100,13 @@ Pour choisir la fourchette de votre choix, vous n’avez qu’à déplacer les c
 
 Si vous souhaitez un format d’image précis (portrait, paysage, carré, diaporama), cliquez sur le libellé correspondant : le ratio sera automatiquement mis à jour.
 
-### **Filtrer les photos par poids**
+### Filtrer les photos par poids
 
 Le filtre Poids permet de filtrer les photos en fonction de leurs poids en Mo (mega octets).
 
 ![fr-gestion-lot-filtre-poids.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-83d0b253.png)
 
-### **Rechercher une photo par mot-clé**
+### Rechercher une photo par mot-clé
 
 Le filtre “Recherche” permet d’afficher un moteur de recherche texte.
 
@@ -116,7 +116,7 @@ Il fonctionne de la même manière que le moteur de recherche de votre galerie.
 
 Cliquez sur "Conseils de recherche" pour découvrir des fonctions de recherche puissantes.
 
-### **Filtrer les photos avec les filtres prédéfinis**
+### Filtrer les photos avec les filtres prédéfinis
 
 Piwigo propose par défaut de nombreux filtres prédéfinis qui correspondent à un usage fréquent de Piwigo. 
 
@@ -132,7 +132,7 @@ Voici les filtres disponibles en standard :
 
 ![fr-gestion-lot-filtres-predefinis.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-3026d40d.png)
 
-### **Combiner plusieurs filtres**
+### Combiner plusieurs filtres
 
 Il est tout à fait possible de combiner plusieurs filtres.
 
@@ -140,7 +140,7 @@ Une fois votre premier filtre sélectionné, cliquez à nouveau sur “Ajouter u
 
 ![fr-gestion-lot-filtres-combinés.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-7e801bc5.png)
 
-### **Batch Manager Prefilters: Ajouter de nouveaux filtres prédéfinis au gestionnaire de lots**
+### Batch Manager Prefilters: Ajouter de nouveaux filtres prédéfinis au gestionnaire de lots
 
 Pour ajouter de nouveaux filtres prédéfinis, installez le plugin **Batch Manager Prefilters**.
 
@@ -158,7 +158,7 @@ Vous pouvez également installer le plugin **Batch Manager, Photo Description**,
 
 Vous pourrez ainsi en un clin d’oeil visualiser les photos pour lesquelles aucune description n’a été saisie.
 
-### **Batch Manager Added By : Rechercher une photo par utilisateur**
+### Batch Manager Added By : Rechercher une photo par utilisateur
 
 Pour filtrer les photos en fonction de l’utilisateur qui les a importées dans Piwigo, vous devez installer le plugin **Batch Manager, Added By**.
 
@@ -217,7 +217,7 @@ Une fois que vous avez choisi les photos à modifier, cliquez sur “Choisir une
 
 ![fr-edition-lot-actions.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-d57b7167.png)
 
-### **Exemple : modifier le titre des photos**
+### Exemple : modifier le titre des photos
 
 Vous avez importé dans Piwigo des fichiers avec un nom généré par l’appareil de prise de vue. Le titre des fichiers par défaut est récupéré depuis le nom du fichier (IMG_4545, IMG_4546…).
 
@@ -231,7 +231,7 @@ Dans le champ de saisie, saisissez le titre que vous voulez donner à vos fichie
 
 Cliquez sur “Appliquer l’action” : les fichiers ont désormais pour titre “cap-saint-vincent(IMG_XXXX.JPG).
 
-### **Exemple : ajouter un tag à une sélection**
+### Exemple : ajouter un tag à une sélection
 
 Pour ajouter un tag à une sélection, cliquez sur Choisir une action > Ajouter les tags. Choisir dans la liste un tag existant ou saisissez un texte pour ajouter un nouveau tag.
 
@@ -239,13 +239,13 @@ Pour ajouter un tag à une sélection, cliquez sur Choisir une action > Ajouter 
 
 Cliquez sur Appliquer l’action : le tag a été ajouté à vos photos.
 
-### **Posted Date Changer : Modifier la date d’ajout avec le gestion par lot**
+### Posted Date Changer : Modifier la date d’ajout avec le gestion par lot
 
 Modifier à posteriori la date d’ajout d’une sélection de photos peut être bien utile, mais par défaut, cette action n’est pas disponible dans Piwigo. Pour l’ajouter, vous devez activer le plugin **Posted Date Changer.**
 
 Une fois ce plugin activé, l’action “Changer la date d’ajout” devient disponible dans la gestion par par lot.
 
-## Gestion par lot : **Mode unitaire**
+## Gestion par lot : Mode unitaire
 
 Le gestionnaire de lot vous permet également de modifier un par un les fichiers de votre sélection.
 

@@ -20,7 +20,7 @@ Quelques précisions sur certaines de ces options :
 - **Validation :** si vous cochez cette case, les commentaires ne seront pas immédiatement publiés ; ils devront être validés par un administrateur avant de devenir visibles sur votre galerie.
 - **Notification des administrateurs :** si vous cochez l’option “Validation”, on vous conseille d’activer la notification des administrateurs quand un commentaire est **en attente de validation**. Vous pouvez aussi ne pas demander aux administrateurs de valider les commentaires, mais simplement les informer quand un commentaire est publié, en cochant l’option “Notifier les administrateurs lorsqu’un commentaire est **ajouté”**.
 
-### **Quelques conseils pour éviter le spam dans les commentaires :**
+### Quelques conseils pour éviter le spam dans les commentaires :
 
 Par défaut, un contrôle est mis en place pour éviter les abus : si un utilisateur essaye de poster plusieurs commentaires sur une même photo depuis la même adresse IP dans un intervalle très court, le système bloque l’envoi du deuxième commentaire.
 

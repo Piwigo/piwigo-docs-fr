@@ -103,7 +103,7 @@ Vous pouvez sélectionner plusieurs albums, de la même façon que vous le ferie
 - Modifier une liste d’albums qui se suivent : Cliquez sur le premier album souhaité, puis appuyez sur la touche Majuscule (Shift) de votre clavier, puis cliquez sur le dernier voulu : tous les albums de la liste sont sélectionnés
 - Modifier plusieurs albums qui ne se suivent pas dans la liste : Cliquer sur le premier album souhaité, puis appuyez sur la touche Ctrl ou Cmd de votre clavier, cliquez sur un autre album, et continuez ainsi jusqu’à ce que tous les albums voulus soient sélectionnés.
 
-### **Cas particulier des albums avec des sous-albums**
+### Cas particulier des albums avec des sous-albums
 
 Si vous passez au statut Privé un album qui contient des sous-albums, alors tous ses sous-albums passeront également en privé.
 
@@ -133,7 +133,7 @@ Le troisième onglet fonctionne exactement de la même manière que les deux aut
 
 Pour en savoir plus sur les commentaires, [lisez cet article](../les-commentaires-et-notes/commentaires-options-avancees).
 
-## **Download Permissions :** Gérer les droits au téléchargement album par album
+## Download Permissions : Gérer les droits au téléchargement album par album
 
 Par défaut, dans Piwigo, les utilisateurs habilités à télécharger des photos peuvent télécharger toutes les photos de la galerie.
 

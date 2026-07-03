@@ -95,7 +95,7 @@ La barre d’outils vous donne accès à plusieurs fonctionnalités.
     Remarque : Les icônes et fonctionnalités disponibles sur votre galerie dépendent du thème que vous avez choisi, de la configuration de Piwigo, des plugins activés... Les exemples présentés sur cette page présentent les possibilités par défaut du thème [Modus](../les-themes/le-theme-modus). Si vous utilisez le thème [Bootstrap Darkroom](../les-themes/le-theme-bootstrap-darkroo), par exemple, les fonctionnalités disponibles sont globalement les mêmes, mais les icônes sont légèrement différentes.
 
 
-### **Modifier l’ordre de tri des photos**
+### Modifier l’ordre de tri des photos
 
 Vous pouvez modifier l’ordre de tri par défaut en cliquant sur l’icône “Tri” : ainsi vous pouvez trier vos photos par date d’ajout, par ordre alphabétique, par nombre de visites…
 
@@ -105,7 +105,7 @@ Vous pouvez modifier l’ordre de tri par défaut en cliquant sur l’icône “
     Pour modifier l’ordre de tri par défaut, rendez-vous dans l’administration, menu Configuration > Options.
 
 
-### **Modifier la taille des photos affichées**
+### Modifier la taille des photos affichées
 
 Pour modifier la taille des vignettes affichées à l’écran, vous pouvez cliquer sur l’icône “Taille”.
 
@@ -123,7 +123,7 @@ Si vous êtes administrateur, l’icône représentant un chariot permet d’ajo
 
 Si vous êtes administrateur, l’icône représentant un outil permet de vous rendre dans l’administration pour [modifier l’album](../organiser-les-albums/modifier-un-albu).
 
-### **Afficher les photos en mode Calendrier**
+### Afficher les photos en mode Calendrier
 
 Si vous voulez afficher les photos en fonction de leur date d’ajout, cliquez sur l’icône représentant un Calendrier. Vous pourrez alors filtrer vos photos en fonction de l’année et du mois auxquelles elles ont été ajoutées à Piwigo.
 
@@ -189,7 +189,7 @@ Pour modifier le nombre de photos affichées sur une page album, rendez-vous dan
 
 ## Personnaliser la page Album avec des plugins
 
-### **Comments on albums : Afficher** des commentaires sur les albums
+### Comments on albums : Afficher des commentaires sur les albums
 
 Par défaut, Piwigo permet aux visiteurs de votre galerie de publier des [commentaires](../les-commentaires-et-notes/gerer-les-notes-votes) sur les photos, mais pas sur les albums.
 

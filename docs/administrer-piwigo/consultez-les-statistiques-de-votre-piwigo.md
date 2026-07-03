@@ -166,7 +166,7 @@ Statistiques par photo
 
 Statistiques par mois
 
-## **Statistics :** Intégrer un outil de statistiques externe sur Piwigo
+## Statistics : Intégrer un outil de statistiques externe sur Piwigo
 
 Vous souhaitez suivre les statistiques de votre galerie avec un outil de Web Analytics que vous utilisez déjà comme Google Analytics, Matomo, Piwik ou bien d’autres ?
 
@@ -179,7 +179,7 @@ Vous pouvez choisir l’emplacement du code (header ou footer); vous pouvez éga
 !!! Warning "Attention"
     Pour être conforme à la règlementation, nous vous conseillons de suivre les recommandations de la CNIL en matière de suivi des données et de collecte du consentement des utilisateurs. [Voir les recommandations de la CNIL](https://www.cnil.fr/fr/cookies-et-autres-traceurs/regles/cookies-solutions-pour-les-outils-de-mesure-daudience)
 
-## **No Stats for Robots :** Exclure les robots des statistiques
+## No Stats for Robots : Exclure les robots des statistiques
 
 Il arrive que les statistiques de Piwigo soient “polluées” par les visites des robots (moteurs de recherche etc). 
 

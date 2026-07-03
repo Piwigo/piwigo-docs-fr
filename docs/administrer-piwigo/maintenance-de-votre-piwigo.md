@@ -115,7 +115,7 @@ Vous pouvez cliquer sur “Rafraîchir” pour mettre à jour ce calcul.
 
 Utilisez cette fonction pour régénérer l'affichage de la galerie si celui-ci n'est pas conforme, généralement suite à une manipulation sur les templates ou une modification de thème.
 
-### **Supprimer les tailles multiples des photos**
+### Supprimer les tailles multiples des photos
 
 Chaque fois qu’un utilisateur demande à afficher une version d’une photo sur la galerie, cette version est sauvegardée. Au bout d’un moment, cela peut prendre de la place dans votre base de données. Cette section affiche le volume pris par ces versions et permet de les supprimer. Elles seront ensuite re-générées à la demande.
 
@@ -159,7 +159,7 @@ Pour chaque action, vous pouvez voir l’objet concerné (Noyau, plugin ou thèm
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/05/25/20260525140116-816a7337.png)
 
-## **Delete Hit/Rate :** Supprimer les vues (hits) et les notes des photos
+## Delete Hit/Rate : Supprimer les vues (hits) et les notes des photos
 
 Si vous souhaitez remettre à zéro les vues et les notes des photos, vous pouvez installer le plugin **Delete Hit/Rate**.
 
