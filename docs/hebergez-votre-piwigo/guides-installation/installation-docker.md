@@ -116,7 +116,7 @@ Des exemples de configurations sont disponibles ci-dessous :
 Une fois votre conteneur démarré et votre reverse-proxy configuré, ouvrez un navigateur web et allez sur l'URL de votre Piwigo. Piwigo détectera automatiquement qu'il n'est pas encore configuré et vous redirigera vers la page d'installation.
 
 <figure markdown="span">
-    ![](https://ressources.piwigo.com/_datas/c/v/7/cv7jpz6hf8/i/uploads/c/v/7/cv7jpz6hf8//2026/06/29/20260629150900-80ede7d4-me.webp)
+    ![](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8//2026/06/29/20260629150900-80ede7d4-me.webp)
     <figcaption>Page d'installation</figcaption>
 </figure>
 

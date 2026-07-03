@@ -36,7 +36,7 @@ Cliquez sur connexion rapide. Vous êtes maintenant connecté sur votre espace w
 Lorsque tous les fichiers sont déposés, rendez-vous à l'adresse de votre espace web là ou vous avez déposé les fichiers, par example `http://example.com/photos` Piwigo détectera que rien n'est encore installé et vous redirigera vers la page d'installation.
 
 <figure markdown="span">
-    ![](https://ressources.piwigo.com/_datas/c/v/7/cv7jpz6hf8/i/uploads/c/v/7/cv7jpz6hf8//2026/06/26/20260626155501-48828109-me.webp)
+    ![](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8//2026/06/26/20260626155501-48828109-me.webp)
     <figcaption>Page d'installation</figcaption>
 </figure>
 

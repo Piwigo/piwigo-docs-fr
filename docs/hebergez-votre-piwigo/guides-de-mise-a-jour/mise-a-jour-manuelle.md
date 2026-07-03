@@ -18,7 +18,7 @@ Sauvegardez vos tables actuelles
 Si vous utilisez une version de la branche 1.7 de PhpWebGallery, vous pouvez utiliser le plugin DB Backup. Les utilisateurs des versions précédentes ou suivant devront sauvegarder leurs tables par exemple via phpMyAdmin
 
 <figure markdown="span">
-    ![](https://ressources.piwigo.com/_datas/c/v/7/cv7jpz6hf8/i/uploads/c/v/7/cv7jpz6hf8//2026/06/29/20260629172445-b7bbee28-me.webp)
+    ![](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8//2026/06/29/20260629172445-b7bbee28-me.webp)
     <figcaption>Options recommandées pour PhpMyAdmin</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Avec Piwigo 2.3 ou une version antérieure:Configuration > Générale > Verrouil
 Pour tous les utilisateurs sauf les administrateurs, lors d'un accès les anciennes versions devraient afficher quelque chose comme : “La galerie est verrouillée pour cause de maintenance. Revenir plus tard.”.
 
 <figure markdown="span">
-    ![](https://ressources.piwigo.com/_datas/c/v/7/cv7jpz6hf8/i/uploads/c/v/7/cv7jpz6hf8//2026/06/29/20260629172446-132e2d1c-me.webp)
+    ![](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8//2026/06/29/20260629172446-132e2d1c-me.webp)
     <figcaption>Verrouillez la galerie.</figcaption>
 </figure>
 
