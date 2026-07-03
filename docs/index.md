@@ -39,7 +39,7 @@ Lisez l’article ci-dessous pour savoir comment naviguer dans ce site et trouve
 - :speech_balloon: [Les commentaires et notes](les-commentaires-et-notes)
 - :busts_in_silhouette: [Les utilisateurs](les-utilisateurs)
 
-<!-- Separate lists -->
+<!-- Sépare les liste avec un commentaire HTML -->
 
 - :art: [Les thèmes](les-themes)
 - :gear: [Personnaliser ma galerie](personnaliser-ma-galerie)
