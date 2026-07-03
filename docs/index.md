@@ -28,7 +28,7 @@ Lisez l’article ci-dessous pour savoir comment naviguer dans ce site et trouve
 
 ## Naviguer dans la documentation
 
-<div class="grid" markdown>
+<div class="grid pwg-doc-home-list" markdown>
 
 
 - :new: [Démarrer avec Piwigo](demarrer-avec-piwigo)

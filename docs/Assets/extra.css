@@ -7,3 +7,7 @@
 body:has(#documentation-piwigo) .md-sidebar--secondary {
     display: none;
 }
+
+.pwg-doc-home-list ul li {
+    list-style-type: none;
+}
