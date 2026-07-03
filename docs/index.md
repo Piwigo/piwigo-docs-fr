@@ -26,33 +26,31 @@ Lisez l’article ci-dessous pour savoir comment naviguer dans ce site et trouve
 
 </div>
 
-
-
-
-
 ## Naviguer dans la documentation
 
-<div class="grid cards" markdown>
+<div class="grid" markdown>
+
 
 - :new: [Démarrer avec Piwigo](demarrer-avec-piwigo)
-- :art: [Les thèmes](les-themes)
 - :camera: [Importer et gérer les photos](importer-et-gerer-les-photos)
-- :gear: [Personnaliser ma galerie](personnaliser-ma-galerie)
 - :desktop: [Naviguer sur votre galerie Piwigo](naviguer-sur-votre-galerie-piwigo)
-- :tools: [Administrer Piwigo](administrer-piwigo)
 - :open_file_folder: [Organiser les albums](organiser-les-albums)
-- :electric_plug: [Les plugins](les-plugins)
 - :label: [Gérer les tags](gerer-les-tags)
-- :mobile_phone: [Les applications mobiles](les-applications-mobiles)
 - :speech_balloon: [Les commentaires et notes](les-commentaires-et-notes)
-- :technologist: [Hébergez votre Piwigo](hebergez-votre-piwigo)
 - :busts_in_silhouette: [Les utilisateurs](les-utilisateurs)
+
+<!-- Separate lists -->
+
+- :art: [Les thèmes](les-themes)
+- :gear: [Personnaliser ma galerie](personnaliser-ma-galerie)
+- :tools: [Administrer Piwigo](administrer-piwigo)
+- :electric_plug: [Les plugins](les-plugins)
+- :mobile_phone: [Les applications mobiles](les-applications-mobiles)
+- :technologist: [Hébergez votre Piwigo](hebergez-votre-piwigo)
 - :question: [FAQ - Les questions les plus fréquentes sur Piwigo](faq-questions-frequentes-piwigo)
 
 </div>
 
-L’historique des modifications apportées à cette doc est listé sur la page ci-dessous :
-
-:books: [Historique des modifications](historique-modifications)
+L’historique des modifications apportées à cette doc est listé sur la page :books: [Historique des modifications](historique-modifications)
 
 Si vous cherchez la documentation Piwigo pour les développeurs, rendez vous sur la page :fontawesome-brands-github: [GitHub de Piwigo](https://github.com/Piwigo/Piwigo/wiki).

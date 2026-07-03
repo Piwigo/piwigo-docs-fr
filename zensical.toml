@@ -11,7 +11,7 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Documentation Piwigo - Logiciel DAM et photothèque"
+site_name = "Documentation Piwigo"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
@@ -190,7 +190,7 @@ extra_css = ["Assets/extra.css"]
 # Read more:
 # - https://zensical.org/docs/customization/#extending-the-theme
 #
-custom_dir = "overrides"
+#custom_dir = "overrides"
 
 # With the "favicon" option you can set your own image to use as the icon
 # browsers will use in the browser title bar or tab bar. The path provided
@@ -353,7 +353,7 @@ features = [
     # When navigation integration for the table of contents is enabled, it is
     # always rendered as part of the navigation sidebar on the left.
     # https://zensical.org/docs/setup/navigation/#navigation-integration
-    "toc.integrate",
+     #"toc.integrate",
 ]
 
 # ----------------------------------------------------------------------------
@@ -436,8 +436,7 @@ alternate = [
 [project.markdown_extensions.footnotes]
 [project.markdown_extensions.md_in_html]
 [project.markdown_extensions.toc]
-permalink = true
-toc_depth = 0
+permalink = false
 [project.markdown_extensions.pymdownx.arithmatex]
 generic = true
 [project.markdown_extensions.pymdownx.betterem]

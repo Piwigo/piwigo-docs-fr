@@ -2,3 +2,8 @@
 .md-header__source {
     display: none;
 }
+
+/* Remove TOC in home page */
+body:has(#documentation-piwigo) .md-sidebar--secondary {
+    display: none;
+}
