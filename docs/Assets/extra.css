@@ -11,3 +11,18 @@ body:has(#documentation-piwigo) .md-sidebar--secondary {
 .pwg-doc-home-list ul li {
     list-style-type: none;
 }
+
+.pwg_custom_copyright_middledot {
+    margin: 10px
+}
+
+.pwg_custom_social_zensical {
+    height: 1.6rem;
+    line-height: 1.75rem;
+    padding: 0;
+    margin-left: 0;
+}
+
+.pwg_custom_social_middledot {
+    margin-right: 8px;
+}

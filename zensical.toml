@@ -11,7 +11,7 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Documentation Piwigo"
+site_name = "Documentation Piwigo - Logiciel DAM et photothèque"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
@@ -35,7 +35,7 @@ site_url = "https://fr.piwigo.org/new-doc/"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2026 Piwigo
+Copyright &copy; 2002-2026 Piwigo
 """
 
 repo_url = "https://github.com/Piwigo/piwigo-docs-fr"
@@ -190,7 +190,7 @@ extra_css = ["Assets/extra.css"]
 # Read more:
 # - https://zensical.org/docs/customization/#extending-the-theme
 #
-#custom_dir = "overrides"
+custom_dir = "overrides"
 
 # With the "favicon" option you can set your own image to use as the icon
 # browsers will use in the browser title bar or tab bar. The path provided
@@ -200,6 +200,7 @@ extra_css = ["Assets/extra.css"]
 # - https://zensical.org/docs/setup/logo-and-icons/#favicon
 # - https://developer.mozilla.org/en-US/docs/Glossary/Favicon
 #
+logo = "Assets/logo.svg"
 favicon = "Assets/favicon.png"
 
 # Zensical supports more than 60 different languages. This means that the
@@ -417,9 +418,17 @@ alternate = [
     #{ name = "Deutsch", link = "https://de-doc.piwigo.org/", lang = "de" },
 ]
 
-#[[project.extra.social]]
-#icon = "fontawesome/brands/github"
-#link = "https://github.com/user/repo"
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/Piwigo/Piwigo"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/linkedin"
+link = "https://www.linkedin.com/company/piwigo"
+
+[[project.extra.social]]
+icon = "fontawesome/regular/envelope"
+link = "https://piwigo.org/basics/newsletter"
 
 # ----------------------------------------------------------------------------
 # In this section you can configure the Markdown extensions that are used when
