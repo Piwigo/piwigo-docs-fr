@@ -428,7 +428,7 @@ link = "https://www.linkedin.com/company/piwigo"
 
 [[project.extra.social]]
 icon = "fontawesome/regular/envelope"
-link = "https://piwigo.org/basics/newsletter"
+link = "https://fr.piwigo.org/newsletter"
 
 # ----------------------------------------------------------------------------
 # In this section you can configure the Markdown extensions that are used when
