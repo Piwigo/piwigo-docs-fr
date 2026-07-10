@@ -35,7 +35,7 @@ site_url = "https://fr.piwigo.org/new-doc/"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-<a href= "https://fr.piwigo.org">Piwigo.org</a> &copy; 2002-2026 Piwigo
+<a href= "https://fr.piwigo.org">Piwigo.org</a> &copy; 2002-2026
 """
 
 repo_url = "https://github.com/Piwigo/piwigo-docs-fr"
