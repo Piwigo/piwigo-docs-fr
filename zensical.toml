@@ -154,6 +154,13 @@ nav = [
         "hebergez-votre-piwigo/problemes-generation-vignettes-miniatures.md",
         "hebergez-votre-piwigo/deplacez-piwigo-vers-un-autre-serveur.md"
 	]},
+	{"Mentions légales" = [
+	    "mentions-legales/index.md",
+    	{"Conditions d'utilisation" = "mentions-legales/conditions-utilisation.md"},
+    	{"Politique de confidentialité" = "mentions-legales/confidentialite.md"},
+    	{"DPA" = "mentions-legales/dpa.md"}
+	]}
+
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
