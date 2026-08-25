@@ -50,90 +50,90 @@ nav = [
     {"Accueil"= "index.md"},
     {"Démarrer avec Piwigo" = [
         "demarrer-avec-piwigo/index.md",
-        "demarrer-avec-piwigo/introduction-tout-comprendre-sur-piwigo-en-2-minutes.md",
-        "demarrer-avec-piwigo/demarrer-avec-piwigo-en-15-minutes.md"
+        {"Intro : Piwigo en 2 minutes" = "demarrer-avec-piwigo/introduction-tout-comprendre-sur-piwigo-en-2-minutes.md"},
+        {"Démarrer sur Piwigo en 15 minutes" = "demarrer-avec-piwigo/demarrer-avec-piwigo-en-15-minutes.md"},
 	]},
 	{"Importer et gérer les photos" = [
         "importer-et-gerer-les-photos/index.md",
-        "importer-et-gerer-les-photos/importer-des-photos-dans-piwigo.md",
-        "importer-et-gerer-les-photos/les-differents-formats-de-fichiers.md",
-        "importer-et-gerer-les-photos/modifier-ou-supprimer-une-photo.md",
-        "importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos.md",
-        "importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers.md",
-        "importer-et-gerer-les-photos/les-formats-multiples.md"
+        {"Import de photo dans Piwigo" = "importer-et-gerer-les-photos/importer-des-photos-dans-piwigo.md"},
+        {"Les formats de fichiers" = "importer-et-gerer-les-photos/les-differents-formats-de-fichiers.md"},
+        {"Modifier ou supprimer une photo" = "importer-et-gerer-les-photos/modifier-ou-supprimer-une-photo.md"},
+        {"Gestion par lot" = "importer-et-gerer-les-photos/gestion-par-lot-modifier-et-gerer-une-selection-de-photos.md"},
+        {"Propriétés et métadonnées" = "importer-et-gerer-les-photos/gerez-les-proprietes-et-metadonnees-de-vos-fichiers.md"},
+        {"Formats multiples" = "importer-et-gerer-les-photos/les-formats-multiples.md"},
 	]},
 	{"Naviguer sur la galerie" = [
         "naviguer-sur-votre-galerie-piwigo/index.md",
-        "naviguer-sur-votre-galerie-piwigo/votre-galerie-presentation.md",
-        "naviguer-sur-votre-galerie-piwigo/les-albums-sur-votre-galerie.md",
-        "naviguer-sur-votre-galerie-piwigo/la-page-photo-sur-votre-galerie.md",
-        "naviguer-sur-votre-galerie-piwigo/les-tags-sur-votre-galerie.md",
-        "naviguer-sur-votre-galerie-piwigo/rechercher-une-photo-sur-votre-galerie.md",
-        "naviguer-sur-votre-galerie-piwigo/gerer-ses-favoris.md",
-        "naviguer-sur-votre-galerie-piwigo/creer-des-collections-plugin-user-collections.md"
+        {"Votre galerie : présentation" = "naviguer-sur-votre-galerie-piwigo/votre-galerie-presentation.md"},
+        {"La page album sur la galerie" = "naviguer-sur-votre-galerie-piwigo/les-albums-sur-votre-galerie.md"},
+        {"La page photo sur la galerie" = "naviguer-sur-votre-galerie-piwigo/la-page-photo-sur-votre-galerie.md"},
+        {"Les tags sur la galerie" = "naviguer-sur-votre-galerie-piwigo/les-tags-sur-votre-galerie.md"},
+        {"Rechercher une photo" = "naviguer-sur-votre-galerie-piwigo/rechercher-une-photo-sur-votre-galerie.md"},
+        {"Gérer les favoris" = "naviguer-sur-votre-galerie-piwigo/gerer-ses-favoris.md"},
+        {"Créer des collections" = "naviguer-sur-votre-galerie-piwigo/creer-des-collections-plugin-user-collections.md"},
 	]},
 	{"Organiser les albums" = [
         "organiser-les-albums/index.md",
-        "organiser-les-albums/albums-et-sous-albums-presentation.md",
-        "organiser-les-albums/comment-creer-un-album.md",
-        "organiser-les-albums/gerez-vos-albums.md",
-        "organiser-les-albums/modifier-un-album.md",
-        "organiser-les-albums/permissions-et-visibilite-des-albums.md",
-        "organiser-les-albums/smartalbums-albums-intelligents.md"
+        {"Albums et sous-albums" = "organiser-les-albums/albums-et-sous-albums-presentation.md"},
+        {"Créer un album" = "organiser-les-albums/comment-creer-un-album.md"},
+        {"Gérez vos albums" = "organiser-les-albums/gerez-vos-albums.md"},
+        {"Modifier un album" = "organiser-les-albums/modifier-un-album.md"},
+        {"Permissions et visibilité des albums" = "organiser-les-albums/permissions-et-visibilite-des-albums.md"},
+        {"Smart Albums (albums intelligents)" = "organiser-les-albums/smartalbums-albums-intelligents.md"},
 	]},
 	{"Gérer les tags" = [
         "gerer-les-tags/index.md",
-        "gerer-les-tags/les-tags-presentation.md",
-        "gerer-les-tags/creer-et-gerer-les-tags.md",
-        "gerer-les-tags/tag-recognition-piwigo.md"
+        {"Les tags : présentation" = "gerer-les-tags/les-tags-presentation.md"},
+        {"Créer et gérer les tags" = "gerer-les-tags/creer-et-gerer-les-tags.md"},
+        {"Tags automatiques par IA" = "gerer-les-tags/tag-recognition-piwigo.md"},
 	]},
 	{"Commentaires et notes" = [
         "les-commentaires-et-notes/index.md",
-        "les-commentaires-et-notes/gerer-les-commentaires.md",
-        "les-commentaires-et-notes/commentaires-options-avancees.md",
-        "les-commentaires-et-notes/gerer-les-notes-votes.md"
+        {"Commentaires et notes" = "les-commentaires-et-notes/gerer-les-commentaires.md"},
+        {"Gérer les commentaires" = "les-commentaires-et-notes/commentaires-options-avancees.md"},
+        {"Les plugins pour les commentaires" = "les-commentaires-et-notes/gerer-les-notes-votes.md"},
 	]},
 	{"Les utilisateurs" = [
         "les-utilisateurs/index.md",
-        "les-utilisateurs/utilisateurs-presentation.md",
-        "les-utilisateurs/se-connecter-a-piwigo.md",
-        "les-utilisateurs/les-statuts-utilisateurs.md",
-        "les-utilisateurs/creer-et-gerer-les-utilisateurs.md",
-        "les-utilisateurs/les-niveaux-de-confidentialite.md",
-        "les-utilisateurs/envoyer-des-emails-de-notification-aux-utilisateurs.md",
-        "les-utilisateurs/les-groupes-dutilisateurs.md",
-        "les-utilisateurs/gerer-les-contributeurs-plugin-community.md"
+        {"Utilisateurs : présentation" = "les-utilisateurs/utilisateurs-presentation.md"},
+        {"Se connecter à Piwigo" = "les-utilisateurs/se-connecter-a-piwigo.md"},
+        {"Statuts utilisateurs" = "les-utilisateurs/les-statuts-utilisateurs.md"},
+        {"Créer et gérer les utilisateurs" = "les-utilisateurs/creer-et-gerer-les-utilisateurs.md"},
+        {"Niveaux de confidentialité" = "les-utilisateurs/les-niveaux-de-confidentialite.md"},
+        {"Notifications aux utilisateurs" = "les-utilisateurs/envoyer-des-emails-de-notification-aux-utilisateurs.md"},
+        {"Groupes d'utilisateurs" = "les-utilisateurs/les-groupes-dutilisateurs.md"},
+        {"Contributeurs (plugin Community)" = "les-utilisateurs/gerer-les-contributeurs-plugin-community.md"},
 	]},
 	{"Les thèmes" = [
         "les-themes/index.md",
-        "les-themes/les-themes-presentation.md",
-        "les-themes/le-theme-modus.md",
-        "les-themes/le-theme-bootstrap-darkroom.md"
+        {"Thèmes : présentation" = "les-themes/les-themes-presentation.md"},
+        {"Modus" = "les-themes/le-theme-modus.md"},
+        {"Bootstrap Darkroom" = "les-themes/le-theme-bootstrap-darkroom.md"},
 	]},
 	{"Personnaliser ma galerie" = [
         "personnaliser-ma-galerie/index.md",
-        "personnaliser-ma-galerie/options-de-personnalisation-de-votre-galerie.md",
-        "personnaliser-ma-galerie/gerer-les-langues-disponibles-sur-votre-galerie.md",
-        "personnaliser-ma-galerie/personnaliser-le-menu-de-votre-galerie.md",
-        "personnaliser-ma-galerie/ajouter-des-pages-a-votre-galerie.md",
-        "personnaliser-ma-galerie/personnaliser-votre-galerie-avec-des-plugins.md",
-        "personnaliser-ma-galerie/personnaliser-le-css-de-votre-galerie.md",
-        "personnaliser-ma-galerie/ajouter-banniere-personnalisee-piwigo.md"
+        {"Options de personnalisation" = "personnaliser-ma-galerie/options-de-personnalisation-de-votre-galerie.md"},
+        {"Les langues" = "personnaliser-ma-galerie/gerer-les-langues-disponibles-sur-votre-galerie.md"},
+        {"Personnaliser le menu" = "personnaliser-ma-galerie/personnaliser-le-menu-de-votre-galerie.md"},
+        {"Ajouter des pages" = "personnaliser-ma-galerie/ajouter-des-pages-a-votre-galerie.md"},
+        {"Plugins de personnalisation" = "personnaliser-ma-galerie/personnaliser-votre-galerie-avec-des-plugins.md"},
+        {"Personnalisation CSS" = "personnaliser-ma-galerie/personnaliser-le-css-de-votre-galerie.md"},
+        {"Bannière personnalisée" = "personnaliser-ma-galerie/ajouter-banniere-personnalisee-piwigo.md"},
 	]},
 	{"Administrer Piwigo" = [
         "administrer-piwigo/index.md",
-        "administrer-piwigo/consultez-les-statistiques-de-votre-piwigo.md",
-        "administrer-piwigo/maintenance-de-votre-piwigo.md",
-        "administrer-piwigo/plugins-pour-les-administrateurs.md"
+        {"Statistiques et historique" = "administrer-piwigo/consultez-les-statistiques-de-votre-piwigo.md"},
+        {"Maintenance" = "administrer-piwigo/maintenance-de-votre-piwigo.md"},
+        {"Plugins pour les administrateurs" = "administrer-piwigo/plugins-pour-les-administrateurs.md"},
 	]},
 	{"Les plugins" = [
         "les-plugins/index.md",
-        "les-plugins/les-plugins-sur-piwigo-presentation.md"
+        {"Les plugins sur Piwigo" = "les-plugins/les-plugins-sur-piwigo-presentation.md"},
 	]},
 	{"Les applications mobiles" = [
         "les-applications-mobiles/index.md",
-        "les-applications-mobiles/lapplication-mobile-piwigo-pour-ios.md",
-        "les-applications-mobiles/lapplication-mobile-piwigo-ng-pour-android.md"
+        {"L'app Piwigo pour iOS" = "les-applications-mobiles/lapplication-mobile-piwigo-pour-ios.md"},
+        {"L'app Piwigo pour Android" = "les-applications-mobiles/lapplication-mobile-piwigo-ng-pour-android.md"},
 	]},
 	{"Hébergez votre Piwigo" = [
         "hebergez-votre-piwigo/index.md",
@@ -147,10 +147,10 @@ nav = [
             "hebergez-votre-piwigo/guides-de-mise-a-jour/mise-a-jour-manuelle.md",
             "hebergez-votre-piwigo/guides-de-mise-a-jour/mise-a-jour-docker.md"
         ]},
-        "hebergez-votre-piwigo/import-et-synchronisation-de-photos-ftp.md",
-        "hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor.md",
-        "hebergez-votre-piwigo/problemes-generation-vignettes-miniatures.md",
-        "hebergez-votre-piwigo/deplacez-piwigo-vers-un-autre-serveur.md"
+        {"Import et synchronisation FTP" = "hebergez-votre-piwigo/import-et-synchronisation-de-photos-ftp.md"},
+        {"Configuration locale" = "hebergez-votre-piwigo/modifier-la-configuration-locale-avec-localfiles-editor.md"},
+        {"Problèmes de génération des vignettes" = "hebergez-votre-piwigo/problemes-generation-vignettes-miniatures.md"},
+        {"Déplacez votre Piwigo" = "hebergez-votre-piwigo/deplacez-piwigo-vers-un-autre-serveur.md"}
 	]},
 	{"Mentions légales" = [
 	    "mentions-legales/index.md",
