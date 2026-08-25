@@ -1,3 +1,8 @@
+---
+title: "Présentation de la galerie - Documentation Piwigo"
+description: "Votre galerie Piwigo est le site web qui présente votre photothèque. Comment accéder à votre galerie et la personnaliser ? On récapitule tout dans cet article."
+---
+
 # Votre galerie : présentation
 
 ## Préambule

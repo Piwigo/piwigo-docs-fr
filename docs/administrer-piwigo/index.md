@@ -1,4 +1,9 @@
 ---
+title: "Comment administrer Piwigo ? Documentation Piwigo"
+description: "Si vous êtes gestionnaire de votre Piwigo, vous avez besoin d’accéder à des fonctionnalités avancées. On vous les présente dans ces articles."
+---
+
+---
 icon: lucide/settings
 ---
 

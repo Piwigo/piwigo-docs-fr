@@ -1,5 +1,7 @@
 ---
 icon: lucide/house
+title: "Documentation Piwigo - Logiciel DAM et photothèque"
+description: "Documentation du logiciel de gestion de photothèque Piwigo. Toutes les réponses à vos questions sur l'utilisation de Piwigo sont ici !"
 ---
 
 # Documentation Piwigo

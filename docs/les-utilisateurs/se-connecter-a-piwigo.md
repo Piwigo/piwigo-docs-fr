@@ -1,3 +1,8 @@
+---
+title: "Se connecter à Piwigo - Documentation Piwigo"
+description: "Comment se connecter à votre compte Piwigo ? Quelles sont les possibilités pour créer un compte et s'identifier ? Tout est expliqué dans cet article."
+---
+
 # Se connecter à Piwigo
 
 ## Comment se connecter à Piwigo ?

@@ -1,3 +1,8 @@
+---
+title: "Tuto Piwigo - Démarrer avec Piwigo en 15 minutes"
+description: "Vous avez besoin d’aide pour prendre en main Piwigo ? Dans cette vidéo de moins de 15 minutes, vous allez découvrir les informations essentiels pour démarrer avec Piwigo."
+---
+
 # Démarrer avec Piwigo en 15 minutes
 
 

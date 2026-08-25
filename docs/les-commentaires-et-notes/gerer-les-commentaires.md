@@ -1,3 +1,8 @@
+---
+title: "Gérer les commentaires - Documentation Piwigo"
+description: "Avec le logiciel Piwigo, vous pouvez permettre aux visiteurs de votre galerie d’ajouter des commentaires sur les contenus de votre photothèque."
+---
+
 # Gérer les notes (votes)
 
 Avec Piwigo vous pouvez permettre aux visiteurs de votre galerie de noter les photos et autres fichiers en leur attribuant un nombre d’étoiles. Cela permet de mettre en place un système de votes pour organiser des concours photo par exemple.

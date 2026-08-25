@@ -1,3 +1,8 @@
+---
+title: "Piwigo pour iOS - Documentation Piwigo"
+description: "L’application mobile Piwigo pour iOS permet d'accéder à votre photothèque depuis votre iPhone ou votre iPad, de consulter vos albums, d'ajouter des photos depuis votre téléphone, et bien plus encore."
+---
+
 # L’application mobile Piwigo pour iOS
 
 L’application mobile Piwigo pour iOS peut être installée sur un iPhone, un iPad ou un iPod.

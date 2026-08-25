@@ -1,3 +1,8 @@
+---
+title: "Importer des photos dans Piwigo - Documentation Piwigo"
+description: "Cet article vous permet de découvrir comment ajouter des fichiers dans Piwigo depuis différentes sources : l'administration, votre galerie, l'application mobile Piwigo, d'autres logiciels..."
+---
+
 # Importer des photos dans Piwigo
 
 Il existe différentes possibilités pour importer des fichiers dans Piwigo. 

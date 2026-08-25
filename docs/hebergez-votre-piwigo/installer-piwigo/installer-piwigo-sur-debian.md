@@ -1,3 +1,8 @@
+---
+title: "Installer Piwigo sur Debian"
+description: "Voici les packages nécessaires pour une installation sur une machine Debian 12."
+---
+
 # Installer Piwigo sur Debian
 
 ## Debian 12

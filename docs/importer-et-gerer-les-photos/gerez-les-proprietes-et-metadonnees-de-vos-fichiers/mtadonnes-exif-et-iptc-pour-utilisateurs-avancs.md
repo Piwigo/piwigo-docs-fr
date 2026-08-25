@@ -1,3 +1,8 @@
+---
+title: "Métadonnées EXIF et IPTC pour utilisateurs avancés"
+description: "Vous souhaitez personnaliser l’affichage des métadonnées EXIF et IPTC dans Piwigo ?"
+---
+
 # Métadonnées EXIF et IPTC pour utilisateurs avancés
 
 !!! info

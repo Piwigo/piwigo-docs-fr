@@ -1,3 +1,8 @@
+---
+title: "Plugin PWG Stuffs - Documentation Piwigo"
+description: "Le plugin PWG Stuffs offre diverses options pour ajouter des blocs à votre galerie. Ces blocs viennent enrichir les pages existantes. C’est donc un plugin très complet pour customiser votre galerie."
+---
+
 # PWG Stuffs : ajouter des blocs sur votre galerie
 
 Le plugin **PWG Stuffs** offre diverses options pour ajouter des blocs à votre galerie. Ces blocs viennent enrichir les pages existantes. C’est donc un plugin très complet pour customiser votre galerie.

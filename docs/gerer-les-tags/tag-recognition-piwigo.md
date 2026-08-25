@@ -1,3 +1,8 @@
+---
+title: "Tag Recognition : Taguez automatiquement vos photos par IA"
+description: "Vous avez une quantité importante de photos et vous souhaitez les taguer de façon rapide et automatique ? C’est possible avec le plugin Tag Recognition."
+---
+
 # Tag Recognition : Taguez automatiquement vos photos par IA
 
 Vous avez une quantité importante de photos et vous souhaitez les taguer de façon rapide et automatique ? C’est possible avec le plugin Tag Recognition.

@@ -1,3 +1,8 @@
+---
+title: "Qu'est-ce qu'un tag dans Piwigo ? Documentation Piwigo"
+description: "À quoi servent les tags dans Piwigo ? Ils sont sont très importants pour organiser, décrire et retrouver facilement vos photos et autres fichiers, bref en un mot : pour les indexer."
+---
+
 # Les tags : présentation
 
 ## Qu’est-ce qu’un tag ? À quoi ça sert ?

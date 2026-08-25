@@ -1,3 +1,8 @@
+---
+title: "Comment créer un album ? Documentation Piwigo"
+description: "Comment créer un album ou un sous-album dans Piwigo ? Comment gérer les permissions ? On explique tout dans cet article."
+---
+
 # Comment créer un album ?
 
 ## Créer un album lors d’un import de photos

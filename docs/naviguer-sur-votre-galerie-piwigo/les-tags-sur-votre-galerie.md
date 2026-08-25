@@ -1,3 +1,8 @@
+---
+title: "Les tags sur votre galerie - Documentation Piwigo"
+description: "Comment utiliser les tags sur votre galerie Piwigo ? Quelles options d’affichage sont à votre disposition ? C’est ici qu’on vous explique tout !"
+---
+
 # Les tags sur votre galerie
 
 **Comment utiliser les tags sur votre galerie Piwigo? Quelles options d’affichage sont à votre disposition? C’est ici qu’on vous explique tout!**

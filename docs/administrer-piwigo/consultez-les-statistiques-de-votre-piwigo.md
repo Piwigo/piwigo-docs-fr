@@ -1,3 +1,8 @@
+---
+title: "Les statistiques dans Piwigo - Documentation Piwigo"
+description: "Piwigo fournit plusieurs moyens aux administrateurs, en standard ou via des plugins, de monitorer l’utilisation de leur photothèque et de suivre ses performances."
+---
+
 # Consultez les statistiques de votre Piwigo
 
 Piwigo fournit plusieurs moyens aux administrateurs, en standard ou via des plugins, de monitorer l’utilisation de leur photothèque et de suivre ses performances.

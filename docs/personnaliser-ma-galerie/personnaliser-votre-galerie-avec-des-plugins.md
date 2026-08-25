@@ -1,3 +1,8 @@
+---
+title: "Plugins pour personnaliser votre galerie - Documentation Piwigo"
+description: "Vous trouverez dans cet article quelques plugins permettant de personnaliser l’apparence et les fonctionnalités de votre galerie Piwigo."
+---
+
 # Personnaliser votre galerie avec des plugins
 
 Vous trouverez sur cette page quelques plugins permettant de personnaliser l’apparence et les fonctionnalités de votre galerie.

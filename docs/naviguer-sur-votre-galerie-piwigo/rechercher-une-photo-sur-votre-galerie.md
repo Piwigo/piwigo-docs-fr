@@ -1,3 +1,8 @@
+---
+title: "La recherche sur votre galerie - Documentation Piwigo"
+description: "Comment rechercher une photo sur votre galerie Piwigo ? Comment fonctionne la recherche multicritères ? On fait le tour dans cet article."
+---
+
 # Rechercher une photo sur votre galerie
 
 Pour effectuer une recherche sur votre galerie Piwigo, vous avez plusieurs possibilités : aussi bien une simple recherche rapide par mot-clé, qu’une recherche multicritères en combinant plusieurs filtres.

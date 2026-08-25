@@ -1,3 +1,8 @@
+---
+title: "Plugins pour les commentaires - Documentation Piwigo"
+description: "Découvrez plusieurs plugins pour le logiciel Piwigo pour aller plus loin dans la gestion des commentaires : s'abonner aux commentaires, éviter le SPAM, ..."
+---
+
 # Gérer les commentaires
 
 Avec Piwigo, vous pouvez permettre aux visiteurs de votre galerie d’ajouter des commentaires sur les contenus de votre photothèque.

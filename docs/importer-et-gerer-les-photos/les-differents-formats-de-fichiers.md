@@ -1,3 +1,8 @@
+---
+title: "Les formats de fichiers compatbles - Documentation Piwigo"
+description: "Quels sont les formats de fichiers compatibles avec Piwigo ? Images, Vidéos, PDF... On vous explique tout !"
+---
+
 # Les différents formats de fichiers
 
 **Quels sont les formats de fichiers compatibles avec Piwigo ? On vous explique tout !**

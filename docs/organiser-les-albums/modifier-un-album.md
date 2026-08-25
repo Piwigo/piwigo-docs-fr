@@ -1,3 +1,8 @@
+---
+title: "Modifier un album - Documentation Piwigo"
+description: "Comment modifier un album dans Piwigo ? Quelles sont les informations et propriétés disponibles ? Comment gérer les permissions sur les albums ?"
+---
+
 # Modifier un album
 
 ## Modifier un album depuis l’administration

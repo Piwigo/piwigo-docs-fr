@@ -1,3 +1,8 @@
+---
+title: "Piwigo NG pour Android - Documentation Piwigo"
+description: "L’application mobile Piwigo NG pour Android permet d'accéder à votre photothèque depuis votre téléphone Android, de consulter vos albums, d'ajouter des photos depuis votre téléphone, et bien plus encore."
+---
+
 # L’application mobile Piwigo NG pour Android
 
 L’application mobile Piwigo pour Android peut être installée sur un smartphone ou une tablette utilisant un système d’exploitation basé sur Android. C’est le cas de la plupart des smartphones du marché, en dehors des smartphones Apple (qui peuvent installer [l’application Piwigo pour iOS](lapplication-mobile-piwigo-pour-ios)), et des smartphones Microsoft.

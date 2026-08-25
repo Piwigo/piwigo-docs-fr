@@ -1,3 +1,8 @@
+---
+title: "Les formats multiples - Documentation Piwigo"
+description: "Dans Piwigo, les formats multiples permettent, pour une même photo ou image, de proposer plusieurs versions en téléchargement, par exemple un JPG, un PNG et un PDF."
+---
+
 # Les formats multiples
 
 Les formats multiples permettent, pour une même photo ou image, de proposer plusieurs versions en téléchargement, par exemple :

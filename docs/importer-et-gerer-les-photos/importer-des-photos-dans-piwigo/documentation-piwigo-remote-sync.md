@@ -1,3 +1,8 @@
+---
+title: "Piwigo Remote Sync - Documentation Piwigo"
+description: "Piwigo Remote Sync est un outil de transfert de fichiers pour Piwigo. Il permet de synchroniser un répertoire de votre ordinateur avec votre galerie Piwigo."
+---
+
 # Documentation : Piwigo Remote Sync
 
 ← [Importer des photos dans Piwigo](.)

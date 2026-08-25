@@ -1,3 +1,8 @@
+---
+title: "Plugin Community - Documentation Piwigo"
+description: "Le plugin Community permet de gérer des contributeurs, c'est à dire d'autoriser des utilisateurs non administrateurs à importer des fichiers dans Piwigo."
+---
+
 # Gérer les contributeurs (plugin Community)
 
 ## Pourquoi utiliser le plugin Community ?

@@ -1,3 +1,8 @@
+---
+title: "Historique des modifications"
+description: "17/11/2025 : Mise à jour Piwigo 16 : Ajout de la documentation du plugin Two Factor Authentication"
+---
+
 # Historique des modifications
 
 17/11/2025 : Mise à jour Piwigo 16 : Ajout de la documentation du plugin Two Factor Authentication

@@ -1,3 +1,8 @@
+---
+title: "Installer Piwigo sur un serveur free.fr"
+description: "Le fournisseur d'accès à internet Free propose une solution d'hébergement web gratuite avec 10 Go de stockage appelée “Pages Perso”. Elle était autrefois accessible à tout le monde, mais depuis février 2024, elle est réservée aux abonnés Free."
+---
+
 # Installer Piwigo sur un serveur free.fr
 
 !!! Warning "Attention"

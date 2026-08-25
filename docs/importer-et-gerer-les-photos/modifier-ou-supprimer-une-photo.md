@@ -1,3 +1,8 @@
+---
+title: "Modifier ou supprimer une photo - Documentation Piwigo"
+description: "Comment éditer une photo dans Piwigo ? Quelles sont les possibilités offertes aux administrateurs pour modifier ou supprimer un fichier existant ?"
+---
+
 # Modifier ou supprimer une photo
 
 En tant qu’administrateur de Piwigo, vous pouvez à tout moment avoir besoin de modifier une image ou un autre type de fichier.

@@ -1,3 +1,8 @@
+---
+title: "Personnaliser le menu - Documentation Piwigo"
+description: "Comment personnaliser la barre de menu de votre galerie Piwigo, modifier l’arborescence et ajouter de nouveaux points de menu ? On vous explique tout dans cet article."
+---
+
 # Personnaliser le menu de votre galerie
 
 Comment personnaliser la barre de menu de votre galerie, modifier l’arborescence et ajouter de nouveaux points de menu ? On vous explique tout dans cet article.

@@ -1,3 +1,8 @@
+---
+title: "Options de votre galerie - Documentation Piwigo"
+description: "Dans cet article, on explore les différentes options de configuration standard de votre galerie Piwigo."
+---
+
 # Options de personnalisation de votre galerie
 
 Il existe différents moyens de personnaliser votre galerie Piwigo :

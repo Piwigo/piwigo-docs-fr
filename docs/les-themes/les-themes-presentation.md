@@ -1,3 +1,8 @@
+---
+title: "Qu'est-ce qu'un thème ? Documentation Piwigo"
+description: "À quoi servent les thèmes dans Piwigo ? Comment les installer et les personnaliser ?"
+---
+
 # Les thèmes Piwigo : présentation
 
 ## Qu’est-ce qu’un thème sur Piwigo ?

@@ -1,3 +1,8 @@
+---
+title: "Installer Piwigo sur un disque dur réseau"
+description: "Ci-dessous une recette pour expliquer comment utiliser un disque dur en réseau avec Piwigo."
+---
+
 # Installer Piwigo sur un disque dur réseau
 
 !!! Warning "Attention"

@@ -1,3 +1,8 @@
+---
+title: "Gérer ses favoris - Documentation Piwigo"
+description: "Comment ajouter des photos à ses favoris sur Piwigo et les retrouver facilement ? On récapitule toutes nos astuces dans cet article."
+---
+
 # Gérer ses favoris
 
 Comment ajouter des photos à ses favoris sur Piwigo et les retrouver facilement ? On récapitule toutes nos astuces dans cet article.

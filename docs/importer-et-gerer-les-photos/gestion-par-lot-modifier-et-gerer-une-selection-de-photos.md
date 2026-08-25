@@ -1,3 +1,8 @@
+---
+title: "Gestion par lot - Documentation Piwigo"
+description: "Comment modifier, supprimer, mettre à jour une sélection de fichiers en masse dans Piwigo ? C’est le but de la fonctionnalité de Gestion par lot."
+---
+
 # Gestion par lot : Modifier et gérer une sélection de photos
 
 **Comment modifier, supprimer, mettre à jour une sélection de fichiers en masse dans Piwigo ?**

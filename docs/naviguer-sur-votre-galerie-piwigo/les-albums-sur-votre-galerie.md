@@ -1,3 +1,8 @@
+---
+title: "Les albums sur votre galerie - Documentation Piwigo"
+description: "Pour savoir comment naviguer dans les albums et personnaliser leur affichage sur votre galerie Piwigo, lisez cet article !"
+---
+
 # Les albums sur votre galerie
 
 Sur une galerie Piwigo, la navigation la plus courante se fait par album. Pour rappel, dans Piwigo, une photo est forcément placée dans un album, qui peut être considéré comme un répertoire ou comme une catégorie.

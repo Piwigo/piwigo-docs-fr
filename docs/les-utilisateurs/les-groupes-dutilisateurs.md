@@ -1,3 +1,8 @@
+---
+title: "Les groupes d'utilisateurs - Documentation Piwigo"
+description: "À quoi servent les groupes d'utilisateurs dans Piwigo et comment les utiliser ? Toutes nos explications dans cet article."
+---
+
 # Les groupes d’utilisateurs
 
 Lorsque vous avez beaucoup d’utilisateurs, gérer les paramètres et permissions de chacun devient vite un casse-tête.

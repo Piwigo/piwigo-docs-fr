@@ -1,3 +1,8 @@
+---
+title: "Créer une bannière personnalisée - Documentation Piwigo"
+description: "Comment créer une bannière personnalisée pour votre galerie Piwigo ? On fait le tour dans cet article."
+---
+
 # Ajouter une bannière personnalisée à votre galerie
 
 **De nombreux utilisateurs souhaitent ajouter une bannière personnalisée à leur galerie, sous la forme d’une image, d’un texte, ou d’un mélange des deux.**

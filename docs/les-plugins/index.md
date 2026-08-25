@@ -1,4 +1,9 @@
 ---
+title: "Les plugins - Documentation Piwigo"
+description: "À quoi servent les plugins sur Piwigo ? Comment les choisir et les installer sur votre galerie ? Tous nos conseils dans la documentation."
+---
+
+---
 icon: lucide/plug
 ---
 

@@ -1,3 +1,8 @@
+---
+title: "Tout comprendre sur Piwigo en 2 minutes"
+description: "Piwigo est un logiciel de photothèque et DAM open source. En moins de 2 minutes, cet article vous explique comme ça marche et à quoi ça sert."
+---
+
 # Introduction : tout comprendre sur Piwigo en 2 minutes
 
 !!! info

@@ -1,3 +1,8 @@
+---
+title: "Gérer les notes (votes) - Documentation Piwigo"
+description: "Cet article explique comment permettre aux visiteurs de votre galerie Piwigo de mettre une note à vos photos."
+---
+
 # Personnaliser la gestion des commentaires avec des plugins
 
 Dans l’article [Gérer les commentaires](commentaires-options-avancees), nous présentons les options de base dans Piwigo sur la gestion des commentaires. Mais il existe plusieurs plugins permettant d’aller plus loin : on fait le tour de ces options dans cet article.

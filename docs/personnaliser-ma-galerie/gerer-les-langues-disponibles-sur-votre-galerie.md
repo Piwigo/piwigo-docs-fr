@@ -1,3 +1,8 @@
+---
+title: "Les langues - Documentation Piwigo"
+description: "Vous pouvez créer une photothèque multilingue avec Piwigo et proposer aux visiteur de naviguer dans votre photothèque dans la langue de leur choix. Dans cet article nous vous expliquons comment."
+---
+
 # Gérer les langues disponibles sur votre galerie
 
 L’interface de Piwigo est disponible dans plus de 70 langues.

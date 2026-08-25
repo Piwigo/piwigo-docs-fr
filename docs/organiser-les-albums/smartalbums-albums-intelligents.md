@@ -1,3 +1,8 @@
+---
+title: "Smart Albums - Documentation Piwigo"
+description: "Le plugin SmartAlbums pour Piwigo permet de créer des albums intelligents alimentés automatiquement dans votre photothèque."
+---
+
 # SmartAlbums (albums intelligents)
 
 Il est possible de créer des albums “intelligents”, alimentés automatiquement par des photos qui répondent à certains critères.

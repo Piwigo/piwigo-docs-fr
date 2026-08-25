@@ -1,3 +1,8 @@
+---
+title: "Propriétés et métadonnées - Documentation Piwigo"
+description: "Cet article présente l’ensemble des possibilités offertes par Piwigo pour décrire, organiser, présenter et indexer vos fichiers avec les propriétés et les métadonnées."
+---
+
 # Gérez les propriétés et métadonnées de vos fichiers
 
 **Cet article présente l’ensemble des possibilités offertes par Piwigo pour décrire, organiser, présenter et indexer vos fichiers avec les propriétés et les métadonnées.**

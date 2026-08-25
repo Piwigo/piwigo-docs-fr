@@ -1,3 +1,8 @@
+---
+title: "Les statuts utilisateurs - Documentation Piwigo"
+description: "Administrateur, visiteur, webmestre... Quels sont les différents statuts utilisateurs dans Piwigo et à quoi servent-ils ?"
+---
+
 # Les statuts utilisateurs
 
 Pour bien comprendre la gestion des utilisateurs dans Piwigo, la première chose à connaître, c’est le fonctionnement des différents **Statuts**.

@@ -1,3 +1,8 @@
+---
+title: "Comment créer et organiser les tags - Documentation Piwigo"
+description: "Dans cet article, vous découvrirez comment créer, organiser et utiliser les tags pour indexer et organiser vos photos et autres médias dans le logiciel Piwigo."
+---
+
 # Créer et gérer les tags
 
 Les tags sont un outil essentiel pour organiser votre photothèque et faciliter vos recherches de contenu. Comment les créer et les organiser dans Piwigo ?

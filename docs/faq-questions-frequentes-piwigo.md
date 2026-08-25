@@ -1,3 +1,8 @@
+---
+title: "FAQ - Les questions les plus fréquentes sur Piwigo"
+description: "Nous avons récapitulé dans cette page toutes les réponses aux questions qu’on nous pose souvent sur l’utilisation de Piwigo.  Si vous avez un problème, commencez par regarder ici !"
+---
+
 # FAQ - Les questions les plus fréquentes sur Piwigo
 
 **Nous avons récapitulé dans cette page toutes les réponses aux questions qu’on nous pose souvent sur l’utilisation de Piwigo.** 

@@ -1,3 +1,8 @@
+---
+title: "Installer Piwigo en local"
+description: "Il est possible d’installer Piwigo en local sur votre ordinateur, même si ce n’est pas très utile à moins que vous ne soyez développeur."
+---
+
 # Installer Piwigo en local
 
 Il est possible d’installer Piwigo en local sur votre ordinateur, même si ce n’est pas très utile à moins que vous ne soyez développeur.

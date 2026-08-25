@@ -1,3 +1,8 @@
+---
+title: "Niveaux de confidentialité - Documentation Piwigo"
+description: "Les niveaux de confidentialité permettent d'affiner les droits des utilisateurs de votre galerie Piwigo. On explique tout dans cet article."
+---
+
 # Les niveaux de confidentialité
 
 ## Les niveaux de confidentialité : pour quoi faire ?

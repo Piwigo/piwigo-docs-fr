@@ -1,3 +1,8 @@
+---
+title: "Ajouter des pages à votre galerie - Documentation Piwigo"
+description: "Vous souhaitez ajouter des pages personnalisées à votre galerie Piwigo ? C’est possible avec l’aide de quelques plugins."
+---
+
 # Ajouter des pages à votre galerie
 
 Vous souhaitez ajouter des pages personnalisées à votre galerie Piwigo ? C’est possible avec l’aide de quelques plugins.

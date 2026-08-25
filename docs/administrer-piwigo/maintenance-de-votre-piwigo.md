@@ -1,3 +1,8 @@
+---
+title: "Maintenance de Piwigo - Documentation Piwigo"
+description: "Pour les administrateurs “techniques” de Piwigo, un menu Maintenance est à votre disposition, accessible uniquement aux utilisateurs ayant le statut de Webmaster."
+---
+
 # Maintenance de votre Piwigo
 
 Pour les administrateurs “techniques” de Piwigo, un menu Maintenance est à votre disposition, accessible uniquement aux utilisateurs ayant le statut de Webmaster.

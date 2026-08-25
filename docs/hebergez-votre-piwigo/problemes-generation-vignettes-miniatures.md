@@ -1,3 +1,8 @@
+---
+title: "Problèmes de génération des vignettes et des miniatures"
+description: "Lorsque vous téléchargez des fichiers sur Piwigo, tout un processus se met en route. Les fichiers sont téléchargés sur le serveur mais aussi enregistrés dans la base de données, et d'autres fichiers sont générés à la volée :"
+---
+
 # Problèmes de génération des vignettes et des miniatures
 
 !!! info

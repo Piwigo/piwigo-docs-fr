@@ -1,3 +1,8 @@
+---
+title: "Installer Piwigo sur un NAS"
+description: "Il existe de nombreux utilisateurs qui hébergent leur Piwigo sur un NAS type Synology."
+---
+
 # Installer Piwigo sur un NAS
 
 Il existe de nombreux utilisateurs qui hébergent leur Piwigo sur un NAS type Synology.

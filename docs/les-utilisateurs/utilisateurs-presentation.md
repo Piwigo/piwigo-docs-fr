@@ -1,3 +1,8 @@
+---
+title: "Les utilisateurs - Documentation Piwigo"
+description: "Présentation de la notion d'utilisateur dans Piwigo et des options de configuration des utilisateurs."
+---
+
 # Utilisateurs : présentation
 
 ## Les utilisateurs dans Piwigo

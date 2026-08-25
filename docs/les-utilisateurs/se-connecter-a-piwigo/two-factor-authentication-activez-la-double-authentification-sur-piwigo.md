@@ -1,3 +1,8 @@
+---
+title: "Two Factor Authentication : activez la double authentification sur Piwigo"
+description: "Sommaire :"
+---
+
 # Two Factor Authentication : activez la double authentification sur Piwigo
 
 Sommaire :

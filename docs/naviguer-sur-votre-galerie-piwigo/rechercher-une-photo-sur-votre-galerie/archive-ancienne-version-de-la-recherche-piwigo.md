@@ -1,3 +1,8 @@
+---
+title: "[Archive] Ancienne version de la recherche Piwigo"
+description: "Cette page présente les fonctionnalités de recherche sur une galerie Piwigo jusqu’à la version 13. "
+---
+
 # \[Archive\] Ancienne version de la recherche Piwigo
 
 Cette page présente les fonctionnalités de recherche sur une galerie Piwigo jusqu’à la version 13. 

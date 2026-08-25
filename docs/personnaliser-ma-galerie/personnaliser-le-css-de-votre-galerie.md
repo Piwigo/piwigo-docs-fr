@@ -1,3 +1,8 @@
+---
+title: "CSS personnalisé - Documentation Piwigo"
+description: "Si vous avez des compétences en HTML et CSS, vous pouvez tout à fait apporter des modifications au design de votre thème Piwigo."
+---
+
 # Personnaliser le CSS de votre galerie
 
 Si vous avez des compétences en HTML et CSS, vous pouvez tout à fait apporter des modifications au design de votre thème.

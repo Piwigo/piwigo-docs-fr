@@ -1,3 +1,8 @@
+---
+title: "Documentation : Plugin Piwigo pour Lightroom"
+description: "Si vous utilisez le gestionnaire de photos Adobe Lightroom, vous pouvez installer un plugin qui vous permettra de transférer vos photos directement vers votre Piwigo. Ce plugin n’est pas développé par Piwigo. Il est vendu 15$ par son concepteur."
+---
+
 # Documentation : Plugin Piwigo pour Lightroom
 
 Si vous utilisez le gestionnaire de photos Adobe Lightroom, vous pouvez installer un plugin qui vous permettra de transférer vos photos directement vers votre Piwigo. Ce plugin n’est pas développé par Piwigo. Il est vendu 15$ par son concepteur.
