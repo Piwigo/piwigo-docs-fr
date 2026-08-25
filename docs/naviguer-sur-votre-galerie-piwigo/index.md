@@ -1,9 +1,6 @@
 ---
 title: "Votre galerie Piwigo - Documentation Piwigo"
 description: "Pour tout comprendre sur votre galerie Piwigo, son fonctionnement, et découvrir des options et plugins pour personnaliser ses fonctionnalités, c’est ici !"
----
-
----
 icon: lucide/app-window
 ---
 

@@ -1,9 +1,6 @@
 ---
 title: "Hébergez votre Piwigo - Documentation Piwigo"
 description: "Retrouvez ici les articles de la documentation Piwigo qui concernent les utilisateurs qui hébergent eux-même leur Piwigo."
----
-
----
 icon: lucide/cloudy
 ---
 

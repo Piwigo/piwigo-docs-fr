@@ -1,9 +1,6 @@
 ---
 title: "Les commentaires et notes - Documentation Piwigo"
 description: "Découvrez dans les articles de cette section comment fonctionnent les commentaires et les notes sur les photos dans Piwigo."
----
-
----
 icon: lucide/message-circle-more
 ---
 

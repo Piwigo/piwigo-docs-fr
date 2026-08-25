@@ -1,9 +1,6 @@
 ---
 title: "Les albums - Documentation Piwigo"
 description: "Découvrez ici le fonctionnement des albums dans Piwigo, comment les utiliser et les gérer dans l’administration."
----
-
----
 icon: lucide/folder
 ---
 

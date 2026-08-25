@@ -1,9 +1,6 @@
 ---
 title: "Les tags dans Piwigo - Documentation Piwigo"
 description: "Découvrez ici le fonctionnement des tags dans Piwigo, comment les utiliser et les gérer dans l’administration."
----
-
----
 icon: lucide/tags
 ---
 
