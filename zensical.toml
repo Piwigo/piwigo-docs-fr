@@ -438,6 +438,8 @@ link = "https://www.linkedin.com/company/piwigo"
 icon = "fontawesome/regular/envelope"
 link = "https://fr.piwigo.org/newsletter"
 
+[project.extra.analytics]
+provider = "custom"
 # ----------------------------------------------------------------------------
 # In this section you can configure the Markdown extensions that are used when
 # rendering your documentation. We enable the most useful extensions by default,
