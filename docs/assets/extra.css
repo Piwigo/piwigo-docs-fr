@@ -33,6 +33,12 @@ h1, h2, h3, h4, h5 {
     display: none;
 }
 
+/* Align text with edit icons */
+.md-header__source {
+    text-align: right;
+    padding-right: 0.8rem;
+}
+
 /* Replace title by logo in mobile side nav */
 @media screen and (max-width: 76.25em) {
     label[for="__drawer"].md-nav__title > span {
