@@ -28,7 +28,7 @@ site_author = "Piwigo"
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
 #site_url = "https://doc-fr.piwigo.org/"
-site_url = "https://fr.piwigo.org/new-doc/"
+site_url = "https://doc-fr.piwigo.org/"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
