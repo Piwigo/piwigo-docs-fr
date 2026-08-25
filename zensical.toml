@@ -402,17 +402,17 @@ features = [
 # ----------------------------------------------------------------------------
 [[project.theme.palette]]
 scheme = "default"
-toggle.icon = "lucide/sun"
-toggle.name = "Switch to dark mode"
-primary = "deep orange"
-accent = "deep orange"
+# toggle.icon = "lucide/sun"
+# toggle.name = "Switch to dark mode"
+primary = "custom"
+accent = "custom"
 
-[[project.theme.palette]]
-scheme = "slate"
-toggle.icon = "lucide/moon"
-toggle.name = "Switch to light mode"
-primary = "orange"
-accent = "orange"
+# [[project.theme.palette]]
+# scheme = "slate"
+# toggle.icon = "lucide/moon"
+# toggle.name = "Switch to light mode"
+# primary = "orange"
+# accent = "orange"
 
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
