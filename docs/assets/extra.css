@@ -1,0 +1,70 @@
+/* Custom colours */
+:root > * {
+    --md-accent-fg-color: #329f83;
+    --md-accent-fg-color--light: #d8f4ec;
+    --md-accent-fg-color--dark: #29554a;
+    --md-primary-fg-color: #ff7700;
+    --md-primary-fg-color--light: #fff2e5;
+    --md-primary-fg-color--dark: #bb600f;
+    --md-accent-fg-color--transparent: #64DBBD1A;
+    --md-default-fg-color: #3C3C3Cde !important;
+}
+
+.md-sidebar__scrollwrap:hover {
+    scrollbar-color: #8D8E8E #0000;
+}
+
+/* Set fonts */
+:root {
+    --md-text-font:"Red Hat Display";
+    --md-code-font:"Chivo Mono";
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: "Sora", sans-serif; /*  (Sora Extra Bold 800) */
+}
+
+/* Hide repo stats and make text bigger */
+.md-source__repository {
+    font-size: .7rem;
+}
+
+.md-source__repository > ul {
+    display: none;
+}
+
+/* Replace title by logo in mobile side nav */
+@media screen and (max-width: 76.25em) {
+    label[for="__drawer"].md-nav__title > span {
+        display: none;
+    }
+    label[for="__drawer"].md-nav__title > a {
+        width: 100% !important;
+    }
+}
+
+/* Remove TOC in home page */
+body:has(#documentation-piwigo) .md-sidebar--secondary {
+    display: none;
+}
+
+/* Remove dots before list element on index page */
+.pwg-doc-home-list ul li {
+    list-style-type: none;
+}
+
+/* Minor footer style overrides */
+.pwg_custom_copyright_middledot {
+    margin: 10px;
+}
+
+.pwg_custom_social_zensical {
+    height: 1.6rem;
+    line-height: 1.75rem;
+    padding: 0;
+    margin-left: 0;
+}
+
+.pwg_custom_social_middledot {
+    margin-right: 8px;
+}

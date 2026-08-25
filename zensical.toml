@@ -11,7 +11,7 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Documentation Piwigo - Logiciel DAM et photothèque"
+site_name = "<span>Documentation Piwigo - Logiciel DAM et photothèque</span>"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
@@ -169,7 +169,10 @@ nav = [
 #
 # Read more: https://zensical.org/docs/customization/#additional-css
 #
-extra_css = ["Assets/extra.css"]
+extra_css = [
+    "assets/fonts.css",
+    "assets/extra.css"
+]
 
 # With the `extra_javascript` option you can add your own JavaScript to your
 # project to customize the behavior according to your needs.
@@ -205,8 +208,8 @@ custom_dir = "overrides"
 # - https://zensical.org/docs/setup/logo-and-icons/#favicon
 # - https://developer.mozilla.org/en-US/docs/Glossary/Favicon
 #
-logo = "Assets/logo.svg"
-favicon = "Assets/favicon.png"
+logo = "assets/logo.svg"
+favicon = "assets/favicon.png"
 
 # Zensical supports more than 60 different languages. This means that the
 # labels and tooltips that Zensical's templates produce are translated.
