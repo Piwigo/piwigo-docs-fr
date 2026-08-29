@@ -9,10 +9,10 @@ icon: lucide/cloudy
 
 Pour rappel, vous pouvez utiliser Piwigo de deux façons :
 
-- En téléchargeant le logiciel libre Piwigo sur le site [piwigo.org](https://fr.piwigo.org/) et en l’installant sur votre hébergement web ;
-- Ou en vous abonnant à une offre d’abonnement “Cloud” sur [piwigo.org](https://fr.piwigo.org/), qui inclut l’hébergement, les mises à jour et l’accès au support.
+- En téléchargeant le logiciel libre Piwigo et en l'[hébergeant sur votre propre infrastructure](https://fr.piwigo.org/obtenir-piwigo#self-hosted), on parle alors de "self-hosted" ;
+- Ou en optant pour une [offre d'abonnement “Piwigo Cloud”](https://fr.piwigo.org/obtenir-piwigo#cloud), qui inclut l’hébergement, les mises à jour et l’accès au support.
 
-**Cette section répertorie tous les articles de la documentation qui concernent les utilisateurs utilisant une instance auto-hébergée.**
+**Cette section répertorie tous les articles de la documentation qui concernent les utilisateurs utilisant une instance self-hosted.**
 
 Les articles listés ici ne concernent donc pas les clients d’une offre Piwigo Cloud.
 
