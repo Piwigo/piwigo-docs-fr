@@ -77,7 +77,7 @@ Le plugin **Quick Fav** permet d’ajouter une photo en clic depuis sa vignette,
 
 Il permet également en un clic d’ajouter tout le contenu d’un album à ses favoris
 
-[En savoir plus sur Quick Fav](les-albums-sur-votre-galerie)
+[En savoir plus sur Quick Fav](les-albums-sur-votre-galerie#quick-fav-ajouter-une-photo-a-ses-favoris-depuis-la-page-album)
 
 ## User Collections : Organisez vos favoris en collections thématiques
 
