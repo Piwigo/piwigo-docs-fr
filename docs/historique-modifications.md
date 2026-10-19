@@ -5,6 +5,14 @@ description: "17/11/2025 : Mise à jour Piwigo 16 : Ajout de la documentation du
 
 # Historique des modifications
 
+15/10/2026 : Supprime la section "Je ne souhaite pas déplacer mes photos" de la page "Déplacez Piwigo vers un autre serveur" et clarifie la section "Déplacer votre galerie vers un sous-répertoire"
+
+15/10/2026 : Ajoute la page "Déplacez Piwigo vers un autre serveur"
+
+23/09/2026 : Ajoute un lien vers la doc en allemand
+
+31/08/2026 : Migration de la documentation de notion vers zensical avec un répertoire [git](https://github.com/Piwigo/piwigo-docs-fr) et mise à jour de la terminologie par rapport au compte Piwigo cloud (anciennement piwigo.com)
+
 17/11/2025 : Mise à jour Piwigo 16 : Ajout de la documentation du plugin Two Factor Authentication
 
 04/11/2025 : Mise à jour des visuels de l’application iOS suite à la sortie de la dernière version de l’app.
