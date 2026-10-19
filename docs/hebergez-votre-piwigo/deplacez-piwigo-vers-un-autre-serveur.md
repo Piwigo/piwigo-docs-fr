@@ -30,7 +30,7 @@ C'est l'inverse du point [n°2](#etape-2-sauvegardez-tous-vos-fichiers-via-ftp),
 
 This is the reverse of point #2, il faut "envoyer" vos fichiers vers le nouveau dossier d'installation.
 
-### Étape 4 : Édité le fichier `./local/config/database.inc.php`
+### Étape 5 : Édité le fichier `./local/config/database.inc.php`
 
 Voici un example avec des commentaires explicatifs :
 
@@ -64,39 +64,8 @@ Si vous avez déjà une galerie hébergée sur Piwigo cloud et vous souhaitez la
 
 ## Déplacer votre galerie vers un sous-répertoire
 
-### Je ne souhaite pas déplacer mes photos
+Si vous souhaitez déplacer votre galerie vers un sous-répertoire (par exemple déplacer votre galerie de `https://example.com/photos` vers `https://example.com/media`) il vous suffit de déplacer les dossiers et d'aller dans \[Administration > Outils > Maintenance\], puis sélectionnez :
 
-!!! info "Info :"
-    Dans les étapes ci-dessous nous utiliseront la convention selon laquelle le point {.} correspond à `http://www.exemple.com`
-    Pour la base de données (BD), nous supposerons que le préfixe de vos tables est `piwigo_`.
-
-- Étape 1: Activez le mode maintenace dans l'administration (\[Administration > Outils > Maintenance\])
-- Étape 2: Rendez-vous maintenant à l'adresse `./my_gallery/index.php` pour vérifier que le site est en maintenance.
-- Étape 3: Copiez tous les répertoires et fichiers Piwigo depuis la racine vers le répertoire `./my_gallery/`, à l'exception de `./galleries/` et de `./uploads/`.
-- Étape 4: Passons maintenant à la première modification de votre base de données (BD) ⇒ Dans votre BD, à l'aide de phpMyAdmin, dans l'onglet "SQL", saisissez le code suivant :
-
-```sql
-UPDATE `piwigo_sites` SET `galleries_url` = '../galleries/' WHERE `id` =1 AND  `galleries_url` = './galleries/';
-UPDATE `piwigo_sites` SET `galleries_url` = '../uploads/' WHERE `id` =2 AND  `galleries_url` = './uploads/';
-```
-
-- Étape 5: Connectez vous à `./my_gallery`/identification.php` et vérifiez que le répertoire `./galleries/` fonctionne correctement pour la gestion des albums. Pour cela : rendez-vous dans Administration > Outils > Synchroniser, puis dans l'onglet "Gestionnaire du site"; vous devriez y voir `./galleries/`. Si ce n'est pas le cas, recommencez.
-
-![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-30c509c5.png)
-
-- Étape 6: Vous devez maintenant renommer (à la racine) le fichier `./index.php` en `./index.old.php`.
-- Étape 7: La galerie peut désormais être déverrouillée (\[Administration > Outils > Maintenance\])
-- Étape 8: Nous allons placer le nouveau fichier `index.php` à la racine du site :
-    1. Renommez l'ancien fichier `index.php` en `index.php.old`
-    2. Votre nouveau fichier `index.php` servira de page d'accueil lorsque vous accéderez à `http://www.exemple.com`.
-- Étape 9: Ensuite, pour finaliser le processus, il est nécessaire de mettre à jour les informations concernant les chemins d’accès (entre autres) : Administration > Outils > Maintenance, puis sélectionnez :
-    1. Mettre à jour les informations des albums
-    2. Mettre à jour les informations des photos
-    3. Purger les modèles compilés
-- Étape 9: Dernière vérification : assurez-vous que les images sont bien disponibles sur le site.
-
-Dans quelques jours (le temps de vérifier que tout s'est bien passé), vous pourrez supprimer tous vos anciens dossiers et fichiers situés à la racine, à l'exception des éléments suivants : `./galleries/` `./uploads/` `./my_gallery/` `./index.php`
-
-### Je veux tout déplacer sur le même serveur (en incluant les photos)
-
-C'est extrèmement simple ! Déplacez les dossiers et c'est bon !
+1.  Mettre à jour les informations des albums
+2.  Mettre à jour les informations des photos
+3.  Purger les modèles compilés
