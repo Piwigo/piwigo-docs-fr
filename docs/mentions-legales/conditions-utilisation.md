@@ -55,6 +55,10 @@ L’inscription au Site nécessite d’accepter de communiquer des informations 
 
 En s’inscrivant sur le Site, l’utilisateur choisit un identifiant unique et un mot de passe strictement personnels. L’utilisateur enregistré est seul autorisé à utiliser l’identifiant et mot de passe personnalisé qu’il s’engage à conserver confidentiels.
 
+Les comptes administrateurs de la galerie sont nominatifs : chacun est attribué à une seule personne physique, seule autorisée à l'utiliser. Le nombre maximal de comptes administrateurs dépend de l'offre souscrite, telle que décrite sur la page des tarifs du Site. Il est interdit de partager un compte administrateur entre plusieurs personnes, y compris au sein d'une même organisation, et de recourir à tout procédé visant à dépasser le nombre d'administrateurs prévu par l'offre souscrite, notamment l'usage d'un compte générique (par exemple "communication@...") par plusieurs personnes.
+
+En cas de manquement à cette règle, l'Editeur adresse à l'utilisateur une mise en demeure par courriel. Sans régularisation dans un délai de 7 jours francs, l'Editeur pourra, à son choix, (i) faire passer l'abonnement à l'offre correspondant au nombre réel de personnes utilisant l'administration, en facturant la différence au prorata de la période restante, ou (ii) désactiver le compte dans les conditions prévues à l'article 11.
+
 L’utilisateur s’engage à informer immédiatement l’Editeur (i) de toute utilisation non autorisée de son compte et/ou de son mot de passe, (ii) de toute atteinte à la sécurité de son compte, (iii) de toute modification anormale de son contenu.
 
 L’Editeur rappelle à l’utilisateur de prendre les mesures nécessaires afin d’éviter l’usurpation d’identité auprès du Site et des Services. A ce titre l’attention de l’utilisateur est attirée sur les points suivants en cas d'utilisation d'un moyen d'accès non sécurisé (réseau wifi public, internet café) (i) se déconnecter à l’issue de chaque session, (ii) ne pas cocher la case "connexion auto" lors de l'identification sur le compte de l'utilisateur.
@@ -224,6 +228,7 @@ L’Editeur peut refuser de procéder à l’export des données dès lors que l
 
 ??? note "Historique des conditions d'utilisation"
 
+    - 2026-11-25 : comptes administrateurs nominatifs, interdiction du partage d'identifiants entre plusieurs personnes
     - 2026-03-17 : prise en compte des nouvelles offres de services pour les clients self-hosted
     - 2024-12-11 : remplacement de la section "contrat de maintenance" par la section "services professionnels". Ajout de la section "réversibilité des données"
     - 2024-04-11 : ajout de l'interdiction du contenu "sexuellement explicite"
