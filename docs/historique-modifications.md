@@ -5,6 +5,8 @@ description: "17/11/2025 : Mise à jour Piwigo 16 : Ajout de la documentation du
 
 # Historique des modifications
 
+25/11/2026: Ajoute une clause dans les CGU : comptes administrateurs nominatifs
+
 15/10/2026 : Supprime la section "Je ne souhaite pas déplacer mes photos" de la page "Déplacez Piwigo vers un autre serveur" et clarifie la section "Déplacer votre galerie vers un sous-répertoire"
 
 15/10/2026 : Ajoute la page "Déplacez Piwigo vers un autre serveur"
