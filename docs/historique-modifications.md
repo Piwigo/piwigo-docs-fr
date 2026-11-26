@@ -1,6 +1,6 @@
 ---
 title: "Historique des modifications"
-description: "17/11/2025 : Mise à jour Piwigo 16 : Ajout de la documentation du plugin Two Factor Authentication"
+description: "25/11/2026: Ajoute une clause dans les CGU : comptes administrateurs nominatifs"
 ---
 
 # Historique des modifications
